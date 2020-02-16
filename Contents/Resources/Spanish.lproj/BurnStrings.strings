@@ -1,0 +1,45 @@
+/* No comment provided by engineer. */
+"(none)" = "(ninguno)";
+
+/* No comment provided by engineer. */
+"Burning Plugin" = "Burning Plugin";
+
+/* No comment provided by engineer. */
+"Burning plugin has expired, please download the latest!" = "El Burning plugin ha caducado. ¡Adquiera la nueva versión!";
+
+/* this means, the software now has all functions, and is no longer limited (to 3 songs per playlist) */
+"Fully Functional" = "Funcionalidad completa";
+
+/* No comment provided by engineer. */
+"Installs kJams Burner" = "Instalar kJams Burner";
+
+/* No comment provided by engineer. */
+"kJams Burning Plugin, v" = "Burning Plugin de kJams, v";
+
+/* No comment provided by engineer. */
+"Plugin that allows kJams to burn new CD+G format discs." = "Plugin que permite a kJams grabar discos en formato CD+G.";
+
+/* No comment provided by engineer. */
+"str_too_long" = "La lista de reproducción excede el límite de 80 minutos de música del disco. Por favor, elimine alguna canción hasta tener 79.9 minutos o menos.";
+
+/* No comment provided by engineer. */
+"str_tryout" = "La versión de prueba del burning plugin solo permite grabar 2 canciones por disco. Para poder grabar más canciones, adquiera el plugin, por favor.";
+
+/* we couldn't figure out what went wrong during the burn */
+"Strange Status State in Burning Plugin" = "Estado inesperado del Burning Plugin";
+
+/* No comment provided by engineer. */
+"That's not a writable CD!" = "¡No se puede grabar en ese CD!";
+
+/* No comment provided by engineer. */
+"Tryout Only (2 songs per disc)" = "Solo versión de prueba (2 canciones por disco)";
+
+/* No comment provided by engineer. */
+"Unable to create burn track" = "No se pudo crear la pista de grabación";
+
+/* No comment provided by engineer. */
+"Unable to create correct burn track, due to an apple bug.  Expect a fix for this soon, sorry." = "No se pudo crear la pista de grabación correcta debido a un fallo de Apple. Pronto arreglaremos el problema, disculpe las molestias.";
+
+/* No comment provided by engineer. */
+"Unknown Status" = "Estado desconocido";
+

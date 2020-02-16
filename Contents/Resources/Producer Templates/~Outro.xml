@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Keyframe Elements</key>
+	<array>
+		<dict>
+			<key>affine_rect</key>
+			<dict>
+				<key>Bottom</key>
+				<integer>107</integer>
+				<key>Left</key>
+				<integer>0</integer>
+				<key>Right</key>
+				<integer>288</integer>
+				<key>Top</key>
+				<integer>57</integer>
+			</dict>
+			<key>color</key>
+			<dict>
+				<key>Blue</key>
+				<integer>4964</integer>
+				<key>Green</key>
+				<integer>33085</integer>
+				<key>Red</key>
+				<integer>64517</integer>
+			</dict>
+			<key>font</key>
+			<string>Arial</string>
+			<key>justify horiz</key>
+			<integer>1</integer>
+			<key>justify vert</key>
+			<integer>1</integer>
+			<key>option bits</key>
+			<integer>1</integer>
+			<key>selected</key>
+			<false/>
+			<key>size</key>
+			<integer>16</integer>
+			<key>string</key>
+			<string>[pbls]</string>
+			<key>style</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>affine_rect</key>
+			<dict>
+				<key>Bottom</key>
+				<integer>159</integer>
+				<key>Left</key>
+				<integer>0</integer>
+				<key>Right</key>
+				<integer>288</integer>
+				<key>Top</key>
+				<integer>116</integer>
+			</dict>
+			<key>color</key>
+			<dict>
+				<key>Blue</key>
+				<integer>65238</integer>
+				<key>Green</key>
+				<integer>52330</integer>
+				<key>Red</key>
+				<integer>27766</integer>
+			</dict>
+			<key>font</key>
+			<string>Arial</string>
+			<key>justify horiz</key>
+			<integer>1</integer>
+			<key>justify vert</key>
+			<integer>1</integer>
+			<key>option bits</key>
+			<integer>1</integer>
+			<key>selected</key>
+			<false/>
+			<key>size</key>
+			<integer>13</integer>
+			<key>string</key>
+			<string>International Copyright SecuredAll Rights Reserved.  Used by Permission</string>
+			<key>style</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>affine_rect</key>
+			<dict>
+				<key>Bottom</key>
+				<integer>48</integer>
+				<key>Left</key>
+				<integer>0</integer>
+				<key>Right</key>
+				<integer>288</integer>
+				<key>Top</key>
+				<integer>5</integer>
+			</dict>
+			<key>color</key>
+			<dict>
+				<key>Blue</key>
+				<integer>26979</integer>
+				<key>Green</key>
+				<integer>65535</integer>
+				<key>Red</key>
+				<integer>65032</integer>
+			</dict>
+			<key>font</key>
+			<string>Arial</string>
+			<key>justify horiz</key>
+			<integer>1</integer>
+			<key>justify vert</key>
+			<integer>1</integer>
+			<key>option bits</key>
+			<integer>1</integer>
+			<key>selected</key>
+			<true/>
+			<key>size</key>
+			<integer>24</integer>
+			<key>string</key>
+			<string>Copyright ©</string>
+			<key>style</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>Palette</key>
+	<array/>
+	<key>dither</key>
+	<false/>
+	<key>duration</key>
+	<integer>4937</integer>
+	<key>time</key>
+	<integer>239</integer>
+</dict>
+</plist>

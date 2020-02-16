@@ -1,0 +1,30 @@
+/* No comment provided by engineer. */
+"(none)" = "(なし)";
+
+/* this means, the software now has all functions, and is no longer limited (to 3 songs per playlist) */
+"Fully Functional" = "フル機能";
+
+/* No comment provided by engineer. */
+"kJams Producer Plugin, v" = "kJams Producer プラグイン、v";
+
+/* No comment provided by engineer. */
+"Plugin that allows kJams to edit existing or create new CD+G files." = "kJams で既存の CD+G ファイルの編集または新規作成を可能にするプラグイン";
+
+/* No comment provided by engineer. */
+"Producer Plugin" = "Producer プラグイン";
+
+/* No comment provided by engineer. */
+"Producer plugin has expired, please download the latest!" = "Producer プラグインが期限切れです。最新のものをダウンロードしてください!";
+
+/* No comment provided by engineer. */
+"str_tryout" = "Producer プラグインの試用バージョンではすべての要素上に赤いXが表示されます。これを取り除くにはプラグインを購入してください。";
+
+/* we couldn't figure out what went wrong */
+"Strange Status State in Producer Plugin" = "Producer プラグインが Strange Status 状況です。";
+
+/* No comment provided by engineer. */
+"Tryout Only (Red X's appear in your elements)" = "試用版のみ (すべての要素上に赤いXが表示されます)";
+
+/* No comment provided by engineer. */
+"Unknown Status" = "Unknown 状況";
+

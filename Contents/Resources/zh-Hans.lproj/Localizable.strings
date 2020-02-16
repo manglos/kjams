@@ -1,0 +1,3335 @@
+/* User Sort Order */
+"#" = "#";
+
+/* number of times the song has been sung */
+"# Sung" = "演唱次数";
+
+/* first is name of program */
+"%s only allows you to export up to 10 songs to QuickTime." = "%s仅允许最多向 QuickTime 导出 10 首歌曲。";
+
+/* first is name of program, 2nd is playlist type */
+"%s only allows you to have up to %ld items in a “%s” playlist." = "%1$s仅允许 “%3$s” 播放列表中最多有%2$ld个项目。";
+
+/* first is name of program, 2nd is number of singers, 3rd is playlist type */
+"%s only allows you to have up to %ld singers in the “%s” playlist." = "%1$s仅允许 “%3$s” 播放列表中最多有 %2$ld 个演唱者。";
+
+/* first is name of program, 2nd is playlist type */
+"%s only allows you to rip the first %ld songs in a “%s” playlist." = "%1$s仅允许翻录“%3$s”播放列表的前 %2$ld 首歌曲。";
+
+/* first is name of application, second is version number */
+"%s version %s is now available!" = "现在提供 %1$s 版本 %2$s 了！";
+
+/* expires on date */
+"(Expires: %s)" = "（到期： %s）";
+
+/* does not expire */
+"(No Expiration)" = "（不失效）";
+
+/* No comment provided by engineer. */
+"(Not Verified)" = "（未验证）";
+
+/* change the pitch */
+"(Pitch Bend: %+d)" = "（变调： %+d）";
+
+/* as in, you can try this out for free, and pay later when you want */
+"(Tryout)" = "（试用）";
+
+/* indicates a song has vocals.  note preceeding space and parens */
+"(With Vocals)" = "（带声乐）";
+
+/* you can download this */
+"* Download" = "* 下载";
+
+/* No comment provided by engineer. */
+"* Singer PW" = "* 演唱者 PW";
+
+/* name of store */
+"* Store ID" = "* 商店 ID";
+
+/* you can stream this */
+"* Stream" = "* 流式传输";
+
+/* service level */
+"* Tier" = "* 等级";
+
+/* first name */
+"1st name" = "名字";
+
+/* second name */
+"2nd name" = "姓氏";
+
+/* No comment provided by engineer. */
+": Free sign up required" = ": 需免费注册";
+
+/* the name of the space bar key */
+"[space]" = "【空格】";
+
+/* No comment provided by engineer. */
+"A general connection failure has occured." = "发生常规连接失败";
+
+/* No comment provided by engineer. */
+"A parameter is incorrect." = "一个参数不正确";
+
+/* No comment provided by engineer. */
+"A purchase attempt was unsuccessful." = "一次购买尝试未成功";
+
+/* No comment provided by engineer. */
+"A SKU update is available from the eSellerate Servers." = "eSellerate 服务器上有一个可用的 SKU 更新";
+
+/* mmm */
+"A song you are trying to delete is currently playing.  Are you sure you want to delete it?" = "您正试图删除播放中的歌曲。您确定要删除吗？";
+
+/* No comment provided by engineer. */
+"Abort orphan encoding" = "取消孤立项编码";
+
+/* No comment provided by engineer. */
+"Abort QT exporters" = "中止 QT 导出程序";
+
+/* No comment provided by engineer. */
+"Abort song importers and zip tasks" = "中止歌曲导入程序及 zip 任务";
+
+/* you are trying to do something you should not do */
+"Action not allowed" = "操作不允许";
+
+/* warning */
+"activated_good_blurb" = "您已成功激活 kJams！现在可以使用全部功能了。您将很快收到一封电子邮件回执，请进行备份，因为如果一旦需要重新安装，它包含着您的序列号。";
+
+/* No comment provided by engineer. */
+"Activating" = "激活";
+
+/* No comment provided by engineer. */
+"Activation Key is Invalid" = "激活密钥无效";
+
+/* Activity window, shows running threads */
+"Activity" = "活动";
+
+/* length of song not including silence at start and end */
+"Actual Duration" = "实际持续时间";
+
+/* track is the song on the disc, proxy means <substitute> or <replacement> */
+"Add CD Track Proxy Song…" = "添加 CD 曲目替代歌曲…";
+
+/* undo string */
+"Add Picture" = "添加图片";
+
+/* as in, this was put in or entered or inputted */
+"Added:" = "已添加：";
+
+/* gathering song name index */
+"Adding Song Entries…" = "添加歌曲条目…";
+
+/* adding to [name of playlist] */
+"Adding songs to “%s”…" = "将歌曲添加至 “%s”…";
+
+/* adding songs */
+"Adding to Library…" = "添加至歌曲库…";
+
+/* i am agreeing to this */
+"Agree" = "同意";
+
+/* where the song resides */
+"Album" = "专辑";
+
+/* No comment provided by engineer. */
+"All sales are FINAL there are NO REFUNDS." = "所有销售都是最终的，概不退款。";
+
+/* No comment provided by engineer. */
+"All the data on the disc will be lost" = "将丢失光盘上的全部数据";
+
+/* No comment provided by engineer. */
+"Allocating CDPedia" = "正在分配 CDPedia";
+
+/* No comment provided by engineer. */
+"Already Reported This Error" = "已报告此错误";
+
+/* always just try it anyway */
+"Always Attempt" = "总是尝试";
+
+/* No comment provided by engineer. */
+"An activation attempt failed due to the maximum number of allowable activations being met." = "激活尝试失败，因为已达到允许的最大激活次数。";
+
+/* No comment provided by engineer. */
+"An activation attempt was made on an invalid order." = "在无效订单上进行了一次激活尝试。";
+
+/* No comment provided by engineer. */
+"An attempt was made to activate an blacklisted serial number." = "进行了试图激活黑名单上序列号的尝试";
+
+/* No comment provided by engineer. */
+"An attempt was made to activate an unknown serial number." = "进行了试图激活未知序列号的尝试";
+
+/* No comment provided by engineer. */
+"An error occured finalizing the activation on the client machine." = "最后完成激活时客户端发生错误";
+
+/* No comment provided by engineer. */
+"An internal error has occured in the engine." = "引擎发生内部错误";
+
+/* No comment provided by engineer. */
+"An unknown server error has occured." = "发生未知服务器错误";
+
+/* http://en.wikipedia.org/wiki/Anti-alias */
+"Anti-alias" = "反失真";
+
+/* No comment provided by engineer. */
+"Applause!" = "鼓掌！";
+
+/* undo string */
+"Apply Template" = "应用模板";
+
+/* size will be in (b, K, MB, GB, TB), indicates how big it would be if the cache were filled to maximum.  let me know if the units need to be localized */
+"Approximate size of cache if filled: %s" = "缓存充满时的近似大小：%s";
+
+/* asking if two songs are the same song */
+"Are these songs the same?" = "这些歌曲是一样的吗？";
+
+/* mmm */
+"Are you sure you want reveal %d songs in the Finder?" = "您确定想要在查找工具中显示 %d 歌曲吗？";
+
+/* mmm */
+"Are you sure you want to deactivate kJams on this computer?  If you deactivate, kJams will revert to Tryout mode, and you can then use your serial number on a different computer." = "您是否要在本计算机中停用 kJams？如果停用，kJams 将回到试用模式，您可以在其他计算机上使用您的序列号。";
+
+/* yep */
+"Are you sure you want to delete the selected singer(s)?" = "您确定想要删除选中的演唱者吗？";
+
+/* No comment provided by engineer. */
+"Are you sure you want to interrupt the current song?" = "您确定想要中止当前歌曲吗？";
+
+/* yes? */
+"Are you sure you want to permanantly delete playlist “%s”?  You can not undo this action." = "您确定想要永久删除播放列表 “%s 吗？您无法撤销此操作。";
+
+/* mmm */
+"Are you sure you want to remove the selected track references? (no actual files will be deleted)" = "您确定想要移除选中的曲目引用吗？（不会删除实际文件）";
+
+/* mmm */
+"Are you sure you want to scan every single song for graphic lyrics?  This will take a VERY long time." = "您确定想要为图形歌词扫描每一单首歌曲吗？这将需要很长的时间。";
+
+/* asking for confirmation */
+"Are you sure?" = "您确定吗？";
+
+/* No comment provided by engineer. */
+"Are your credentials correct?" = "您的凭证是否正确？";
+
+/* No comment provided by engineer. */
+"Argument list too long" = "参数列表过长";
+
+/* Artist of song */
+"Artist" = "艺术家";
+
+/* No comment provided by engineer. */
+"Ask for Password" = "需要密码";
+
+/* kjams is doing the asking */
+"Asking about updating database" = "请求更新数据库";
+
+/* part of a Bin/Cue pair of files */
+"Assembling Bin file:" = "正在装配 Bin 文件：";
+
+/* for burning */
+"Assembling Disc Image" = "正在装配光盘图像";
+
+/* eeeks! */
+"Assert Fail: %s, in file: '%s' at line %ld" = "断言失败：%1$s，所在文件： '%2$s'，所在行：%3$ld";
+
+/* bummer */
+"At least one of these songs is missing." = "至少一首歌曲丢失";
+
+/* try to see if it works */
+"Attempt" = "尝试";
+
+/* sound track */
+"Audio" = "音频";
+
+/* this translation must EXACTLY match what the finder shows as the DISC title when you put in a disc that has no meta info */
+"Audio CD" = "音频 CD";
+
+/* this translation must EXACTLY match what the finder shows as a TRACK title when you put in a disc that has no meta info */
+"Audio Track" = "音频曲目";
+
+/* warning */
+"auth_twice_blurb" = "kJams 将会询问您的计算机登录密码两次，之后就不会再询问。密码将用于1) 使 kJams 能够自动更新 2) 当启用 kJams Web 服务器时，使 kJams 能够使用端口 80。";
+
+/* video background contents.  (eg: colors? movie? black?) */
+"Background" = "背景";
+
+/* this song has backing vocals */
+"Backing Vocals" = "背景声乐";
+
+/* No comment provided by engineer. */
+"Bad address" = "不正确的地址";
+
+/* No comment provided by engineer. */
+"Bad file descriptor" = "不正确的文件描述符";
+
+/* No comment provided by engineer. */
+"Bad file name (eg: no colons allowed)" = "不正确的文件名称（例如：不允许有冒号）";
+
+/* No comment provided by engineer. */
+"Bad File Reference Number" = "不正确的文件参考编号";
+
+/* validate blurb */
+"bad_cc_ms_blurb" = "请验证您已连接网络。或也许您的信用卡号键入错误？或 CW2 代码错误？Visa 或 MasterCard 卡号不得包含破折号或空格。";
+
+/* message */
+"bad_drive_blurb" = "非常抱歉，但是您的 CD-ROM 驱动不支持读入 CD+G 光盘。您需要使用另一个驱动。若想获得支持的驱动列表，请检查 FAQ。";
+
+/* warning */
+"bad_encode_blurb" = "抱歉，您的音频压缩设置似乎产生了 QuickTime 无法理解的情况。您需要更改您的设置并重新翻录此歌曲。";
+
+/* warning */
+"bad_mp3_blurb" = "您的一个或多个 MP3 文件可能已损坏。若想了解是哪一个，请试着播放它。如果无法播放，请删除它，删除方法是选中它，并选择菜单命令：“编辑->丢弃原文件…”。";
+
+/* self explanatory */
+"bad_template_blurb" = "您当前的标记写入模板 (“%s”) 不包含所有的模板类型。由于您正导出至一个统一列表，这可重写文件。请选择包含每一个模板类型的“符合歌曲名称”模板，例如：“L-T - R - S”。";
+
+/* verb as in 'make this permanent' */
+"Bake" = "制作";
+
+/* a type of audio file ready for buring to disc */
+"Bin/Cue file" = "Bin/Cue 文件";
+
+/* shown when you attempt to rip to bin/cue */
+"bin_cue_ask_blurb" = "注解：Bin/Cue 文件可能不是你所需要的。翻录为 Bin/Cue 文件将产生整个 CD 的未压缩副本（最大 800 MB），它将位于您的 “kJams Music” 文件夹之外。";
+
+/* short for ‘biography’, history and information about a person */
+"Bio" = "传记";
+
+/* bit rate of compressed audio */
+"Bit Rate" = "比特率";
+
+/* the background has only black in it */
+"Black" = "黑色";
+
+/* make the background have nothing in it */
+"Black Background" = "黑色背景";
+
+/* beats per minute */
+"BPM" = "每分钟节拍数";
+
+/* technical error, unix command could not be redirected */
+"Broken pipe" = "中断的管道";
+
+/* building as in creating or constructing */
+"Building CDG" = "正在创建 CDG";
+
+/* No comment provided by engineer. */
+"Building Playlist: %s" = "正在创建播放列表： %s";
+
+/* No comment provided by engineer. */
+"Building SMS Gateways" = "正在创建 SMS 网关";
+
+/* No comment provided by engineer. */
+"Building Venues" = "正在创建地点";
+
+/* warning */
+"bummer_download" = "抱歉，解压缩您的下载时发生错误。请前往网站并手工下载。";
+
+/* warning */
+"bummer_plugin" = "抱歉，加载插件进行安装时发生错误。请联系 Dave。";
+
+/* burn an entire disc from a pair of files with .bin and .cue extensions */
+"Burn bin/cue to disc…" = "刻录 bin/cue 至光盘…";
+
+/* No comment provided by engineer. */
+"Burn completed, ejecting Disc…" = "已完成刻录，正在弹出光盘…";
+
+/* bummer */
+"Burn Failed:" = "刻录失败：";
+
+/* description of the dialog where the user will choose (pick) the order of the songs on the burned disc */
+"Burn Order Choice" = "刻录顺序选择";
+
+/* be happy */
+"burn_activ_success_blurb" = "您将很快收到一个电子邮件收据。请保留该邮件，因为里面包含您的序列号，重装时您会用到它。";
+
+/* warning */
+"burn_not_sorted_blurb" = "此播放列表并不是以用户排序顺序显示。您想要利用当前排序顺序  (“%1$s”) 刻录此列表吗？或您想要使用用户排序顺序 (“%2$s”) 刻录此列表吗？注解：使用当前排序顺序刻录将重新编号用户排序顺序，以相匹配。";
+
+/* warning */
+"burn_prep_mismatch_blurb" = "装配 %1$s “%2$s” 进行刻录时出现问题，此视频大小是 %3$d，但是音频大小是 %4$d。";
+
+/* yep */
+"Burning Plugin API out of date, upgrade the plugin." = "刻录插件 API 过期，请更新此插件";
+
+/* No comment provided by engineer. */
+"Burning Plugin not detected." = "未找到刻录插件";
+
+/* verb: purchase (shortest possible word that conveys the meaning) */
+"Buy" = "购买";
+
+/* verb: purchase the song */
+"Buy Song" = "购买歌曲";
+
+/* No comment provided by engineer. */
+"Cache folder not found, resetting to default location." = "未发现缓存文件夹，正在重设为默认位置。";
+
+/* warning */
+"cache size blurb" = "已调整您的缓存大小，以适应此播放列表的歌曲数目。您在刻录完成后可重新调整。";
+
+/* copying the data to local storage */
+"Cacheing Audio stream:" = "正在缓存音频数据流：";
+
+/* pre-loading data */
+"Cacheing file formats…" = "正在缓存文件格式…";
+
+/* pre-loading data */
+"Cacheing search paths…" = "正在缓存搜索路径…";
+
+/* No comment provided by engineer. */
+"Cacheing song files…" = "正在缓存歌曲文件…";
+
+/* No comment provided by engineer. */
+"Calculating Playlist durations…" = "正在计算播放列表持续时间…";
+
+/* sorry */
+"Can't Delete Playlist" = "无法删除播放列表";
+
+/* bummer */
+"Can't extract this media type on a background thread." = "在背景线程上无法提取此媒体类型";
+
+/* bummer */
+"Can't move this media type to a background thread." = "无法将此媒体类型移至背景线程";
+
+/* no no */
+"Can't re-order the currently playing song" = "无法重新排列当前正在播放的歌曲";
+
+/* bummer */
+"Can't skip back to previous rotation" = "无法跳回先前的循环";
+
+/* No comment provided by engineer. */
+"Cannot allocate memory" = "无法分配内存";
+
+/* don't translate 'kJams Music' cuz it's used in the finder */
+"cant_add_library" = "您无法将 “kJams Music” 文件夹的歌曲添加至歌曲库。如果您认为应该这样做，那么这是错误的。";
+
+/* eek */
+"cant_find_pl_singer_blurb" = "播放列表属于同一位演唱者。但是我不知道是哪一个。所以我将使其成为一个常规的播放列表，抱歉。您可以尝试寻找此演唱者，并将这些项目拖回播放列表。";
+
+/* bummer */
+"cant_use_case_sens" = "kJams 无法使用“区分大小写”格式的驱动，因为一些技术因素，我在这里就不详述了。若要在此驱动上使用此音乐，您必须将此驱动的格式重新设置为不“区分大小写”。";
+
+/* bummer */
+"cant_use_ntfs" = "kJams 无法使用 NTFS 格式的驱动，因为 MacOS 无法写入此类型的卷。如果您需要同 Windows 兼容，您必须将驱动重新设置为 FAT。";
+
+/* No comment provided by engineer. */
+"cb_blurb_1" = "现在提供不包含声乐的特殊曲目了。您可以联系 Chartbuster 了解允许您录制这些曲目的额外许可。这些曲目需要 7 个点数或 14.99 美元，不包含许可费（必需的）";
+
+/* 16 digit number */
+"CC Number:" = "信用卡号码：";
+
+/* type of credit card */
+"CC Type:" = "信用卡类型：";
+
+/* track is the song on the disc, proxy means <substitute> or <replacement> */
+"CD Track Proxy" = "CD 曲目替代";
+
+/* obvious */
+"CD-ROM" = "CD-ROM";
+
+/* eeks */
+"CF_ASSERT Fail: Setting CD file status to empty!" = "CF_ASSERT 失败：正将 CD 文件状态设置为空！";
+
+/* bad situation */
+"CF_ASSERT Fail: Trying to tell a CD that it's not a CD" = "CF_ASSERT 失败：正尝试说明这不是一张 CD。";
+
+/* warning */
+"CF_ASSERT_crash_blurb" = "您即将崩溃。如果您让 kJams 崩溃，然后，*取消*苹果崩溃报告程序，随后再次运行 kJams，那就太好了，kJams 将提供其自身的崩溃报告程序。请将此崩溃报告发送至 Dave，这样他就可以修复它。但是，如果您希望的话，您也可以冒险尝试继续，但这可能仍然会崩溃。如果没有崩溃，请进行强制保存（命令-选项-shift-S），然后退出并尽快重新运行。";
+
+/* warning */
+"CF_ASSERT_crash_blurb_win" = "您即将崩溃。如果您让 kJams 崩溃，然后将随后的崩溃报告发送至 Dave，那就太好了，这样他就可以修复它。但是，如果您希望的话，您也可以冒险尝试继续，但这可能仍然会崩溃。如果没有崩溃，请进行强制保存（命令-选项-shift-S），然后退出并尽快重新运行。";
+
+/* delete whatever it is */
+"Change All" = "更改全部";
+
+/* name of dialog */
+"Change Cache Location?" = "更改缓存位置？";
+
+/* undo string */
+"Change CDG Stream" = "更改 CDG 数据流";
+
+/* undo string: change font information */
+"Change Font Info" = "更改字体信息";
+
+/* name of dialog */
+"Change “kJams Music” Folder Location?" = "更改 “kJams Music” 文件夹位置？";
+
+/* press this button to explode */
+"change_cache_warn_blurb" = "警告：这与 kJams 在哪里查找您的音乐无关。您确定知道自己在做什么吗？";
+
+/* warning */
+"change_music_fold_warn_blurb" = "警告：此文件夹不是由您（用户）来使用。它仅由 kJams 用于储存从光盘翻录的歌曲，或在音乐商店购买的歌曲。它不用于告诉 kJams 在哪里搜索音乐。";
+
+/* warning */
+"ChangeFileModePrompt" = "kJams 要求修改受限的文件或文件夹，而且必须对此进行授权。";
+
+/* only these credit cards */
+"Chartbuster does not accept American Express" = "Chartbuster 不支持 American Express";
+
+/* confirm */
+"check_music_stores_blurb" = "您音乐商店至少  %d 可能已过期，您想要下载最新的更新（如果有的话）吗？";
+
+/* mmm */
+"Checking original song files…" = "正在检查原始音乐文件…";
+
+/* sdf */
+"Checking Playlists…" = "正在检查播放列表…";
+
+/* mmm */
+"Checking the playing song…" = "正在检查播放中的歌曲…";
+
+/* No comment provided by engineer. */
+"City must not be empty" = "城市不得为空";
+
+/* - */
+"City:" = "城市";
+
+/* as in: completing, finishing, finalizing */
+"Cleaning Up:" = "正在清理：";
+
+/* No comment provided by engineer. */
+"Cleaning Up…" = "正在清理…";
+
+/* verb as in (you) erase */
+"Clear" = "清除";
+
+/* at startup */
+"Clearing out temp songs…" = "正在清除临时歌曲文件…";
+
+/* does that make sense? */
+"Clearing Playlist" = "正在清除播放列表…";
+
+/* No comment provided by engineer. */
+"Clearing SMS Gateways" = "正在清除 SMS 网关";
+
+/* No comment provided by engineer. */
+"Clearing Song List" = "正在清除歌曲列表";
+
+/* No comment provided by engineer. */
+"Close CD Tray" = "关闭 CD 托盘";
+
+/* warning */
+"close_purchase_blurb" = "在您购买以后，您将看到一个“回执窗口”。您只需关闭该回执窗口，并将在电子邮件中获得一份副本。不要最小化它。只有*关闭*此窗口，该软件才会自动注册，并解锁全部的功能，换句话说，它将为您输入序列号。不需要下载，您已经在运行它了。";
+
+/* No comment provided by engineer. */
+"closing Clipboard" = "正在关闭剪贴板";
+
+/* No comment provided by engineer. */
+"Closing Database" = "正在关闭数据库";
+
+/* No comment provided by engineer. */
+"closing database" = "正在关闭数据库";
+
+/* No comment provided by engineer. */
+"closing eSellerate" = "正在关闭 eSellerate";
+
+/* No comment provided by engineer. */
+"closing prefs" = "正在关闭首选项";
+
+/* No comment provided by engineer. */
+"closing QuickTime" = "正在关闭 QuickTime";
+
+/* the background has colors in it */
+"Colored" = "彩色";
+
+/* random thoughts about a song entered by the user */
+"Comment_blurb" = "评论";
+
+/* these options are related to the composition */
+"Comp Level" = "组合等级";
+
+/* No comment provided by engineer. */
+"Component not thread safe" = "组件非线程安全";
+
+/* who composed the song? */
+"Composer" = "作曲者";
+
+/* No comment provided by engineer. */
+"Configuring account…" = "正在配置帐户…";
+
+/* confirm */
+"confirm_1_purch_blurb" = "您确定想要以税前 %2$s 的价格购买歌曲“%1$s” 吗？";
+
+/* confirm */
+"confirm_2_purch_blurb" = "您确定想要以税前 %2$s 的价格购买所选中的歌曲 %1$d 吗？";
+
+/* confirm */
+"confirm_special_blurb" = "您准备购买的歌曲中，至少一首在使用时需要特许。为了录制或比赛，您必须联系 Chartbuster。因此，同不包含许可费的相比，此价格相对昂贵，您必须同 Chartbuster 进行协商。您确定打算购买此版本吗？";
+
+/* asking the database for info */
+"Connecting to song stream" = "正在连接歌曲数据流";
+
+/* No comment provided by engineer. */
+"Contest Tonight!" = "今晚比赛！";
+
+/* go on */
+"Continue" = "继续";
+
+/* No comment provided by engineer. */
+"Control error (debug)" = "控制器出错（除错）";
+
+/* No comment provided by engineer. */
+"Converting KMA file failed." = "转换 KMA 文件失败。";
+
+/* does that make sense? */
+"Converting Library selection to Song List" = "正在将歌曲库所选内容转换至歌曲列表";
+
+/* does that make sense? */
+"Converting Playlist selection to Library selection…" = "正在将播放列表所选内容转换至歌曲库所选内容…";
+
+/* does that make sense? */
+"Converting Playlist selection to Song List" = "正在将播放列表所选内容转换至歌曲列表";
+
+/* No comment provided by engineer. */
+"Converting PlayLists to SQL…" = "正在将播放列表转换至 SQL";
+
+/* No comment provided by engineer. */
+"Converting Songs to SQL…" = "正在将歌曲转换至 SQL";
+
+/* sort columns */
+"Copy Column Layout" = "复制列布局";
+
+/* No comment provided by engineer. */
+"Copy to Clipboard" = "复制至剪贴板";
+
+/* who owns the rights? */
+"Copyright" = "版权";
+
+/* bad file */
+"Corrupted MP3 File" = "损坏的 MP3 文件";
+
+/* a zip file that is bad */
+"Corrupted Zip File" = "损坏的 Zip 文件";
+
+/* No comment provided by engineer. */
+"Could not determine if media is supported:" = "无法确定是否支持媒体：";
+
+/* No comment provided by engineer. */
+"Could not determine media type:" = "无法确定媒体类型：";
+
+/* oh well */
+"Could not find the song “%s”" = "无法找到歌曲 “%s”";
+
+/* bummer */
+"Could not find video" = "无法找到视频";
+
+/* bummer */
+"Could not find zipped song file." = "无法找到压缩的歌曲文件";
+
+/* fatal */
+"Could not get app bundle" = "无法获得应用程序捆绑包";
+
+/* No comment provided by engineer. */
+"Counting Music Store Songs:" = "正在计算音乐商店歌曲数目：";
+
+/* enumerate the number of items */
+"Counting:" = "正在计算：";
+
+/* - */
+"Country:" = "国家";
+
+/* a code for a discount */
+"Coupon" = "优惠券";
+
+/* execute the crash command */
+"Crash" = "崩溃";
+
+/* would you like to crash now */
+"Crash?" = "崩溃？";
+
+/* warning */
+"crash_report_blurb" = "很遗憾，kJams 最近似乎崩溃过。备注： kJams 不是现在崩溃。这是报告一个*先前*的崩溃。您可以向我发送一份崩溃报告，以便我可以修复此故障吗？";
+
+/* No comment provided by engineer. */
+"Create Account…" = "创建帐户…";
+
+/* No comment provided by engineer. */
+"Creating Account…" = "正在创建帐户…";
+
+/* No comment provided by engineer. */
+"Creating browser buttons" = "正在创建浏览器按钮";
+
+/* No comment provided by engineer. */
+"Creating Browser Window" = "正在创建浏览器窗口";
+
+/* No comment provided by engineer. */
+"Creating Clipboard" = "正在创建剪贴板";
+
+/* No comment provided by engineer. */
+"Creating Graphics Window" = "正在创建图形窗口";
+
+/* No comment provided by engineer. */
+"Creating kJams Windows" = "正在创建 kJams 窗口";
+
+/* 'Messenger' is the name of a feature.  'overlay' is like a layer for compositing */
+"Creating Messenger Overlays" = "创建 Messenger 覆盖层";
+
+/* No comment provided by engineer. */
+"Creating QuickTime Components menu…" = "正在创建 QuickTime 组件菜单…";
+
+/* No comment provided by engineer. */
+"Creating ShowScreens menu…" = "正在创建 ShowScreens 菜单…";
+
+/* No comment provided by engineer. */
+"Creating Sources List" = "正在创建来源列表";
+
+/* No comment provided by engineer. */
+"Creating task manager" = "正在创建任务管理器";
+
+/* No comment provided by engineer. */
+"Creating Task Window" = "正在创建任务窗口";
+
+/* No comment provided by engineer. */
+"Creating Tasks Window" = "正在创建任务窗口";
+
+/* No comment provided by engineer. */
+"Creating Tracks List" = "正在创建曲目列表";
+
+/* No comment provided by engineer. */
+"Creating Video Window" = "正在创建视频窗口";
+
+/* No comment provided by engineer. */
+"Credit Card Number must be numeric" = "信用卡号必须是数字";
+
+/* No comment provided by engineer. */
+"Credit card number must have between 13 and 19 digits" = "信用卡号必须为 13 - 19 位";
+
+/* No comment provided by engineer. */
+"Critical warning!  The release of MacOS 10.8 is imminent!  Since you have a PowerPC computer, kJams will require a special PowerPC-only version.  Please email Dave immediately if you need to continue running kJams on your PowerPC computer." = "严重警告！MacOS 10.8 即将发布！由于您有 PowerPC 计算机， kJams 将需要一个专门仅供 PowerPC 使用的版本。如果您需要在您的 PowerPC 计算机上继续使用 KJams，请立即给 Dave 发送电子邮件。";
+
+/* confirm */
+"critical_update_blurb" = "音乐商店 “%1$s” 有一个关键更新：%2$s 您想要下载最新的音乐商店吗？";
+
+/* No comment provided by engineer. */
+"Cross-device link" = "跨设备链接";
+
+/* size comes after this */
+"Current Cache Size:" = "当前缓存大小：";
+
+/* manually entered 'freedb' server */
+"Custom" = "自定义";
+
+/* custom string set by user */
+"custom_blurb" = "自定义";
+
+/* No comment provided by engineer. */
+"CVV2 code must be numeric" = "CW2 代码必须是数字";
+
+/* No comment provided by engineer. */
+"CVV2 code must have between 3 and 4 digits" = "CW2 代码必须是 3 - 4 位";
+
+/* credit card security code (three or four digits) */
+"CVV2:" = "CW2：";
+
+/* the freedb database */
+"Database:" = "数据库：";
+
+/* date the song was last sung */
+"Date" = "日期";
+
+/* when was this added to the library */
+"Date Added" = "已添加日期";
+
+/* No comment provided by engineer. */
+"Date must be of the form “MM/YYYY”" = "日期格式必须为”月份/年份“";
+
+/* one */
+"Day" = "天";
+
+/* plural */
+"Days" = "天数";
+
+/* verb: i deactivate */
+"Deactivate" = "停用";
+
+/* the BIN file is the source of the song */
+"Decode from BIN file:" = "从 BIN 文件解码：";
+
+/* the value that is used if the user does not specify a value */
+"Default" = "默认";
+
+/* No comment provided by engineer. */
+"Default Media Stream Info has been saved." = "已保存默认媒体数据流信息";
+
+/* see above */
+"Deinterleaving / Error Correcting Graphics" = "反交错/错误纠正图形";
+
+/* how long to wait after the user clicks before showing the text edit box */
+"Delay time after click to start edit (seconds)" = "单击至开始编辑的延迟时间（秒）";
+
+/* how long to wait before setting the ID3 tag info within the files */
+"Delay time after editing to store tags to files (seconds)" = "编辑至储存标记到文件的延迟时间（秒）";
+
+/* delete whatever it is */
+"Delete" = "删除";
+
+/* No comment provided by engineer. */
+"Delete browser" = "删除浏览器";
+
+/* undo string */
+"Delete composition element" = "删除组合元素";
+
+/* are you sure? */
+"Delete Current Singer?" = "删除当前演唱者？";
+
+/* No comment provided by engineer. */
+"Delete graphics" = "删除图形";
+
+/* No comment provided by engineer. */
+"Delete LAME" = "删除 LAME！";
+
+/* mmm */
+"Delete Library" = "删除歌曲库";
+
+/* No comment provided by engineer. */
+"Delete Object Tracker" = "删除目标追踪器";
+
+/* yes? */
+"Delete Playlist" = "删除播放列表";
+
+/* yep */
+"Delete Singers" = "删除演唱者";
+
+/* mmm */
+"Delete Tracks" = "删除曲目";
+
+/* yep */
+"Delete Venue" = "删除地点";
+
+/* No comment provided by engineer. */
+"Delete version tracker" = "删除版本追踪器";
+
+/* No comment provided by engineer. */
+"Delete zipper" = "删除压缩软件";
+
+/* warning */
+"delete_singing_singer" = "您确定要删除当前正在演唱的人吗？注解：这将中止当前的歌曲！";
+
+/* deletion warning */
+"delete_songs_blurb" = "警告！这将把您硬盘上的源文件移至垃圾桶，并移除所有播放列表的引用。您确定要把选中文件移至垃圾桶吗？";
+
+/* deletion warning */
+"delete_venue_blurb" = "您确定想要删除地点 “%s 吗？这将永久删除此地点的所有演唱者。如果居住在此地点的演唱者还有其他地点，则也会从其他地点删除此演唱者。您无法撤销此操作。";
+
+/* No comment provided by engineer. */
+"Deleting CDPedia…" = "正在删除 CDPedia…";
+
+/* No comment provided by engineer. */
+"Deleting MetaData Traits Database" = "正在删除 MetaData 特征数据库";
+
+/* does that make sense? */
+"Deleting Songs from Database" = "正在从数据库删除歌曲";
+
+/* obvious? */
+"Deleting Songs…" = "正在删除歌曲…";
+
+/* No comment provided by engineer. */
+"Deleting task manager" = "正在删除任务管理器";
+
+/* No comment provided by engineer. */
+"Deleting Undo System" = "正在删除撤销系统";
+
+/* see above */
+"Demuxing Audio & Graphic Streams" = "正在无损提取音频与图形数据流";
+
+/* demux means separating audio and video */
+"Demuxing MPEG audio…" = "正在无损提取 MPEG 音频…";
+
+/* un-select, or cause there to be no selection */
+"Deselect" = "取消选择";
+
+/* the name of the desktop folder */
+"Desktop" = "桌面";
+
+/* No comment provided by engineer. */
+"Device busy" = "设备忙";
+
+/* No comment provided by engineer. */
+"Device not configured" = "设备未配置";
+
+/* No comment provided by engineer. */
+"Directory not empty" = "目录不为空";
+
+/* No comment provided by engineer. */
+"Disable" = "禁用";
+
+/* No comment provided by engineer. */
+"disable_auto_renew_blurb" = "您是否要禁用自动续约？在合约期间，您仍将被收费。禁用自动续约只表示您当前的合约到期后将不会自动续约。";
+
+/* No comment provided by engineer. */
+"Disabled" = "已禁用";
+
+/* No comment provided by engineer. */
+"Disabling Auto-Renew…" = "正在禁用自动续约…";
+
+/* No comment provided by engineer. */
+"Disc Burning Progress" = "光盘刻录进度";
+
+/* No comment provided by engineer. */
+"Disc Recorder Error: 0x%08x" = "光盘刻录机出错：0x%08x";
+
+/* No comment provided by engineer. */
+"Disc Ripping Complete!" = "光盘翻录完成！";
+
+/* warning */
+"disc_meta_info1_blurb" = "请为此光盘填写全部的元信息。您丢失的数据：%s。";
+
+/* warning */
+"disc_meta_info2_blurb" = "仍然有元数据丢失，请不间断尝试…您丢失的数据：%s。";
+
+/* No comment provided by engineer. */
+"Disk is full" = "光盘已满";
+
+/* No comment provided by engineer. */
+"Disposing Task Window" = "正在处理任务窗口";
+
+/* No comment provided by engineer. */
+"disposing Task Window" = "正在处理任务窗口";
+
+/* http://en.wikipedia.org/wiki/Dither */
+"Dither" = "抖动";
+
+/* No comment provided by engineer. */
+"Do you have a coupon?  Or is this just a normal purchase?" = "您是否有优惠券？或者只是进行正常购买？";
+
+/* No comment provided by engineer. */
+"Do you use Apple's “Mail” application to send email or do you use some other method?" = "您使用苹果的“邮件”应用程序发送电子邮件，还是用一些其他方法？";
+
+/* yes */
+"Do you want to try to find it yourself?" = "您想要试着亲自查找吗？";
+
+/* these options are related to the composition */
+"Document Level" = "文档等级";
+
+/* do not ask me the same question any more, i will give the same answer always */
+"Don't Ask Again" = "不再询问";
+
+/* No comment provided by engineer. */
+"Don't forget to tip your waitress!" = "不要忘记给您服务者小费！";
+
+/* do NOT send this to me via email */
+"Don't Send" = "不发送";
+
+/* No comment provided by engineer. */
+"Don't warn me again for a month" = "在一个月内不要再警告我";
+
+/* finished, completed */
+"Done" = "完成";
+
+/* as in download, as a verb */
+"Download" = "下载";
+
+/* No comment provided by engineer. */
+"Download session timed out" = "下载会话超时";
+
+/* message */
+"download_pro_blurb" = "kJams 测试精简版没有演唱者及循环功能。您想要下载专业版吗？";
+
+/* No comment provided by engineer. */
+"Downloading file:" = "正在下载文件：";
+
+/* downloads folder */
+"Downloads" = "下载";
+
+/* No comment provided by engineer. */
+"Drink Specials!" = "特别酒！";
+
+/* No comment provided by engineer. */
+"DRStatusStateFailed" = "DRStatusStateFailed";
+
+/* a duet is a song sung by two people */
+"Duet" = "二重奏";
+
+/* a comment about who will be singing the duet */
+"Duet Comment" = "二重奏注释";
+
+/* oops */
+"dupe items blurb" = "您数据库的一些项目拥有重复的 ID，这可能会损坏您的数据库。";
+
+/* i tried */
+"dupe items fixed blurb" = "我已试着修复它们，但是您可能仍然有问题。您可以联系 dave。";
+
+/* oops */
+"dupes not fixed blurb" = "没有全部修复，请向 dave 发送您的记录文件以及您的 “kJams Library” 文件夹，然后移除此文件夹。抱歉。";
+
+/* No comment provided by engineer. */
+"Duplicate File Name" = "重复的文件名称";
+
+/* No comment provided by engineer. */
+"Duplicate Singer:" = "重复的演唱者";
+
+/* Duration of song */
+"Duration" = "持续时间";
+
+/* settings that are only relevant while playing a song */
+"During Play:" = "在播放中：";
+
+/* No comment provided by engineer. */
+"E-mail address or password is empty" = "电子邮件地址或密码为空";
+
+/* obvious */
+"E-Mail address:" = "电子邮件地址：";
+
+/* No comment provided by engineer. */
+"e-mail must not be empty" = "电子邮件不得为空";
+
+/* No comment provided by engineer. */
+"e-mail:" = "电子邮件：";
+
+/* undo string */
+"Edit Graphic" = "编辑图形";
+
+/* undo string */
+"Edit Instruction Value" = "编辑说明值";
+
+/* thanks */
+"Ejecting disc, please wait…" = "正在弹出光盘，请等待…";
+
+/* No comment provided by engineer. */
+"Elapsed Time: %s" = "已用时间：%s";
+
+/* these options are related to the selected composition element */
+"Element Level" = "元素等级";
+
+/* this is what's in the freedb pane */
+"email_blurb" = "您的电子邮件地址将用作 freedb 提交的回复地址。当提交有错误时，系统将向您发送通知。它也用于启用音乐商店流媒体和购买，以及崩溃报告的回复地址。";
+
+/* message */
+"email_log_blurb" = "我现在将把此报告保存为一个临时文件夹并显示。请在新电子邮件消息中附上此文件夹并发送至 dave@kjams.com。我将尝试为您创建电子邮件消息。";
+
+/* No comment provided by engineer. */
+"Enable" = "启用";
+
+/* short message system, or 'texting' */
+"Enable SMS" = "启用 SMS";
+
+/* No comment provided by engineer. */
+"Enabled" = "已启用";
+
+/* No comment provided by engineer. */
+"Enabling Auto-Renew…" = "正在启用自动续约...";
+
+/* No comment provided by engineer. */
+"Encoder not found" = "未发现编码器";
+
+/* mmmhmmm */
+"Encoding with %s: %s" = "正在使用 %1$s 编码： %2$s";
+
+/* yup */
+"Encoding with QuickTime:" = "正在使用 QuickTime 编码：";
+
+/* No comment provided by engineer. */
+"End of File" = "文件结尾";
+
+/* No comment provided by engineer. */
+"Enter e-mail address and password:" = "输入电子邮件地址和密码：";
+
+/* how long should the sample be? */
+"Enter the duration of the song sample:" = "输入歌曲样本的持续时间：";
+
+/* No comment provided by engineer. */
+"Enter Track Information:" = "输入曲目信息：";
+
+/* ask the user to enter the name of the disc, using the 'CDPedia' disc title */
+"Enter “CDPedia” Disc Title" = "输入  “CDPedia” 光盘标题";
+
+/* ask the user to enter the name of the disc, using the 'kjpro' disc title format, do not localize 'kjpro' */
+"Enter “KJPro.com” Disc Title" = "输入 “KJPro.com” 光盘标题";
+
+/* message */
+"erase_drive_blurb" = "在刻录前，您确定想要擦除 %s 驱动中的光盘吗？";
+
+/* eek */
+"err_saving" = "保存文件 “%s” 时出现错误";
+
+/* bummer */
+"Error" = "错误";
+
+/* No comment provided by engineer. */
+"Error attempting to save database!" = "尝试保存数据库时错误！";
+
+/* first is either 'file' or 'folder', second is either 'specification' or empty, third is name of file/folder */
+"Error creating %s %s“%s”" = "创建  %1$s %2$s“%3$s” 时错误";
+
+/* No comment provided by engineer. */
+"Error gathering crash or log data" = "收集崩溃或日志记录数据时出错";
+
+/* mmm */
+"Error loading editor state" = "加载编辑器状态时错误";
+
+/* No comment provided by engineer. */
+"Error loading XML file:" = "加载 XML 文件时错误：";
+
+/* No comment provided by engineer. */
+"Error parsing Karaoke Locker music store." = "分析 Karaoke Locker 音乐商店时错误";
+
+/* No comment provided by engineer. */
+"Error parsing the version XML data" = "分析版本 XML 数据时错误";
+
+/* first is name of venue or playlist, second is string describing the error */
+"Error renaming <%s> in the file system! (%s)" = "在文件系统重命名 <%1$s> 时出错！(%2$s)";
+
+/* bummer */
+"Error renaming Singer in the Finder" = "在查找器中重命名演唱者时错误";
+
+/* bad file */
+"Error Renaming Songs" = "重命名歌曲时错误";
+
+/* No comment provided by engineer. */
+"Error resolving shortcut: Could not instantiate %s.  Original path: %s" = "解析快捷方式时出错：无法对 %1$s 进行实例化。原始路径：%2$s";
+
+/* No comment provided by engineer. */
+"Error while syncing:" = "同步时出错：";
+
+/* error number */
+"Error: %d" = "错误： %d";
+
+/* bummer */
+"Error: CDPedia says the disc has wrong number of songs?" = "错误：CDPedia 认为光盘歌曲数目错误？";
+
+/* No comment provided by engineer. */
+"Error: Did not recieve a serial number?" = "错误：未收到序列号？";
+
+/* bummer */
+"Error: KJPro says the disc has wrong number of songs?" = "错误：KJPro 认为光盘歌曲数目错误？";
+
+/* bummer */
+"Error: The freedb says the disc has wrong number of songs?" = "错误：freedb 认为光盘歌曲数目错误？";
+
+/* warning */
+"ese perms blurb" = "通过设置  /Library/Frameworks 文件夹的写入权限，有可能会解决此问题。";
+
+/* No comment provided by engineer. */
+"eSellerate engine happy!" = "eSellerate 引擎令人满意！";
+
+/* No comment provided by engineer. */
+"eSellerate engine not found!" = "未发现 eSellerate 引擎！";
+
+/* No comment provided by engineer. */
+"Exec format error" = "Exec 格式错误";
+
+/* short warning this song will cost you more */
+"Expensive Song!" = "高价歌曲！";
+
+/* expiry date of credit card */
+"Expiration:" = "到期日：";
+
+/* No comment provided by engineer. */
+"Expired:" = "到期：";
+
+/* date */
+"Expired: %s" = "到期日期：%s";
+
+/* help me understand the situation */
+"Explain" = "解释";
+
+/* No comment provided by engineer. */
+"explain_cc_blurb" = "在下一屏幕中，请输入账单名称和地址，以及信用卡信息。除非您购买某首歌曲、订阅或优惠券，否则您的卡片不会被收费。";
+
+/* No comment provided by engineer. */
+"explain_name_pw_blurb" = "在下一屏幕中，请输入您要创建的 KaraokeCloud 帐户的用户名和密码。";
+
+/* there are dirty words in this song */
+"Explicit" = "露骨";
+
+/* dialog name.  the user is editing their QuickTime Export settings, and saving them for later, so the settings are available ahead of time for when they want to do an export, hence 'pre-set' */
+"Export Preset" = "导出预设";
+
+/* command */
+"Export Songs" = "导出歌曲";
+
+/* self explanatory */
+"export_format_blurb" = "您想要通过”艺术家“排序主文件夹或通过”专辑“排序子文件夹（两个等级）吗？或者您想要使用专辑排序主文件夹，而且所有歌曲都来自该专辑内（一个等级）吗？请挑选主文件夹格式。";
+
+/* self explanatory */
+"export_heirarchic_blurb" = "您想要将全部歌曲导出到一个专门的文件夹（统一）吗？或您想要把它们复制到由专辑和艺术家组织的子文件夹吗（分层）？";
+
+/* for export */
+"Exporting BIN/CUE" = "正在导出 BIN/CUE";
+
+/* yup */
+"Exporting QuickTime:" = "正在导出 QuickTime：";
+
+/* verb as in (you) cause this image to fade to black */
+"Fade" = "淡化";
+
+/* No comment provided by engineer. */
+"Failed downloading list of songs" = "下载歌曲列表失败";
+
+/* parse means read/digest/understand/collate */
+"Failed parsing list of songs" = "分析歌曲列表失败";
+
+/* this track is not real, don't use it */
+"fake track, do not rip" = "虚设曲目，不要翻录";
+
+/* the singers favorite songs */
+"Favorites" = "收藏夹";
+
+/* the girl singer */
+"Female" = "女性";
+
+/* go get the audio */
+"Fetch Audio from iTunes" = "从 iTunes 获取音频";
+
+/* from iTunes */
+"Fetching Artist '%s'" = "正在获取艺术家 '%s'";
+
+/* No comment provided by engineer. */
+"file" = "文件";
+
+/* No comment provided by engineer. */
+"File already open with write permission" = "已使用写入权限打开文件";
+
+/* No comment provided by engineer. */
+"File exists" = "文件已存在";
+
+/* No comment provided by engineer. */
+"File name too long" = "文件名过长";
+
+/* names of files */
+"File Names" = "文件名";
+
+/* No comment provided by engineer. */
+"File Not Found" = "未发现文件";
+
+/* No comment provided by engineer. */
+"File Not Open" = "文件未打开";
+
+/* No comment provided by engineer. */
+"File Position Error" = "文件位置错误";
+
+/* bummer */
+"File spooler open error" = "文件后台处理程序打开错误";
+
+/* No comment provided by engineer. */
+"File too large" = "文件过大";
+
+/* specified file will come after this string */
+"File:" = "文件：";
+
+/* a ring buffer is a buffer area that gets used over and over, like a circular ring with a read  head and a write head.  The heads don't move, while the ring spins, the write head puts data into the ring, and the read head reads it off */
+"Fill Ring Buffer: Audio Out" = "填充环缓冲区：音频输出";
+
+/* No comment provided by engineer. */
+"Finalizing Playlists…" = "正在完成播放列表…";
+
+/* verb as in please go find this */
+"Find" = "查找";
+
+/* have the user locate the folder */
+"Find it" = "查找它";
+
+/* directive: user, please select a folder */
+"Find Music Folder:" = "查找音乐文件夹";
+
+/* please locate the following musical arrangment */
+"Find Song: “%s”" = "查找歌曲： “%s”";
+
+/* an orphaned song is one that has been abandoned and is unaccounted for */
+"Finding Orphans" = "正在查找孤立项";
+
+/* No comment provided by engineer. */
+"Finishing Browser Window" = "正在完成浏览器窗口";
+
+/* No comment provided by engineer. */
+"Finishing menu creation" = "正在完成菜单创建";
+
+/* No comment provided by engineer. */
+"First Name must not be empty" = "名字不得为空";
+
+/* - */
+"First Name:" = "名字：";
+
+/* No comment provided by engineer. */
+"First you take a drink, then the drink takes a drink, then the drink takes you." = "您首先喝了杯，一杯又一杯，最后你醉了。";
+
+/* No comment provided by engineer. */
+"folder" = "文件夹";
+
+/* obvious? */
+"Font size:" = "字体大小：";
+
+/* No comment provided by engineer. */
+"For the Server to function properly, you must install Bonjour (Print Services) for Windows" = "为使服务器能够正常运行，您必须安装 Bonjour（打印服务）for Windows";
+
+/* describes type of file (mp3, aif, mov, etc) */
+"Format" = "格式";
+
+/* results of a search, how many found */
+"Found %d songs" = "已找到 %d 歌曲";
+
+/* as in: there is no cost or charge for this */
+"Free" = "免费";
+
+/* No comment provided by engineer. */
+"Function not implemented" = "功能未实现";
+
+/* when the user deletes a list of songs, we must first gather some info about what will be deleted */
+"Gathering deletion information…" = "正在收集删除信息…";
+
+/* No comment provided by engineer. */
+"Gathering Files in folder" = "正在收集文件夹中的文件";
+
+/* sex of singer */
+"Gender" = "性别";
+
+/* the style of a song, eg: rock, blues, hip-hop etc */
+"Genre" = "流派";
+
+/* command to go and fetch something */
+"Get it…" = "获取它…";
+
+/* verb: get the free song */
+"Get Song" = "获取歌曲";
+
+/* warning */
+"get_producer_blurb" = "一些歌曲刻录时不带图片（除非您有制片人插件）并可单独售卖和免费试听。安装插件以及购买插件去除红色 X 标记后，请务必清空磁盘缓存（音频首选项）。";
+
+/* reading the directory of a disk */
+"Getting bulk catalog info for “%s”" = "正在为 “%s” 获取大量目录信息";
+
+/* from freedb */
+"Getting Categories…" = "正在获取类别…";
+
+/* for freedb */
+"Getting Disc ID…" = "正在获取光盘 ID…";
+
+/* from freedb */
+"Getting Sites…" = "正在获取网站…";
+
+/* from freedb */
+"Getting Tracks…" = "正在获取曲目…";
+
+/* No comment provided by engineer. */
+"Gift Card:" = "礼品卡";
+
+/* how much does the video slip from the audio (float, seconds) */
+"Global Slip: %.2f Seconds" = "全局滑帧：%.2f 秒";
+
+/* how far to slip the video sync relative to the audio, for all songs */
+"Global Sync Slip: %.1f seconds" = "全局同步滑帧：%.1f 秒";
+
+/* user enters a new time */
+"Go To Time" = "转到时间";
+
+/* what channel are you watching */
+"Graphic Channels" = "图形频道";
+
+/* short for Global Slip */
+"GS: %.2f," = "全局滑帧：%.2f,";
+
+/* eek */
+"guessing_cd_meta" = "此 CD 的曲目信息利用 kJams 的某个版本进行了保存，但并未正确记录每首歌曲独一无二的信息。您会发现重复条目，请立即纠正它们。";
+
+/* No comment provided by engineer. */
+"Hardware Mismatch" = "硬件不匹配";
+
+/* No comment provided by engineer. */
+"Help" = "帮助";
+
+/* present, available, accounted for, at the venue, as opposed to 'has gone home' */
+"Here" = "这里";
+
+/* please remove the silly / ridiculous multi-colored picture */
+"Hide That Crazy Rainbow!" = "隐藏此疯狂彩虹！";
+
+/* No comment provided by engineer. */
+"Hide Windows" = "隐藏窗口";
+
+/* make it look really good */
+"High Quality Render" = "高品质呈现方式";
+
+/* record of all songs ever sung by the singer */
+"History" = "历史记录";
+
+/* private (not public) performance */
+"Home Streaming" = "家庭流";
+
+/* No comment provided by engineer. */
+"Home Streaming. Monthly contract" = "家庭流：每月合约";
+
+/* user affirms they use the product only at home */
+"Home User" = "家庭用户";
+
+/* one */
+"Hour" = "小时";
+
+/* plural */
+"Hours" = "小时数";
+
+/* question */
+"How would you like to obtain meta info?" = "您想如何获得元信息？";
+
+/* No comment provided by engineer. */
+"I'm serious, if you don't enter a valid email address you can't use kJams. If you enter an invalid address, the universe will implode, so take care!" = "我可不和你开玩笑，如果不输入有效的电子邮件地址，您将不能使用 KJams。如果输入无效地址，宇宙会爆炸，当心啊！";
+
+/* if they are the same, then pick one please */
+"If so, please pick which name to use:\n1st:\t%s\n2nd:\t%s" = "如果这样，请挑选要使用的名称：\n第一个：\t%1$s\n第二个：\t%2$s";
+
+/* No comment provided by engineer. */
+"If the auto-update fails, you should manually install it.  To do so, go to the web site, then download it manually and install it." = "如果音频自动更新失败，您需要手动安装。若要这样做，请转到网站，然后手动下载并安装。";
+
+/* as in so what, or i don't care, or blow it off */
+"Ignore" = "忽略";
+
+/* No comment provided by engineer. */
+"Ignore Error Correction" = "忽略错误更正";
+
+/* No comment provided by engineer. */
+"Illegal key type:" = "非法密钥类型：";
+
+/* No comment provided by engineer. */
+"Illegal seek" = "非法定位";
+
+/* dialog name.  same as 'Export Preset', but for import (ripping) */
+"Import Preset" = "导出预设";
+
+/* getting info about each song */
+"Importing CAVS Meta Data" = "正在导入 CAVS 元数据";
+
+/* No comment provided by engineer. */
+"Improper usage of the activation routines." = "激活例程使用不正确。";
+
+/* No comment provided by engineer. */
+"Inappropriate ioctl for device" = "不适当的设备 ioctl";
+
+/* warning */
+"include stores in library" = "此选项将包含主音乐库播放列表中的每个音乐商店的每首歌曲。它只供那些希望演唱者能够从音乐商店购买歌曲或流式下载歌曲的 KJ 使用。您明确您的操作含义了吗？ ";
+
+/* bummer */
+"Incompatible Drive" = "驱动不兼容";
+
+/* more information */
+"Info" = "信息";
+
+/* the %s is “kJams <VERSION>” when the app is opening */
+"Initializing %s" = "正在初始化 %s";
+
+/* No comment provided by engineer. */
+"Initializing AppleRemote" = "正在初始化 AppleRemote";
+
+/* No comment provided by engineer. */
+"Initializing Fast CDG Upscaling" = "正在初始化快速 CDG 倍线增强";
+
+/* No comment provided by engineer. */
+"Initializing Growl" = "正在初始化 Growl";
+
+/* No comment provided by engineer. */
+"Initializing Microphone" = "正在初始化麦克风";
+
+/* asking the database for info */
+"Initiating song download" = "正在初始化歌曲下载";
+
+/* No comment provided by engineer. */
+"Input/output error" = "输入/输出错误";
+
+/* undo string */
+"Insert composition template" = "插入组合模板";
+
+/* this is the window where you inspect (view) information about your selection */
+"Inspector" = "检查器";
+
+/* warning */
+"install_ffmpeg" = "您需要下载并安装 “ffmpeg” 插件，以播放 MPEG-1 或 MPEG-2 文件。";
+
+/* No comment provided by engineer. */
+"Instructions" = "使用说明";
+
+/* No comment provided by engineer. */
+"Interrupted system call" = "已中断的系统呼叫";
+
+/* No comment provided by engineer. */
+"Invalid argument" = "无效参数";
+
+/* No comment provided by engineer. */
+"Invalid coupon code.  Are you sure have it right?" = "无效的优惠券代码。您确定您的代码是正确的？";
+
+/* No comment provided by engineer. */
+"Invalid Gift Pack ID" = "无效的礼包 ID";
+
+/* No comment provided by engineer. */
+"Invalid QuickTime (MIDI?) File" = "无效 QuickTime (MIDI?) 文件";
+
+/* No comment provided by engineer. */
+"Invalid Streaming ID" = "无效的流媒体 ID";
+
+/* No comment provided by engineer. */
+"Invalid Track Number" = "无效的曲目编号";
+
+/* No comment provided by engineer. */
+"Invalid User ID" = "无效的用户 ID";
+
+/* warning */
+"invalid_cb_id_blurb" = "畅销唱片用户 ID 是一个四位或五位的数字。请参阅说明，了解如何找到您的用户 ID。";
+
+/* No comment provided by engineer. */
+"Is a directory" = "是一个目录";
+
+/* mmm */
+"It seems you are deleting your entire library.  Is this what you mean to do?" = "您似乎正在删除整个歌曲库。您确定要这么做吗？";
+
+/* delete whatever it is */
+"Just One" = "就一首";
+
+/* that crazy sing along phenomenon */
+"Karaoke" = "卡拉 OK";
+
+/* No comment provided by engineer. */
+"KaraokeCloud Login Information" = "KaraokeCloud 登录信息";
+
+/* No comment provided by engineer. */
+"kc_acct_success" = "成功！您的 KaraokeCloud 帐户已创建并配置！";
+
+/* No comment provided by engineer. */
+"kc_disable_auto_renew" = "您目前将”自动续约“设为”已启用“。要升级您的”订阅级“，您必须按”禁用“按钮，关闭”自动续约“。";
+
+/* No comment provided by engineer. */
+"kc_home_stream_warn" = "”家庭流“级供私人和家庭使用！它不能用于公开演出。请注意，所有流均按用户、IP地址和日期进行跟踪，以防滥用！您是否*真的*只打算将流服务用于您家庭私人使用？";
+
+/* No comment provided by engineer. */
+"kc_must_log_in" = "要播放免费歌曲，或购买、流失处理或观看其他歌曲预览，您必须登录 KaraokeCloud。它注册免费，而且有多首免费歌曲试听。";
+
+/* No comment provided by engineer. */
+"kc_purch_agreement" = "单击 “%1$s”，表示您同意对为期1 %3$s的合约每月支付$%2$s美元。在合约到期时，除非您提前取消，否则将会自动开始新的合约期。您可以随时取消，但是您仍将被收取整个合约期的费用。要取消，只需单击“%5$s”旁边的 “%4$s”按钮。";
+
+/* No comment provided by engineer. */
+"kc_upsell_tier" = "完成！在首选项面板中单击”订阅层“弹出菜单，看看您有哪些流选项可用。";
+
+/* song pitch quantized in semitones as in “Key of G” */
+"Key" = "音调";
+
+/* changes to the key during the song */
+"Key Changes" = "音调更改";
+
+/* list of words used by user to recall song eg: fast, sad, love, duet etc */
+"Keywords" = "关键词";
+
+/* this is labeled as a 'karaoke jockey', one of the administrators of the show, and has special rights' */
+"KJ" = "KJ";
+
+/* do not translate [KJ] */
+"KJ Download Daily" = "每日 KJ 下载";
+
+/* do not translate [KJ] */
+"KJ Download Monthly" = "每月 KJ 下载";
+
+/* do not translate [KJ] */
+"KJ Download Yearly" = "每年 KJ 下载";
+
+/* rotation managed by the kj */
+"KJ Rotation" = "KJ 循环";
+
+/* do not translate [KJ] */
+"KJ Streaming" = "KJ 流";
+
+/* tethering means attached, or connected (song files are downloadable but locked to the user's account). KJ is karaoke jockey or emcee */
+"KJ Tethering. Yearly contract" = "KJ 关联。年度合约";
+
+/* obvious? */
+"kJams Cache Folder location:" = "kJams 缓存文件夹位置：";
+
+/* No comment provided by engineer. */
+"kJams has recently crashed, but the version you are using is old, you should update to latest" = "kJams 最近曾崩溃，您正在使用的是老版本，您需要更新至最新版本。";
+
+/* yep */
+"kJams is too old to support the Producer plugin. Upgrade kJams!" = "kJams 版本太老，无法支持制片人插件。请更新 kJams！";
+
+/* yep */
+"kJams is too old to support this plugin. Upgrade kJams!" = "kJams 版本太老，无法支持此插件。请更新 kJams！";
+
+/* obvious */
+"kJams Music Folder location:" = "kJams 音乐文件夹位置：";
+
+/* secret message */
+"kJams Producer can only edit CDG files.  To edit other media types, please use another program." = "kJams 制片人仅能编辑 CDG 文件。若要编辑其他媒体类型，请使用其他程序。";
+
+/* music store fail */
+"kJams Purchase Failure" = "kJams 购买失败";
+
+/* fatal */
+"kJams requires MacOS X 10.4 or greater." = "kJams 需要 MacOS X 10.4 或更高版本。";
+
+/* fatal */
+"kJams requires QuickTime 7.1 or greater." = "kJams 需要 QuickTime 7.1  或更高版本。";
+
+/* No comment provided by engineer. */
+"kJams requires write access to the folder <%s>, you must fix this for kJams to function correctly." = "kJams 需要读写访问文件夹 <%s>，您必须为 kJams 解决此问题以正确使用功能。";
+
+/* No comment provided by engineer. */
+"kJams would like to update your database for “fast searching”, this may take several minutes." = "kJams 需要为”快速搜索“更新您的数据库，这可能需要几分钟时间。";
+
+/* No comment provided by engineer. */
+"kJams: no eSellerate Engine" = "kJams ：无 eSellerate 引擎";
+
+/* warning */
+"kv_sample_blurb" = "您正在被定向至一个外部网站以播放此歌曲样本。不要从此网站购买该歌曲，请仅仅找出您喜欢的歌曲，然后回到 kJams 并在 kJams 内购买。";
+
+/* label color, you know, photon vibrational frequencies interpreted by your eyes */
+"Label" = "标签";
+
+/* No comment provided by engineer. */
+"LAME MP3 Not Installed" = "未安装 LAME MP3";
+
+/* okay */
+"LAME Not Installed" = "未安装 LAME";
+
+/* okay */
+"LAME Out of Date" = "LAME 过期";
+
+/* message */
+"lame_install_blurb" = "下载文件后，解压缩，装入光盘图像，双击安装程序，并遵照步骤进行。在安装时必须退出 kJams。";
+
+/* warning */
+"lame_not_installed" = "您似乎没有安装 LAME MP3解码器。您想要现在下载并安装吗？";
+
+/* warning */
+"lame_out_of_date_blurb" = "您安装的 LAME 组件版本可以使用，但较老，您应该更新至最新的版本。您想要现在下载并安装吗？";
+
+/* what language are you speaking? */
+"Language" = "语言";
+
+/* No comment provided by engineer. */
+"Last Name must not be empty" = "姓氏不得为空";
+
+/* - */
+"Last Name:" = "姓氏：";
+
+/* as in 'do this in the future, not right now' */
+"Later" = "以后再说";
+
+/* a 'launch file' is one that will be automatically run when the song plays */
+"Launch" = "启动";
+
+/* The channel that the lead vocal track is in, left, right, or both (center) */
+"Lead Vocal Channel" = "主唱频道";
+
+/* this song has a lead vocal track */
+"Lead Vocals" = "主唱";
+
+/* typographical leading */
+"Leading offset:" = "主唱偏移量：";
+
+/* educate yourself */
+"Learn" = "学习";
+
+/* as in music collection */
+"Library" = "歌曲库";
+
+/* how many lines on a page */
+"Lines per page:" = "每页行数：";
+
+/* No comment provided by engineer. */
+"Loading Database" = "正在载入数据库";
+
+/* No comment provided by engineer. */
+"Loading Icons" = "载入图标";
+
+/* No comment provided by engineer. */
+"Loading Menus" = "正在载入菜单";
+
+/* at startup */
+"Loading Music Store “%s”…" = "正在载入音乐商店 “%s”…";
+
+/* at startup */
+"Loading songs into Database…" = "正在将歌曲载入数据库…";
+
+/* No comment provided by engineer. */
+"Loading Zipper" = "正在载入解压缩程序";
+
+/* No comment provided by engineer. */
+"Loading…" = "正在载入…";
+
+/* No comment provided by engineer. */
+"Localizing Menus…" = "正在本地化菜单…";
+
+/* make it un-changeable */
+"Lock color palette" = "锁定调色板";
+
+/* undo string */
+"Lock Palette" = "锁定调色板";
+
+/* No comment provided by engineer. */
+"Log In…" = "登录...";
+
+/* No comment provided by engineer. */
+"Log Out" = "注销";
+
+/* No comment provided by engineer. */
+"Logging in…" = "正在登录...";
+
+/* warning */
+"LowNumberedPortsPrompt" = "kJams 需要为 web 服务器打开 TCP 端口 80，而且必须对此进行授权。";
+
+/* No comment provided by engineer. */
+"Mac OS error" = "Mac OS 错误";
+
+/* i use the Apple Mail application */
+"Mail…" = "邮件…";
+
+/* No comment provided by engineer. */
+"Make sure you have write permissions for the folder <<%s>>" = "Make sure you have write permissions for the folder <<%s>>";
+
+/* the boy singer */
+"Male" = "男性";
+
+/* who manufactured this version of the song? */
+"Manufacturer" = "生产商";
+
+/* the singer is in the venue */
+"Mark singer “Here”" = "将演唱者标记为”在此处“";
+
+/* the singer has gone home */
+"Mark singer “Not Here”" = "将演唱者标记为”不在此处“";
+
+/* editable number follows the string.  only this many songs will be put in the cache */
+"Maximum number of songs allowed in the cache:" = "缓存允许的最大歌曲数目：";
+
+/* maximum CD burn speed allowed */
+"Maximum Possible" = "最大数目";
+
+/* pushing refers to storing meta data inside files */
+"Maximum simultaneous tasks for pushing into zipped files" = "压入压缩文件的最大同步任务数目";
+
+/* No comment provided by engineer. */
+"Media - %s" = "媒体 - %s";
+
+/* No comment provided by engineer. */
+"Media must be prepared" = "必须准备媒体";
+
+/* No comment provided by engineer. */
+"Media Not Supported" = "媒体不支持";
+
+/* ‘XML’ is a file format, don't translate it */
+"Meta Data XML" = "元数据 XML";
+
+/* shown when you add to library */
+"meta_choice_blurb" = "使用”文件名“将试图在歌曲文件名本身扫描元数据，还可以选择从附带文件夹名称中扫描。使用”标记“将试图读取现有的元数据，这会较慢，因为它可能需要解压缩文件以访问标记。";
+
+/* warning */
+"meta_info_2_blurb" = "在提交前，您需要为光盘及每个曲目设置所有元信息。丢失的光盘信息： %1$s。丢失的曲目信息：%2$s。";
+
+/* warning */
+"meta_info_blurb" = "请为每个曲目填充所有元信息。您可选择多个曲目，并使用”文件->获取信息…”一次为它们全部设置信息。您丢失的数据：%s。";
+
+/* gain on microphone 1 */
+"Mic 1 Gain" = "麦克风 1 收益";
+
+/* one */
+"Minute" = "分钟";
+
+/* plural */
+"Minutes" = "分钟";
+
+/* is this song not available?  can it not be found? */
+"Missing" = "丢失";
+
+/* some data is not there */
+"Missing meta data" = "丢失的元数据";
+
+/* as in [cost per month] */
+"month" = "月";
+
+/* pick from this list */
+"More than one disc was found, please choose:" = "发现多个光盘，请选择：";
+
+/* as in *move this file* */
+"Move" = "移动";
+
+/* undo string */
+"Move composition element" = "移动组合元素";
+
+/* error string */
+"Moving songs to trash" = "将歌曲移至垃圾桶";
+
+/* yeah */
+"Multisession discs not supported, if you need this ask Dave." = "不支持多卷目录光盘，如果您需要，请询问 Dave。";
+
+/* places to buy music */
+"Music Stores" = "音乐商店";
+
+/* eek */
+"music_folder_not_found" = "定位您 “%1$s” 文件夹时出现问题。它可能是某个线下卷的别名吗？(%2$s)";
+
+/* message */
+"music_store_update_avail" = "音乐商店的“%s”有更新。您是否下载？";
+
+/* No comment provided by engineer. */
+"Must pick a country" = "必须选择一个国家";
+
+/* No comment provided by engineer. */
+"Must specify Gift Pack Code" = "必须指定礼包代码";
+
+/* No comment provided by engineer. */
+"Network Host Failed to Provide Data (HTTP Response: 400 <bad request>)" = "网络主机未能提供数据（HTTP 响应：400 <错误的请求>）";
+
+/* error */
+"Network Host has no data at all (kOTNoDataErr)" = "网络主机无数据 (kOTNoDataErr)";
+
+/* No comment provided by engineer. */
+"Network Timeout" = "网络超时";
+
+/* validate blurb */
+"network_timeout_blurb" = "Web 客户端超时。如果您的网速较慢，请转至  “%1$s”，然后转至 “%2$s”，然后将“%3$s”设为较大的秒数，如：240。";
+
+/* a place to buy songs */
+"New Music Store Available!" = "可以使用新音乐商店了！";
+
+/* as in, create a new preset playlist */
+"New Preset Playlist" = "新预设播放列表";
+
+/* No comment provided by engineer. */
+"New Singer created: %s" = "已创建的新演唱者：%s";
+
+/* message */
+"new_import_library" = "您是否要把歌曲移至 “kJams Music” 文件夹？或者您是否希望 kJams 从文件当前所在位置引用文件？注意：如果文件位于“下载” 文件夹中、在“桌面”文件夹中、在“USB 驱动器”或在某个临时位置，您应当选择”移动“。";
+
+/* confirm */
+"new_music_store_blurb" = "有一个新的叫做 “%s” 的音乐商店，您想要下载它吗？";
+
+/* eek */
+"newer_db_version_blurb" = "此数据库使用了较新的 kJams 进行了保存，此 kJams 写入数据库格式  (%1$@)，但很遗憾，当前此版本无法读取 (%2$@。您必须升级到一个较新的版本。";
+
+/* as in next song */
+"Next" = "下一首";
+
+/* negative */
+"No" = "否";
+
+/* No comment provided by engineer. */
+"No child processes" = "无子进程";
+
+/* No comment provided by engineer. */
+"No error detected" = "未检测到错误";
+
+/* does not expire */
+"No Expiration" = "未过期";
+
+/* No comment provided by engineer. */
+"No locks available" = "没有可用的锁定";
+
+/* this song has no synced lyrics */
+"No Lyrics" = "无歌词";
+
+/* No comment provided by engineer. */
+"No media in drive." = "驱动器中无媒体。";
+
+/* No comment provided by engineer. */
+"No new version available." = "无可用的新版本";
+
+/* No comment provided by engineer. */
+"No password specified." = "无指定的密码";
+
+/* No comment provided by engineer. */
+"No reply from KaraokeCloud server (offline?)" = "KaraokeCloud 服务器无响应（离线？）";
+
+/* No comment provided by engineer. */
+"No singer name specified." = "无指定的演唱者姓名";
+
+/* No comment provided by engineer. */
+"No SKU update is available from the eSellerate Servers." = "eSellerate 服务器无可用的 SKU 更新";
+
+/* No comment provided by engineer. */
+"No songs to sync" = "没有要同步的歌曲";
+
+/* No comment provided by engineer. */
+"No space left on device" = "设备无剩余空间";
+
+/* No comment provided by engineer. */
+"No such file or directory" = "无此类文件或目录";
+
+/* No comment provided by engineer. */
+"No such process" = "无此类进程";
+
+/* No comment provided by engineer. */
+"No Such Volume" = "无此类卷";
+
+/* No comment provided by engineer. */
+"No suitable disc in drive" = "驱动中无适用的光盘";
+
+/* warning */
+"no_cdg_blurb" = "CD 驱动 “%s” 报告无法读取 CD+G 光盘。您仍然想要尝试吗？或者您想要更多了解兼容的可用驱动吗？";
+
+/* No comment provided by engineer. */
+"no_email_blurb" = "严重警告！ 为了发送崩溃报告，KJams 需要一个有效的电子邮件地址。当您从音乐商店购买歌曲时以及如果“freedb 提交”失败时，系统将通过该地址向您发送收据和通知。您必须输入一个有效的电子邮件地址。";
+
+/* message */
+"no_lame_blurb" = "非常抱歉，您正在使用的 LAME MP3 编码器未正确安装。根据相关法律要求，您必须从应用程序单独安装此编码器。如果您希望编码MP3，您必须下载并手动安装该免费插件。";
+
+/* warning */
+"no_movie_blurb" = "此文件中没有可播放的媒体。如果您觉得有问题，请将此歌曲发送给 Dave。";
+
+/* validate blurb */
+"no_song_ms_blurb" = "不知为什么，当前的购买选择中无歌曲。";
+
+/* warning */
+"no_you_dont" = "您处于购买的中间阶段。请完成该流程，并关闭回执窗口，该程序将自动注册，所有您无需输入序列号";
+
+/* no songs were found */
+"None" = "无";
+
+/* No comment provided by engineer. */
+"Not a directory" = "不是目录";
+
+/* No comment provided by engineer. */
+"Not applicable" = "不可用";
+
+/* the plugin is not installed */
+"Not Available." = "不可用";
+
+/* No comment provided by engineer. */
+"Not logged in" = "未登录";
+
+/* these songs are not the same */
+"Not Same" = "不一致";
+
+/* warning */
+"not_liable_blurb" = "kJams 是一款无时间限制的共享软件。这意味着该软件可免费使用，无时间限制。购买本软件之前，请确定您是否真的需要它。电话技术支持服务时间为周三或周四晚 7 点之后（太平洋时间），电子邮件技术支持通常在 1 个工时后提供。";
+
+/* warning */
+"not_renamed_blurb" = "为至少一首歌曲（可能更多）更新元信息时出现问题。或者未发现文件，在重命名文件时出现错误，或它不包含您在首选项”标记 -> 写入 -> 自定义歌曲名称“模板中指定的元数据。若想了解问题歌曲列表，请查看名称为 “%s” 的播放列表。";
+
+/* take note, check this out */
+"Note" = "备注";
+
+/* everything is here */
+"Nothing is missing" = "无内容丢失";
+
+/* No comment provided by engineer. */
+"Numerical argument out of domain" = "数字自变量超出范围";
+
+/* !!!SPECIAL!!! Localizers: do not localize this string!!  contact me for more info */
+"NumSpacesInPlayCommand=12" = "NumSpacesInPlayCommand=12";
+
+/* No comment provided by engineer. */
+"Object (menu, window, control) Property Not Found" = "未发现目标（菜单、窗口、控制）属性";
+
+/* No comment provided by engineer. */
+"Offline Mode" = "离线模式";
+
+/* No comment provided by engineer. */
+"One Moment Please" = "稍等片刻";
+
+/* No comment provided by engineer. */
+"One of the songs in your burn list is missing." = "您刻录列表中一首歌曲丢失。";
+
+/* security blurb */
+"one_click_security_blurb" = "kJams 将会始终对您的信用卡凭证进行保密，并且对所有网络交易都使用 SSL。音乐商店发行商将使用您的电子邮件地址为您发送收据。您的电子邮件地址也用作 “freedb 提交” 和崩溃报告的回复地址。除此之外，kJams 将不会将其用作任何其他用途。";
+
+/* No comment provided by engineer. */
+"Only blank media is supported" = "至支持空媒体";
+
+/* No comment provided by engineer. */
+"Only CD-R/RW media is supported" = "只支持 CD-R/RW 媒体";
+
+/* directive: user, please select a folder */
+"Open Folder:" = "打开文件夹：";
+
+/* No comment provided by engineer. */
+"Operation Aborted" = "已取消操作";
+
+/* No comment provided by engineer. */
+"Operation not permitted" = "操作不允许";
+
+/* No comment provided by engineer. */
+"Operation not supported by device" = "设备不支持操作";
+
+/* who originally published the song? */
+"Original Publisher" = "原始发布者";
+
+/* year this song was first published */
+"Original Year" = "元年";
+
+/* a list of songs that were left behind, but are now found */
+"Orphaned Songs" = "孤立的歌曲";
+
+/* i use some other mail application */
+"Other…" = "其他…";
+
+/* replace what is there */
+"Overwrite" = "重写";
+
+/* No comment provided by engineer. */
+"Parameter Error" = "参数错误";
+
+/* scanning */
+"Parsing Music Store:" = "正在分析音乐商店：";
+
+/* password wrong */
+"Password incorrect.  Please try again." = "密码不正确。请重试。";
+
+/* No comment provided by engineer. */
+"password:" = "密码：";
+
+/* No comment provided by engineer. */
+"Passwords don't match." = "密码不匹配。";
+
+/* sort columns */
+"Paste Column Layout" = "粘贴列布局";
+
+/* No comment provided by engineer. */
+"Paste from Clipboard" = "从剪切板粘贴";
+
+/* enter in discount number */
+"Paste your Coupon Code for “%s” here:" = "请在此处粘贴您的“%s”优惠券代码：";
+
+/* mmm */
+"Pasting over meta data is dangerous, you can destroy data and there is no undo.  Are you sure you want to coninue?" = "粘贴元数据非常危险。您可能会破坏数据并且不能撤销。确定是否继续？";
+
+/* as in pause the song, rather than stop */
+"Pause" = "暂停";
+
+/* are you paying attention? */
+"pay_attention_blurb" = "在购买后您将要做什么？您将 A) 关闭回执窗口， B) 输入序列号或 C) 下载许可版本？";
+
+/* subscription price paid every month, eg: [$10 per month] */
+"per month" = "每月";
+
+/* windows only */
+"Perhaps one is a shortcut to the other?" = "也许这个是其他的快捷方式？";
+
+/* macintosh only */
+"Perhaps one is an alias of the other?" = "也许这个是其他的别名？";
+
+/* warning */
+"perian_blurb" = "为了播放歌曲“%s”，您需要下载并按照 Perian 插件。";
+
+/* No comment provided by engineer. */
+"Permission denied" = "许可被拒绝";
+
+/* No comment provided by engineer. */
+"Phone number must be valid" = "电话号码必须是有效号码";
+
+/* address */
+"Phone:" = "电话：";
+
+/* Pitch of song */
+"Pitch" = "音调";
+
+/* as in play the song */
+"Play" = "播放";
+
+/* list of music */
+"Playlist" = "播放列表";
+
+/* this playlist is the one users (via the kJams Web Server) will search when looking for songs to sing */
+"Playlist is used for Server Search" = "播放列表用于服务器搜索";
+
+/* when you purchase time it will be added to your account */
+"Please add subscription time" = "请添加订阅时间";
+
+/* No comment provided by engineer. */
+"Please Drink Responsibly!" = "请小心喝酒！";
+
+/* No comment provided by engineer. */
+"Please edit your One Click settings." = "请编辑您的”一键设置“的设置。";
+
+/* umm */
+"Please enter a new time" = "请输入一个新时间";
+
+/* No comment provided by engineer. */
+"Please enter a search term." = "请输入一个搜索词。";
+
+/* No comment provided by engineer. */
+"Please enter or paste your serial number:" = "请输入或粘贴您的序列号：";
+
+/* No comment provided by engineer. */
+"Please enter some detailed info about what you were doing right before the crash!" = "请输入您在崩溃之前所做事情的一些详细信息！";
+
+/* new password */
+"Please enter the NEW password:" = "请输入新密码：";
+
+/* new password */
+"Please enter the OLD password:" = "请输入旧密码：";
+
+/* No comment provided by engineer. */
+"Please enter your e-mail address:" = "请输入您的电子邮件地址：";
+
+/* No comment provided by engineer. */
+"Please enter your message:" = "请输入您的消息：";
+
+/* No comment provided by engineer. */
+"Please enter your Streaming ID:" = "请输入您的流媒体 ID：";
+
+/* as in please find this file */
+"Please find the picture “%s”" = "请查找图片 “%s”";
+
+/* instructions to user: QuickTime import/export Settings, the user will decide the name */
+"Please name this preset:" = "请为此预设命名：";
+
+/* instructions to user: the user will decide the name */
+"Please name this Singer:" = "请为此演唱者命名：";
+
+/* umm */
+"Please name this template" = "请为此模板命名";
+
+/* obvious? */
+"Please pick a credit card type" = "请选择信用卡类型";
+
+/* No comment provided by engineer. */
+"Please purchase some streaming time." = "请购买一些流媒体时间。";
+
+/* No comment provided by engineer. */
+"Please re-insert the disc…" = "请重新插入光盘…";
+
+/* No comment provided by engineer. */
+"Please select a folder, not a file." = "请选择文件夹，而不是文件。";
+
+/* help me debug */
+"Please send the purchase failure email report." = "请发送购买失败电子邮件报告。";
+
+/* No comment provided by engineer. */
+"Please set the type of credit card you are using" = "请设置您正在使用的信用卡类型";
+
+/* No comment provided by engineer. */
+"Please wait a few moments and this screen will refresh." = "请稍候片刻，此屏幕将刷新。";
+
+/* sort by name, album, artist etc */
+"Please wait until the sort tasks are finished." = "请等待，直到排序任务结束。";
+
+/* play list item identifier */
+"PLI" = "播放列表项目";
+
+/* a list of mp3 songs that may be corrupted */
+"Possibly Corrupted MP3" = "可能损坏的 MP3";
+
+/* [post-disposing] means [cleaning up] */
+"Post-disposing file system utils" = "后处理文件系统实用工具";
+
+/* user settings */
+"Preferencs" = "首选项";
+
+/* No comment provided by engineer. */
+"Preset not found" = "未发现预设";
+
+/* as in previous song */
+"Previous" = "上一首";
+
+/* cost, USD */
+"Price" = "价格";
+
+/* No comment provided by engineer. */
+"Problem starting the kJams web server. Make sure the specified port (%d) isn't in use. Only port 80 or ports >= 1024 are valid." = "启动 kJams Web 服务器出现问题。请确保指定端口 (%d) 未被使用。只有端口 80 或端口 >= 1024 才有效。";
+
+/* yep */
+"Producer Plugin API out of date, upgrade the plugin." = "制片人插件 API 过期，请更新此插件。";
+
+/* No comment provided by engineer. */
+"Producer Plugin not detected." = "未找到制片人插件。";
+
+/* yep */
+"Producer plugin status: Unknown" = "制片人插件状态：未知";
+
+/* warning */
+"producer_tryout_blurb" = "有些歌曲刻录时图片中会有红色 X 标记。这是因为您正在使用制片人插件的试用版。要去掉红色 X 标记，您必须购买制片人插件。是否要购买？";
+
+/* media stream project file (KTP, LRC, SingStar etc) */
+"Project" = "项目";
+
+/* who published this version of the song? */
+"Publisher" = "发布者";
+
+/* pull as in fetch, get or extract */
+"Pull Meta Data" = "请求元数据";
+
+/* buy th */
+"Purchase" = "购买";
+
+/* No comment provided by engineer. */
+"Purchase Result error: %s" = "购买结果错误： %s";
+
+/* a voucher is like an iTunes Gift Card */
+"Purchase Voucher Credit…" = "购买优惠券积分…";
+
+/* is this a store bought song? */
+"Purchased" = "已购买";
+
+/* No comment provided by engineer. */
+"Purchasing streaming time…" = "正在购买流媒体时间…";
+
+/* No comment provided by engineer. */
+"Purchasing Subscription…" = "正在购买订阅…";
+
+/* querying means asking, and 'freedb' is not to be translated */
+"Querying freedb…" = "正在查询 freedb…";
+
+/* asking the database for info */
+"Querying KJPro.com Database" = "正在查询 KJPro.com 数据库";
+
+/* querying means asking, and 'MusicBrainz' is not to be translated */
+"Querying MusicBrainz.org Database…" = "正在查询 MusicBrainz.org 数据库";
+
+/* querying means asking, and 'TrackType' is not to be translated */
+"Querying TrackType.org Database…" = "正在查询 TrackType.org 数据库";
+
+/* this message is shown, then after it is shown a more detailed message, like 'QuickTime error: The encoder popped a tire.' */
+"QuickTime error" = "QuickTime 错误";
+
+/* No comment provided by engineer. */
+"QuickTime not installed" = "未安装 QuickTime";
+
+/* exit the app */
+"Quit" = "退出";
+
+/* are you sure */
+"Quit during Encode?" = "解码时退出吗？";
+
+/* are you sure */
+"Quit during Rip?" = "翻录时退出吗？";
+
+/* warning */
+"quit_during_export_blurb" = "当前有一个正在进行的解码任务，如果您现在退出，此解码将被取消。若要查看此任务，请显示任务窗口。";
+
+/* warning */
+"quit_during_rip_blurb" = "当前有一个正在进行的翻录任务，如果您现在退出，您需要重新翻录歌曲文件，因为它将不完整，而且无法正确播放。";
+
+/* when the app is quiting */
+"Quitting…" = "正在退出…";
+
+/* how does the user rate this song?  eg: good or bad */
+"Rating" = "评分";
+
+/* as in parse, render, resolve */
+"Re-Bake" = "重新制作";
+
+/* No comment provided by engineer. */
+"Read-only file system" = "只读文件系统";
+
+/* error */
+"reading CD in sector: %d" = "正在读取 CD 扇区：%d";
+
+/* error */
+"Reading CD Table of Contents" = "正在读取 CD 目录";
+
+/* at startup */
+"Reading file:" = "正在读取文件：";
+
+/* No comment provided by engineer. */
+"Reading Music Store file into memory" = "正在将音乐商店文件读入内存";
+
+/* preferences you can set that have to do with reading or importing meta tags */
+"Reading:" = "正在读取：";
+
+/* i am finished with my tasks */
+"Ready!" = "已就绪！";
+
+/* No comment provided by engineer. */
+"rebuild_library_blurb" = "请退出 kJams，然后，在查找器中，删除位于 kJams 文件夹中的 “kJams Library” 文件夹。这是创建”全新“歌曲库的最佳方式。";
+
+/* starting from scratch */
+"Rebuilding library" = "正在重建库";
+
+/* confirm */
+"receipt_str" = "检查您的电子邮件回执，或联系 “%s” 寻求帮助。或者您想要再次购买此歌曲吗？";
+
+/* is this a store bought song? */
+"Recent" = "最近";
+
+/* as in make a reference to something else (an alias or a shortcut) */
+"Reference" = "参考";
+
+/* oops */
+"reinterp_sort_pli_blurb" = "此播放列表目前按歌曲名解释时间排序（该排序会随歌曲解释时间改变），您应当按 PLI 或 SongID 进行排序再进行解释。";
+
+/* No comment provided by engineer. */
+"Release icons" = "释放图标";
+
+/* No comment provided by engineer. */
+"Releasing Microphone" = "正在释放麦克风";
+
+/* load it again */
+"Reload Music Store" = "重新载入音乐商店";
+
+/* No comment provided by engineer. */
+"Reloading Disc…" = "正在重新载入光盘…";
+
+/* verb */
+"Remove" = "移除";
+
+/* No comment provided by engineer. */
+"Remove Event Handler" = "移除事件处理程序";
+
+/* removes references, not actual songs */
+"Remove from Library" = "从歌曲库移除";
+
+/* No comment provided by engineer. */
+"Remove Timers" = "移除计时器";
+
+/* deletion warning */
+"remove_dupes_blurb" = "这将仅从歌曲库播放列表中移除（可能复制）播放列表项目。这仅在播放列表包含从*歌曲库*中复制的*引用*时有效（例如：未崩溃）。这仅在出现故障时发生。您确定想要现在冒险崩溃吗？Dave 直接告诉您这么做吗？";
+
+/* deletion warning */
+"remove_refs_blurb" = "这将从所有播放列表移除所有引用！它将让您光盘上的文件保持原样。您确定想要移除全部引用吗？";
+
+/* No comment provided by engineer. */
+"Removing Duplicates" = "移除重复";
+
+/* No comment provided by engineer. */
+"removing music store manager" = "正在移除音乐商店管理器";
+
+/* does that make sense? */
+"Removing Songs from all playlists" = "正在移除所有播放列表的歌曲";
+
+/* does that make sense? */
+"Removing Songs from Library" = "正在移除歌曲库中的歌曲";
+
+/* what type (instrumental, vocal, vocal right channel, backing vocal etc) */
+"Rendition" = "呈现形式";
+
+/* imperative command, as in <please make this request> */
+"Request" = "请求";
+
+/* undo string */
+"Reset Picture Position" = "重设图片位置";
+
+/* pos is short for 'position' */
+"Reset Pos" = "重设位置";
+
+/* undo string */
+"Resize composition element" = "调整组合元素的大小";
+
+/* No comment provided by engineer. */
+"Resource deadlock avoided" = "已避免资源死锁";
+
+/* No comment provided by engineer. */
+"Resource temporarily unavailable" = "资源暂时不可用";
+
+/* No comment provided by engineer. */
+"Result too large" = "结果过大";
+
+/* show, display, disclose, view (in the finder / explorer) */
+"Reveal" = "显示";
+
+/* No comment provided by engineer. */
+"Reveal Web Site" = "显示网站";
+
+/* rewind song */
+"Rewind: %s" = "后退： %s";
+
+/* as in rip a CD */
+"Rip" = "翻录";
+
+/* rip as in digitize or import */
+"Rip from CD:" = "从 CD 翻录：";
+
+/* rip an entire disc to a pair of files with .bin and .cue extensions */
+"Rip to bin/cue…" = "翻录为 bin/cue…";
+
+/* all done */
+"Ripping complete" = "翻录完成";
+
+/* ripping means reading the tracs directly from the CD */
+"Ripping, please wait…" = "正在翻录，请等待…";
+
+/* rotation */
+"Rotation" = "循环";
+
+/* how long should the sample be? */
+"Sample duration (seconds)" = "样本持续时间（秒）";
+
+/* this is only a sample (small portion) of a song, it is not the entire song */
+"Sample Only" = "仅样本";
+
+/* message shown when saving the database */
+"Saving Database…" = "正在保存数据库…";
+
+/* No comment provided by engineer. */
+"Saving:" = "正在保存：";
+
+/* yup */
+"Scanning for missing songs" = "扫描丢失的歌曲";
+
+/* No comment provided by engineer. */
+"Script Error" = "脚本错误";
+
+/* No comment provided by engineer. */
+"Search" = "搜索";
+
+/* a list of file system paths */
+"Search paths used to locate songs:" = "搜索用于定位歌曲的路径：";
+
+/* from freedb */
+"Searching for Disc…" = "正在搜索光盘…";
+
+/* for a song */
+"Searching in iTunes" = "正在 iTunes 内搜索";
+
+/* sorting message */
+"Searching “%s” for “%s”…" = "正在 “%1$s” 中搜索 “%2$s”…";
+
+/* one */
+"Second" = "秒";
+
+/* plural */
+"Seconds" = "秒";
+
+/* obvious? */
+"Security Information" = "安全信息";
+
+/* No comment provided by engineer. */
+"See your KJ for information!" = "查看您的KJ可获取更多信息！";
+
+/* msg */
+"Selection added to QuickTime Export que" = "已添加至 QuickTime 导出队列的选定内容";
+
+/* msg */
+"Selection added to re-encode que" = "已添加至重新编码队列的选定内容";
+
+/* command as in 'send the crash report' */
+"Send" = "发送";
+
+/* No comment provided by engineer. */
+"Send Crash Report" = "发送崩溃报告";
+
+/* mmm */
+"Sending Music Store purchase request" = "正在发送音乐商店购买请求";
+
+/* No comment provided by engineer. */
+"Serial Number" = "序列号";
+
+/* No comment provided by engineer. */
+"Server or Port not found" = "未发现服务器或端口";
+
+/* undo string */
+"Set Comp Duration" = "设置组合持续时间";
+
+/* undo string, a comp is a composition, a visual frame composed of one or more elements */
+"Set Comp Start Time" = "设置组合启动时间";
+
+/* undo string, includes duration */
+"Set Comp Time" = "设置组合时间";
+
+/* undo string */
+"Set Composition Palette Color" = "设置组合调色板";
+
+/* undo string */
+"Set Sweep Color" = "设置扫描颜色";
+
+/* undo string */
+"Set Text Color" = "设置文本颜色";
+
+/* meta data warning */
+"set_meta_on_selection_blurb" = "您是否要将当前选择的所有%3$d歌曲的“%1$s”元数据设为“%2$s”？或者您是否只想更改一首？此操作不能撤销。";
+
+/* No comment provided by engineer. */
+"Settings" = "设置";
+
+/* as in 'display this' */
+"Show" = "显示";
+
+/* No comment provided by engineer. */
+"Show Message" = "显示消息";
+
+/* No comment provided by engineer. */
+"Showing Windows" = "正在显示窗口";
+
+/* No comment provided by engineer. */
+"Shutting down thread manager" = "正在关闭线程管理器";
+
+/* No comment provided by engineer. */
+"Shutting down Web Server" = "关闭 Web 服务器";
+
+/* No comment provided by engineer. */
+"Signal error" = "信号错误";
+
+/* you know who */
+"Singer" = "演唱者";
+
+/* this singer is a 'karaoke jockey', one of the administrators of the show, and has special rights */
+"Singer is KJ" = "演唱者是 KJ";
+
+/* No comment provided by engineer. */
+"Singer name already taken. Please choose another." = "演唱者姓名已存在。请另选一个。";
+
+/* No comment provided by engineer. */
+"Singer Nickname" = "演唱者昵称";
+
+/* the folks who get on the stage to sing */
+"Singers" = "演唱者";
+
+/* this is due to an error */
+"single_select_bug_blurb" = "您必须选择播放一首歌曲。但是，您似乎选择了 2 首或多首歌曲。您想要取消选择它们吗？您可随后双击您想要播放的歌曲。";
+
+/* how large is the file? */
+"Size" = "大小";
+
+/* sync delta in seconds (float), Video slips relative to Audio */
+"Slip" = "滑帧";
+
+/* name of the regional cell phone company */
+"SMS Carrier" = "SMS 运营商";
+
+/* No comment provided by engineer. */
+"SMS Number" = "SMS 号码";
+
+/* name of geographical location where the short message service (texting) is available */
+"SMS Region" = "SMS 区域";
+
+/* bummer */
+"Some crazy QuickTime error trying to extract audio!  Bummer!" = "试图提取音频时 QuickTime 发生一些严重错误！扫兴！";
+
+/* there will be a colon then an error message appended */
+"Some kind of error deleting songs" = "删除歌曲时发生某种错误";
+
+/* yep */
+"Some kind of problem deleting a singer.  You might try quitting, and deleting the singer in the finder" = "删除演唱者时发生某种错误。您可尝试退出，并在查找器中删除此演唱者。";
+
+/* mmm */
+"Some of the selected files are located in your kJams music folder.  Would you like to move these files to the trash?" = "一些选中文件位于您的 kJams 音乐文件夹内。您想要将这些文件移至垃圾桶吗？";
+
+/* mmm */
+"Some of the selected items may be referenced by other playlists.  Are you sure you want to delete all references?" = "一些选中的项目可能被其他播放列表引用。您确定想要删除全部引用吗？";
+
+/* No comment provided by engineer. */
+"Some settings you have changed will take effect the next time you start kJams." = "您更改的一些设置将在下一次启动 kJams 时生效。";
+
+/* No comment provided by engineer. */
+"Some songs are not listed in the store." = "一些歌曲未在商店中列出。";
+
+/* you know, la la laaa */
+"Song" = "歌曲";
+
+/* song identifier */
+"Song ID" = "歌曲 ID";
+
+/* name of song */
+"Song Name" = "歌曲名称";
+
+/* No comment provided by engineer. */
+"Song not found" = "未发现歌曲";
+
+/* how far to slip the video sync relative to the audio, per song */
+"Song Sync Slip: %.1f seconds" = "歌曲同步滑帧：%.1f 秒";
+
+/* who wrote the song? */
+"Song Writer" = "歌曲作词者";
+
+/* song name added to playlist or singer */
+"Song “%@” added to “%@”" = "歌曲 “%1$@” 已添加至  “%2$@”";
+
+/* the plural of one song */
+"Songs" = "歌曲";
+
+/* a list of songs that did not get renamed during a rename operation */
+"Songs Not Renamed" = "歌曲未重命名";
+
+/* this is a test */
+"Sorry, but you must pay better attention for this to work.  Please actually read the following message all the way through." = "抱歉，为了让此发挥作用，您必须更加谨慎。请全程阅读下列消息。";
+
+/* No comment provided by engineer. */
+"Sorry, I think your credit card number was declined.  Is your card blocked?  Did you type the right number? The TriceraSoft music store does not accept American Express, perhaps try a different card." = "抱歉，我认为您的信用卡号被拒绝。您的卡片被冻结了吗？您键入正确的号码了吗？TriceraSoft 音乐商店不接受 American Express，也许可以尝试换一种卡。";
+
+/* warning */
+"sort_blurb" = "在完成列排序  %1$s 时，我们发现此排序列未被排序？（键计数：%2$d）请发送日志记录文件。";
+
+/* sorting message */
+"Sorting by “%s”, please wait…" = "正在通过  “%s” 排序，请等待…";
+
+/* No comment provided by engineer. */
+"Sorting file names…" = "正在排序文件名称…";
+
+/* No comment provided by engineer. */
+"Sorting new music list" = "排序新的音乐列表";
+
+/* No comment provided by engineer. */
+"Sorting old music list" = "排序旧的音乐列表";
+
+/* the 'sources' list column header, on the left */
+"Source" = "来源";
+
+/* as in description */
+"specification" = "规范";
+
+/* spooler is the thing that streams data from one place to another */
+"Spooler Error" = "后台处理程序错误";
+
+/* No comment provided by engineer. */
+"Starting Script Engine" = "正在启动脚本引擎";
+
+/* No comment provided by engineer. */
+"State must not be empty" = "州不得为空";
+
+/* or province */
+"State:" = "州：";
+
+/* name of store */
+"Store Name" = "商店名称";
+
+/* yep */
+"Strange burn plugin status" = "奇怪的刻录插件状态";
+
+/* No comment provided by engineer. */
+"Stranger than Fiction error: The song you're trying to play is not in the current playlist." = "离奇的错误！您正在尝试播放的歌曲不在当前播放列表中。";
+
+/* message */
+"strea_expire_blurb" = "您的 TriceraSoft 流媒体的过期时间为：%s。是否要购买更多流媒体时间？";
+
+/* verb: stream (shortest possible word that conveys the meaning) */
+"Stream" = "数据流";
+
+/* verb: stream the subscribed song */
+"Stream Song" = "流媒体歌曲";
+
+/* audio format eg mp3, aif, wav */
+"Streaming Audio:" = "正在排序文件名称…";
+
+/* yup */
+"Streaming CDG to Cache" = "将 CDG 流式处理至缓存";
+
+/* No comment provided by engineer. */
+"Streaming Expiration:" = "流媒体过期时间：";
+
+/* No comment provided by engineer. */
+"Streaming ID:" = "流媒体 ID：";
+
+/* No comment provided by engineer. */
+"Street must not be empty" = "街道不得为空";
+
+/* - */
+"Street:" = "街道";
+
+/* stroke over fill text */
+"Stroke" = "描边";
+
+/* font outline width */
+"Stroke Size:" = "描边大小";
+
+/* more info on the style of a song, eg: rock, blues, hip-hop etc */
+"Sub Genre" = "子流派";
+
+/* hmmm */
+"Submit Failed: You must enter your e-mail address in the freedb preference pane, then submit again." = "提交失败：您必须在 freedb 首选项窗格中输入电子邮件地址，然后再次提交。";
+
+/* from freedb */
+"Submitting Tracks…" = "正在提交曲目…";
+
+/* No comment provided by engineer. */
+"Success" = "成功";
+
+/* No comment provided by engineer. */
+"Successful Burn." = "刻录成功。";
+
+/* No comment provided by engineer. */
+"Successfully Upgraded!  We will now download and launch the new version!" = "升级成功！我们现在将下载并启动新版本！";
+
+/* a command to persue legal action against the user */
+"Sue Me" = "控告我";
+
+/* No comment provided by engineer. */
+"Sunc purchases" = "同步购买";
+
+/* text hilight color */
+"Sweep fill:" = "扫描填充：";
+
+/* text hilight color */
+"Sweep Stroke:" = "扫描描边：";
+
+/* No comment provided by engineer. */
+"Sync Previous Purchases" = "同步先前的购买";
+
+/* default audio output device in system prefs panel */
+"System Default" = "系统默认";
+
+/* ID3 meta data tags, tags describe information about a file (title, artist, album, track number etc */
+"Tags" = "标记";
+
+/* a pre-developed page layout: http://en.wikipedia.org/wiki/Template */
+"Templates" = "模板";
+
+/* how fast or slow is the song? */
+"Tempo" = "速度";
+
+/* by what delta value will the temp change */
+"Tempo Change Increment:" = "速度更改增量：";
+
+/* speed of the song */
+"Tempo:" = "速度：";
+
+/* warning */
+"test_burn_blurb" = "请在执行完刻录测试并验证您的驱动器兼容性后，再购买刻录插件。您是否已执行完刻录测试？";
+
+/* No comment provided by engineer. */
+"Tether decrypt failed" = "关联解密失败";
+
+/* how many lines on a page */
+"Text Fill:" = "文本填充：";
+
+/* how many lines on a page */
+"Text Stroke:" = "文本描边：";
+
+/* No comment provided by engineer. */
+"That is a coupon, not a serial number.  Please go thru the purchase process and use the coupon during your purchase." = "这是礼券，非序列号。请经历购买流程并在购买时使用礼券。";
+
+/* yah */
+"That template name is already taken.  Please try again." = "此模板名称已存在。请再次尝试。";
+
+/* eek! */
+"The CD Volume has gone offline, or the BIN file has been deleted." = "CD 卷已离线，或者 BIN 文件已被删除。";
+
+/* No comment provided by engineer. */
+"The Chartbuster Gift Pack (User ID) has no more credits, or is invalid." = "Chartbuster 礼包（用户 ID）没有更多点数，或无效。";
+
+/* No comment provided by engineer. */
+"The current machine does not match the machine on which the product was activated." = "当前机器同产品激活的机器不匹配。";
+
+/* No comment provided by engineer. */
+"The current machine matches the machine on which the product was activated." = "当前机器同产品激活的机器匹配。";
+
+/* yep */
+"The current rip was interrupted, you will have to re-rip the last song." = "当前翻录被中止，您需要重新翻录最后一首歌曲。";
+
+/* No comment provided by engineer. */
+"The data browser is not properly configured." = "数据浏览器配置不正确。";
+
+/* No comment provided by engineer. */
+"The device failed to accept the command within the timeout period" = "此设备未能在超时前接受此命令。";
+
+/* No comment provided by engineer. */
+"The drive reported that it is in the process of becoming ready. Please try the request again later" = "所报告的该过程中的驱动器已可用，请稍后重试此请求。";
+
+/* No comment provided by engineer. */
+"The engine failed to connect to the eSellerate servers." = "引擎未能连接 eSellerate 服务器。";
+
+/* No comment provided by engineer. */
+"The engine failed to download an update." = "引擎未能下载更新。";
+
+/* No comment provided by engineer. */
+"The engine is already running within the application." = "引擎已在应用程序中运行。";
+
+/* No comment provided by engineer. */
+"The engine is corrupted." = "引擎被损坏。";
+
+/* No comment provided by engineer. */
+"The eSellerate engine data is missing from the results." = "eSellerate 引擎数据在结果中丢失。";
+
+/* No comment provided by engineer. */
+"The eSellerate server failed to return a valid activation key." = "eSellerate 服务器未能返回有效的激活密钥。";
+
+/* No comment provided by engineer. */
+"The format of the supplied activation key is invalid." = "所提供的激活密钥格式无效。";
+
+/* No comment provided by engineer. */
+"The Gift Pack does not exist or has no more credits." = "礼包不存在或没有更多的点数。";
+
+/* No comment provided by engineer. */
+"The item is not in the data browser." = "该项目不在数据浏览器中。";
+
+/* No comment provided by engineer. */
+"The item was not added to the data browser." = "该项目未被添加至数据浏览器。";
+
+/* No comment provided by engineer. */
+"The latest engine is already installed." = "已安装最新的引擎。";
+
+/* No comment provided by engineer. */
+"The latest engine was successfully installed." = "已成功安装最新的引擎。";
+
+/* No comment provided by engineer. */
+"The Lite version of kJams does not allow scripting, if you need scripting, please upgrade to Pro." = "kJams 精简版不允许编写脚本，如果您需要编写脚本，请更新至专业版。";
+
+/* No comment provided by engineer. */
+"The old activation key is invalid." = "旧的激活密钥无效。";
+
+/* No comment provided by engineer. */
+"The playlist “%@” somehow has the same ID as the already existing playlist “%@”.  Attempting to rectify…" = "播放列表 “%1$@” 同现有播放列表  “%2$@” 有相同的 ID。正在尝试修复…";
+
+/* No comment provided by engineer. */
+"The property data is not valid." = "属性数据无效。";
+
+/* No comment provided by engineer. */
+"The property is not in the data browser." = "属性不在数据浏览器内。";
+
+/* No comment provided by engineer. */
+"The property is not supported in the data browser." = "数据浏览器不支持此属性。";
+
+/* No comment provided by engineer. */
+"The property part is not valid." = "此属性部件无效。";
+
+/* No comment provided by engineer. */
+"The provided audio stream is not valid" = "所提供的音频流无效";
+
+/* No comment provided by engineer. */
+"The requested resource is in use" = "所请求的资源正在使用中";
+
+/* No comment provided by engineer. */
+"The result from the engine could not be found." = "无法找到引擎结果。";
+
+/* No comment provided by engineer. */
+"The SDK failed to add a name/value entnry." = "SDK 未能添加名称/值条目。";
+
+/* No comment provided by engineer. */
+"The serial number to be activated is not unique." = "待激活的序列号不是唯一的。";
+
+/* No comment provided by engineer. */
+"The Show is About to Begin!" = "表演即将开始！";
+
+/* No comment provided by engineer. */
+"The Show Is Over, thanks for coming!" = "表演结束，谢谢您的观看！";
+
+/* first @ is the singer's name, second @ is the playlist name */
+"The singer “%@” somehow lost their playlist “%@”.  A new empty playlist has been created." = "演唱者 “%1$@” 丢失其播放列表 “%2$@”。已创建一个新的空播放列表。";
+
+/* No comment provided by engineer. */
+"The singer “%s” somehow lost their account.  A new account has been created, and we will attempt to recover their playlists." = "演唱者 “%s” 丢失其账户。已创建一个新账户，而且我们将尝试恢复其播放列表。";
+
+/* long version (see short version) */
+"The song you picked is no longer available.  Please reload the music store and try again." = "您挑选的歌曲再也无法使用。请重新加载音乐商店并再次尝试。";
+
+/* could not figure it out */
+"The song “%s” did not parse." = "歌曲 “%s” 未解析。";
+
+/* No comment provided by engineer. */
+"The song “%s” is already being exported." = "歌曲  “%s” 已进行了导出。";
+
+/* No comment provided by engineer. */
+"The song “%s” was not converted because it is not a CDG file" = "歌曲  “%s” 未转换，因为不是 CDG 文件。";
+
+/* No comment provided by engineer. */
+"The stream does not contain a sufficient number of sectors in the leadin for the current media" = "对于当前媒体，此流中在引导区没有足够数量的扇区";
+
+/* No comment provided by engineer. */
+"The system does not meet the minimum requirements for the Embedded Web Store" = "该系统未能满足嵌入式 Web 商店的最小要求。";
+
+/* No comment provided by engineer. */
+"The user cancelled a manual activation attempt." = "用户取消了手动激活尝试。";
+
+/* No comment provided by engineer. */
+"The “User ID” used for streaming is invalid." = "用于流媒体的“用户 ID”无效。";
+
+/* first is number of songs, second is a string showing the duration of time it may take */
+"There are %@ songs.  It could take more than %@ to complete." = "歌曲数目为  %1$@ 首。完成需要至少 %2$@ 时间。";
+
+/* more than one */
+"There are multiple songs selected" = "已选中多首歌曲";
+
+/* bummer */
+"There is not enough free space on your cache volume to build a burn image." = "缓存中没有足够的自由空间，无法创建刻录图像。";
+
+/* thanks */
+"There was a problem ejecting the disc." = "弹出光盘时出现问题。";
+
+/* oops */
+"There was a problem initializing audio output, check your audio output device. Are your speakers plugged in?" = "初始化音频输出时出现错误，请检查您的音频输出设备。您的扬声器插上了吗？";
+
+/* oops */
+"There was a problem initializing audio output, you may want to quit and re-run" = "初始化音频输出时出现错误，您可能想要退出并重新运行。";
+
+/* orphan refers to a song that was ripped but didn't have time to encode before the user quit */
+"There was a problem maybe with orphan encoding?" = "孤立项编码可能出现问题？";
+
+/* error str */
+"There was an error attempting to calculate the cache folder size" = "尝试计算缓存文件夹大小时错误";
+
+/* No comment provided by engineer. */
+"There was an error creating your account. Please ask the KJ to create your account for you." = "创建您的账户时出现错误。请要求 KJ 为您创建账户。";
+
+/* No comment provided by engineer. */
+"There was an error enabling Bonjour" = "启用 Bonjour 时出错";
+
+/* error */
+"There was an error encoding the song “%s”" = "编码歌曲 “%s” 时出现错误";
+
+/* No comment provided by engineer. */
+"There was an error installing the engine." = "安装引擎时出现错误。";
+
+/* No comment provided by engineer. */
+"There was an error loading the installed engine." = "载入安装的引擎时出现错误。";
+
+/* yup */
+"There was an error loading the song for editing" = "载入歌曲进行编辑时出现错误。";
+
+/* No comment provided by engineer. */
+"There was an error moving “%s” into the folder “%s”: %s" = "将  “%1$s” 移至文件夹 “%2$s” 时出现错误： %3$s";
+
+/* eek */
+"There was an error saving the song" = "保存歌曲时出现错误";
+
+/* No comment provided by engineer. */
+"There was an error setting the temporary file name for the song “%s” in “%s”" = "为“%2$s” 中的歌曲 “%1$s”设置临时文件名时出错";
+
+/* bummer */
+"There was an error setting up your burn" = "设置您的刻录时出现错误";
+
+/* No comment provided by engineer. */
+"There was an error with that serial number, please check the number and try again." = "使用此序列号时出错，请检查该号码并再次尝试。";
+
+/* first one describes the error, second one is the name of the song */
+"There was an error “%@” preparing the song “%@” for export." = "准备导出歌曲 “%2$@” 时出现错误  “%1$@”。";
+
+/* I/O is input/output */
+"There was an I/O error reading the disc, perhaps it is scratched?" = "读取光盘时出现 I/O 错误，光盘可能被划伤？";
+
+/* ‘chain’ in this context means ‘pipeline’ or ‘list’ of audio processors */
+"There was some error setting up the Audio chain." = "设置音频链时出现一些错误。";
+
+/* No comment provided by engineer. */
+"There was some kind of error while disabling Auto-Renew." = "禁用自动续约时出错。";
+
+/* No comment provided by engineer. */
+"There was some kind of error while subscribing." = "订阅时出错。";
+
+/* No comment provided by engineer. */
+"There was some kind of problem checking the server for a new version." = "在服务器上检查新版本时出现某种问题。";
+
+/* No comment provided by engineer. */
+"This device can burn CD+G" = "此设备可以刻录 CD+G";
+
+/* No comment provided by engineer. */
+"This device can NOT burn CD+G" = "此设备不能刻录 CD+G";
+
+/* No comment provided by engineer. */
+"This KMA file has no data?" = "此 KMA 文件无数据？";
+
+/* No comment provided by engineer. */
+"This operation will overwrite existing instructions.  Are you sure?" = "该操作将重写当前说明。您确定吗？";
+
+/* showed when the user hits the QuickTime Export edit button when eg. 'iPod' is selected */
+"This QuickTime encoder does not have an options dialog." = "QuickTime 编码器没有选项对话。";
+
+/* No comment provided by engineer. */
+"This setting takes effect the next time you manually reload the Music Store." = "该设置将在您下一次手动重新加载音乐商店时生效。";
+
+/* No comment provided by engineer. */
+"This setting takes effect the next time you start kJams." = "该设置将在您下次启动 kJams 时生效。";
+
+/* No comment provided by engineer. */
+"This song was previously purchased.  You can sync your previous purchases." = "此歌曲之前已购买。您可以同步您之前的购买。";
+
+/* obvious */
+"This will only happen once…" = "这只会发生一次…";
+
+/* No comment provided by engineer. */
+"This wizard will walk you through the process of creating a new KaraokeCloud Account" = "此向导您引导您完成创建新 KaraokeCloud 帐户的全部过程";
+
+/* how seconds late / early are we? */
+"Time Offset:" = "时间偏移量：";
+
+/* shows how much time is left */
+"Time Remaining: %s" = "剩余时间： %s";
+
+/* line of time */
+"Timeline" = "时间线";
+
+/* mmm */
+"Timeout (in seconds)" = "超时（秒）";
+
+/* timeout means it took too long so we aborted */
+"Timeout running helper application “%s”" = "帮助应用程序“%s”运行超时";
+
+/* No comment provided by engineer. */
+"Tip your Waitress!" = "给您的服务者小费！";
+
+/* No comment provided by engineer. */
+"To download or stream songs, you must enter your e-mail address." = "若要下载或流式传输歌曲，您必须输入您的电子邮件地址。";
+
+/* No comment provided by engineer. */
+"To play this type of media, you must install Flip4Mac, which is free." = "要播放此类媒体，您必须安装免费的 Flip4Mac。";
+
+/* No comment provided by engineer. */
+"To reload a Music Store, context-click on the it’s icon in the browser window, and pick “Reload Music Store”." = "若要重新加载音乐商店，请在浏览器窗口上右击其图标，然后选择“重新加载音乐商店”。";
+
+/* first one is <what kind of subscription>, second one is <kJams Lite> or <kJams Pro> */
+"To use the Chartbuster “%s” for streaming, you must be using “%s”." = "若要使用 Chartbuster  “%1$s” 进行流式处理，您必须正在使用  “%2$s”。";
+
+/* the playlist the singer plans to sing during this session */
+"Tonight" = "今晚";
+
+/* No comment provided by engineer. */
+"Too many links" = "链接过多";
+
+/* No comment provided by engineer. */
+"Too many open files" = "打开的文件过多";
+
+/* No comment provided by engineer. */
+"Too many open files in system" = "系统内打开的文件过多";
+
+/* name of store */
+"Total Songs" = "全部歌曲";
+
+/* track number */
+"Track #" = "曲目编号";
+
+/* No comment provided by engineer. */
+"Track Name:" = "曲目名称：";
+
+/* No comment provided by engineer. */
+"Track Number:" = "曲目编号：";
+
+/* as a verb, as in 'perform the trashing action' */
+"Trash" = "丢弃";
+
+/* will put actual song files into the trash */
+"Trash Original Files" = "丢弃原始文件";
+
+/* security blurb */
+"tri_gift_pack_blurb" = "对于所有网络交易，kJams 均使用 SSL。音乐商店将把收据发送至您的电子邮件地址。kJams 将不会把您的电子邮件地址用于任何其他用途。";
+
+/* only these credit cards */
+"TriceraSoft only accepts Visa and Master Card" = "TriceraSoft 仅支持 Visa 和 Master 卡";
+
+/* one more time */
+"Try again" = "再试一次";
+
+/* No comment provided by engineer. */
+"Try logging in instead." = "请尝试登录。";
+
+/* No comment provided by engineer. */
+"Umm, sorry, but I've somehow lost track of this many songs:" = "抱歉，我不知道为什么丢失了很多歌曲：";
+
+/* No comment provided by engineer. */
+"Unable to install eSellerate engine!" = "无法安装 eSellerate 引擎！";
+
+/* No comment provided by engineer. */
+"Unable to select song in Library" = "无法选择歌曲库中的歌曲";
+
+/* bummer */
+"Unix Error:" = "Unix 错误：";
+
+/* No comment provided by engineer. */
+"Unknown Activation Key" = "未知激活密钥";
+
+/* who is that? */
+"Unknown Album" = "未知专辑";
+
+/* artist is not known */
+"Unknown Artist" = "未知艺术家";
+
+/* No comment provided by engineer. */
+"Unknown error" = "未知错误";
+
+/* No comment provided by engineer. */
+"Unknown eSellerate Error" = "未知 eSellerate 错误";
+
+/* unable to identify the folder */
+"Unknown Folder" = "未知文件夹";
+
+/* No comment provided by engineer. */
+"Unknown Singer" = "未知演唱者";
+
+/* nobody knows */
+"Unknown Song" = "未知歌曲";
+
+/* No comment provided by engineer. */
+"Unknown." = "未知。";
+
+/* No comment provided by engineer. */
+"Unloading Plugins" = "正在卸载插件";
+
+/* undo string */
+"Unlock Palette" = "解除锁定调色板";
+
+/* audio format eg mp3, aif, wav */
+"Unpacking Audio format:" = "正在解包音频格式：";
+
+/* QuickTime import/export settings file */
+"Untitled Preset" = "无标题预设";
+
+/* No comment provided by engineer. */
+"Untitled Venue" = "无标题地点";
+
+/* No comment provided by engineer. */
+"Unused" = "未用过";
+
+/* No comment provided by engineer. */
+"Unzipping download…" = "正在解压缩下载…";
+
+/* scanning */
+"Unzipping Music Store:" = "正在解压缩音乐商店：";
+
+/* ja */
+"Unzipping on command line" = "正在解压缩命令行";
+
+/* decompressing */
+"Unzipping song:" = "正在解压缩歌曲：";
+
+/* as in update the application to a newer version */
+"Update" = "更新";
+
+/* yep */
+"Update Database" = "更新数据库";
+
+/* pre-loading data */
+"Updating DB with new search paths…" = "正在使用新搜索路径更新数据库…";
+
+/* they have changed */
+"Updating Values" = "正在更新值";
+
+/* pre-loading data */
+"Updating “Date Added” meta data…" = "正在更新“已添加日期”元数据…";
+
+/* pre-loading data */
+"Updating “No Lyrics” meta data…" = "正在更新“无歌词”元数据…";
+
+/* No comment provided by engineer. */
+"Upgrade" = "升级";
+
+/* display the name that the Finder uses to refer to the file */
+"Use File Name" = "使用文件名";
+
+/* display the name that kJams uses to refer to the song (the song title) */
+"Use Song Name" = "使用歌曲名";
+
+/* No comment provided by engineer. */
+"Use your iPhone or iPod Touch to browse songs and submit them to the KJ! Just go to the App store and search for “iJams”" = "请使用您的 iPhone 或 iPod Touch 来浏览歌曲并将其提交至 KJ！请转到应用商店并搜索“iJams”";
+
+/* No comment provided by engineer. */
+"User Canceled" = "用户已取消";
+
+/* the version of the software is old */
+"Using Old Version" = "正在使用旧版本";
+
+/* <kJams Lite> or <kJams Pro> will be substituted */
+"Valid only with “%s”" = "仅使用  “%s” 有效";
+
+/* validate blurb */
+"validate_ms_blurb" = "首先您必须正确输入您的“一键设置”";
+
+/* as in many different, eg: the disc contains songs my various artists */
+"Various" = "各种";
+
+/* no! */
+"VCD titles must be ripped into the library before playing." = "播放前须将 VCD 标题翻录入库中。";
+
+/* as in version 1.0 */
+"Version" = "版本";
+
+/* No comment provided by engineer. */
+"Version Checking" = "版本检查中";
+
+/* you know, like moving pictures */
+"Video" = "视频";
+
+/* how loud is the song? */
+"Volume" = "音量";
+
+/* warning */
+"vorbis_blurb" = "为了播放歌曲 “%s”，您需要下载并安装 XiphQT 组件包。";
+
+/* warning */
+"vorbis_edit_blurb" = "为了将您设置的元信息储存至 “.ogg” 文件，您需要下载并安装  “Xiph 框架” 包，然后下载 “VorbisCommentEdit 框架” 包。";
+
+/* No comment provided by engineer. */
+"Voucher Purchase not available yet!  Would you like to send KaraokeCloud (NOT the developer) a request for this feature?  This is NOT a request for tech support." = "优惠券购买尚不可用。您是否要向 KaraokeCloud（非开发者）发送此功能的请求？这不是一个技术支持请求。";
+
+/* No comment provided by engineer. */
+"Waiting for cache purging to complete" = "正在等待缓存清理结束";
+
+/* tasks will be done soon */
+"Waiting for sort tasks…" = "正在等待排序任务…";
+
+/* No comment provided by engineer. */
+"Waiting for Spotlight…" = "正在等待聚焦…";
+
+/* once is enough */
+"Warn me if this happens again after two hours." = "两小时后如果再次发生请给我警告。";
+
+/* warning */
+"warn_karaoke_locker" = "“Karaoke Locker” 音乐商店仅供家庭使用。Sound Choice 将会起诉那些将这些歌曲用于公开场合的人。目前，在公开场合合法使用 Sound Choice 歌曲的方式是直接从 Sound Choice 购买物理媒体。如果您是一个家庭用户，这毫无问题。但如果您要在公开场合进行表演，您真的不担心被 Sound Choice 起诉吗？";
+
+/* you are being warned */
+"Warning:" = "警告：";
+
+/* No comment provided by engineer. */
+"Web Server Not Started" = "Web 服务器未启动";
+
+/* as in go to my */
+"Web Site" = "网站";
+
+/* mmm */
+"Webserver port" = "Web 服务器端口";
+
+/* warning */
+"weird_unix_err" = "OS 向我报告您的 CD 驱动有一个 “%s” 错误。现在，我不完全确定这是什么意思，但它的部分意思是您无法使用此驱动进行翻录。";
+
+/* okay */
+"Well there was some sort of problem reading your CD.  You should send dave your log file" = "读取您的 CD 时出现问题。您应该向 Dave 发送您的日志记录文件。";
+
+/* No comment provided by engineer. */
+"Went south getting a CPixels, please send the log file" = "要获取 CPixels，请发送日志记录文件";
+
+/* No comment provided by engineer. */
+"Went south getting an offscreen, please send the log file" = "向南出了屏幕，请发送日志记录文件";
+
+/* this is a test */
+"What will you do?" = "您将做什么？";
+
+/* No comment provided by engineer. */
+"Who's Singing Next:" = "下一演唱者：";
+
+/* No comment provided by engineer. */
+"Wide character encoding error" = "宽字符编码错误";
+
+/* date */
+"Will Renew on: %s" = "将在此日期续约：%s";
+
+/* the song is only available for streaming, not for purchasing */
+"Within your selection is a streaming only song which can not be purchased." = "您选择的是一首仅流式处理歌曲，无法购买。";
+
+/* No comment provided by engineer. */
+"Would you like to create a new video?" = "您想要创建新视频吗？";
+
+/* one click */
+"Would you like to edit your account settings?" = "您要编辑您的帐户设置吗？";
+
+/* one click */
+"Would you like to edit your payment settings?" = "您想要编辑您的付款设置吗？";
+
+/* advertisment */
+"Would you like to purchase the fully functional version?" = "您想要购买功能完整的版本吗？";
+
+/* Writer of song */
+"Writer" = "作词者";
+
+/* No comment provided by engineer. */
+"Writing CDG to Cache" = "正在将 CDG 写入缓存";
+
+/* pcm is pluse code modulated */
+"Writing Uncompressed PCM Audio To Cache" = "正在将未压缩的 PCM 音频写入缓存";
+
+/* preferences you can set that have to do with writing or exporting meta tags */
+"Writing:" = "正在写入：";
+
+/* as in [cost per year] */
+"year" = "年";
+
+/* enumeration of revolutions around the sun */
+"Year" = "年份";
+
+/* affirmative */
+"Yes" = "是";
+
+/* No comment provided by engineer. */
+"You already purchased this song.  Your email receipt has a download link." = "您已购买了此歌曲。您的电子邮件回执有一个下载链接。";
+
+/* No comment provided by engineer. */
+"You are not allowed to “Reference” songs from the “%s” folder, so kJams will Copy/Move the files instead." = "您不允许引用 “%s” 文件夹中的歌曲f，kJams 将会复制/移动该文件。";
+
+/* not connected to the internet */
+"You are offline" = "您已离线";
+
+/* must buy from one store at a time */
+"You can not buy songs from more than one store at the same time." = "您无法一次从多家商店购买歌曲。";
+
+/* No comment provided by engineer. */
+"You can not purchase or stream songs while any music store is still loading." = "当音乐商店仍在载入时，您不能购买歌曲或流式下载歌曲。";
+
+/* yeah */
+"You can't burn the same song twice on a single disc." = "您无法在一张光盘上两次刻录相同的歌曲。";
+
+/* dur */
+"You can't eject a disc while it is importing!" = "导入时无法弹出光盘！";
+
+/* you can't download a purchased song at the same time you stream another song */
+"You can't mix purchases with streaming." = "您无法将同时进行购买及流式处理。";
+
+/* no! */
+"You can't play a song while a different one is ripping from the same CD" = "您无法播放歌曲，因为正从同一 CD 上翻录其他歌曲。";
+
+/* No comment provided by engineer. */
+"You can't re-encode the song “%s” because it is a streaming song." = "您无法重新编码歌曲  “%s”，因为它是一首流媒体歌曲。";
+
+/* No comment provided by engineer. */
+"You can't remove the currently playing song." = "您不能删除当前播放的歌曲。";
+
+/* No comment provided by engineer. */
+"You can't run more than one copy of kJams at once!" = "您无法一次运行多个 kJams 副本！";
+
+/* first is name of application, second is version number */
+"You have %s version %s." = "您拥有  %1$s 版本 %2$s。";
+
+/* No comment provided by engineer. */
+"You have already bought at least some songs in this selection." = "您选择购买了至少一些歌曲。";
+
+/* No comment provided by engineer. */
+"You have already bought this song." = "您已经购买了此歌曲。";
+
+/* No comment provided by engineer. */
+"You have an old version Flip4Mac installed. You must uninstall it or update it to the latest version.  Updates are free." = "您安装了旧版本的 Flip4Mac。您必须卸载它，并将其更新至最新版本。更新是免费的。";
+
+/* No comment provided by engineer. */
+"You have entered an illegal character in one of your templates. Legal characters are LTRSI-()/. and Space." = "您在其中一个模板中输入了非法的字符。非法字符是 LTRSI-()/. 和空格。";
+
+/* No comment provided by engineer. */
+"You have less than 4 GB RAM.  You need to upgrade your RAM or you will experience performance degradation (eg: slow searching)." = "您拥有小于 4 GB 的 RAM。您需要升级您的 RAM 或您的性能将会降低（例如：搜索速度较慢）。";
+
+/* No comment provided by engineer. */
+"You have successfully activated %s!, All features are now fully functional." = "您已成功激活  %s！现在可以使用所有功能了。";
+
+/* notify */
+"You have successfully activated the plugin “%s”." = "您已成功激活插件 “%s”。";
+
+/* bad */
+"You have two singers with the same ID.  %s.  The two singers are “%s” and “%s”.  The second one will be ignored for now." = "您的两个演唱者拥有相同的 ID %1$s。这两个演唱者是： “%2$s” 和 “%3$s”。将从现在忽略第二个。";
+
+/* No comment provided by engineer. */
+"You may get silent audio.  If so, stop the song and clear your cache, then try again.  If the problem persists, turn off “Skip silence at start of song”." = "您可能获得了无声的音频。如果这样，请停止该歌曲并清除您的缓存，然后再尝试一次。如果该问题仍然存在，请关闭“跳过歌曲开头无声部分”。";
+
+/* oops */
+"You may need to empty your trash first, or rename the Playlist before deleting it." = "您可能需要首先清空您的垃圾桶，或在删除前重命名播放列表。";
+
+/* No comment provided by engineer. */
+"You must enable the music store and restart kJams for this feature to be available." = "要使用本功能，您必须启用音乐商店并重新启动 kJams。";
+
+/* No comment provided by engineer. */
+"You must enter the name of the song" = "您必须输入歌曲名称";
+
+/* No comment provided by engineer. */
+"You must install QuickTime" = "您必须安装 QuickTime";
+
+/* No comment provided by engineer. */
+"You must install the “Image Mastering API v2.0”" = "您必须安装 “Image Mastering API v2.0”";
+
+/* notify */
+"You must purchase or activate kJams before you can purchase or activate the Burning Plugin." = "要购买或激活刻录插件，您必须先购买或激活 kJams。";
+
+/* No comment provided by engineer. */
+"You must restart kJams for this option to be enabled." = "要启用此选项您必须重新启动 kJams。";
+
+/* notify */
+"You will have to quit and re-run kJams after you install the plugin “%s”." = "在您安装插件  “%s” 后，您需要退出并重新运行 kJams。";
+
+/* No comment provided by engineer. */
+"Your credit card has expired" = "您的信用卡已过期";
+
+/* No comment provided by engineer. */
+"Your credit card has expired.  Check the expiration date." = "您的信用卡已过期。请检查过期日期。";
+
+/* No comment provided by engineer. */
+"Your credit card number is invalid." = "您的信用卡号无效。";
+
+/* No comment provided by engineer. */
+"Your credit card was declined, please call your bank." = "您的信用卡被拒绝，请联系您的银行。";
+
+/* No comment provided by engineer. */
+"Your phone number must be at least 9 digits" = "您的电话号码必须至少为 9 位。";
+
+/* warning */
+"Your QuickTime Export name template is blank, please fill it in in the preferences" = "您的 QuickTime 导出名称模板为空，请在首选项中填写。";
+
+/* No comment provided by engineer. */
+"Your search criteria produced more than %d results.  Please narrow your search by entering more search terms." = "您的搜索条件获得的结果超过了%d个。请多输入一些搜索条件，以减小搜索范围。";
+
+/* No comment provided by engineer. */
+"Your serial number file has been saved to the Desktop." = "您的序列号文件已被保存至桌面。";
+
+/* you ran out of money */
+"Your TriceraSoft Gift Pack has no more credits." = "您的 TriceraSoft 礼包点数不够。";
+
+/* warning */
+"zero_size" = "您试图播放的音频文件为零字节。是否该文件的编码出现问题？";
+
+/* a type of compressed file, i don't think you should translate this */
+"Zip" = "Zip";
+
+/* No comment provided by engineer. */
+"Zip Code must not be empty" = "邮政编码不得为空";
+
+/* postal code */
+"Zip Code:" = "邮政编码：";
+
+/* warning */
+"zip_warn_blurb" = "一些其他进程正在使用歌曲 “%s” 的 zip 文件，请再次尝试。";
+
+/* i don't think zLib can be translated */
+"Zipping Audio+G with zLib" = "正在使用 zLib 压缩音频 +G";
+
+/* as in <“kJams Music” folder>, or <“User” folder> */
+"“%s” folder" = "“%s” 文件夹";
+
+/* oops */
+"“%s” folder not found" = "未发现 “%s” 文件夹";

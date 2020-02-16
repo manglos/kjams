@@ -1,0 +1,30 @@
+/* No comment provided by engineer. */
+"(none)" = "（无）";
+
+/* this means, the software now has all functions, and is no longer limited (to 3 songs per playlist) */
+"Fully Functional" = "功能全面";
+
+/* No comment provided by engineer. */
+"kJams Producer Plugin, v" = "kJams生产插件，v";
+
+/* No comment provided by engineer. */
+"Plugin that allows kJams to edit existing or create new CD+G files." = "插件允许kJams编辑或创建CD+G格式文件。";
+
+/* No comment provided by engineer. */
+"Producer Plugin" = "生产插件";
+
+/* No comment provided by engineer. */
+"Producer plugin has expired, please download the latest!" = "生产插件已过期，请下载最新版本！";
+
+/* No comment provided by engineer. */
+"str_tryout" = "生产插件试用版可画红X在所有项目上。如果您不希望其出现，请购买插件。";
+
+/* we couldn't figure out what went wrong */
+"Strange Status State in Producer Plugin" = "生产插件显示异常状态";
+
+/* No comment provided by engineer. */
+"Tryout Only (Red X's appear in your elements)" = "仅试用 （红X出现在您项目中）";
+
+/* No comment provided by engineer. */
+"Unknown Status" = "未知状态";
+

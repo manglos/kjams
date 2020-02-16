@@ -1,0 +1,30 @@
+/* No comment provided by engineer. */
+"(none)" = "(keine)";
+
+/* this means, the software now has all functions, and is no longer limited (to 3 songs per playlist) */
+"Fully Functional" = "Voll funktionstüchtig";
+
+/* No comment provided by engineer. */
+"kJams Producer Plugin, v" = "kJams Hersteller-Plugin, v";
+
+/* No comment provided by engineer. */
+"Plugin that allows kJams to edit existing or create new CD+G files." = "Plugin, welches es kJams ermöglicht, die bereits existierenden CD+G Ordner zu bearbeiten oder neue zu erstellen.";
+
+/* No comment provided by engineer. */
+"Producer Plugin" = "Hersteller-Plugin";
+
+/* No comment provided by engineer. */
+"Producer plugin has expired, please download the latest!" = "Hersteller-Plugin ist abgelaufen, bitte lade den neusten herunter!";
+
+/* No comment provided by engineer. */
+"str_tryout" = "Die Testversion des Hersteller-Plugins zeichnet rote X in all deine Elemente. Wenn du das nicht möchtest, kauf dir bitte das Plugin.";
+
+/* we couldn't figure out what went wrong */
+"Strange Status State in Producer Plugin" = "Unbekannter Zustandsstatus im Hertseller-Plugin";
+
+/* No comment provided by engineer. */
+"Tryout Only (Red X's appear in your elements)" = "Nur Testversion ( Rote X erscheinen in deinen Elementen)";
+
+/* No comment provided by engineer. */
+"Unknown Status" = "Unbekannter Status";
+

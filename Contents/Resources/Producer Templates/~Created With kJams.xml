@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Keyframe Elements</key>
+	<array>
+		<dict>
+			<key>affine_rect</key>
+			<dict>
+				<key>Bottom</key>
+				<integer>169</integer>
+				<key>Left</key>
+				<integer>0</integer>
+				<key>Right</key>
+				<integer>288</integer>
+				<key>Top</key>
+				<integer>128</integer>
+			</dict>
+			<key>color</key>
+			<dict>
+				<key>Blue</key>
+				<integer>65308</integer>
+				<key>Green</key>
+				<integer>26262</integer>
+				<key>Red</key>
+				<integer>52360</integer>
+			</dict>
+			<key>font</key>
+			<string>Arial</string>
+			<key>justify horiz</key>
+			<integer>1</integer>
+			<key>justify vert</key>
+			<integer>0</integer>
+			<key>option bits</key>
+			<integer>1</integer>
+			<key>selected</key>
+			<false/>
+			<key>sizeF</key>
+			<real>33</real>
+			<key>string</key>
+			<string>kJams Producer</string>
+			<key>style</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>affine_rect</key>
+			<dict>
+				<key>Bottom</key>
+				<integer>107</integer>
+				<key>Left</key>
+				<integer>12</integer>
+				<key>Right</key>
+				<integer>79</integer>
+				<key>Top</key>
+				<integer>49</integer>
+			</dict>
+			<key>color</key>
+			<dict>
+				<key>Blue</key>
+				<integer>65535</integer>
+				<key>Green</key>
+				<integer>65535</integer>
+				<key>Red</key>
+				<integer>65535</integer>
+			</dict>
+			<key>font</key>
+			<string>Arial</string>
+			<key>justify horiz</key>
+			<integer>0</integer>
+			<key>justify vert</key>
+			<integer>0</integer>
+			<key>option bits</key>
+			<integer>1</integer>
+			<key>selected</key>
+			<false/>
+			<key>sizeF</key>
+			<real>17</real>
+			<key>string</key>
+			<string>Created with:</string>
+			<key>style</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>affine_rect</key>
+			<dict>
+				<key>Bottom</key>
+				<integer>192</integer>
+				<key>Left</key>
+				<integer>0</integer>
+				<key>Right</key>
+				<integer>288</integer>
+				<key>Top</key>
+				<integer>161</integer>
+			</dict>
+			<key>color</key>
+			<dict>
+				<key>Blue</key>
+				<integer>65535</integer>
+				<key>Green</key>
+				<integer>65535</integer>
+				<key>Red</key>
+				<integer>65535</integer>
+			</dict>
+			<key>font</key>
+			<string>Arial</string>
+			<key>justify horiz</key>
+			<integer>1</integer>
+			<key>justify vert</key>
+			<integer>0</integer>
+			<key>option bits</key>
+			<integer>1</integer>
+			<key>selected</key>
+			<false/>
+			<key>sizeF</key>
+			<real>23</real>
+			<key>string</key>
+			<string>www.kjams.com</string>
+			<key>style</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>affine_rect</key>
+			<dict>
+				<key>Bottom</key>
+				<integer>129</integer>
+				<key>Left</key>
+				<integer>87</integer>
+				<key>Right</key>
+				<integer>209</integer>
+				<key>Top</key>
+				<integer>13</integer>
+			</dict>
+			<key>color</key>
+			<dict>
+				<key>Blue</key>
+				<integer>65535</integer>
+				<key>Green</key>
+				<integer>65535</integer>
+				<key>Red</key>
+				<integer>65535</integer>
+			</dict>
+			<key>font</key>
+			<string>Monaco</string>
+			<key>justify horiz</key>
+			<integer>0</integer>
+			<key>justify vert</key>
+			<integer>0</integer>
+			<key>option bits</key>
+			<integer>0</integer>
+			<key>selected</key>
+			<false/>
+			<key>sizeF</key>
+			<real>10</real>
+			<key>string</key>
+			<string>[/Resources/pictures/kJams.pct]</string>
+			<key>style</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>Palette</key>
+	<array/>
+	<key>dither</key>
+	<true/>
+	<key>duration</key>
+	<integer>1089</integer>
+	<key>fade</key>
+	<false/>
+	<key>new page</key>
+	<true/>
+	<key>new pal</key>
+	<true/>
+	<key>time</key>
+	<integer>11336</integer>
+	<key>xor</key>
+	<false/>
+</dict>
+</plist>

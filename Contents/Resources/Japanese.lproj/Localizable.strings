@@ -1,0 +1,3336 @@
+/* User Sort Order */
+"#" = "#";
+
+/* number of times the song has been sung */
+"# Sung" = "# 回歌い済み";
+
+/* first is name of program */
+"%s only allows you to export up to 10 songs to QuickTime." = "%sでは最大10曲まで QuickTimeにエクスポートすることができます。";
+
+/* first is name of program, 2nd is playlist type */
+"%s only allows you to have up to %ld items in a “%s” playlist." = "%1$s では「%3$s」プレイリスト内に最大 %2$ld 項目まで持つことができます。";
+
+/* first is name of program, 2nd is number of singers, 3rd is playlist type */
+"%s only allows you to have up to %ld singers in the “%s” playlist." = "%1$s では「%3$s」 プレイリスト内に %2$ld 人まで歌手を含むことができます。";
+
+/* first is name of program, 2nd is playlist type */
+"%s only allows you to rip the first %ld songs in a “%s” playlist." = "%1$s では「%3$s」プレイリスト内の最初の%2$ld 曲までリッピングすることができます。";
+
+/* first is name of application, second is version number */
+"%s version %s is now available!" = "%1$s バージョン %2$s が入手可能です!";
+
+/* expires on date */
+"(Expires: %s)" = "(有効期限： %s)";
+
+/* does not expire */
+"(No Expiration)" = "(有効期限なし)";
+
+/* No comment provided by engineer. */
+"(Not Verified)" = "(未認証ユーザー)";
+
+/* change the pitch */
+"(Pitch Bend: %+d)" = "(ピッチベンド： %+d)";
+
+/* as in, you can try this out for free, and pay later when you want */
+"(Tryout)" = "(試用版)";
+
+/* indicates a song has vocals.  note preceeding space and parens */
+"(With Vocals)" = "(ボーカル付き)";
+
+/* you can download this */
+"* Download" = "* ダウンロード";
+
+/* No comment provided by engineer. */
+"* Singer PW" = "* Singer PW";
+
+/* name of store */
+"* Store ID" = "* 店舗 ID";
+
+/* you can stream this */
+"* Stream" = "* ストリーム";
+
+/* service level */
+"* Tier" = "* 層";
+
+/* first name */
+"1st name" = "名前 1";
+
+/* second name */
+"2nd name" = "名前 2";
+
+/* No comment provided by engineer. */
+": Free sign up required" = "：無料サインアップしてください";
+
+/* the name of the space bar key */
+"[space]" = "[スペース]";
+
+/* No comment provided by engineer. */
+"A general connection failure has occured." = "一般的な接続障害が発生しました。";
+
+/* No comment provided by engineer. */
+"A parameter is incorrect." = "パラメータが不正です。";
+
+/* No comment provided by engineer. */
+"A purchase attempt was unsuccessful." = "購入に失敗しました。";
+
+/* No comment provided by engineer. */
+"A SKU update is available from the eSellerate Servers." = "SKU の更新は、eSellerate サーバーから入手可能です。";
+
+/* mmm */
+"A song you are trying to delete is currently playing.  Are you sure you want to delete it?" = "削除しようとしている曲は、現在再生中です。本当に削除してもよろしいですか？";
+
+/* No comment provided by engineer. */
+"Abort orphan encoding" = "孤立したエンコーディングの中止";
+
+/* No comment provided by engineer. */
+"Abort QT exporters" = "QT エクスポーターの中止";
+
+/* No comment provided by engineer. */
+"Abort song importers and zip tasks" = "インポーターおよび zip タスクの中止";
+
+/* you are trying to do something you should not do */
+"Action not allowed" = "アクションが許可されません。";
+
+/* warning */
+"activated_good_blurb" = "kJamsを有効化しました！すべての機能が完全に機能しています。しばらくすると、Eメールで受領書を受信します。これには、再インストールに必要ななシリアル番号が含まれていますのでバックアップ保管してください。";
+
+/* No comment provided by engineer. */
+"Activating" = "アクティベート中";
+
+/* No comment provided by engineer. */
+"Activation Key is Invalid" = "ライセンス認証キーは無効です。";
+
+/* Activity window, shows running threads */
+"Activity" = "アクティビティ";
+
+/* length of song not including silence at start and end */
+"Actual Duration" = "正味の再生時間";
+
+/* track is the song on the disc, proxy means <substitute> or <replacement> */
+"Add CD Track Proxy Song…" = "ＣＤトラックの代替曲を追加…";
+
+/* undo string */
+"Add Picture" = "画像を追加";
+
+/* as in, this was put in or entered or inputted */
+"Added:" = "追加済み：";
+
+/* gathering song name index */
+"Adding Song Entries…" = "曲エントリを追加する…";
+
+/* adding to [name of playlist] */
+"Adding songs to “%s”…" = "「%s」に曲を追加中…";
+
+/* adding songs */
+"Adding to Library…" = "ライブラリに追加する…";
+
+/* i am agreeing to this */
+"Agree" = "同意する";
+
+/* where the song resides */
+"Album" = "アルバム";
+
+/* No comment provided by engineer. */
+"All sales are FINAL there are NO REFUNDS." = "すべての販売は返金を受け付けません。";
+
+/* No comment provided by engineer. */
+"All the data on the disc will be lost" = "ディスク上のデータはすべて失われます。";
+
+/* No comment provided by engineer. */
+"Allocating CDPedia" = "CDPediaの割り当て";
+
+/* No comment provided by engineer. */
+"Already Reported This Error" = "既にこのエラーは報告済みです。";
+
+/* always just try it anyway */
+"Always Attempt" = "常に試行する";
+
+/* No comment provided by engineer. */
+"An activation attempt failed due to the maximum number of allowable activations being met." = "許容されるアクティベーションの最大数に達したため、活性化の試みに失敗しました。";
+
+/* No comment provided by engineer. */
+"An activation attempt was made on an invalid order." = "有効化が無効な順序で試行されました。";
+
+/* No comment provided by engineer. */
+"An attempt was made to activate an blacklisted serial number." = "ブラックリストに載っているシリアル番号を有効化しようとしました。";
+
+/* No comment provided by engineer. */
+"An attempt was made to activate an unknown serial number." = "未知のシリアル番号を有効化しようとしました。";
+
+/* No comment provided by engineer. */
+"An error occured finalizing the activation on the client machine." = "エラーはクライアントマシン上でライセンス認証を確定中に発生しました。";
+
+/* No comment provided by engineer. */
+"An internal error has occured in the engine." = "内部エラーがエンジンで発生しました。";
+
+/* No comment provided by engineer. */
+"An unknown server error has occured." = "不明のサーバーエラーが発生しました。";
+
+/* http://en.wikipedia.org/wiki/Anti-alias */
+"Anti-alias" = "アンチエイリアス";
+
+/* No comment provided by engineer. */
+"Applause!" = "拍手!";
+
+/* undo string */
+"Apply Template" = "テンプレートを適用する";
+
+/* size will be in (b, K, MB, GB, TB), indicates how big it would be if the cache were filled to maximum.  let me know if the units need to be localized */
+"Approximate size of cache if filled: %s" = "おおよその最大キャッシュサイズ： %s";
+
+/* asking if two songs are the same song */
+"Are these songs the same?" = "これらは同じ曲ですか?";
+
+/* mmm */
+"Are you sure you want reveal %d songs in the Finder?" = "本当に %d 曲を Finder に表示しますか?";
+
+/* mmm */
+"Are you sure you want to deactivate kJams on this computer?  If you deactivate, kJams will revert to Tryout mode, and you can then use your serial number on a different computer." = "コンピュータにインストールされている kJams のアクティベーションを取り消しますか？　実行すると kJams は試用モードに戻り、別のコンピュータでお客様のシリアルナンバーをご利用になれます。";
+
+/* yep */
+"Are you sure you want to delete the selected singer(s)?" = "選択した歌手 (複数) を削除してもよろしいですか？";
+
+/* No comment provided by engineer. */
+"Are you sure you want to interrupt the current song?" = "現在の曲を中断してもよろしいですか？";
+
+/* yes? */
+"Are you sure you want to permanantly delete playlist “%s”?  You can not undo this action." = "完全に「%s」プレイリストを削除してもよろしいですか ? この操作を元に戻すことはできません。";
+
+/* mmm */
+"Are you sure you want to remove the selected track references? (no actual files will be deleted)" = "選択したトラックの参照を削除してもよろしいですか?  (実際のファイルは削除されません)";
+
+/* mmm */
+"Are you sure you want to scan every single song for graphic lyrics?  This will take a VERY long time." = "グラフィックの歌詞の各曲をスキャンしますか？これは非常に長い時間がかかります。";
+
+/* asking for confirmation */
+"Are you sure?" = "これでよろしいですか？";
+
+/* No comment provided by engineer. */
+"Are your credentials correct?" = "お客様の信用証明（個人情報）は正確ですか？";
+
+/* No comment provided by engineer. */
+"Argument list too long" = "引数リストが長過ぎます。";
+
+/* Artist of song */
+"Artist" = "アーティスト";
+
+/* No comment provided by engineer. */
+"Ask for Password" = "パスワードを要求する";
+
+/* kjams is doing the asking */
+"Asking about updating database" = "データベース更新について訊く";
+
+/* part of a Bin/Cue pair of files */
+"Assembling Bin file:" = "bin ファイルの組み立て：";
+
+/* for burning */
+"Assembling Disc Image" = "ディスクイメージの組み立て";
+
+/* eeeks! */
+"Assert Fail: %s, in file: '%s' at line %ld" = "Assert.Fail： %1$s、ファイル： '%2$s' の %3$ld 行目";
+
+/* bummer */
+"At least one of these songs is missing." = "これらの曲の少なくとも一つが欠落しています。";
+
+/* try to see if it works */
+"Attempt" = "試行する";
+
+/* sound track */
+"Audio" = "音声";
+
+/* this translation must EXACTLY match what the finder shows as the DISC title when you put in a disc that has no meta info */
+"Audio CD" = "オーディオ CD";
+
+/* this translation must EXACTLY match what the finder shows as a TRACK title when you put in a disc that has no meta info */
+"Audio Track" = "オーディオトラック";
+
+/* warning */
+"auth_twice_blurb" = "kJams の指示に従い、ご利用中のコンピュータで登録されたログインパスワードを２度入力いただければ、再度入力を求められることはありません。１回目は kJams の自動アップデート承認、２回目は kJams のウェブサーバーを利用する際の 80 番ポート利用許可に必要です。";
+
+/* video background contents.  (eg: colors? movie? black?) */
+"Background" = "背景";
+
+/* this song has backing vocals */
+"Backing Vocals" = "バックボーカル";
+
+/* No comment provided by engineer. */
+"Bad address" = "不正なアドレス";
+
+/* No comment provided by engineer. */
+"Bad file descriptor" = "不正なファイル記述子";
+
+/* No comment provided by engineer. */
+"Bad file name (eg: no colons allowed)" = "不正なファイル名（例：コロンは使用できません）";
+
+/* No comment provided by engineer. */
+"Bad File Reference Number" = "不正なファイル参照番号";
+
+/* validate blurb */
+"bad_cc_ms_blurb" = "ネットワークに接続されていることを確認してください。またはクレジットカード番号、またはCVV2コードが間違って入力されていませんか？カード番号はビザかマスターカードで、ダッシュやスペースを入れないで入力する必要があります。";
+
+/* message */
+"bad_drive_blurb" = "申し訳ありませんが、お使いの CD-ROM ドライブは CD+G ディスクに対応していません。別のドライブが必要です。対応しているドライブの一覧については FAQ をご参照ください。";
+
+/* warning */
+"bad_encode_blurb" = "申し訳ありませんが、現在のオーディオ圧縮の設定で、QuickTime が読み込めない状況が作成されてしまっています。設定を変更し曲を再リッピングする必要があります。";
+
+/* warning */
+"bad_mp3_blurb" = "MP3 ファイルのいずれかまたは複数が壊れている可能性があります。各ファイルを再生してみてください。再生されないものがあった場合は、それを選択し、メニューコマンドで「編集→元のファイルをゴミ箱に移動する…」と選択します。";
+
+/* self explanatory */
+"bad_template_blurb" = "現在のタグの記述テンプレートの (「%s」) にはすべてのテンプレートの型が格納されていません。フラットリストにエクスポートするので、ファイルが上書きされる可能性があります。すべてのテンプレートの種類がある「曲名に準拠する」テンプレートを選択してください。例 :「L-T - R - S」";
+
+/* verb as in 'make this permanent' */
+"Bake" = "焼く";
+
+/* a type of audio file ready for buring to disc */
+"Bin/Cue file" = "Bin/Cue ファイル";
+
+/* shown when you attempt to rip to bin/cue */
+"bin_cue_ask_blurb" = "注： bin/cue は必ずしも望ましいものではありません。bin/cue ファイルのリッピングは未圧縮の CD  全体 (最大 800 MB) を作成し、「kJams Music」フォルダ外に置かれます。";
+
+/* short for ‘biography’, history and information about a person */
+"Bio" = "経歴";
+
+/* bit rate of compressed audio */
+"Bit Rate" = "ビットレート";
+
+/* the background has only black in it */
+"Black" = "黒";
+
+/* make the background have nothing in it */
+"Black Background" = "黒背景";
+
+/* beats per minute */
+"BPM" = "BPM";
+
+/* technical error, unix command could not be redirected */
+"Broken pipe" = "Broken pipe エラー";
+
+/* building as in creating or constructing */
+"Building CDG" = "CDG 作成";
+
+/* No comment provided by engineer. */
+"Building Playlist: %s" = "プレイリスト作成： %s";
+
+/* No comment provided by engineer. */
+"Building SMS Gateways" = "ＳＭＳのゲートウェイを構築中";
+
+/* No comment provided by engineer. */
+"Building Venues" = "会場作成";
+
+/* warning */
+"bummer_download" = "申し訳ありません。ダウンロードの圧縮解凍でエラーが起きました。ウェブサイトから手動でダウンロードしてください。";
+
+/* warning */
+"bummer_plugin" = "申し訳ありませんが、インストールのためのプラグインを見つける際にエラーが発生しました。デイブにお問い合わせください。";
+
+/* burn an entire disc from a pair of files with .bin and .cue extensions */
+"Burn bin/cue to disc…" = "bin/cue をディスクに書き込み…";
+
+/* No comment provided by engineer. */
+"Burn completed, ejecting Disc…" = "書き込み完了、ディスク取り出し…";
+
+/* bummer */
+"Burn Failed:" = "書き込みに失敗しました：";
+
+/* description of the dialog where the user will choose (pick) the order of the songs on the burned disc */
+"Burn Order Choice" = "書き込み順の選択";
+
+/* be happy */
+"burn_activ_success_blurb" = "間もなく領収書をメールで受信します。これにはシリアル番号が含まれているので、再インストールが必要な時に備えてバックアップを大切に保管してください。";
+
+/* warning */
+"burn_not_sorted_blurb" = "このプレイリストは、ユーザーの並べ替え順で表示されていません。現在の並べ替え順 (「%1$s」) でリストを書き込みますか? またはユーザーの並べ替え順  (「%2$s」) を使用して書き込みますか? 注：現在の並べ替え順で書き込むと、これと一致するようにユーザーの並べ替え順の番号が変更されます。";
+
+/* warning */
+"burn_prep_mismatch_blurb" = "%1$s 「%2$s」を書き込みのために組み立て中に問題がありました。動画サイズは %3$dですが、オーディオサイズが %4$dです。";
+
+/* yep */
+"Burning Plugin API out of date, upgrade the plugin." = "Burning プラグイン API が期限切れです。プラグインをアップグレードしてください。";
+
+/* No comment provided by engineer. */
+"Burning Plugin not detected." = "Burning プラグインが検出されません。";
+
+/* verb: purchase (shortest possible word that conveys the meaning) */
+"Buy" = "購入する";
+
+/* verb: purchase the song */
+"Buy Song" = "曲を購入する";
+
+/* No comment provided by engineer. */
+"Cache folder not found, resetting to default location." = "キャッシュフォルダがみつかりません。デフォルトの場所にリセットします。";
+
+/* warning */
+"cache size blurb" = "キャッシュサイズはこのプレイリスト内の曲数に合わせて調節されました。書き込み終了後に、再調節することができます。";
+
+/* copying the data to local storage */
+"Cacheing Audio stream:" = "オーディオストリームをキャッシング：";
+
+/* pre-loading data */
+"Cacheing file formats…" = "ファイル形式をキャッシング…";
+
+/* pre-loading data */
+"Cacheing search paths…" = "検索パスをキャッシング…";
+
+/* No comment provided by engineer. */
+"Cacheing song files…" = "歌のファイルをキャッシング...";
+
+/* No comment provided by engineer. */
+"Calculating Playlist durations…" = "プレイリストの持続時間を計算します…";
+
+/* sorry */
+"Can't Delete Playlist" = "プレイリストを削除できません。";
+
+/* bummer */
+"Can't extract this media type on a background thread." = "バックグラウンドスレッドでこのメディアタイプを抽出することはできません。";
+
+/* bummer */
+"Can't move this media type to a background thread." = "バックグラウンドスレッドにこのメディアタイプを移動することはできません。";
+
+/* no no */
+"Can't re-order the currently playing song" = "現在再生中の曲の並べ替えはできません。";
+
+/* bummer */
+"Can't skip back to previous rotation" = "前のローテーションにスキップバックすることはできません。";
+
+/* No comment provided by engineer. */
+"Cannot allocate memory" = "メモリを割り当てることができます。";
+
+/* don't translate 'kJams Music' cuz it's used in the finder */
+"cant_add_library" = "ライブラリに「kJams Music」フォルダ内にある曲を追加することはできません。そうする必要がある場合は、何か間違ったことをしたかもしれません。";
+
+/* eek */
+"cant_find_pl_singer_blurb" = "プレイリストが歌手に属していることが判明しましたが、誰のものかが不明です。このため、申し訳ありませんが、通常のプレイリストにします。その歌手を検索し、項目をその歌手のプレイリストにドラッグすることができます。";
+
+/* bummer */
+"cant_use_case_sens" = "kJamsは、いくつかの技術的な要因により「大文字と小文字を区別する」ようにフォーマットされたドライブを使用することはできません。このドライブ上の音楽を使用するには、「大文字と小文字を区別」しないようにドライブを再フォーマットする必要があります。";
+
+/* bummer */
+"cant_use_ntfs" = "MacOS は、ネイティブでこのタイプのボリュームへの書き込み機能がないため、kJamsは NTFS でフォーマットされたドライブを使用することはできません。Windows との互換性が必要な場合は、FAT のようなドライブを再フォーマットする必要があります。";
+
+/* No comment provided by engineer. */
+"cb_blurb_1" = "ボーカルが入っていない特別トラックが入手可能です。 Chartbuster にこれらのトラックを録音するための追加のライセンスについて問い合わせることができます。これらのトラックを購入するには 7 クレジットまたは $14.99 が必要ですが、ライセンス料（必須）を含みません。";
+
+/* 16 digit number */
+"CC Number:" = "CC 番号：";
+
+/* type of credit card */
+"CC Type:" = "CC タイプ：";
+
+/* track is the song on the disc, proxy means <substitute> or <replacement> */
+"CD Track Proxy" = "代替ＣＤトラック";
+
+/* obvious */
+"CD-ROM" = "CD-ROM";
+
+/* eeks */
+"CF_ASSERT Fail: Setting CD file status to empty!" = "CF_ASSERT 失敗： Setting CD ファイルステータスを空に設定しています!";
+
+/* bad situation */
+"CF_ASSERT Fail: Trying to tell a CD that it's not a CD" = "CF_ASSERT 失敗： CD に対して CD ではないと説得しようとしています。";
+
+/* warning */
+"CF_ASSERT_crash_blurb" = "クラッシュしかかっています。kJams をそのままクラッシュさせるのもいいですが、Appleのクラッシュ報告を*キャンセル* し、再度、kJamsを実行すると、kJamsが独自のクラッシュレポーターを提供します。問題を修正できるようにこのクラッシュレポートを Dave に送信します。あるいは継続することもできますが、またクラッシュする可能性があります。クラッシュしない場合は、強制保存（[control] - [alt] - [shift-S]）して終了後、できるだけ早く再実行します。";
+
+/* warning */
+"CF_ASSERT_crash_blurb_win" = "クラッシュしかかっています。kJams をそのままクラッシュさせ、問題を修正できるようにこのクラッシュレポートを Dave に送信します。あるいは継続することもできますが、またクラッシュする可能性があります。クラッシュしない場合は、強制保存（[control] - [alt] - [shift-S]）して終了後、できるだけ早く再実行します。";
+
+/* delete whatever it is */
+"Change All" = "全て変更";
+
+/* name of dialog */
+"Change Cache Location?" = "キャッシュの場所を変更しますか？";
+
+/* undo string */
+"Change CDG Stream" = "CDG ストリームを変更する";
+
+/* undo string: change font information */
+"Change Font Info" = "フォント情報を変更する";
+
+/* name of dialog */
+"Change “kJams Music” Folder Location?" = "「kJams Music」フォルダの場所を変更しますか?";
+
+/* press this button to explode */
+"change_cache_warn_blurb" = "警告： これは kJams の音楽の検索場所ではありません。やっていることを理解していますか？";
+
+/* warning */
+"change_music_fold_warn_blurb" = "警告：このフォルダはあなた（ユーザー）が使用するものではありません。これは、kJams だけによって使われ、ディスクからリッピングされた曲、またはミュージックストアで購入した曲を保存する場所です。音楽の検索する場所として、kJams に指示するためには使用されません。";
+
+/* warning */
+"ChangeFileModePrompt" = "kJams は制限されているファイルまたはフォルダを変更することを求めており、これを承認される必要があります。";
+
+/* only these credit cards */
+"Chartbuster does not accept American Express" = "Chartbuster は American Express を受け付けません。";
+
+/* confirm */
+"check_music_stores_blurb" = "少なくともあなたのミュージックストアの %d は最新ではない可能性があります。最新があれば、最新のアップデートをダウンロードしますか?";
+
+/* mmm */
+"Checking original song files…" = "元の曲ファイルを確認中です…";
+
+/* sdf */
+"Checking Playlists…" = "プレイリストを確認中です…";
+
+/* mmm */
+"Checking the playing song…" = "再生中の曲をチェックしています…";
+
+/* No comment provided by engineer. */
+"City must not be empty" = "都市は空欄にはできません。";
+
+/* - */
+"City:" = "都市";
+
+/* as in: completing, finishing, finalizing */
+"Cleaning Up:" = "クリーンアップ：";
+
+/* No comment provided by engineer. */
+"Cleaning Up…" = "クリーンアップ中です…";
+
+/* verb as in (you) erase */
+"Clear" = "消去";
+
+/* at startup */
+"Clearing out temp songs…" = "「temp」の曲をクリア中です…";
+
+/* does that make sense? */
+"Clearing Playlist" = "プレイリストのクリア";
+
+/* No comment provided by engineer. */
+"Clearing SMS Gateways" = "ＳＭＳのゲートウェイをクリア中";
+
+/* No comment provided by engineer. */
+"Clearing Song List" = "曲リストのクリア";
+
+/* No comment provided by engineer. */
+"Close CD Tray" = "CD トレイを閉じる";
+
+/* warning */
+"close_purchase_blurb" = "購入後には「領収書ウィンドウ」が表示されます。Eメールコピーが送信されるので、領収書ウィンドウを閉じます。最小化はしないでください。このウィンドウを*閉じる*ことによってのみ、ソフトウェアが自動的に自己登録し、すべての機能をロック解除します。つまり、ソフトウェアはあなたのためにシリアル番号を入力します。ダウンロードは必要ありません、ソフトウェアはすでに実行されています。";
+
+/* No comment provided by engineer. */
+"closing Clipboard" = "クリップボードを閉じる";
+
+/* No comment provided by engineer. */
+"Closing Database" = "データベースを閉じる";
+
+/* No comment provided by engineer. */
+"closing database" = "データベースを閉じる";
+
+/* No comment provided by engineer. */
+"closing eSellerate" = "eSellerate を閉じる";
+
+/* No comment provided by engineer. */
+"closing prefs" = "環境設定を閉じる";
+
+/* No comment provided by engineer. */
+"closing QuickTime" = "QuickTime を閉じる";
+
+/* the background has colors in it */
+"Colored" = "色付き";
+
+/* random thoughts about a song entered by the user */
+"Comment_blurb" = "コメント";
+
+/* these options are related to the composition */
+"Comp Level" = "構成レベル";
+
+/* No comment provided by engineer. */
+"Component not thread safe" = "コンポーネントはスレッドセーフではありません。";
+
+/* who composed the song? */
+"Composer" = "作曲家";
+
+/* No comment provided by engineer. */
+"Configuring account…" = "アカウントを設定中…";
+
+/* confirm */
+"confirm_1_purch_blurb" = "本当にこの曲、「%1$s」を%2$s プラス税で購入しますか?.";
+
+/* confirm */
+"confirm_2_purch_blurb" = "ほんとうに選択した合計 %1$d 曲を合計%2$sプラス税で購入しますか？";
+
+/* confirm */
+"confirm_special_blurb" = "購入しようとしている内、少なくとも1曲には特別な使用ライセンスが必要です。レコーディングまたはコンテストに使用するには、Chartbuster に問い合わせる必要があります。このため比較的高価ですが、ライセンス料金は含まれていません。これについては Chartbuster にご相談ください。ほんとうにこのバージョンを購入しますか?";
+
+/* asking the database for info */
+"Connecting to song stream" = "曲ストリームに接続";
+
+/* No comment provided by engineer. */
+"Contest Tonight!" = "今夜はコンテストです!";
+
+/* go on */
+"Continue" = "続行";
+
+/* No comment provided by engineer. */
+"Control error (debug)" = "コントロールエラー (デバッグ)";
+
+/* No comment provided by engineer. */
+"Converting KMA file failed." = "KMA ファイルへの変換に失敗しました。";
+
+/* does that make sense? */
+"Converting Library selection to Song List" = "ライブラリの選択項目を曲リストに変換する";
+
+/* does that make sense? */
+"Converting Playlist selection to Library selection…" = "ライブラリの選択をプレイリストの選択に変換する";
+
+/* does that make sense? */
+"Converting Playlist selection to Song List" = "プレイリストの選択を曲リストに変換する";
+
+/* No comment provided by engineer. */
+"Converting PlayLists to SQL…" = "プレイリストを SQL に変換する…";
+
+/* No comment provided by engineer. */
+"Converting Songs to SQL…" = "曲を SQL に変換する…";
+
+/* sort columns */
+"Copy Column Layout" = "列のレイアウトをコピーする";
+
+/* No comment provided by engineer. */
+"Copy to Clipboard" = "クリップボードにコピーする";
+
+/* who owns the rights? */
+"Copyright" = "Copyright";
+
+/* bad file */
+"Corrupted MP3 File" = "破損した MP3 ファイル";
+
+/* a zip file that is bad */
+"Corrupted Zip File" = "破損した Zip ファイル";
+
+/* No comment provided by engineer. */
+"Could not determine if media is supported:" = "サポート済みメディアか確認できませんでした：";
+
+/* No comment provided by engineer. */
+"Could not determine media type:" = "メディアの種類を確認できませんでした：";
+
+/* oh well */
+"Could not find the song “%s”" = "「%s」という曲がみつかりませんでした。";
+
+/* bummer */
+"Could not find video" = "動画がみつかりませんでした。";
+
+/* bummer */
+"Could not find zipped song file." = "曲の圧縮ファイルがみつかりませんでした。";
+
+/* fatal */
+"Could not get app bundle" = "アプリバンドルが取得できませんでした。";
+
+/* No comment provided by engineer. */
+"Counting Music Store Songs:" = "ミュージックストアの曲を数えています：";
+
+/* enumerate the number of items */
+"Counting:" = "カウント：";
+
+/* - */
+"Country:" = "国:";
+
+/* a code for a discount */
+"Coupon" = "クーポン";
+
+/* execute the crash command */
+"Crash" = "クラッシュ";
+
+/* would you like to crash now */
+"Crash?" = "クラッシュ?";
+
+/* warning */
+"crash_report_blurb" = "残念なことに、kJams は最近クラッシュしたようです。注：kJams は今のところクラッシュしていません。これは、*以前の*のクラッシュの報告です。バグ修正ができるように、是非私にクラッシュレポートを送信してください。";
+
+/* No comment provided by engineer. */
+"Create Account…" = "アカウント作成…";
+
+/* No comment provided by engineer. */
+"Creating Account…" = "アカウント作成中…";
+
+/* No comment provided by engineer. */
+"Creating browser buttons" = "ブラウザボタンの作成";
+
+/* No comment provided by engineer. */
+"Creating Browser Window" = "ブラウザウィンドウの作成";
+
+/* No comment provided by engineer. */
+"Creating Clipboard" = "クリップボードの作成";
+
+/* No comment provided by engineer. */
+"Creating Graphics Window" = "グラフィックウィンドウの作成";
+
+/* No comment provided by engineer. */
+"Creating kJams Windows" = "kJams ウィンドウの作成";
+
+/* 'Messenger' is the name of a feature.  'overlay' is like a layer for compositing */
+"Creating Messenger Overlays" = "メッセンジャーのオーバーレイを作成中";
+
+/* No comment provided by engineer. */
+"Creating QuickTime Components menu…" = "QuickTime コンポーネントメニューを作成中…";
+
+/* No comment provided by engineer. */
+"Creating ShowScreens menu…" = "ShowScreens メニューを作成中…";
+
+/* No comment provided by engineer. */
+"Creating Sources List" = "ソースリストの作成";
+
+/* No comment provided by engineer. */
+"Creating task manager" = "タスクマネージャーを作成中";
+
+/* No comment provided by engineer. */
+"Creating Task Window" = "タスクウィンドウの作成";
+
+/* No comment provided by engineer. */
+"Creating Tasks Window" = "タスクウィンドウの作成";
+
+/* No comment provided by engineer. */
+"Creating Tracks List" = "トラックリストの作成";
+
+/* No comment provided by engineer. */
+"Creating Video Window" = "動画ウィンドウの作成";
+
+/* No comment provided by engineer. */
+"Credit Card Number must be numeric" = "クレジットカード番号は数字である必要があります。";
+
+/* No comment provided by engineer. */
+"Credit card number must have between 13 and 19 digits" = "クレジットカード番号は 13 〜 19 桁の数字である必要があります。";
+
+/* No comment provided by engineer. */
+"Critical warning!  The release of MacOS 10.8 is imminent!  Since you have a PowerPC computer, kJams will require a special PowerPC-only version.  Please email Dave immediately if you need to continue running kJams on your PowerPC computer." = "大な警告！ MacOSの10.8 のリリースが目前に迫っています！お使いの PowerPC コンピュータで、kJams を実行するには、特殊なPowerPC 専用のバージョンが必要になります。PowerPCのコンピュータ上で kJams を使い続ける必要がある場合はただちにデイブにメールでご連絡ください。";
+
+/* confirm */
+"critical_update_blurb" = "ミュージックストア「%1$s」には重要な更新がありました： %2$s 更新されたミュージックストアをダウンロードしますか?";
+
+/* No comment provided by engineer. */
+"Cross-device link" = "デバイス間リンク";
+
+/* size comes after this */
+"Current Cache Size:" = "現在のキャッシュサイズ：";
+
+/* manually entered 'freedb' server */
+"Custom" = "カスタム";
+
+/* custom string set by user */
+"custom_blurb" = "カスタム";
+
+/* No comment provided by engineer. */
+"CVV2 code must be numeric" = "CVV2 コードは数字でなければなりません。";
+
+/* No comment provided by engineer. */
+"CVV2 code must have between 3 and 4 digits" = "CVV2 コードは 3 〜 4 桁の数字である必要があります。";
+
+/* credit card security code (three or four digits) */
+"CVV2:" = "CVV2：";
+
+/* the freedb database */
+"Database:" = "データベース";
+
+/* date the song was last sung */
+"Date" = "日付";
+
+/* when was this added to the library */
+"Date Added" = "追加日";
+
+/* No comment provided by engineer. */
+"Date must be of the form “MM/YYYY”" = "日付は「MM/YYYY」の形式である必要があります。";
+
+/* one */
+"Day" = "日";
+
+/* plural */
+"Days" = "日間";
+
+/* verb: i deactivate */
+"Deactivate" = "取り消す";
+
+/* the BIN file is the source of the song */
+"Decode from BIN file:" = "BINファイルからデコード：";
+
+/* the value that is used if the user does not specify a value */
+"Default" = "デフォルト";
+
+/* No comment provided by engineer. */
+"Default Media Stream Info has been saved." = "デフォルトのメディアストリーム情報が保存されました。";
+
+/* see above */
+"Deinterleaving / Error Correcting Graphics" = "グラフィック修正のデインタリーブ/エラー";
+
+/* how long to wait after the user clicks before showing the text edit box */
+"Delay time after click to start edit (seconds)" = "[編集を開始] をクリック後の遅延時間 (数秒)";
+
+/* how long to wait before setting the ID3 tag info within the files */
+"Delay time after editing to store tags to files (seconds)" = "ファイルにタグを格納するために編集した後の遅延時間 (数秒)";
+
+/* delete whatever it is */
+"Delete" = "削除";
+
+/* No comment provided by engineer. */
+"Delete browser" = "ブラウザを削除する";
+
+/* undo string */
+"Delete composition element" = "構成要素を削除する";
+
+/* are you sure? */
+"Delete Current Singer?" = "現在の歌手を削除しますか?";
+
+/* No comment provided by engineer. */
+"Delete graphics" = "グラフィックを削除する";
+
+/* No comment provided by engineer. */
+"Delete LAME" = "LAME を削除する";
+
+/* mmm */
+"Delete Library" = "ライブラリを削除する";
+
+/* No comment provided by engineer. */
+"Delete Object Tracker" = "オブジェクトトラッカーを削除する";
+
+/* yes? */
+"Delete Playlist" = "プレイリストを削除する";
+
+/* yep */
+"Delete Singers" = "歌手を削除する";
+
+/* mmm */
+"Delete Tracks" = "トラックを削除する";
+
+/* yep */
+"Delete Venue" = "会場を削除";
+
+/* No comment provided by engineer. */
+"Delete version tracker" = "バージョントラッカーを削除する";
+
+/* No comment provided by engineer. */
+"Delete zipper" = "ジッパーを削除する";
+
+/* warning */
+"delete_singing_singer" = "ほんとうに現在歌っている人を削除しますか？注： これは現在の曲を中断します!";
+
+/* deletion warning */
+"delete_songs_blurb" = "警告!! これはハードディスクから元のファイルをゴミ箱に移動するだけでなく、すべてのプレイリストの参照を削除します。ほんとうに選択したファイルをゴミ箱に移動しますか?";
+
+/* deletion warning */
+"delete_venue_blurb" = "ほんとうにこの会場「%s」を削除しますか? この会場に所属する歌手で他の会場にエイリアスがある場合、彼らは他の会場からも削除されます。この処理の取り消しはできません。";
+
+/* No comment provided by engineer. */
+"Deleting CDPedia…" = "CDPedia を削除中…";
+
+/* No comment provided by engineer. */
+"Deleting MetaData Traits Database" = "メタデータの特性データベースを削除する";
+
+/* does that make sense? */
+"Deleting Songs from Database" = "データベースから曲を削除中です。";
+
+/* obvious? */
+"Deleting Songs…" = "曲を削除中…";
+
+/* No comment provided by engineer. */
+"Deleting task manager" = "タスクマネージャを削除中です。";
+
+/* No comment provided by engineer. */
+"Deleting Undo System" = "取り消しシステムを削除中です。";
+
+/* see above */
+"Demuxing Audio & Graphic Streams" = "オーディオ & グラフィックストリームを分離する";
+
+/* demux means separating audio and video */
+"Demuxing MPEG audio…" = "MPEG オーディオを分離中…";
+
+/* un-select, or cause there to be no selection */
+"Deselect" = "選択を外す";
+
+/* the name of the desktop folder */
+"Desktop" = "デスクトップ";
+
+/* No comment provided by engineer. */
+"Device busy" = "デバイスはビジーです。";
+
+/* No comment provided by engineer. */
+"Device not configured" = "デバイスが設定されていません。";
+
+/* No comment provided by engineer. */
+"Directory not empty" = "ディレクトリは空ではありません。";
+
+/* No comment provided by engineer. */
+"Disable" = "停止";
+
+/* No comment provided by engineer. */
+"disable_auto_renew_blurb" = "自動更新を停止してもよろしいですか？　利用を停止しても契約期間中は利用料金をお支払いいただきます。自動更新を停止すると、有効期限が切れる際に自動で契約更新されません。";
+
+/* No comment provided by engineer. */
+"Disabled" = "停止中";
+
+/* No comment provided by engineer. */
+"Disabling Auto-Renew…" = "オートレビューを停止中…";
+
+/* No comment provided by engineer. */
+"Disc Burning Progress" = "ディスク書き込みの進捗状況";
+
+/* No comment provided by engineer. */
+"Disc Recorder Error: 0x%08x" = "ディスクレコーダーエラー： 0x%08x";
+
+/* No comment provided by engineer. */
+"Disc Ripping Complete!" = "ディスクのリッピングが完了しました！";
+
+/* warning */
+"disc_meta_info1_blurb" = "このディスクのすべてのメタ情報を入力してください。欠けているデータ： %s。";
+
+/* warning */
+"disc_meta_info2_blurb" = "まだ欠けているメタ情報があります。もう一度お試しください…欠けているデータ：%s。";
+
+/* No comment provided by engineer. */
+"Disk is full" = "ディスクが満杯です。";
+
+/* No comment provided by engineer. */
+"Disposing Task Window" = "タスクウインドウを処理中";
+
+/* No comment provided by engineer. */
+"disposing Task Window" = "タスクウィンドウを処分する";
+
+/* http://en.wikipedia.org/wiki/Dither */
+"Dither" = "ディザ";
+
+/* No comment provided by engineer. */
+"Do you have a coupon?  Or is this just a normal purchase?" = "何かクーポンをお持ちですか？　あるいは通常のご購入ですか？";
+
+/* No comment provided by engineer. */
+"Do you use Apple's “Mail” application to send email or do you use some other method?" = "Apple の「Mail」アプリケーションを使いますか、または別の方法を使いますか?";
+
+/* yes */
+"Do you want to try to find it yourself?" = "自分でみつけますか?";
+
+/* these options are related to the composition */
+"Document Level" = "ドキュメントレベル";
+
+/* do not ask me the same question any more, i will give the same answer always */
+"Don't Ask Again" = "確認しない";
+
+/* No comment provided by engineer. */
+"Don't forget to tip your waitress!" = "ウェイトレスにチップを忘れずに!";
+
+/* do NOT send this to me via email */
+"Don't Send" = "送信しない";
+
+/* No comment provided by engineer. */
+"Don't warn me again for a month" = "1か月は警告しない";
+
+/* finished, completed */
+"Done" = "完了";
+
+/* as in download, as a verb */
+"Download" = "ダウンロード";
+
+/* No comment provided by engineer. */
+"Download session timed out" = "ダウンロードセッションのタイムアウト";
+
+/* message */
+"download_pro_blurb" = "kJams 試用版の Lite バージョンには歌手とローテーションはありません。 Pro バージョンをダウンロードしますか?";
+
+/* No comment provided by engineer. */
+"Downloading file:" = "ファイルをダウンロード：";
+
+/* downloads folder */
+"Downloads" = "ダウンロード";
+
+/* No comment provided by engineer. */
+"Drink Specials!" = "スペシャルを飲もう!";
+
+/* No comment provided by engineer. */
+"DRStatusStateFailed" = "DRStatusStateFailed";
+
+/* a duet is a song sung by two people */
+"Duet" = "デュエット";
+
+/* a comment about who will be singing the duet */
+"Duet Comment" = "デュエットのコメント";
+
+/* oops */
+"dupe items blurb" = "いくつかのデータベース項目には重複したIDがあり、データベース破損の可能性があります。";
+
+/* i tried */
+"dupe items fixed blurb" = "修復を試みましたが、未だ問題は残るかもしれません。Dave にお問い合わせください。";
+
+/* oops */
+"dupes not fixed blurb" = "すべてが修復されたわけではありません。Dave にログファイルとあなたの「kJams ライブラリ」フォルダを送信し、その後、これらを同じフォルダから削除してください。申し訳ありません。";
+
+/* No comment provided by engineer. */
+"Duplicate File Name" = "重複したファイル名";
+
+/* No comment provided by engineer. */
+"Duplicate Singer:" = "重複した歌手";
+
+/* Duration of song */
+"Duration" = "時間";
+
+/* settings that are only relevant while playing a song */
+"During Play:" = "再生中：";
+
+/* No comment provided by engineer. */
+"E-mail address or password is empty" = "メールアドレスかパスワードが未入力です";
+
+/* obvious */
+"E-Mail address:" = "メールアドレス：";
+
+/* No comment provided by engineer. */
+"e-mail must not be empty" = "Eメールは空欄にできません。";
+
+/* No comment provided by engineer. */
+"e-mail:" = "メールアドレス：";
+
+/* undo string */
+"Edit Graphic" = "グラフィックの編集";
+
+/* undo string */
+"Edit Instruction Value" = "編集指示値";
+
+/* thanks */
+"Ejecting disc, please wait…" = "ディスクを取り出しています。お待ちください…";
+
+/* No comment provided by engineer. */
+"Elapsed Time: %s" = "経過時間： %s";
+
+/* these options are related to the selected composition element */
+"Element Level" = "要素レベル";
+
+/* this is what's in the freedb pane */
+"email_blurb" = "あなたのメールドレスは、FreeDB への投稿の返信アドレスとして使用されます。あなたの投稿にエラーがある場合は通知されます。また、ミュージックストアのストリーミングや購入および、クラッシュレポートの返信アドレスとして使用されます。";
+
+/* message */
+"email_log_blurb" = "いメールメッセージにこのフォルダを添付し、dave@kjams.comに送信してください。自動的にメールメッセージを作成します。";
+
+/* No comment provided by engineer. */
+"Enable" = "利用";
+
+/* short message system, or 'texting' */
+"Enable SMS" = "ＳＭＳを利用";
+
+/* No comment provided by engineer. */
+"Enabled" = "利用中";
+
+/* No comment provided by engineer. */
+"Enabling Auto-Renew…" = "オートレビューの利用を開始中…";
+
+/* No comment provided by engineer. */
+"Encoder not found" = "エンコーダがみつかりません。";
+
+/* mmmhmmm */
+"Encoding with %s: %s" = "%1$sによりエンコード中： %2$s";
+
+/* yup */
+"Encoding with QuickTime:" = "QuickTime でエンコード中：";
+
+/* No comment provided by engineer. */
+"End of File" = "ファイルの終わり";
+
+/* No comment provided by engineer. */
+"Enter e-mail address and password:" = "メールアドレスとパスワードを入力してください：";
+
+/* how long should the sample be? */
+"Enter the duration of the song sample:" = "曲サンプルの時間を入力します：";
+
+/* No comment provided by engineer. */
+"Enter Track Information:" = "トラック情報を入力してください：";
+
+/* ask the user to enter the name of the disc, using the 'CDPedia' disc title */
+"Enter “CDPedia” Disc Title" = "「CDPedia」 ディスクのタイトルを入力します。";
+
+/* ask the user to enter the name of the disc, using the 'kjpro' disc title format, do not localize 'kjpro' */
+"Enter “KJPro.com” Disc Title" = "Enter 「KJPro.com」ディスクのタイトルを入力します。";
+
+/* message */
+"erase_drive_blurb" = "ほんとうに%s ドライブのディスクを書き込む前に削除しますか?";
+
+/* eek */
+"err_saving" = "「%s」ファイルを保存中にエラーがありました。";
+
+/* bummer */
+"Error" = "エラー";
+
+/* No comment provided by engineer. */
+"Error attempting to save database!" = "データベース保存試行中にエラーがありました!";
+
+/* first is either 'file' or 'folder', second is either 'specification' or empty, third is name of file/folder */
+"Error creating %s %s“%s”" = "%1$sを %2$s「%3$s」に作成中にエラーがありました。";
+
+/* No comment provided by engineer. */
+"Error gathering crash or log data" = "クラッシュあるいはログデータの取得エラー";
+
+/* mmm */
+"Error loading editor state" = "編集状況をロード中にエラーが起きました。";
+
+/* No comment provided by engineer. */
+"Error loading XML file:" = "XML ファイルをロード中にエラーが起きました：";
+
+/* No comment provided by engineer. */
+"Error parsing Karaoke Locker music store." = "Karaoke Locker ミュージックストアを解析中にエラーが起きました。";
+
+/* No comment provided by engineer. */
+"Error parsing the version XML data" = "XML データのバージョンを解析中にエラーが起きました。";
+
+/* first is name of venue or playlist, second is string describing the error */
+"Error renaming <%s> in the file system! (%s)" = "ファイルシステムにおけるリネームエラー <%1$s> ！（%2$s）";
+
+/* bummer */
+"Error renaming Singer in the Finder" = "Finder 内の歌手の名前変更でエラーがありました。";
+
+/* bad file */
+"Error Renaming Songs" = "曲の題名変更でエラーがありました。";
+
+/* No comment provided by engineer. */
+"Error resolving shortcut: Could not instantiate %s.  Original path: %s" = "ショートカットの関連付けエラー： ショートカット先がありません %1$s。オリジナルパス： %2$s";
+
+/* No comment provided by engineer. */
+"Error while syncing:" = "同期中のエラー：";
+
+/* error number */
+"Error: %d" = "エラー： %d";
+
+/* bummer */
+"Error: CDPedia says the disc has wrong number of songs?" = "エラー： CDPedia によれば、ディスクには誤った数の曲があります。";
+
+/* No comment provided by engineer. */
+"Error: Did not recieve a serial number?" = "エラー： シリアル番号を受信しましたか?";
+
+/* bummer */
+"Error: KJPro says the disc has wrong number of songs?" = "エラー： KJPro によれば、ディスクには誤った数の曲があります。";
+
+/* bummer */
+"Error: The freedb says the disc has wrong number of songs?" = "エラー： freedb によれば、ディスクには誤った数の曲があります。";
+
+/* warning */
+"ese perms blurb" = "ライブラリ/フレームワーク内のフォルダに書き込み権限を設定して修正できる可能性があります。";
+
+/* No comment provided by engineer. */
+"eSellerate engine happy!" = "eSellerate エンジンは正常です!";
+
+/* No comment provided by engineer. */
+"eSellerate engine not found!" = "eSellerate エンジンがみつかりません!";
+
+/* No comment provided by engineer. */
+"Exec format error" = "Exec 形式エラー";
+
+/* short warning this song will cost you more */
+"Expensive Song!" = "高価な曲です!";
+
+/* expiry date of credit card */
+"Expiration:" = "有効期限：";
+
+/* No comment provided by engineer. */
+"Expired:" = "期限切れ：";
+
+/* date */
+"Expired: %s" = "期限終了日： %s";
+
+/* help me understand the situation */
+"Explain" = "説明してください。";
+
+/* No comment provided by engineer. */
+"explain_cc_blurb" = "次の画面で、お客様の住所／氏名／クレジットカード情報を入力してください。曲／サブスクリプション／バウチャーを購入しなければ、カードに請求されることは一切ありません。";
+
+/* No comment provided by engineer. */
+"explain_name_pw_blurb" = "次の画面で、KaraokeCloud アカウントを作成する際に使用するユーザー名とパスワードを入力してください。";
+
+/* there are dirty words in this song */
+"Explicit" = "Explicit";
+
+/* dialog name.  the user is editing their QuickTime Export settings, and saving them for later, so the settings are available ahead of time for when they want to do an export, hence 'pre-set' */
+"Export Preset" = "プリセットのエクスポート";
+
+/* command */
+"Export Songs" = "曲のエクスポート";
+
+/* self explanatory */
+"export_format_blurb" = "メインフォルダを「アーティスト」別に、サブフォルダを「アルバム」別に並び替えますか (2 レベル) ? または、メインフォルダをアルバム別に、アルバムの全曲を入れて並び替えますか (1
+ レベル) ? メインフォルダの形式を選んでください。";
+
+/* self explanatory */
+"export_heirarchic_blurb" = "全曲を単一のフォルダ (フラット) にエクスポートしますか? または、それらをサブフォルだにコピーして、アルバムとアーティスト別に整理しますか (階層的) ?";
+
+/* for export */
+"Exporting BIN/CUE" = "BIN/CUE のエクスポート";
+
+/* yup */
+"Exporting QuickTime:" = "QuickTime のエクスポート：";
+
+/* verb as in (you) cause this image to fade to black */
+"Fade" = "フェード";
+
+/* No comment provided by engineer. */
+"Failed downloading list of songs" = "曲リストのダウンロードに失敗しました";
+
+/* parse means read/digest/understand/collate */
+"Failed parsing list of songs" = "曲リストを読み込めませんでした";
+
+/* this track is not real, don't use it */
+"fake track, do not rip" = "架空のトラックです。リップしないでください。";
+
+/* the singers favorite songs */
+"Favorites" = "お気に入り";
+
+/* the girl singer */
+"Female" = "女性";
+
+/* go get the audio */
+"Fetch Audio from iTunes" = "iTunes からオーディオを取得";
+
+/* from iTunes */
+"Fetching Artist '%s'" = "アーティスト「%s」を取得";
+
+/* No comment provided by engineer. */
+"file" = "ファイル";
+
+/* No comment provided by engineer. */
+"File already open with write permission" = "書き込み権限のあるファイルは既に開いています。";
+
+/* No comment provided by engineer. */
+"File exists" = "ファイルは存在します。";
+
+/* No comment provided by engineer. */
+"File name too long" = "ファイル名が長過ぎます。";
+
+/* names of files */
+"File Names" = "ファイル名";
+
+/* No comment provided by engineer. */
+"File Not Found" = "ファイルがみつかりません。";
+
+/* No comment provided by engineer. */
+"File Not Open" = "ファイルが開いていません。";
+
+/* No comment provided by engineer. */
+"File Position Error" = "ファイルの位置エラー";
+
+/* bummer */
+"File spooler open error" = "ファイルのオープンスプーラのエラー";
+
+/* No comment provided by engineer. */
+"File too large" = "ファイルが大き過ぎます。";
+
+/* specified file will come after this string */
+"File:" = "ファイル：";
+
+/* a ring buffer is a buffer area that gets used over and over, like a circular ring with a read  head and a write head.  The heads don't move, while the ring spins, the write head puts data into the ring, and the read head reads it off */
+"Fill Ring Buffer: Audio Out" = "リングバッファを埋める：オーディオ出力";
+
+/* No comment provided by engineer. */
+"Finalizing Playlists…" = "プレイリストの確定…";
+
+/* verb as in please go find this */
+"Find" = "検索";
+
+/* have the user locate the folder */
+"Find it" = "検索する";
+
+/* directive: user, please select a folder */
+"Find Music Folder:" = "ミュージックフォルダの検索：";
+
+/* please locate the following musical arrangment */
+"Find Song: “%s”" = "曲の検索： 「%s」";
+
+/* an orphaned song is one that has been abandoned and is unaccounted for */
+"Finding Orphans" = "孤立しているファイルの検索";
+
+/* No comment provided by engineer. */
+"Finishing Browser Window" = "ブラウザウィンドウ終了";
+
+/* No comment provided by engineer. */
+"Finishing menu creation" = "メニュー作成終了";
+
+/* No comment provided by engineer. */
+"First Name must not be empty" = "名前は空欄にできません。";
+
+/* - */
+"First Name:" = "名前：";
+
+/* No comment provided by engineer. */
+"First you take a drink, then the drink takes a drink, then the drink takes you." = "1杯目は君が酒を飲み、 2杯目は酒が酒をのみ、 そして、その後は酒が君を飲む。";
+
+/* No comment provided by engineer. */
+"folder" = "フォルダ";
+
+/* obvious? */
+"Font size:" = "フォントサイズ";
+
+/* No comment provided by engineer. */
+"For the Server to function properly, you must install Bonjour (Print Services) for Windows" = "Windows を利用中のお客様は、サーバーを適切に機能させるために Bonjour（プリントサービス）をインストールしてください。";
+
+/* describes type of file (mp3, aif, mov, etc) */
+"Format" = "形式";
+
+/* results of a search, how many found */
+"Found %d songs" = "%d 曲みつかりました。";
+
+/* as in: there is no cost or charge for this */
+"Free" = "無料";
+
+/* No comment provided by engineer. */
+"Function not implemented" = "機能は実装されていません。";
+
+/* when the user deletes a list of songs, we must first gather some info about what will be deleted */
+"Gathering deletion information…" = "削除情報を収集中です…";
+
+/* No comment provided by engineer. */
+"Gathering Files in folder" = "フォルダ内ファイルの収集";
+
+/* sex of singer */
+"Gender" = "性別";
+
+/* the style of a song, eg: rock, blues, hip-hop etc */
+"Genre" = "ジャンル";
+
+/* command to go and fetch something */
+"Get it…" = "取得する…";
+
+/* verb: get the free song */
+"Get Song" = "曲を取得する";
+
+/* warning */
+"get_producer_blurb" = "一部の歌は別売りで試用無料の Producer プラグインがないとグラフィックなしで焼き付けられます。プラグインをインストールした後、および購入後にも赤い×マークを取り除くため、必ずディスクキャッシュ（オーディオプリファレンス）をクリアにしてください。";
+
+/* reading the directory of a disk */
+"Getting bulk catalog info for “%s”" = "「%s」のバルクカタログ情報取得";
+
+/* from freedb */
+"Getting Categories…" = "カテゴリの取得…";
+
+/* for freedb */
+"Getting Disc ID…" = "ディスク ID の取得…";
+
+/* from freedb */
+"Getting Sites…" = "サイトの取得…";
+
+/* from freedb */
+"Getting Tracks…" = "トラックの取得…";
+
+/* No comment provided by engineer. */
+"Gift Card:" = "ギフトカード：";
+
+/* how much does the video slip from the audio (float, seconds) */
+"Global Slip: %.2f Seconds" = "Globalスリップ： %.2f 秒";
+
+/* how far to slip the video sync relative to the audio, for all songs */
+"Global Sync Slip: %.1f seconds" = "Global 同期スリップ: %.1f 秒";
+
+/* user enters a new time */
+"Go To Time" = "時間に移動";
+
+/* what channel are you watching */
+"Graphic Channels" = "グラフィックチャンネル";
+
+/* short for Global Slip */
+"GS: %.2f," = "GS： %.2f、";
+
+/* eek */
+"guessing_cd_meta" = "このCDのトラック情報は曲別の情報を正確に記録しなかったバージョンの kJams で保存されています。重複したエントリがみつかるので、ただちに修正してください。";
+
+/* No comment provided by engineer. */
+"Hardware Mismatch" = "ハードウェアの不一致";
+
+/* No comment provided by engineer. */
+"Help" = "ヘルプ";
+
+/* present, available, accounted for, at the venue, as opposed to 'has gone home' */
+"Here" = "出席";
+
+/* please remove the silly / ridiculous multi-colored picture */
+"Hide That Crazy Rainbow!" = "カラフルな画像を隠してください!";
+
+/* No comment provided by engineer. */
+"Hide Windows" = "ウィンドウを隠す";
+
+/* make it look really good */
+"High Quality Render" = "高品質のレンダリング";
+
+/* record of all songs ever sung by the singer */
+"History" = "履歴";
+
+/* private (not public) performance */
+"Home Streaming" = "ホームストリーミング";
+
+/* No comment provided by engineer. */
+"Home Streaming. Monthly contract" = "月極契約ホームストリーミング";
+
+/* user affirms they use the product only at home */
+"Home User" = "個人ユーザー";
+
+/* one */
+"Hour" = "時間";
+
+/* plural */
+"Hours" = "時間";
+
+/* question */
+"How would you like to obtain meta info?" = "メタ情報をどのように取得しますか?";
+
+/* No comment provided by engineer. */
+"I'm serious, if you don't enter a valid email address you can't use kJams. If you enter an invalid address, the universe will implode, so take care!" = "これは重要です。正しいメールアドレスを入力しないと、 kJams はお使いいただけません。間違ったメールアドレスを入力すると宇宙が崩壊するので、気をつけてくださいね!";
+
+/* if they are the same, then pick one please */
+"If so, please pick which name to use:\n1st:\t%s\n2nd:\t%s" = "その場合は、どの名前を使うか選択してください：\n1 番目：\t%1$s\n2 番目：\t%2$s";
+
+/* No comment provided by engineer. */
+"If the auto-update fails, you should manually install it.  To do so, go to the web site, then download it manually and install it." = "自動更新に失敗した場合、手動でインストールする必要があります。そのためには、ウェブサイトから手動でダウンロードおよびインストールします。";
+
+/* as in so what, or i don't care, or blow it off */
+"Ignore" = "無視する";
+
+/* No comment provided by engineer. */
+"Ignore Error Correction" = "エラー修正を無視";
+
+/* No comment provided by engineer. */
+"Illegal key type:" = "違法なキーの種類：";
+
+/* No comment provided by engineer. */
+"Illegal seek" = "不正なシーク";
+
+/* dialog name.  same as 'Export Preset', but for import (ripping) */
+"Import Preset" = "プリセットのインポート";
+
+/* getting info about each song */
+"Importing CAVS Meta Data" = "CAVS メタデータのインポート";
+
+/* No comment provided by engineer. */
+"Improper usage of the activation routines." = "アクティベーションルーチンの不適切な使用。";
+
+/* No comment provided by engineer. */
+"Inappropriate ioctl for device" = "デバイスの不適切な ioctl";
+
+/* warning */
+"include stores in library" = "メインライブラリのプレイリストにあるすべての曲とミュージックストアが、このオプションに含まれています。すべてに歌手がミュージックストアから曲を購入・ストリーミングできることを望むＫＪ専用仕様です。本当によろしいのですか？";
+
+/* bummer */
+"Incompatible Drive" = "互換性のないドライブ";
+
+/* more information */
+"Info" = "情報";
+
+/* the %s is “kJams <VERSION>” when the app is opening */
+"Initializing %s" = "%sの初期化";
+
+/* No comment provided by engineer. */
+"Initializing AppleRemote" = "AppleRemote の初期化";
+
+/* No comment provided by engineer. */
+"Initializing Fast CDG Upscaling" = "高速 CDG アップスケーリングの初期化";
+
+/* No comment provided by engineer. */
+"Initializing Growl" = "Growl の初期化";
+
+/* No comment provided by engineer. */
+"Initializing Microphone" = "マイクの初期化";
+
+/* asking the database for info */
+"Initiating song download" = "曲のダウンロードの開始";
+
+/* No comment provided by engineer. */
+"Input/output error" = "入力/出力エラー";
+
+/* undo string */
+"Insert composition template" = "構成テンプレートの挿入";
+
+/* this is the window where you inspect (view) information about your selection */
+"Inspector" = "インスペクタ";
+
+/* warning */
+"install_ffmpeg" = "MPEG-1 または MPEG-2 ファイルを再生するには「ffmpeg」をダウンロードしインストールする必要があります。";
+
+/* No comment provided by engineer. */
+"Instructions" = "説明";
+
+/* No comment provided by engineer. */
+"Interrupted system call" = "割り込まれたシステムコール";
+
+/* No comment provided by engineer. */
+"Invalid argument" = "無効な引数";
+
+/* No comment provided by engineer. */
+"Invalid coupon code.  Are you sure have it right?" = "無効なクーポンコードです。コードは正しいですか？";
+
+/* No comment provided by engineer. */
+"Invalid Gift Pack ID" = "不正なギフトパック ID";
+
+/* No comment provided by engineer. */
+"Invalid QuickTime (MIDI?) File" = "無効な QuickTime (MIDI?) ファイル";
+
+/* No comment provided by engineer. */
+"Invalid Streaming ID" = "不正なストリーミング ID";
+
+/* No comment provided by engineer. */
+"Invalid Track Number" = "無効なトラック番号";
+
+/* No comment provided by engineer. */
+"Invalid User ID" = "不正なユーザー ID";
+
+/* warning */
+"invalid_cb_id_blurb" = "人気のユーザーＩＤは４あるいは５桁の番号です。説明をご確認になり適切なユーザーＩＤを作成してください。";
+
+/* No comment provided by engineer. */
+"Is a directory" = "ディレクトリです。";
+
+/* mmm */
+"It seems you are deleting your entire library.  Is this what you mean to do?" = "ライブラリ全体を削除しようとしています。ほんとうに実行しますか?";
+
+/* delete whatever it is */
+"Just One" = "1つだけ";
+
+/* that crazy sing along phenomenon */
+"Karaoke" = "カラオケ";
+
+/* No comment provided by engineer. */
+"KaraokeCloud Login Information" = "KaraokeCloud ログイン情報";
+
+/* No comment provided by engineer. */
+"kc_acct_success" = "成功！　KaraokeCloud アカウントを作成・設定できました！";
+
+/* No comment provided by engineer. */
+"kc_disable_auto_renew" = "「自動更新」を「利用」に設定されています。「サブスクリプションのクラス」をアップグレードする前に、［停止］ボタンを押して「自動更新」を停止してください。";
+
+/* No comment provided by engineer. */
+"kc_home_stream_warn" = "「ホームストリーミング」クラスは個人ユーザーの私的利用に限られます！　公共の場での演奏にはライセンス供与されていません。すべてのストリーミングはユーザー／ＩＰアドレス／日付ごとに記録され、不正利用対策として監視されています。このストリーミングサービスを、自宅の私的空間における個人ユーザーの私的利用のみに限るとご誓約いただけますか？";
+
+/* No comment provided by engineer. */
+"kc_must_log_in" = "無料曲の再生、購入やストリーミング、あるいはその他の曲をプレビューするには、KaraokeCloud にログインしてください。サインアップは無料です。試用の無料曲が数曲ご利用になれます。";
+
+/* No comment provided by engineer. */
+"kc_purch_agreement" = "［%1$s ］をクリックすると、%2$s米ドルで１%3$s間の月極契約に同意したものとみなされます。期限前に契約を解除しなかった場合、契約期間の終了時に自動的に新規契約が更新されます。いつでも契約解除できますが、現契約終了時までの使用料はお支払いいただきます。キャンセルするには、「%5$s」の横にある［%4$s］ボタンをクリックしてください。";
+
+/* No comment provided by engineer. */
+"kc_upsell_tier" = "完了しました！　設定パネルのポップアップメニューにある［サブスクリプションのクラス］をクリックし、利用可能なストリーミングオプションをご確認ください！";
+
+/* song pitch quantized in semitones as in “Key of G” */
+"Key" = "音程";
+
+/* changes to the key during the song */
+"Key Changes" = "音程変更";
+
+/* list of words used by user to recall song eg: fast, sad, love, duet etc */
+"Keywords" = "キーワード";
+
+/* this is labeled as a 'karaoke jockey', one of the administrators of the show, and has special rights' */
+"KJ" = "ＫＪ";
+
+/* do not translate [KJ] */
+"KJ Download Daily" = "毎日ＫＪをダウンロード";
+
+/* do not translate [KJ] */
+"KJ Download Monthly" = "毎月ＫＪをダウンロード";
+
+/* do not translate [KJ] */
+"KJ Download Yearly" = "毎年ＫＪをダウンロード";
+
+/* rotation managed by the kj */
+"KJ Rotation" = "KJ ローテーション";
+
+/* do not translate [KJ] */
+"KJ Streaming" = "ＫＪストリーミング";
+
+/* tethering means attached, or connected (song files are downloadable but locked to the user's account). KJ is karaoke jockey or emcee */
+"KJ Tethering. Yearly contract" = "年間契約ＫＪテザリング";
+
+/* obvious? */
+"kJams Cache Folder location:" = "kJams キャッシュフォルダの位置：";
+
+/* No comment provided by engineer. */
+"kJams has recently crashed, but the version you are using is old, you should update to latest" = "kJams は最近クラッシュしたようですが、お使いのバージョンは古いので最新のバージョンに更新する必要があります。";
+
+/* yep */
+"kJams is too old to support the Producer plugin. Upgrade kJams!" = "kJams は Producer プラグインをサポートするには古過ぎます。kJams を更新してください !";
+
+/* yep */
+"kJams is too old to support this plugin. Upgrade kJams!" = "kJams はこのプラグインをサポートするには古過ぎます。kJams を更新してください !";
+
+/* obvious */
+"kJams Music Folder location:" = "kJams ミュージックフォルダの位置：";
+
+/* secret message */
+"kJams Producer can only edit CDG files.  To edit other media types, please use another program." = "kJams Producer だけが、CDG ファイルを編集することができます。他のメディアタイプを編集するには、別のプログラムを使用してください。";
+
+/* music store fail */
+"kJams Purchase Failure" = "kJams の購入失敗";
+
+/* fatal */
+"kJams requires MacOS X 10.4 or greater." = "kJams は MacOS X 10.4 またはそれ以降が必要です。";
+
+/* fatal */
+"kJams requires QuickTime 7.1 or greater." = "kJams は QuickTime 7.1 またはそれ以降が必要です。";
+
+/* No comment provided by engineer. */
+"kJams requires write access to the folder <%s>, you must fix this for kJams to function correctly." = "kJams はフォルダ<%s> への書き込みアクセスが必要です。kJams の機能を正しく使うにはこれを修正する必要があります。";
+
+/* No comment provided by engineer. */
+"kJams would like to update your database for “fast searching”, this may take several minutes." = "kJams は「高速検索」のためにあなたのデータベース更新を要請しています。これには数分かかります。";
+
+/* No comment provided by engineer. */
+"kJams: no eSellerate Engine" = "kJams： eSellerate エンジンなし";
+
+/* warning */
+"kv_sample_blurb" = "この曲サンプルを再生する外部のWebサイトにリダイレクトされています。そのウェブサイトから曲を購入せず、サンプルを試聴してお好きなものをみつけてください。その後、kJamsに戻り、kJams 内でそれを購入してください。";
+
+/* label color, you know, photon vibrational frequencies interpreted by your eyes */
+"Label" = "ラベル";
+
+/* No comment provided by engineer. */
+"LAME MP3 Not Installed" = "LAME MP3 がインストールされていません";
+
+/* okay */
+"LAME Not Installed" = "LAME はインストールされていません。";
+
+/* okay */
+"LAME Out of Date" = "LAME は期限切れです。";
+
+/* message */
+"lame_install_blurb" = "ファイルのダウンロード後、解凍し、ディスクイメージをマウントし、インストーラをダブルクリックして、手順に従ってください。インストールには、kJams を終了する必要があります。";
+
+/* warning */
+"lame_not_installed" = "LAME MP3 エンコーダがインストールされていないようです。ダウンロードしてインストールしますか?";
+
+/* warning */
+"lame_out_of_date_blurb" = "インストールした LAME コンポーネントは作動しますが古いバージョンです。最新バージョンに更新することをお勧めします。今直ぐダウンロードしてインストールしますか?";
+
+/* what language are you speaking? */
+"Language" = "言語";
+
+/* No comment provided by engineer. */
+"Last Name must not be empty" = "名字は空欄にできません。";
+
+/* - */
+"Last Name:" = "名字";
+
+/* as in 'do this in the future, not right now' */
+"Later" = "後で";
+
+/* a 'launch file' is one that will be automatically run when the song plays */
+"Launch" = "Launch";
+
+/* The channel that the lead vocal track is in, left, right, or both (center) */
+"Lead Vocal Channel" = "リードボーカルチャンネル";
+
+/* this song has a lead vocal track */
+"Lead Vocals" = "リードボーカル";
+
+/* typographical leading */
+"Leading offset:" = "リーディングオフセット：";
+
+/* educate yourself */
+"Learn" = "学ぶ";
+
+/* as in music collection */
+"Library" = "ライブラリ";
+
+/* how many lines on a page */
+"Lines per page:" = "1ページの行数";
+
+/* No comment provided by engineer. */
+"Loading Database" = "データベースのローディング";
+
+/* No comment provided by engineer. */
+"Loading Icons" = "アイコンをロード中";
+
+/* No comment provided by engineer. */
+"Loading Menus" = "メニューのローディング";
+
+/* at startup */
+"Loading Music Store “%s”…" = "ミュージックストア「%s」のローディング…";
+
+/* at startup */
+"Loading songs into Database…" = "データベースに曲をローディング…";
+
+/* No comment provided by engineer. */
+"Loading Zipper" = "Zipper のローディング";
+
+/* No comment provided by engineer. */
+"Loading…" = "ローディング…";
+
+/* No comment provided by engineer. */
+"Localizing Menus…" = "メニューのローカライズ…";
+
+/* make it un-changeable */
+"Lock color palette" = "カラーパレットをロックする";
+
+/* undo string */
+"Lock Palette" = "パレットをロックする";
+
+/* No comment provided by engineer. */
+"Log In…" = "ログイン…";
+
+/* No comment provided by engineer. */
+"Log Out" = "ログアウト";
+
+/* No comment provided by engineer. */
+"Logging in…" = "ログイン中…";
+
+/* warning */
+"LowNumberedPortsPrompt" = "kJams は Web サーバー用に TCP ポート 80 を開くように求めており、これを承認されている必要があります。";
+
+/* No comment provided by engineer. */
+"Mac OS error" = "Mac OS エラー";
+
+/* i use the Apple Mail application */
+"Mail…" = "メール…";
+
+/* No comment provided by engineer. */
+"Make sure you have write permissions for the folder <<%s>>" = "Make sure you have write permissions for the folder <<%s>>";
+
+/* the boy singer */
+"Male" = "男性";
+
+/* who manufactured this version of the song? */
+"Manufacturer" = "開発者";
+
+/* the singer is in the venue */
+"Mark singer “Here”" = "歌手を「出席」とマークする";
+
+/* the singer has gone home */
+"Mark singer “Not Here”" = "歌手を「欠席」とマークする";
+
+/* editable number follows the string.  only this many songs will be put in the cache */
+"Maximum number of songs allowed in the cache:" = "キャッシュに許可された最大曲数：";
+
+/* maximum CD burn speed allowed */
+"Maximum Possible" = "最大速度";
+
+/* pushing refers to storing meta data inside files */
+"Maximum simultaneous tasks for pushing into zipped files" = "圧縮ファイル解析の最大同時タスク数";
+
+/* No comment provided by engineer. */
+"Media - %s" = "メディア - %s";
+
+/* No comment provided by engineer. */
+"Media must be prepared" = "メディアを準備してください";
+
+/* No comment provided by engineer. */
+"Media Not Supported" = "未サポートメディア";
+
+/* ‘XML’ is a file format, don't translate it */
+"Meta Data XML" = "メタデータ XML";
+
+/* shown when you add to library */
+"meta_choice_blurb" = "「ファイル名」、あるいはオプションとしてファイルが所属するフォルダ名を使うと、曲ファイル名そのものからメタ情報をスキャンしようとします。「タグ」を使うと、既存のメタタグを読み取ろうとします。これはタグにアクセスするためにファイルを解凍する必要がある場合があるので時間がかかることがあります。";
+
+/* warning */
+"meta_info_2_blurb" = "送信前にディスク上のすべてのメタ情報と各トラックを設定する必要があります。欠落したディスク情報： %1$s、 欠落したトラック情報： %2$s。";
+
+/* warning */
+"meta_info_blurb" = "各トラックのメタ情報をすべて入力してください。[ファイル]→[情報を見る…] で複数のトラックを選択してそのすべてを一気に設定することができます。欠落しているデータ：%s。";
+
+/* gain on microphone 1 */
+"Mic 1 Gain" = "マイク1 取得";
+
+/* one */
+"Minute" = "分";
+
+/* plural */
+"Minutes" = "分";
+
+/* is this song not available?  can it not be found? */
+"Missing" = "欠落";
+
+/* some data is not there */
+"Missing meta data" = "欠落したメタデータ";
+
+/* as in [cost per month] */
+"month" = "ヶ月";
+
+/* pick from this list */
+"More than one disc was found, please choose:" = "1つ以上のディスクがみつかったので選択してください。";
+
+/* as in *move this file* */
+"Move" = "移動";
+
+/* undo string */
+"Move composition element" = "構成要素を移動する";
+
+/* error string */
+"Moving songs to trash" = "曲をゴミ箱に移動する";
+
+/* yeah */
+"Multisession discs not supported, if you need this ask Dave." = "マルチセッションディスクはサポートされていません。必要な場合は、Dave にお問い合わせください。";
+
+/* places to buy music */
+"Music Stores" = "ミュージックストア";
+
+/* eek */
+"music_folder_not_found" = "「%1$s」フォルダの検索で問題がありました。おそらくオフラインボリュームのエイリアスではありませんか? (%2$s)";
+
+/* message */
+"music_store_update_avail" = "ミュージックストア 「%s」のアップデートがご利用できます。ダウンロードしますか?";
+
+/* No comment provided by engineer. */
+"Must pick a country" = "国を選択する必要があります。";
+
+/* No comment provided by engineer. */
+"Must specify Gift Pack Code" = "ギフトパックコードを指定する必要があります。";
+
+/* No comment provided by engineer. */
+"Network Host Failed to Provide Data (HTTP Response: 400 <bad request>)" = "ネットワークホストのデータを取得できません（HTTP Response: 400 <bad request>）";
+
+/* error */
+"Network Host has no data at all (kOTNoDataErr)" = "ネットワークホストにデータがありません（kOTNoDataErr）";
+
+/* No comment provided by engineer. */
+"Network Timeout" = "ネットワークのタイムアウト";
+
+/* validate blurb */
+"network_timeout_blurb" = "ウェブクライアントがタイムアウトしました。低速ネットワークをご利用中の場合、まず「%1$s」から「%2$s」へ移動し、240 など大きめの「%3$s」数を設定してください。";
+
+/* a place to buy songs */
+"New Music Store Available!" = "新しいミュージックストアが利用可能です!";
+
+/* as in, create a new preset playlist */
+"New Preset Playlist" = "新規プリセットプレイリスト";
+
+/* No comment provided by engineer. */
+"New Singer created: %s" = "新規歌手が作成されました： %s";
+
+/* message */
+"new_import_library" = "「kJams Music」フォルダに曲を移動しますか？　あるいは kJams を利用して、現在収録されている場所のファイルを参照しますか？　注意： 「ダウンロード」フォルダ／「デスクトップ」／「USB Thumb Drive」／その他の一時収納場所にファイルが格納されている場合、「移動」を選択してください。";
+
+/* confirm */
+"new_music_store_blurb" = "「%s」と呼ばれるミュージックストアがあります。ダウンロードしますか?";
+
+/* eek */
+"newer_db_version_blurb" = "このデータベースはデータベース形式を書ける (%1$@) 新しい kJams に保存されますが、残念ながらこのバージョンの能力を超えています (%2$@)。新しいバージョンにアップグレードする必要があります。";
+
+/* as in next song */
+"Next" = "次へ";
+
+/* negative */
+"No" = "いいえ";
+
+/* No comment provided by engineer. */
+"No child processes" = "子プロセスがない";
+
+/* No comment provided by engineer. */
+"No error detected" = "エラーは検出されませんでした。";
+
+/* does not expire */
+"No Expiration" = "期限なし";
+
+/* No comment provided by engineer. */
+"No locks available" = "ロックは利用できません。";
+
+/* this song has no synced lyrics */
+"No Lyrics" = "歌詞なし";
+
+/* No comment provided by engineer. */
+"No media in drive." = "ドライブにメディアがありません：";
+
+/* No comment provided by engineer. */
+"No new version available." = "新しいバージョンはありません。";
+
+/* No comment provided by engineer. */
+"No password specified." = "パスワードが指定されていません。";
+
+/* No comment provided by engineer. */
+"No reply from KaraokeCloud server (offline?)" = "KaraokeCloud サーバーから応答がありません（オフライン？）";
+
+/* No comment provided by engineer. */
+"No singer name specified." = "歌手名が指定されていません。";
+
+/* No comment provided by engineer. */
+"No SKU update is available from the eSellerate Servers." = "eSellerate サーバーからの SKU の更新はありません。";
+
+/* No comment provided by engineer. */
+"No songs to sync" = "同期できる曲がありません";
+
+/* No comment provided by engineer. */
+"No space left on device" = "デバイスには空き容量がありません。";
+
+/* No comment provided by engineer. */
+"No such file or directory" = "そのようなファイルまたはディレクトリはありません。";
+
+/* No comment provided by engineer. */
+"No such process" = "そのような処理はありません。";
+
+/* No comment provided by engineer. */
+"No Such Volume" = "そのようなボリュームはありません。";
+
+/* No comment provided by engineer. */
+"No suitable disc in drive" = "適切なディスクがドライブにありません。";
+
+/* warning */
+"no_cdg_blurb" = "CD ドライブ 「%s」は CD+G ディスクを読み取れないと報告しています。それでも使用を試みますか? または、利用できる対応ドライブについて知りたいですか?";
+
+/* No comment provided by engineer. */
+"no_email_blurb" = "重大な警告！kJamsでは、クラッシュレポートを送信するために有効なメールアドレスが必要です。これはミュージックストアで曲を購入した場合の領収書の送信先として、また「FreeDBへの投稿」が失敗した場合の通知送信先に使用されます。有効なメールアドレスを入力する必要があります。";
+
+/* message */
+"no_lame_blurb" = "大変申し訳ありませんが、お客様がご利用になっていた LAME MP3 エンコーダは適切にインストールされていません。法的必要条件履行のため、エンコーダとアプリケーションは別々にインストールしなくてはなりません。MP3 形式にエンコードしたい場合、無料のプラグインを手動でダウンロード／インストールする必要があります。";
+
+/* warning */
+"no_movie_blurb" = "このファイルは再生可能なメディアではありません。何かおかしいと感じたら、この曲のファイルを Dave（開発者）に送信してください。";
+
+/* validate blurb */
+"no_song_ms_blurb" = "なぜか、購入のための現在の選択には曲がありません。";
+
+/* warning */
+"no_you_dont" = "購入手続き中です。手続きを完了し、領収書のウィンドウを閉じてください。プログラムが自動的に登録するので、手動でシリアル番号を入力する必要はありません。";
+
+/* no songs were found */
+"None" = "なし";
+
+/* No comment provided by engineer. */
+"Not a directory" = "ディレクトリではありません。";
+
+/* No comment provided by engineer. */
+"Not applicable" = "適用できません";
+
+/* the plugin is not installed */
+"Not Available." = "ご利用できません。";
+
+/* No comment provided by engineer. */
+"Not logged in" = "ログインしていません";
+
+/* these songs are not the same */
+"Not Same" = "同じではありません。";
+
+/* warning */
+"not_liable_blurb" = "kJams は使用期限のないシェアウェアです。無料でご利用になりたいお客様には一切課金されません。購入（送金手続き）していただく前に、ご自由にお試しください。電話による技術サポートは火曜と木曜の太平洋標準時間夜７時以降、メールによる技術サポートは通常１営業時間内に返信いたします。";
+
+/* warning */
+"not_renamed_blurb" = "少なくとも1曲（またはそれ以上）のメタ情報の更新で問題がありました。ファイルがみつからなかったか、または環境設定の「[タグ]→ [書き込み] → [曲名の確認]」テンプレートで指定したメタデータが含まれていません。問題のある曲の一覧は「%s」と呼ばれるプレイリストをご参照ください。";
+
+/* take note, check this out */
+"Note" = "注";
+
+/* everything is here */
+"Nothing is missing" = "何も失われていません。";
+
+/* No comment provided by engineer. */
+"Numerical argument out of domain" = "ドメイン外の数値引数";
+
+/* !!!SPECIAL!!! Localizers: do not localize this string!!  contact me for more info */
+"NumSpacesInPlayCommand=12" = "NumSpacesInPlayCommand=12";
+
+/* No comment provided by engineer. */
+"Object (menu, window, control) Property Not Found" = "オブジェクト（メニュー、ウィンドウ、コントロール）プロパティが見つかりません。";
+
+/* No comment provided by engineer. */
+"Offline Mode" = "オフラインモード";
+
+/* No comment provided by engineer. */
+"One Moment Please" = "少しお待ちください。";
+
+/* No comment provided by engineer. */
+"One of the songs in your burn list is missing." = "書き込み予定リスト内の1曲が欠落しています。";
+
+/* security blurb */
+"one_click_security_blurb" = "kJams はお客様のクレジットカード信用情報を常時暗号化して保存しており、すべてのネットワーク送金手続きには SSL を採用しています。お客様のメールアドレスは、ミュージックストア事業者からレシートの送信、「freedb 送信」とクラッシュレポートへの返信に利用されます。これ以外の理由で kJams がお客様のメールアドレスを使用することはありません。";
+
+/* No comment provided by engineer. */
+"Only blank media is supported" = "サポートしているのはブランクメディアのみです";
+
+/* No comment provided by engineer. */
+"Only CD-R/RW media is supported" = "サポートしているのはＣＤ－Ｒ／ＲＷのみです";
+
+/* directive: user, please select a folder */
+"Open Folder:" = "フォルダを開く：";
+
+/* No comment provided by engineer. */
+"Operation Aborted" = "操作は中断されました。";
+
+/* No comment provided by engineer. */
+"Operation not permitted" = "操作は許可されていません。";
+
+/* No comment provided by engineer. */
+"Operation not supported by device" = "操作はこのデバイスでサポートされていません。";
+
+/* who originally published the song? */
+"Original Publisher" = "発行元";
+
+/* year this song was first published */
+"Original Year" = "発行年";
+
+/* a list of songs that were left behind, but are now found */
+"Orphaned Songs" = "孤立した曲";
+
+/* i use some other mail application */
+"Other…" = "その他…";
+
+/* replace what is there */
+"Overwrite" = "上書きする";
+
+/* No comment provided by engineer. */
+"Parameter Error" = "パラメータエラー";
+
+/* scanning */
+"Parsing Music Store:" = "ミュージックストアの解析：";
+
+/* password wrong */
+"Password incorrect.  Please try again." = "パスワードが不正です。もう一度お試しください。";
+
+/* No comment provided by engineer. */
+"password:" = "パスワード：";
+
+/* No comment provided by engineer. */
+"Passwords don't match." = "パスワードが一致しません。";
+
+/* sort columns */
+"Paste Column Layout" = "列レイアウトをペーストする";
+
+/* No comment provided by engineer. */
+"Paste from Clipboard" = "クリップボードからペーストする";
+
+/* enter in discount number */
+"Paste your Coupon Code for “%s” here:" = "「%s」のクーポンコードをこちらに入力してください：";
+
+/* mmm */
+"Pasting over meta data is dangerous, you can destroy data and there is no undo.  Are you sure you want to coninue?" = "データを壊す恐れがあり、やり直しができないためメタデータ上にペーストするのは危険です。本当に続行しますか?";
+
+/* as in pause the song, rather than stop */
+"Pause" = "一時停止";
+
+/* are you paying attention? */
+"pay_attention_blurb" = "購入完了後に A) 領収書のウィンドウを閉じる、B) シリアル番号を入力する、C) ライセンスを取得したバージョンをダウンロードする、のどれをしますか?";
+
+/* subscription price paid every month, eg: [$10 per month] */
+"per month" = "月額";
+
+/* windows only */
+"Perhaps one is a shortcut to the other?" = "おそらくこれは、他のショートカットではありませんか?";
+
+/* macintosh only */
+"Perhaps one is an alias of the other?" = "おそらくこれは、他のエイリアスではありませんか?";
+
+/* warning */
+"perian_blurb" = "「%s」を再生するには、Perian プラグインをダウンロードし、ご利用中の機器にインストールしてください。";
+
+/* No comment provided by engineer. */
+"Permission denied" = "権限が拒否されました。";
+
+/* No comment provided by engineer. */
+"Phone number must be valid" = "現在ご利用中の電話番号を入力してください";
+
+/* address */
+"Phone:" = "電話：";
+
+/* Pitch of song */
+"Pitch" = "ピッチ";
+
+/* as in play the song */
+"Play" = "再生";
+
+/* list of music */
+"Playlist" = "プレイリスト";
+
+/* this playlist is the one users (via the kJams Web Server) will search when looking for songs to sing */
+"Playlist is used for Server Search" = "サーバー検索にプレイリストを使用します";
+
+/* when you purchase time it will be added to your account */
+"Please add subscription time" = "サブスクリプション期間を追加してください";
+
+/* No comment provided by engineer. */
+"Please Drink Responsibly!" = "飲酒には責任を持ちましょう!";
+
+/* No comment provided by engineer. */
+"Please edit your One Click settings." = "「ワンクリック」設定を編集してください。";
+
+/* umm */
+"Please enter a new time" = "新しい時間を入力してください。";
+
+/* No comment provided by engineer. */
+"Please enter a search term." = "検索条件を入力してください。";
+
+/* No comment provided by engineer. */
+"Please enter or paste your serial number:" = "シリアル番号を入力するかペーストしてください：";
+
+/* No comment provided by engineer. */
+"Please enter some detailed info about what you were doing right before the crash!" = "クラッシュする前に行った操作について詳しい情報を入力してください!";
+
+/* new password */
+"Please enter the NEW password:" = "新しいパスワードを入力してください：";
+
+/* new password */
+"Please enter the OLD password:" = "古いパスワードを入力してください。";
+
+/* No comment provided by engineer. */
+"Please enter your e-mail address:" = "メールアドレスを入力してください：";
+
+/* No comment provided by engineer. */
+"Please enter your message:" = "メッセージを入力してください。";
+
+/* No comment provided by engineer. */
+"Please enter your Streaming ID:" = "ストリーミング ID を入力してください：";
+
+/* as in please find this file */
+"Please find the picture “%s”" = "「%s」の画像をみつけてください。";
+
+/* instructions to user: QuickTime import/export Settings, the user will decide the name */
+"Please name this preset:" = "このプリセットに名前を付けてください：";
+
+/* instructions to user: the user will decide the name */
+"Please name this Singer:" = "この歌手に名前を付けてください：";
+
+/* umm */
+"Please name this template" = "このテンプレートに名前を付けてください。";
+
+/* obvious? */
+"Please pick a credit card type" = "クレジットカードのタイプを選択してください。";
+
+/* No comment provided by engineer. */
+"Please purchase some streaming time." = "ストリーミング時間を購入してください。";
+
+/* No comment provided by engineer. */
+"Please re-insert the disc…" = "ディスクを挿入し直してください…";
+
+/* No comment provided by engineer. */
+"Please select a folder, not a file." = "ファイルではなく、フォルダを選択してください。";
+
+/* help me debug */
+"Please send the purchase failure email report." = "購入失敗 E メールレポートを送信してください。";
+
+/* No comment provided by engineer. */
+"Please set the type of credit card you are using" = "使用するクレジットカードのタイプを設定してください。";
+
+/* No comment provided by engineer. */
+"Please wait a few moments and this screen will refresh." = "少々お待ちください。画面を更新します。";
+
+/* sort by name, album, artist etc */
+"Please wait until the sort tasks are finished." = "並び替えタスクが終了するまでお待ちください。";
+
+/* play list item identifier */
+"PLI" = "PLI";
+
+/* a list of mp3 songs that may be corrupted */
+"Possibly Corrupted MP3" = "MP3 が破損している可能性があります。";
+
+/* [post-disposing] means [cleaning up] */
+"Post-disposing file system utils" = "ポスト廃棄ファイルシステムのutils";
+
+/* user settings */
+"Preferencs" = "環境設定";
+
+/* No comment provided by engineer. */
+"Preset not found" = "プリセットがみつかりませんでした。";
+
+/* as in previous song */
+"Previous" = "前へ";
+
+/* cost, USD */
+"Price" = "価格";
+
+/* No comment provided by engineer. */
+"Problem starting the kJams web server. Make sure the specified port (%d) isn't in use. Only port 80 or ports >= 1024 are valid." = "kJams のウェブサーバー開始時に問題が発生しました。指定のポート（%d）が使用されていないか確認してください。使用可能なポートは 80 あるいは >= 1024 のみです。";
+
+/* yep */
+"Producer Plugin API out of date, upgrade the plugin." = "Producer プラグインの API は期限切れです。プラグインをアップグレードしてください。";
+
+/* No comment provided by engineer. */
+"Producer Plugin not detected." = "Producer プラグインが検出しませんでした。";
+
+/* yep */
+"Producer plugin status: Unknown" = "プロデューサープラグインのステータス：不明";
+
+/* warning */
+"producer_tryout_blurb" = "一部の歌のグラフィック上には赤い×マークが表示されます。これは試用版の Producer プラグインをお使いのためです。これを取り除くにはProducer プラグインを購入する必要があります。購入しますか?";
+
+/* media stream project file (KTP, LRC, SingStar etc) */
+"Project" = "プロジェクト";
+
+/* who published this version of the song? */
+"Publisher" = "発行者";
+
+/* pull as in fetch, get or extract */
+"Pull Meta Data" = "メタデータを取得";
+
+/* buy th */
+"Purchase" = "購入";
+
+/* No comment provided by engineer. */
+"Purchase Result error: %s" = "購入結果エラー： %s";
+
+/* a voucher is like an iTunes Gift Card */
+"Purchase Voucher Credit…" = "バウチャークレジットを購入…";
+
+/* is this a store bought song? */
+"Purchased" = "購入済み";
+
+/* No comment provided by engineer. */
+"Purchasing streaming time…" = "ストリーミング時間を購入…";
+
+/* No comment provided by engineer. */
+"Purchasing Subscription…" = "サブスクリプションを購入中…";
+
+/* querying means asking, and 'freedb' is not to be translated */
+"Querying freedb…" = "freedb の照会…";
+
+/* asking the database for info */
+"Querying KJPro.com Database" = "KJPro.com データベースの照会";
+
+/* querying means asking, and 'MusicBrainz' is not to be translated */
+"Querying MusicBrainz.org Database…" = "MusicBrainz.org データベースの照会…";
+
+/* querying means asking, and 'TrackType' is not to be translated */
+"Querying TrackType.org Database…" = "TrackType.org データベース照会…";
+
+/* this message is shown, then after it is shown a more detailed message, like 'QuickTime error: The encoder popped a tire.' */
+"QuickTime error" = "QuickTime エラー";
+
+/* No comment provided by engineer. */
+"QuickTime not installed" = "QuickTime をインストールしない";
+
+/* exit the app */
+"Quit" = "終了";
+
+/* are you sure */
+"Quit during Encode?" = "エンコーディング中に終了しますか?";
+
+/* are you sure */
+"Quit during Rip?" = "リッピング中に終了しますか?";
+
+/* warning */
+"quit_during_export_blurb" = "現在、エンコーディングタスクが進行中です。今終了すると、エンコーディングが中断されます。タスクをみるには、タスクウィンドウを表示します。";
+
+/* warning */
+"quit_during_rip_blurb" = "現在、リッピングが進行中です。今終了すると、曲ファイルは不完全なので正しく再生されないため、これを再リッピングする必要があります。";
+
+/* when the app is quiting */
+"Quitting…" = "終了中…";
+
+/* how does the user rate this song?  eg: good or bad */
+"Rating" = "評価";
+
+/* as in parse, render, resolve */
+"Re-Bake" = "焼き直し";
+
+/* No comment provided by engineer. */
+"Read-only file system" = "読み取り専用のファイルシステム";
+
+/* error */
+"reading CD in sector: %d" = "セクターの読み込み CD： %d";
+
+/* error */
+"Reading CD Table of Contents" = "CD の目次読み込み";
+
+/* at startup */
+"Reading file:" = "ファイルの読み込み：";
+
+/* No comment provided by engineer. */
+"Reading Music Store file into memory" = "ミュージックストアのファイルをメモリに読み込む";
+
+/* preferences you can set that have to do with reading or importing meta tags */
+"Reading:" = "読み込み：";
+
+/* i am finished with my tasks */
+"Ready!" = "準備完了!";
+
+/* No comment provided by engineer. */
+"rebuild_library_blurb" = "kJams を終了し、その後、Finderで、 kJams フォルダ内の「 kJams ライブラリ」を削除してから、再び kJams を起動します。これが「新鮮な」kJams ライブラリを作成するための最良の方法です。";
+
+/* starting from scratch */
+"Rebuilding library" = "ライブラリの再構築";
+
+/* confirm */
+"receipt_str" = "領収書はEメールを、またヘルプには「%s」へお問い合わせください。または曲を再度購入しますか?";
+
+/* is this a store bought song? */
+"Recent" = "前回";
+
+/* as in make a reference to something else (an alias or a shortcut) */
+"Reference" = "参照";
+
+/* oops */
+"reinterp_sort_pli_blurb" = "このプレイリストは現在カラムごとにソートされていますが、曲名が再読み込みされた場合データは更新されます。再読み込み前に、PLI か SongID ごとにソートすることをお勧めします。";
+
+/* No comment provided by engineer. */
+"Release icons" = "アイコンを離す";
+
+/* No comment provided by engineer. */
+"Releasing Microphone" = "マイクの取り外し";
+
+/* load it again */
+"Reload Music Store" = "ミュージックストアを再ロード";
+
+/* No comment provided by engineer. */
+"Reloading Disc…" = "ディスクを再ロード…";
+
+/* verb */
+"Remove" = "削除";
+
+/* No comment provided by engineer. */
+"Remove Event Handler" = "イベントハンドラーの削除";
+
+/* removes references, not actual songs */
+"Remove from Library" = "ライブラリから削除する";
+
+/* No comment provided by engineer. */
+"Remove Timers" = "タイマーを削除する";
+
+/* deletion warning */
+"remove_dupes_blurb" = "これはライブラリのプレイリストのプレイリスト項目(重複しているとみなされる)だけを削除します。これはプレイリストに*ライブラリ*から重複する*参照*を含むプレイリストの場合には動作します（クラッシュしない）。これはバグによってのみ起こります。クラッシュのリスクを冒しても試したいですか? Dave から直接そうするように言われましたか?";
+
+/* deletion warning */
+"remove_refs_blurb" = "これはすべてのプレイリストからすべての参照を削除します! ディスク上のファイルはそのまま残されます。ほんとうにすべての参照を削除しますか?";
+
+/* No comment provided by engineer. */
+"Removing Duplicates" = "複製を削除中";
+
+/* No comment provided by engineer. */
+"removing music store manager" = "ミュージックストアマネージャの削除";
+
+/* does that make sense? */
+"Removing Songs from all playlists" = "すべてのプレイリストから曲を削除する";
+
+/* does that make sense? */
+"Removing Songs from Library" = "ライブラリから曲を削除する";
+
+/* what type (instrumental, vocal, vocal right channel, backing vocal etc) */
+"Rendition" = "演奏";
+
+/* imperative command, as in <please make this request> */
+"Request" = "リクエスト";
+
+/* undo string */
+"Reset Picture Position" = "画像の位置をリセットする";
+
+/* pos is short for 'position' */
+"Reset Pos" = "Pos のリセット";
+
+/* undo string */
+"Resize composition element" = "構成要素のサイズ変更";
+
+/* No comment provided by engineer. */
+"Resource deadlock avoided" = "リソースのデッドロックを回避しました。";
+
+/* No comment provided by engineer. */
+"Resource temporarily unavailable" = "リソースを一時的に利用できません。";
+
+/* No comment provided by engineer. */
+"Result too large" = "結果が大き過ぎます。";
+
+/* show, display, disclose, view (in the finder / explorer) */
+"Reveal" = "表示する";
+
+/* No comment provided by engineer. */
+"Reveal Web Site" = "ウェブサイトを表示";
+
+/* rewind song */
+"Rewind: %s" = "巻き戻す：%s";
+
+/* as in rip a CD */
+"Rip" = "リップ";
+
+/* rip as in digitize or import */
+"Rip from CD:" = "CD からリップする：";
+
+/* rip an entire disc to a pair of files with .bin and .cue extensions */
+"Rip to bin/cue…" = "bin/cue にリップする…";
+
+/* all done */
+"Ripping complete" = "リッピング完了";
+
+/* ripping means reading the tracs directly from the CD */
+"Ripping, please wait…" = "リッピング中です。お待ちください…";
+
+/* rotation */
+"Rotation" = "ローテーション";
+
+/* how long should the sample be? */
+"Sample duration (seconds)" = "サンプルの演奏時間 (秒)";
+
+/* this is only a sample (small portion) of a song, it is not the entire song */
+"Sample Only" = "試用曲のみ";
+
+/* message shown when saving the database */
+"Saving Database…" = "データベースを保存しています…";
+
+/* No comment provided by engineer. */
+"Saving:" = "保存する：";
+
+/* yup */
+"Scanning for missing songs" = "欠落している曲をスキャンする";
+
+/* No comment provided by engineer. */
+"Script Error" = "スクリプトエラー";
+
+/* No comment provided by engineer. */
+"Search" = "検索";
+
+/* a list of file system paths */
+"Search paths used to locate songs:" = "曲の検索に使用される検索パス：";
+
+/* from freedb */
+"Searching for Disc…" = "ディスクを検索…";
+
+/* for a song */
+"Searching in iTunes" = "iTunes で検索する";
+
+/* sorting message */
+"Searching “%s” for “%s”…" = "「%2$s」の「%1$s」を検索中…";
+
+/* one */
+"Second" = "秒";
+
+/* plural */
+"Seconds" = "秒";
+
+/* obvious? */
+"Security Information" = "セキュリティ情報";
+
+/* No comment provided by engineer. */
+"See your KJ for information!" = "情報を KJ でご参照ください!";
+
+/* msg */
+"Selection added to QuickTime Export que" = "選択したものを QuickTime エクスポートキューに追加";
+
+/* msg */
+"Selection added to re-encode que" = "選択したものを再エンコードキューに追加";
+
+/* command as in 'send the crash report' */
+"Send" = "送信";
+
+/* No comment provided by engineer. */
+"Send Crash Report" = "クラッシュレポートを送信";
+
+/* mmm */
+"Sending Music Store purchase request" = "ミュージックストア購入申請を送信";
+
+/* No comment provided by engineer. */
+"Serial Number" = "シリアル番号";
+
+/* No comment provided by engineer. */
+"Server or Port not found" = "サーバーまたはポートがみつかりません。";
+
+/* undo string */
+"Set Comp Duration" = "Comp 継続時間の設定";
+
+/* undo string, a comp is a composition, a visual frame composed of one or more elements */
+"Set Comp Start Time" = "Comp 開始時間の設定";
+
+/* undo string, includes duration */
+"Set Comp Time" = "Comp 時間の設定";
+
+/* undo string */
+"Set Composition Palette Color" = "構成パレットの色の設定";
+
+/* undo string */
+"Set Sweep Color" = "スイープカラーの設定";
+
+/* undo string */
+"Set Text Color" = "テキストカラーの設定";
+
+/* meta data warning */
+"set_meta_on_selection_blurb" = "現在選択中のすべての %3$d 曲の「%1$s」メタデータを「%2$s」にセットしますか？または1曲だけ変更しますか? これはやり直しができません。";
+
+/* No comment provided by engineer. */
+"Settings" = "設定";
+
+/* as in 'display this' */
+"Show" = "表示";
+
+/* No comment provided by engineer. */
+"Show Message" = "メッセージの表示";
+
+/* No comment provided by engineer. */
+"Showing Windows" = "ウィンドウの表示";
+
+/* No comment provided by engineer. */
+"Shutting down thread manager" = "スレッドマネージャのシャットダウン";
+
+/* No comment provided by engineer. */
+"Shutting down Web Server" = "ウェブサーバーをシャットダウン中";
+
+/* No comment provided by engineer. */
+"Signal error" = "信号エラー";
+
+/* you know who */
+"Singer" = "歌手";
+
+/* this singer is a 'karaoke jockey', one of the administrators of the show, and has special rights */
+"Singer is KJ" = "歌うのはＫＪです";
+
+/* No comment provided by engineer. */
+"Singer name already taken. Please choose another." = "歌手名は既に使われてます。別の名前を選んでください。";
+
+/* No comment provided by engineer. */
+"Singer Nickname" = "歌手のニックネーム";
+
+/* the folks who get on the stage to sing */
+"Singers" = "歌手たち";
+
+/* this is due to an error */
+"single_select_bug_blurb" = "再生に選択した曲が1曲だけ必要です。どういうわけか、選択された曲が2つ以上あると思われます。それらの選択を解除しますか？その後、再生したい曲をダブルクリックすることができます。";
+
+/* how large is the file? */
+"Size" = "サイズ";
+
+/* sync delta in seconds (float), Video slips relative to Audio */
+"Slip" = "ずれ";
+
+/* name of the regional cell phone company */
+"SMS Carrier" = "ＳＭＳ事業者";
+
+/* No comment provided by engineer. */
+"SMS Number" = "SMS番号";
+
+/* name of geographical location where the short message service (texting) is available */
+"SMS Region" = "SMSリージョン";
+
+/* bummer */
+"Some crazy QuickTime error trying to extract audio!  Bummer!" = "オーディオを抽出しようとしていると、QuickTime のエラーが起きました!";
+
+/* there will be a colon then an error message appended */
+"Some kind of error deleting songs" = "曲の削除で何らかのエラーが起きました。";
+
+/* yep */
+"Some kind of problem deleting a singer.  You might try quitting, and deleting the singer in the finder" = "歌手の削除で何らかの問題が起きました。終了して Finder から歌手を削除してみてください。";
+
+/* mmm */
+"Some of the selected files are located in your kJams music folder.  Would you like to move these files to the trash?" = "択したファイルのいくつかは、kJams ミュージックフォルダに格納されています。ゴミ箱にこれらのファイルを移動しますか？";
+
+/* mmm */
+"Some of the selected items may be referenced by other playlists.  Are you sure you want to delete all references?" = "選択した項目のいくつかは他のプレイリストで参照されることがあります。ほんとうににすべての参照を削除してもよろしいですか？";
+
+/* No comment provided by engineer. */
+"Some settings you have changed will take effect the next time you start kJams." = "変更したいくつかの設定は kJams を次回起動したときに有効になります。";
+
+/* No comment provided by engineer. */
+"Some songs are not listed in the store." = "ストアに収録されていない曲もあります。";
+
+/* you know, la la laaa */
+"Song" = "曲";
+
+/* song identifier */
+"Song ID" = "曲 ID";
+
+/* name of song */
+"Song Name" = "曲名";
+
+/* No comment provided by engineer. */
+"Song not found" = "曲がみつかりません。";
+
+/* how far to slip the video sync relative to the audio, per song */
+"Song Sync Slip: %.1f seconds" = "曲の同期ずれ： %.1f 秒";
+
+/* who wrote the song? */
+"Song Writer" = "ソングライター";
+
+/* song name added to playlist or singer */
+"Song “%@” added to “%@”" = "「%1$@」の曲が「%2$@」に追加されました。";
+
+/* the plural of one song */
+"Songs" = "曲";
+
+/* a list of songs that did not get renamed during a rename operation */
+"Songs Not Renamed" = "名前が変更されなかった曲";
+
+/* this is a test */
+"Sorry, but you must pay better attention for this to work.  Please actually read the following message all the way through." = "申し訳ありませんが、これが機能するためにはより注意を払う必要があります。次のメッセージをすべてお読みください。";
+
+/* No comment provided by engineer. */
+"Sorry, I think your credit card number was declined.  Is your card blocked?  Did you type the right number? The TriceraSoft music store does not accept American Express, perhaps try a different card." = "申し訳ありませんが、クレジットカード番号が拒否されたようです。カードはブロックされていませんか？正しい数値を入力しましたか? TriceraSoftミュージックストアは、アメリカンエクスプレスを受け付けません。別のカードでお試しください。";
+
+/* warning */
+"sort_blurb" = "列 %1$sの並べ替えが完了したのに列が並べ替えられていませんでしたか？ （キー数：%2$d）ログファイルをお送りください。";
+
+/* sorting message */
+"Sorting by “%s”, please wait…" = "「%s」を並べ替えています。お待ちくださいt…";
+
+/* No comment provided by engineer. */
+"Sorting file names…" = "ファイル名で並べ替えしています…";
+
+/* No comment provided by engineer. */
+"Sorting new music list" = "新しい音楽リストをソート中";
+
+/* No comment provided by engineer. */
+"Sorting old music list" = "古い音楽リストをソート中";
+
+/* the 'sources' list column header, on the left */
+"Source" = "ソース";
+
+/* as in description */
+"specification" = "仕様";
+
+/* spooler is the thing that streams data from one place to another */
+"Spooler Error" = "スプーラエラー";
+
+/* No comment provided by engineer. */
+"Starting Script Engine" = "スクリプトエンジンの開始";
+
+/* No comment provided by engineer. */
+"State must not be empty" = "状況は空欄にできません。";
+
+/* or province */
+"State:" = "状況：";
+
+/* name of store */
+"Store Name" = "ストア名";
+
+/* yep */
+"Strange burn plugin status" = "奇妙な書き込みプラグインステータス";
+
+/* No comment provided by engineer. */
+"Stranger than Fiction error: The song you're trying to play is not in the current playlist." = "物語より奇妙なエラー：再生しようとしている曲は現在のプレイリストにありません。";
+
+/* message */
+"strea_expire_blurb" = "あなたの TriceraSoft ストリーミングはこの時間： %sに期限切れになります。 さらにストリーミング時間を購入しますか?";
+
+/* verb: stream (shortest possible word that conveys the meaning) */
+"Stream" = "ストリーム";
+
+/* verb: stream the subscribed song */
+"Stream Song" = "ストリームソング";
+
+/* audio format eg mp3, aif, wav */
+"Streaming Audio:" = "オーディオのストリーミング：";
+
+/* yup */
+"Streaming CDG to Cache" = "キャッシュのために CDG をストリーミング";
+
+/* No comment provided by engineer. */
+"Streaming Expiration:" = "ストリーミング期限：";
+
+/* No comment provided by engineer. */
+"Streaming ID:" = "ストリーミング ID：";
+
+/* No comment provided by engineer. */
+"Street must not be empty" = "番地名は空欄にできません。";
+
+/* - */
+"Street:" = "番地：";
+
+/* stroke over fill text */
+"Stroke" = "ストローク";
+
+/* font outline width */
+"Stroke Size:" = "ストロークのサイズ：";
+
+/* more info on the style of a song, eg: rock, blues, hip-hop etc */
+"Sub Genre" = "サブジャンル";
+
+/* hmmm */
+"Submit Failed: You must enter your e-mail address in the freedb preference pane, then submit again." = "送信に失敗：freedb の環境設定パネルにメールアドレスを入力する必要があります。それから再度送信します。";
+
+/* from freedb */
+"Submitting Tracks…" = "トラックを送信…";
+
+/* No comment provided by engineer. */
+"Success" = "成功";
+
+/* No comment provided by engineer. */
+"Successful Burn." = "書き込みに成功しました。";
+
+/* No comment provided by engineer. */
+"Successfully Upgraded!  We will now download and launch the new version!" = "アップグレードに成功しました! 新バージョンをダウンロードし起動します!";
+
+/* a command to persue legal action against the user */
+"Sue Me" = "告訴してください";
+
+/* No comment provided by engineer. */
+"Sunc purchases" = "購入履歴を同期";
+
+/* text hilight color */
+"Sweep fill:" = "スイープフィル：";
+
+/* text hilight color */
+"Sweep Stroke:" = "スイープストローク：";
+
+/* No comment provided by engineer. */
+"Sync Previous Purchases" = "以前の購入履歴を同期";
+
+/* default audio output device in system prefs panel */
+"System Default" = "システムデフォルト";
+
+/* ID3 meta data tags, tags describe information about a file (title, artist, album, track number etc */
+"Tags" = "タグ";
+
+/* a pre-developed page layout: http://en.wikipedia.org/wiki/Template */
+"Templates" = "テンプレート";
+
+/* how fast or slow is the song? */
+"Tempo" = "テンポ";
+
+/* by what delta value will the temp change */
+"Tempo Change Increment:" = "テンポ変更のインクリメント";
+
+/* speed of the song */
+"Tempo:" = "テンポ：";
+
+/* warning */
+"test_burn_blurb" = "ご利用中のドライブをテストして対応済みか確認するまでは、Burning プラグインを購入しないでください。";
+
+/* No comment provided by engineer. */
+"Tether decrypt failed" = "テザリングの復号化に失敗しました";
+
+/* how many lines on a page */
+"Text Fill:" = "テキストフィル：";
+
+/* how many lines on a page */
+"Text Stroke:" = "テキストストローク：";
+
+/* No comment provided by engineer. */
+"That is a coupon, not a serial number.  Please go thru the purchase process and use the coupon during your purchase." = "それはクーポンでシリアル番号ではありません。購入処理を行い、クーポンを購入にお使いください。";
+
+/* yah */
+"That template name is already taken.  Please try again." = "そのテンプレート名は既に使われています。もう一度お試しください。";
+
+/* eek! */
+"The CD Volume has gone offline, or the BIN file has been deleted." = "CD ボリュームがオフラインか、BIN ファイルが削除されています。";
+
+/* No comment provided by engineer. */
+"The Chartbuster Gift Pack (User ID) has no more credits, or is invalid." = "Chartbuster ギフトパック (ユーザー ID) にはクレジットが残っていないか、または無効です。";
+
+/* No comment provided by engineer. */
+"The current machine does not match the machine on which the product was activated." = "現在のマシンは製品が有効化されたマシンと一致しません。";
+
+/* No comment provided by engineer. */
+"The current machine matches the machine on which the product was activated." = "現在のマシンは製品が有効化されたマシンと一致します。";
+
+/* yep */
+"The current rip was interrupted, you will have to re-rip the last song." = "現在のリップが中断されたら、最後の曲を再リップする必要があります。";
+
+/* No comment provided by engineer. */
+"The data browser is not properly configured." = "データブラウザが正しく設定されていません。";
+
+/* No comment provided by engineer. */
+"The device failed to accept the command within the timeout period" = "タイムアウト期限内に、デバイスがコマンドに応答できませんでした";
+
+/* No comment provided by engineer. */
+"The drive reported that it is in the process of becoming ready. Please try the request again later" = "ドライブは準備中です。少々時間をおいた後、再度リクエストしてください。";
+
+/* No comment provided by engineer. */
+"The engine failed to connect to the eSellerate servers." = "エンジンは eSellerateのサーバーへの接続に失敗しました。";
+
+/* No comment provided by engineer. */
+"The engine failed to download an update." = "エンジンは、アップデートをダウンロードすることに失敗しました。";
+
+/* No comment provided by engineer. */
+"The engine is already running within the application." = "エンジンは既にアプリケーション内で実行されています。";
+
+/* No comment provided by engineer. */
+"The engine is corrupted." = "エンジンが破損しています。";
+
+/* No comment provided by engineer. */
+"The eSellerate engine data is missing from the results." = "eSellerate エンジンのデータが結果から欠落しています。";
+
+/* No comment provided by engineer. */
+"The eSellerate server failed to return a valid activation key." = "eSellerateのサーバーが有効なアクティベーションキーを返すことに失敗しました。";
+
+/* No comment provided by engineer. */
+"The format of the supplied activation key is invalid." = "付属のアクティベーションキーの形式が無効です。";
+
+/* No comment provided by engineer. */
+"The Gift Pack does not exist or has no more credits." = "ギフトパックが存在しないか、またはクレジットが残っていません。";
+
+/* No comment provided by engineer. */
+"The item is not in the data browser." = "項目がデータブラウザにありません。";
+
+/* No comment provided by engineer. */
+"The item was not added to the data browser." = "項目がデータブラウザに追加されませんでした。";
+
+/* No comment provided by engineer. */
+"The latest engine is already installed." = "最新のエンジンが既にインストールされています。";
+
+/* No comment provided by engineer. */
+"The latest engine was successfully installed." = "最新のエンジンが正常にインストールされました。";
+
+/* No comment provided by engineer. */
+"The Lite version of kJams does not allow scripting, if you need scripting, please upgrade to Pro." = "kJams の Lite バージョンではスクリプトが許可されません。スクリプトが必要な場合は、Pro にアップグレードしてください。";
+
+/* No comment provided by engineer. */
+"The old activation key is invalid." = "古いアクティベーションキーは無効です。";
+
+/* No comment provided by engineer. */
+"The playlist “%@” somehow has the same ID as the already existing playlist “%@”.  Attempting to rectify…" = "プレイリストの「%1$@」は、既存のプレイリスト「%2$@」と同じ ID を持っています。是正しようとしています…";
+
+/* No comment provided by engineer. */
+"The property data is not valid." = "プロパティのデータが有効ではありません。";
+
+/* No comment provided by engineer. */
+"The property is not in the data browser." = "プロパティはデータブラウザではありません。";
+
+/* No comment provided by engineer. */
+"The property is not supported in the data browser." = "プロパティはデータブラウザではサポートされていません。";
+
+/* No comment provided by engineer. */
+"The property part is not valid." = "プロパティの一部が有効ではありません。";
+
+/* No comment provided by engineer. */
+"The provided audio stream is not valid" = "提供されたオーディオストリームは無効です";
+
+/* No comment provided by engineer. */
+"The requested resource is in use" = "リクエストしたリソースは使用中です";
+
+/* No comment provided by engineer. */
+"The result from the engine could not be found." = "エンジンからの結果はみつかりませんでした。";
+
+/* No comment provided by engineer. */
+"The SDK failed to add a name/value entnry." = "SDKに名前/値エントリを追加できませんでした。";
+
+/* No comment provided by engineer. */
+"The serial number to be activated is not unique." = "有効化しようとしているシリアル番号は固有のものではありません。";
+
+/* No comment provided by engineer. */
+"The Show is About to Begin!" = "この公演はもうすぐ始まります!";
+
+/* No comment provided by engineer. */
+"The Show Is Over, thanks for coming!" = "この公演は終了しました。ご来場ありがとうございます!";
+
+/* first @ is the singer's name, second @ is the playlist name */
+"The singer “%@” somehow lost their playlist “%@”.  A new empty playlist has been created." = "歌手 「%1$@」はプレイリスト「%2$@」を無くしてしまいました。新しい空のプレイリストが作成されました。";
+
+/* No comment provided by engineer. */
+"The singer “%s” somehow lost their account.  A new account has been created, and we will attempt to recover their playlists." = "歌手「%s」はアカウントを失いました。新規アカウントが作成され、プレイリストの回復を試みようとしています。";
+
+/* long version (see short version) */
+"The song you picked is no longer available.  Please reload the music store and try again." = "選んだ曲は入手不可能です。ミュージックストアをリロードし、もう一度お試しください。";
+
+/* could not figure it out */
+"The song “%s” did not parse." = "「%s」という曲の解析しませんでした。";
+
+/* No comment provided by engineer. */
+"The song “%s” is already being exported." = "「%s」という曲は既にエクスポートされています。";
+
+/* No comment provided by engineer. */
+"The song “%s” was not converted because it is not a CDG file" = "「%s」という曲は CDG ファイルではないので変換されませんでした。";
+
+/* No comment provided by engineer. */
+"The stream does not contain a sufficient number of sectors in the leadin for the current media" = "このストリームは、既存メデイアのリードインに必要なセクター数を満たしていません";
+
+/* No comment provided by engineer. */
+"The system does not meet the minimum requirements for the Embedded Web Store" = "システム内蔵ウェブストアの最小要件を満たしていません。";
+
+/* No comment provided by engineer. */
+"The user cancelled a manual activation attempt." = "ユーザーが手動アクティベーションの試みをキャンセルしました。";
+
+/* No comment provided by engineer. */
+"The “User ID” used for streaming is invalid." = "ストリーミングに使用された「ユーザー ID」は無効です。";
+
+/* first is number of songs, second is a string showing the duration of time it may take */
+"There are %@ songs.  It could take more than %@ to complete." = "%1$@ 曲あります。完了には %2$@ かかるかもしれません。";
+
+/* more than one */
+"There are multiple songs selected" = "複数の曲が選択されています。";
+
+/* bummer */
+"There is not enough free space on your cache volume to build a burn image." = "書き込みイメージを構築するために十分なキャッシュの空き容量がありません。";
+
+/* thanks */
+"There was a problem ejecting the disc." = "ディスクを取り出しで問題がありました。";
+
+/* oops */
+"There was a problem initializing audio output, check your audio output device. Are your speakers plugged in?" = "オーディオ出力の初期化で問題がありました、お使いのオーディオ出力デバイスをチェックしてください。スピーカーは正しく接続されていますか？";
+
+/* oops */
+"There was a problem initializing audio output, you may want to quit and re-run" = "オーディオ出力の初期化に問題がありました。いったん終了してから再実行することをお勧めします";
+
+/* orphan refers to a song that was ripped but didn't have time to encode before the user quit */
+"There was a problem maybe with orphan encoding?" = "孤立したエンコーディングで問題があったようですね?";
+
+/* error str */
+"There was an error attempting to calculate the cache folder size" = "キャッシュフォルダサイズの計算を試みたところ、エラーが発生しました。";
+
+/* No comment provided by engineer. */
+"There was an error creating your account. Please ask the KJ to create your account for you." = "アカウントの作成中にエラーが発生しました。アカウントを作成するように KJ にお問い合わせください。";
+
+/* No comment provided by engineer. */
+"There was an error enabling Bonjour" = "Bonjour の起動エラー";
+
+/* error */
+"There was an error encoding the song “%s”" = "「%s」の曲のエンコード中にエラーが発生しました。";
+
+/* No comment provided by engineer. */
+"There was an error installing the engine." = "エンジンのインスール中にエラーが発生しました。";
+
+/* No comment provided by engineer. */
+"There was an error loading the installed engine." = "インストールされたエンジンのロードでエラーが発生しました。";
+
+/* yup */
+"There was an error loading the song for editing" = "編集のために曲を読み込むときにエラーが発生しました。";
+
+/* No comment provided by engineer. */
+"There was an error moving “%s” into the folder “%s”: %s" = "「%1$s」を「%2$s」フォルダに移動するときにエラーが発生しました:%3$s";
+
+/* eek */
+"There was an error saving the song" = "曲の保存中にエラーがありました。";
+
+/* No comment provided by engineer. */
+"There was an error setting the temporary file name for the song “%s” in “%s”" = "「%2$s」の「%1$s」におけるテンポラリーファイル名の設定エラー";
+
+/* bummer */
+"There was an error setting up your burn" = "書き込みを設定中にエラーが発生しました。";
+
+/* No comment provided by engineer. */
+"There was an error with that serial number, please check the number and try again." = "そのシリアル番号でにエラーが発生しました。番号を調べて、もう一度お試しください。";
+
+/* first one describes the error, second one is the name of the song */
+"There was an error “%@” preparing the song “%@” for export." = "「%2$@」の曲のエクスポート準備中に、「%1$@」というエラーがありました。";
+
+/* I/O is input/output */
+"There was an I/O error reading the disc, perhaps it is scratched?" = "ディスクの読み取りでI / Oエラーが発生しました。おそらく傷がついているかもしれません。";
+
+/* ‘chain’ in this context means ‘pipeline’ or ‘list’ of audio processors */
+"There was some error setting up the Audio chain." = "オーディオチェーンのセットアップでいくつかのエラーがありました。";
+
+/* No comment provided by engineer. */
+"There was some kind of error while disabling Auto-Renew." = "自動更新を停止中に何らかのエラーが発生しました。";
+
+/* No comment provided by engineer. */
+"There was some kind of error while subscribing." = "サブスクリプション中に何らかのエラーが発生しました。";
+
+/* No comment provided by engineer. */
+"There was some kind of problem checking the server for a new version." = "新しいバージョンをサーバーで確認中に何らかの問題がありました。";
+
+/* No comment provided by engineer. */
+"This device can burn CD+G" = "このデバイスはＣＤ＋Ｇを焼けます";
+
+/* No comment provided by engineer. */
+"This device can NOT burn CD+G" = "このデバイスはＣＤ＋Ｇを焼けません";
+
+/* No comment provided by engineer. */
+"This KMA file has no data?" = "この KMA 形式ファイルは空ですか？";
+
+/* No comment provided by engineer. */
+"This operation will overwrite existing instructions.  Are you sure?" = "この操作は、既存の命令を上書きします。よろしいですか？";
+
+/* showed when the user hits the QuickTime Export edit button when eg. 'iPod' is selected */
+"This QuickTime encoder does not have an options dialog." = "この QuickTime のエンコーダにはオプションダイアログがありません。";
+
+/* No comment provided by engineer. */
+"This setting takes effect the next time you manually reload the Music Store." = "この設定は次回手動でミュージックストアをリロードすると有効になります。";
+
+/* No comment provided by engineer. */
+"This setting takes effect the next time you start kJams." = "この設定は次回 kJams を起動すると有効になります。";
+
+/* No comment provided by engineer. */
+"This song was previously purchased.  You can sync your previous purchases." = "この曲は既に購入済みです。以前の購入履歴を同期できます。";
+
+/* obvious */
+"This will only happen once…" = "これは一度だけ行われます…";
+
+/* No comment provided by engineer. */
+"This wizard will walk you through the process of creating a new KaraokeCloud Account" = "このウィザードをご利用になれば、新しい KaraokeCloud アカウント作成の手順が分かります";
+
+/* how seconds late / early are we? */
+"Time Offset:" = "タイムオフセット：";
+
+/* shows how much time is left */
+"Time Remaining: %s" = "残り時間： %s";
+
+/* line of time */
+"Timeline" = "タイムライン";
+
+/* mmm */
+"Timeout (in seconds)" = "タイムアウト（秒単位）";
+
+/* timeout means it took too long so we aborted */
+"Timeout running helper application “%s”" = "タイムアウト制御補助アプリケーション「%s」";
+
+/* No comment provided by engineer. */
+"Tip your Waitress!" = "ウェイトレスにチップをあげてください!";
+
+/* No comment provided by engineer. */
+"To download or stream songs, you must enter your e-mail address." = "曲をダウンロードまたはストリームするには、メールアドレスを入力する必要があります。";
+
+/* No comment provided by engineer. */
+"To play this type of media, you must install Flip4Mac, which is free." = "このタイプのメディアを再生するには、Flip4Mac をインストールする必要があります。これは無料です。";
+
+/* No comment provided by engineer. */
+"To reload a Music Store, context-click on the it’s icon in the browser window, and pick “Reload Music Store”." = "ミュージックストアをリロードするには、ブラウザウィンドウにあるミュージックストアのアイコンをコンテキストクリックし、「ミュージックストアをリロードする」を選択します。";
+
+/* first one is <what kind of subscription>, second one is <kJams Lite> or <kJams Pro> */
+"To use the Chartbuster “%s” for streaming, you must be using “%s”." = "Chartbuster の「%1$s」をストリーミングに使うには、「%2$s」を使っている必要があります。";
+
+/* the playlist the singer plans to sing during this session */
+"Tonight" = "今夜";
+
+/* No comment provided by engineer. */
+"Too many links" = "リンクが多過ぎます。";
+
+/* No comment provided by engineer. */
+"Too many open files" = "開いているファイルが多過ぎます。";
+
+/* No comment provided by engineer. */
+"Too many open files in system" = "システム内に開いているファイルが多過ぎます。";
+
+/* name of store */
+"Total Songs" = "Total Songs";
+
+/* track number */
+"Track #" = "トラック番号";
+
+/* No comment provided by engineer. */
+"Track Name:" = "トラック名：";
+
+/* No comment provided by engineer. */
+"Track Number:" = "トラック番号：";
+
+/* as a verb, as in 'perform the trashing action' */
+"Trash" = "ゴミ箱";
+
+/* will put actual song files into the trash */
+"Trash Original Files" = "元のファイルを捨てる";
+
+/* security blurb */
+"tri_gift_pack_blurb" = "kJams はすべてのネットワーク送金手続きに SSL を採用しています。お客様のメールアドレスにミュージックストアからレシートが送信される以外、kJams がお客様のメールアドレスを使用することはありません。";
+
+/* only these credit cards */
+"TriceraSoft only accepts Visa and Master Card" = "TriceraSoft は Visa と Master Card だけを受け付けております。";
+
+/* one more time */
+"Try again" = "もう一度お試しください。";
+
+/* No comment provided by engineer. */
+"Try logging in instead." = "代わりにログインをお試しください。";
+
+/* No comment provided by engineer. */
+"Umm, sorry, but I've somehow lost track of this many songs:" = "残念ながら、この多くの曲のトラックを失ってしまったようです：";
+
+/* No comment provided by engineer. */
+"Unable to install eSellerate engine!" = "eSellerate エンジンをインストールできません!";
+
+/* No comment provided by engineer. */
+"Unable to select song in Library" = "ライブラリの曲を選択できません。";
+
+/* bummer */
+"Unix Error:" = "Unix エラー：";
+
+/* No comment provided by engineer. */
+"Unknown Activation Key" = "不明なライセンス認証キー";
+
+/* who is that? */
+"Unknown Album" = "不明なアルバム";
+
+/* artist is not known */
+"Unknown Artist" = "不明なアーティスト";
+
+/* No comment provided by engineer. */
+"Unknown error" = "不明なエラー";
+
+/* No comment provided by engineer. */
+"Unknown eSellerate Error" = "不明な eSellerate エラー";
+
+/* unable to identify the folder */
+"Unknown Folder" = "不明なフォルダ";
+
+/* No comment provided by engineer. */
+"Unknown Singer" = "不明な歌手";
+
+/* nobody knows */
+"Unknown Song" = "不明な曲";
+
+/* No comment provided by engineer. */
+"Unknown." = "不明";
+
+/* No comment provided by engineer. */
+"Unloading Plugins" = "ブラグインのアンロード";
+
+/* undo string */
+"Unlock Palette" = "パレットのロック解除";
+
+/* audio format eg mp3, aif, wav */
+"Unpacking Audio format:" = "オーディオ形式の解凍：";
+
+/* QuickTime import/export settings file */
+"Untitled Preset" = "タイトルのないプリセット";
+
+/* No comment provided by engineer. */
+"Untitled Venue" = "タイトルのない会場";
+
+/* No comment provided by engineer. */
+"Unused" = "未使用";
+
+/* No comment provided by engineer. */
+"Unzipping download…" = "ダウンロードを解凍中…";
+
+/* scanning */
+"Unzipping Music Store:" = "ミュージックストアの解凍：";
+
+/* ja */
+"Unzipping on command line" = "コマンドラインで解凍";
+
+/* decompressing */
+"Unzipping song:" = "曲の解凍：";
+
+/* as in update the application to a newer version */
+"Update" = "更新";
+
+/* yep */
+"Update Database" = "データベースの更新";
+
+/* pre-loading data */
+"Updating DB with new search paths…" = "新しい検索パスで DB を更新しています…";
+
+/* they have changed */
+"Updating Values" = "会場の更新";
+
+/* pre-loading data */
+"Updating “Date Added” meta data…" = "「追加日」メタデータの更新…";
+
+/* pre-loading data */
+"Updating “No Lyrics” meta data…" = "「歌詞なし」メタデータの更新…";
+
+/* No comment provided by engineer. */
+"Upgrade" = "アップグレード";
+
+/* display the name that the Finder uses to refer to the file */
+"Use File Name" = "ファイル名を使う";
+
+/* display the name that kJams uses to refer to the song (the song title) */
+"Use Song Name" = "曲名を使う";
+
+/* No comment provided by engineer. */
+"Use your iPhone or iPod Touch to browse songs and submit them to the KJ! Just go to the App store and search for “iJams”" = "iPhone またはiPod Touch で歌をブラウズし、それを KJ に投稿してください!  App Store で「iJams」を検索してください。";
+
+/* No comment provided by engineer. */
+"User Canceled" = "ユーザーがキャンセルしました。";
+
+/* the version of the software is old */
+"Using Old Version" = "古いバージョンを使う";
+
+/* <kJams Lite> or <kJams Pro> will be substituted */
+"Valid only with “%s”" = "「%s」のみで有効";
+
+/* validate blurb */
+"validate_ms_blurb" = "まず、「1-Click 設定」をすべて正しく入力する必要があります。";
+
+/* as in many different, eg: the disc contains songs my various artists */
+"Various" = "様々な";
+
+/* no! */
+"VCD titles must be ripped into the library before playing." = "VCD タイトルは再生する前にライブラリに抽出しておく必要があります。";
+
+/* as in version 1.0 */
+"Version" = "バージョン";
+
+/* No comment provided by engineer. */
+"Version Checking" = "バージョンの確認";
+
+/* you know, like moving pictures */
+"Video" = "動画（ビデオ）";
+
+/* how loud is the song? */
+"Volume" = "音量";
+
+/* warning */
+"vorbis_blurb" = "「%s」の曲を再生するには XiphQT コンポーネントパッケージをダウンロードしてインストールする必要があります。";
+
+/* warning */
+"vorbis_edit_blurb" = "設定したメタ情報を「.ogg」ファイルに格納するには、「Xiph Frameworks」パッケージ、「Xiph Frameworks」パッケージ、および「VorbisCommentEdit Framework」パッケージをダウンロードしてインストールする必要があります。";
+
+/* No comment provided by engineer. */
+"Voucher Purchase not available yet!  Would you like to send KaraokeCloud (NOT the developer) a request for this feature?  This is NOT a request for tech support." = "現在バウチャーの購入はできません！　KaraokeCloud（開発者ではありません）に、購入機能のリクエストを送信しますか？　これは技術サポートへのリクエストではありません。";
+
+/* No comment provided by engineer. */
+"Waiting for cache purging to complete" = "キャッシュ消去の終了待ち";
+
+/* tasks will be done soon */
+"Waiting for sort tasks…" = "並べ替えタスクを待っています…";
+
+/* No comment provided by engineer. */
+"Waiting for Spotlight…" = "Spotlight を待っています…";
+
+/* once is enough */
+"Warn me if this happens again after two hours." = "２時間後に再発したらご連絡ください。";
+
+/* warning */
+"warn_karaoke_locker" = "「Karaoke Locker」ミュージックストアは個人ユーザーのみにライセンス供与されています。収録されている曲を公共の場で使用された場合に備え、Sound Choice は法的手段を講じるべく調査を行っています。現在、公共の場で合法的に Sound Choice の曲を使用できる唯一の方法は、ＣＤ等のメデイアを Sound Choice から直接ご購入いただくしかありません。個人ユーザーの私的利用は問題ございませんが、舞台で公然と使用することは許可されていません。Sound Choice から告訴されてもよろしいのですか？";
+
+/* you are being warned */
+"Warning:" = "警告";
+
+/* No comment provided by engineer. */
+"Web Server Not Started" = "ウェブサーバーが開始されていません";
+
+/* as in go to my */
+"Web Site" = "ウェブサイト";
+
+/* mmm */
+"Webserver port" = "ウェブサーバーポート";
+
+/* warning */
+"weird_unix_err" = "OSはCDドライブに「%s」エラーがあると報告しています。現時点でその理由は不明ですが、実質的にそれはこのドライブでリッピングできないことを意味します。";
+
+/* okay */
+"Well there was some sort of problem reading your CD.  You should send dave your log file" = "CD を読み取り中になんらかの問題がありました。 Dave にログファイルを送信することをお勧めします。";
+
+/* No comment provided by engineer. */
+"Went south getting a CPixels, please send the log file" = "CPixels の取得に失敗しました。ログファイルを送信してください。";
+
+/* No comment provided by engineer. */
+"Went south getting an offscreen, please send the log file" = "オフスクリーンになったので、ログファイルを送信してください。";
+
+/* this is a test */
+"What will you do?" = "どうしますか?";
+
+/* No comment provided by engineer. */
+"Who's Singing Next:" = "次に歌うのは：";
+
+/* No comment provided by engineer. */
+"Wide character encoding error" = "ワイド文字のエンコードエラー";
+
+/* date */
+"Will Renew on: %s" = "更新予定日： %s";
+
+/* the song is only available for streaming, not for purchasing */
+"Within your selection is a streaming only song which can not be purchased." = "セレクションには購入することができないストリーミングの曲だけがあります。";
+
+/* No comment provided by engineer. */
+"Would you like to create a new video?" = "新規動画を作成しますか?";
+
+/* one click */
+"Would you like to edit your account settings?" = "アカウント設定を編集しますか？";
+
+/* one click */
+"Would you like to edit your payment settings?" = "決済の設定を編集します?";
+
+/* advertisment */
+"Would you like to purchase the fully functional version?" = "全機能が揃ったバージョンを購入しますか?";
+
+/* Writer of song */
+"Writer" = "ライター";
+
+/* No comment provided by engineer. */
+"Writing CDG to Cache" = "CDG をキャッシュに書き込む";
+
+/* pcm is pluse code modulated */
+"Writing Uncompressed PCM Audio To Cache" = "未圧縮 PCM オーディオをキャッシュに書き込む";
+
+/* preferences you can set that have to do with writing or exporting meta tags */
+"Writing:" = "書き込み：";
+
+/* as in [cost per year] */
+"year" = "年";
+
+/* enumeration of revolutions around the sun */
+"Year" = "年";
+
+/* affirmative */
+"Yes" = "はい";
+
+/* No comment provided by engineer. */
+"You already purchased this song.  Your email receipt has a download link." = "この曲は購入済みです。Eメール領収書にダウンロードリンクがあります。";
+
+/* No comment provided by engineer. */
+"You are not allowed to “Reference” songs from the “%s” folder, so kJams will Copy/Move the files instead." = "「%s」フォルダにある曲名の「参照」が許可されていませんので、次善策として kJams はファイルをコピー／移動します。";
+
+/* not connected to the internet */
+"You are offline" = "オフラインです";
+
+/* must buy from one store at a time */
+"You can not buy songs from more than one store at the same time." = "同時に複数のストアから曲を購入することはできません。";
+
+/* No comment provided by engineer. */
+"You can not purchase or stream songs while any music store is still loading." = "ミュージックストアをロードしている間は、曲の購入やストリーミングはできません。";
+
+/* yeah */
+"You can't burn the same song twice on a single disc." = "1つのディスクに同じ曲を2度書き込むことはできません。";
+
+/* dur */
+"You can't eject a disc while it is importing!" = "インポート中にディスクを取り出すことはできません!";
+
+/* you can't download a purchased song at the same time you stream another song */
+"You can't mix purchases with streaming." = "ストリーミングと購入を混ぜることはできません。";
+
+/* no! */
+"You can't play a song while a different one is ripping from the same CD" = "同じ CD からリッピング中に曲を再生することはできません。";
+
+/* No comment provided by engineer. */
+"You can't re-encode the song “%s” because it is a streaming song." = "「%s」はストリーミング曲なので再エンコードすることはできません。";
+
+/* No comment provided by engineer. */
+"You can't remove the currently playing song." = "現在演奏中の曲は削除できません。";
+
+/* No comment provided by engineer. */
+"You can't run more than one copy of kJams at once!" = "同時に複数の kJams を実行することはできません！";
+
+/* first is name of application, second is version number */
+"You have %s version %s." = "これは %1$s バージョン %2$sです。";
+
+/* No comment provided by engineer. */
+"You have already bought at least some songs in this selection." = "このセレクションから少なくとも数曲を既に購入しています。";
+
+/* No comment provided by engineer. */
+"You have already bought this song." = "この曲は購入済みです。";
+
+/* No comment provided by engineer. */
+"You have an old version Flip4Mac installed. You must uninstall it or update it to the latest version.  Updates are free." = "古いバージョンの Flip4Mac がインストールされています。これをアンインストールするか、または最新バージョンに更新する必要があります。更新は無料です。";
+
+/* No comment provided by engineer. */
+"You have entered an illegal character in one of your templates. Legal characters are LTRSI-()/. and Space." = "テンプレートのいずれかに不正な文字が入力されています。有効な文字は LTRSI-()/. とスペースです。";
+
+/* No comment provided by engineer. */
+"You have less than 4 GB RAM.  You need to upgrade your RAM or you will experience performance degradation (eg: slow searching)." = "4 GB RAM 以下です。RAM をアップグレードしないと、パフォーマンスが低下します (例: 遅い検索速度)。";
+
+/* No comment provided by engineer. */
+"You have successfully activated %s!, All features are now fully functional." = "正常に%sを有効化しました。すべての機能が完全に機能します。";
+
+/* notify */
+"You have successfully activated the plugin “%s”." = "プラグイン「“%s」を正常に有効化しました。";
+
+/* bad */
+"You have two singers with the same ID.  %s.  The two singers are “%s” and “%s”.  The second one will be ignored for now." = "同じ ID の歌手が 2 人います。%1$s。2 人は「%2$s」と「%3$s」です。2人目の歌手は今のところ無視されます。";
+
+/* No comment provided by engineer. */
+"You may get silent audio.  If so, stop the song and clear your cache, then try again.  If the problem persists, turn off “Skip silence at start of song”." = "サイレントオーディオを受け取る場合がありますが、その場合は、曲を停止し、キャッシュをクリアしてから、もう一度お試しください。問題が解決しない場合は、「トラック開始の無音を除去」をオフにしてください。";
+
+/* oops */
+"You may need to empty your trash first, or rename the Playlist before deleting it." = "最初にゴミ箱を空にするか、またはそれを削除する前に、プレイリストの名前を変更することもできます。";
+
+/* No comment provided by engineer. */
+"You must enable the music store and restart kJams for this feature to be available." = "この機能を使うにはミュージックストアを有効にし、kJams を再起動する必要があります。";
+
+/* No comment provided by engineer. */
+"You must enter the name of the song" = "曲名を入力してください";
+
+/* No comment provided by engineer. */
+"You must install QuickTime" = "QuickTime をインストールする必要があります。";
+
+/* No comment provided by engineer. */
+"You must install the “Image Mastering API v2.0”" = "「Image Mastering API v2.0」をインストールしてください";
+
+/* notify */
+"You must purchase or activate kJams before you can purchase or activate the Burning Plugin." = "メディア書き込み用プラグインを購入あるいはアクティベートする前に、kJams 本体を購入あるいはアクティベートしてください。";
+
+/* No comment provided by engineer. */
+"You must restart kJams for this option to be enabled." = "このオプションを適用するには kJams を再起動してください。";
+
+/* notify */
+"You will have to quit and re-run kJams after you install the plugin “%s”." = "「%s」プラグインをインストールした後に、kJams をいったん終了してから再実行する必要があります。";
+
+/* No comment provided by engineer. */
+"Your credit card has expired" = "クレジットカードが失効しています";
+
+/* No comment provided by engineer. */
+"Your credit card has expired.  Check the expiration date." = "クレジットカードの有効期限が切れています。有効期限を確認してください。";
+
+/* No comment provided by engineer. */
+"Your credit card number is invalid." = "クレジットカード番号が無効です。";
+
+/* No comment provided by engineer. */
+"Your credit card was declined, please call your bank." = "お客様のクレジットカードが承認ませんでした。銀行までお問い合わせください。";
+
+/* No comment provided by engineer. */
+"Your phone number must be at least 9 digits" = "電話番号は、少なくとも 9 桁の数字でなければなりません。";
+
+/* warning */
+"Your QuickTime Export name template is blank, please fill it in in the preferences" = "お使いのQuickTimeのエクスポート名のテンプレートが空白の場合、環境設定でそれを入力してください。";
+
+/* No comment provided by engineer. */
+"Your search criteria produced more than %d results.  Please narrow your search by entering more search terms." = "あなたの検索条件によって%d 以上の結果が出ました。さらに条件を絞って検索範囲を狭めてください。";
+
+/* No comment provided by engineer. */
+"Your serial number file has been saved to the Desktop." = "シリアルナンバーがデスクトップに保存されました。";
+
+/* you ran out of money */
+"Your TriceraSoft Gift Pack has no more credits." = "TriceraSoft ギフトパックにはクレジットが残っていません。";
+
+/* warning */
+"zero_size" = "このオーディオファイルにはデータがありません。エンコード中に何か問題が発生しましたか？";
+
+/* a type of compressed file, i don't think you should translate this */
+"Zip" = "Zip";
+
+/* No comment provided by engineer. */
+"Zip Code must not be empty" = "郵便番号は空欄にできません。";
+
+/* postal code */
+"Zip Code:" = "郵便番号";
+
+/* warning */
+"zip_warn_blurb" = "「%s」曲を圧縮中の他の処理があります。もう一度お試しください。";
+
+/* i don't think zLib can be translated */
+"Zipping Audio+G with zLib" = "zLib によるオ−ディオ Zip 圧縮+G";
+
+/* as in <“kJams Music” folder>, or <“User” folder> */
+"“%s” folder" = "「%s」フォルダ";
+
+/* oops */
+"“%s” folder not found" = "「%s」フォルダがみつかりませんでした。";

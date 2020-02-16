@@ -1,0 +1,362 @@
+			#main {
+				position: relative;
+				padding: 10px ;
+				margin-right: 10px;
+				margin-left: 10px;
+				height: 95%;
+				width: 1070px;
+				min-height: 425px;
+				border-style: solid;
+				border-color: #000000;
+				border-width: 1px;
+				background: url('metal.jpg');
+				cursor: default;
+ 			}
+
+			filterButtons {
+				color: #FFF;
+				background: #000;
+				border-style:solid;
+				border-color:#CCC;
+				border-width: 0 0 0 1px;
+				box-shadow: 2px 2px 2px #555, inset 0 25px 20px -10px rgba(255, 255, 255, 0.3),
+							inset 0 -15px 20px -10px rgba(0, 0, 0, 0.15);
+				-moz-box-shadow: 2px 2px 2px #555, inset 0 25px 20px -10px rgba(255, 255, 255, 0.3),
+							inset 0 -15px 20px -10px rgba(0, 0, 0, 0.15);
+				-o-box-shadow: 2px 2px 2px #555, inset 0 25px 20px -10px rgba(255, 255, 255, 0.3),
+							inset 0 -15px 20px -10px rgba(0, 0, 0, 0.15);
+				-webkit-box-shadow: 2px 2px 2px #555, inset 0 25px 20px -10px rgba(255, 255, 255, 0.3),
+							inset 0 -15px 20px -10px rgba(0, 0, 0, 0.15);
+				-moz-transition: background-color .5s ease; 
+				-o-transition: background-color .5s ease; 
+				-webkit-transition: background-color .5s ease-in-out; 
+				transition: background-color .5s ease;
+			}
+
+			filterButtons:hover {
+				background: #707;
+				position:relative;
+				top:1px;
+				box-shadow: -1px -1px -1px #555, inset 0 20px 20px -10px rgba(0, 0, 0, 0.15), 
+           							inset 0 -15px 20px -10px rgba(255, 255, 255, 0.3);
+				-moz-box-shadow: -1px -1px -1px #555, inset 0 20px 20px -10px rgba(0, 0, 0, 0.15), 
+           							inset 0 -15px 20px -10px rgba(255, 255, 255, 0.3);
+				-o-box-shadow: -1px -1px -1px #555, inset 0 20px 20px -10px rgba(0, 0, 0, 0.15), 
+       								inset 0 -15px 20px -10px rgba(255, 255, 255, 0.3);
+				-webkit-box-shadow: 1px 0px -1px #555, inset 0 20px 20px -10px rgba(0, 0, 0, 0.15), 
+         							inset 0 -15px 20px -10px rgba(255, 255, 255, 0.3);
+			}
+
+			label {
+				white-space:pre;
+			}
+
+			input[type='radio']:checked + label{
+				background: -webkit-linear-gradient(#8a4e8a, #d1aecf);
+				background: -moz-linear-gradient(#8a4e8a, #d1aecf);
+				background: -o-linear-gradient(#8a4e8a, #d1aecf);
+				background: linear-gradient(#8a4e8a, #d1aecf);
+				position:relative;
+				box-shadow:none;
+				-moz-box-shadow:none;
+				-o-box-shadow:none;
+				-webkit-box-shadow:none;
+			}
+
+			#displaybox {
+				z-index: 10000;
+				filter: alpha(opacity=60); /*older IE*/
+				filter:progid:DXImageTransform.Microsoft.Alpha(opacity=60); /* IE */
+				-moz-opacity: .60; /*older Mozilla*/
+				-o-opacity: .60; /*older Opera*/
+				-khtml-opacity: 60;   /*older Safari*/
+				opacity: 0.60;   /*supported by current Mozilla, Safari, and Opera*/
+				font-family: Arial Black;
+				font-weight: bold;
+				background-color:#FFF;
+				position:fixed; top: 0px; left: 0px; width: 100%; height: 100%; text-align: center;
+			}
+
+			#displayTable {
+				width:100%;
+				margin-top:120px;
+				border-collapse:collapse;
+			}
+
+			.displayboxes {
+				color:#808;
+				font-size: 18pt;
+				text-align: center;
+				text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+				height: 100px;
+				background: #000;
+				background: url('linear-gradient.png') 0 0 repeat-x;
+				background: -webkit-radial-gradient(#AAA, #000);
+				background:    -moz-radial-gradient(#AAA, #000);
+				background:     -ms-radial-gradient(#AAA, #000);
+				background:      -o-radial-gradient(#AAA, #000);
+				background:         radial-gradient(#AAA, #000);
+			}
+
+			#hints {
+				z-index: 10001;
+				display: none;
+				width: 300px;
+				font-size:18pt;
+				text-align: center;
+				float: right;
+				position:fixed; top: 170px; left: 10px;
+			}
+
+			#hintsTable {
+				float: left;
+				height:100%;
+			}
+
+			#hint1,#hint2,#hint3,#hint4,#hint5 {
+				display: none;
+				padding: 5px;
+				background-color:#FFF;
+				border: solid;
+				border-width: 1px;
+			}
+
+			#help {
+				vertical-align:top;
+			}
+
+			#filterbar {
+				text-align:center;
+			}
+			
+			#title {
+				position : relative;
+				top : -.22em;
+				vertical-align: top;
+				padding-right: 20px;
+				text-align: left;
+				font-family: Arial Black;
+				font-size: 24pt;
+				font-weight: bold;
+			}
+			
+			#search {
+				width: 100%;
+				text-align: center;
+			}
+			
+			#searchfield {
+				height: 21px;
+				width: 150px;
+				background: url('search.png');
+				background-repeat:no-repeat;
+				border-width: 0px;
+				padding-left: 7px;
+				padding-right: 7px;
+				padding-top: 2px;
+			}
+
+			.clearfix:before,  
+			.clearfix:after {
+				content: " ";
+				display: table;  
+			}
+			.clearfix:after {
+				clear: both;  
+			}
+			* For IE 6/7 only */
+				.clearfix {
+				*zoom: 1;  
+			} 
+			
+			#left {
+				position: absolute;
+				top: 57px;
+				bottom: 50px;
+				width: 200px;
+				margin: 0px;
+			}
+			
+			#status {
+				position: absolute;
+				text-align: left;
+				left: 530px;
+				padding: 0px;
+				margin: 10px;
+				bottom: 10px;
+			}
+			
+			#playlists .KJList {
+				position: absolute;
+				overflow: auto;
+				padding: 0px;
+				bottom: 153px;
+				top: 0px;
+				width: 100%;
+				margin-bottom: 10px;
+				background-color: #FFFFFF;
+				border-style: solid;
+				border-color: #999999;
+				border-width: 1px;
+			}
+			
+			#playlists .KJList td {
+				padding: 0px;
+				margin: 0px;
+			}
+			
+			#playlists .KJList table {
+				margin: 0px;
+				padding: 0px;
+			}
+			
+			#photo {
+				position: absolute;
+				padding: 4px;
+				width: 190px;
+				height: 143px;
+				bottom: 0px;
+				max-height: 150px;
+				overflow: hidden;
+				margin-top: 10px;
+				background-color: #FFFFFF;
+				border-style: solid;
+				border-color: #999999;
+				border-width: 1px;
+			}
+			
+			#songs {
+				position: absolute;
+				overflow: hidden;
+				width: 850px;
+				border-style: solid;
+				border-color: #999999;
+				border-width: 1px;
+				margin-left: 215px;
+				margin-right: 10px;
+				top: 57px;
+				bottom: 50px;
+				background-color: #FFFFFF;
+				background-image: url('kjams_512.png');
+				background-repeat: no-repeat;
+				background-position: center center;
+				background-size: contain;
+				-webkit-overflow-scrolling: touch;
+			}
+			
+			#message, #waiting, #msg_dosearch, #msg_error {
+				text-align: center;
+				font-size: 14pt;
+			}
+			
+			#songs .KJList {
+				padding: 0px;
+				height: 95%;
+				overflow: auto;
+				!background-color: #000000;
+			}
+			
+			.KJListColumn {
+				padding: 0px;
+				margin: 0px;
+				background: url('column-bg.jpg');
+				cursor: default;
+			}
+			
+			.KJListColumn td {
+				border-style: solid;
+				border-color: #999999;
+				border-width: 0px;
+				border-right-width: 1px;
+			}
+			
+			.KJListColumn .primary {
+				background: url('column-selected-bg.jpg');
+			}
+			
+			.KJListItem, .KJListItem_alt, .KJListItem_selected, .KJListItem_drag, .KJListItem_target, .KJListItem_alt_target {
+				padding: 0px;
+				padding-top: 0px;
+				padding-bottom: 0px;
+				margin: 0px;
+				cursor: default;
+				border-style: solid;
+				border-color: #FFFFFF;
+				border-width: 0px;
+				border-bottom-width: 1px;
+			}
+			
+			.KJListItem_alt {
+				background-color: #EEEEFF;
+				filter:alpha(opacity=80); /* for IE */
+				-moz-opacity:0.8;
+				opacity: 0.8;
+			}
+			
+			.KJListItem_selected {
+				background-color: #4444FF;
+				color: #FFFFFF;
+				filter:alpha(opacity=80); /* for IE */
+				-moz-opacity:0.8;
+				opacity: 0.8;
+			}
+						
+			.KJListItem_target, .KJListItem_alt_target {
+				border-style: solid;
+				border-color: #000000;
+				border-width: 0px;
+				border-top-width: 1px;
+			}
+			
+			.KJListItem_alt_target {
+				background-color: #EEEEFF;
+			}
+			
+			.KJListItem_drag {
+				position: absolute;
+				border-style: solid;
+				border-color: #000000;
+				border-width: 1px;
+				background-color: #DDDDDD;
+				filter:alpha(opacity=40); /* for IE */
+				-moz-opacity:0.4;
+				opacity: 0.4;	
+			}
+			
+			.KJList input {
+				padding: 0px;
+				margin: 0px;
+				border-style: solid;
+				border-color: #000000;
+				border-width: 1px;
+			}
+			
+			.KJList input:active {
+				background-color: #000000;
+				color: #FFFFFF;
+			}
+			
+			#playlists .KJListItem, #playlists .KJListItem_alt, #playlists .KJListItem_selected, #playlists .KJListItem_target, #playlists .KJListItem_alt_target {
+				background: url('playlist-icon.gif');
+				background-repeat: no-repeat;
+				padding: 0px;
+				padding-left: 20px;
+				border-style: solid;
+				border-color: #FFFFFF;
+				border-width: 3px;
+			}
+			
+			
+			#playlists .KJListItem_alt {
+				background-color: #EEEEFF;
+			}
+			
+			#playlists .KJListItem_selected {
+				background-color: #4444FF;
+				color: #FFFFFF;
+			}
+			
+			#playlists .KJListItem_target, #playlists .KJListItem_alt_target {
+				border-color: #000000;
+				background-color: #9999FF;
+			}

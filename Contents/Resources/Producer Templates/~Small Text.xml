@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Keyframe Elements</key>
+	<array>
+		<dict>
+			<key>affine_rect</key>
+			<dict>
+				<key>Bottom</key>
+				<integer>110</integer>
+				<key>Left</key>
+				<integer>100</integer>
+				<key>Right</key>
+				<integer>194</integer>
+				<key>Top</key>
+				<integer>94</integer>
+			</dict>
+			<key>color</key>
+			<dict>
+				<key>Blue</key>
+				<integer>65535</integer>
+				<key>Green</key>
+				<integer>65535</integer>
+				<key>Red</key>
+				<integer>65535</integer>
+			</dict>
+			<key>font</key>
+			<string>Arial</string>
+			<key>justify horiz</key>
+			<integer>0</integer>
+			<key>justify vert</key>
+			<integer>0</integer>
+			<key>option bits</key>
+			<integer>0</integer>
+			<key>selected</key>
+			<true/>
+			<key>size</key>
+			<integer>14</integer>
+			<key>string</key>
+			<string>kJams Rocks!</string>
+			<key>style</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>Palette</key>
+	<array/>
+	<key>dither</key>
+	<false/>
+	<key>duration</key>
+	<integer>4937</integer>
+	<key>time</key>
+	<integer>2</integer>
+</dict>
+</plist>

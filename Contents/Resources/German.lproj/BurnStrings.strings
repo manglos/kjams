@@ -1,0 +1,45 @@
+/* No comment provided by engineer. */
+"(none)" = "(keine)";
+
+/* No comment provided by engineer. */
+"Burning Plugin" = "Brenn-Plugin";
+
+/* No comment provided by engineer. */
+"Burning plugin has expired, please download the latest!" = "Brenn-Plugin ist abgelaufen, bitte lade dir die neuste Version herunter!";
+
+/* this means, the software now has all functions, and is no longer limited (to 3 songs per playlist) */
+"Fully Functional" = "Voll funktionstüchtig";
+
+/* No comment provided by engineer. */
+"Installs kJams Burner" = "KJams Brenner wird installiert";
+
+/* No comment provided by engineer. */
+"kJams Burning Plugin, v" = "KJams Brenn-Plugin, v";
+
+/* No comment provided by engineer. */
+"Plugin that allows kJams to burn new CD+G format discs." = "Plugin, welches es kJams erlaubt neue CD+G-Format CDs zu brennen.";
+
+/* No comment provided by engineer. */
+"str_too_long" = "Du hast mehr als 80 Minuten Musik in deiner Playlist, es wird nicht alles auf die CD passen. Bitte lösche einige Lieder, bis du nur noch 79.9 Minuten oder weniger hast.";
+
+/* No comment provided by engineer. */
+"str_tryout" = "Die Testversion des Brenn-Plugins ermöglicht es nur 2 Lieder pro CD zu brennen. Wenn du mehr brennen möchtest, kauf bitte das Plugin.";
+
+/* we couldn't figure out what went wrong during the burn */
+"Strange Status State in Burning Plugin" = "Unbekannter Zustandsstatus im Brenn-Plugin";
+
+/* No comment provided by engineer. */
+"That's not a writable CD!" = "Dies ist keine beschreibbare CD!";
+
+/* No comment provided by engineer. */
+"Tryout Only (2 songs per disc)" = "Nur Testversion (2 Lieder pro CD)";
+
+/* No comment provided by engineer. */
+"Unable to create burn track" = "Nicht möglich den Titel zu brennen";
+
+/* No comment provided by engineer. */
+"Unable to create correct burn track, due to an apple bug.  Expect a fix for this soon, sorry." = "Wegen eines Apple Fehlers ist es nicht möglich den korrekten Titel zu brennen. Der Fehler sollte bald behoben sein, Entschuldigung.";
+
+/* No comment provided by engineer. */
+"Unknown Status" = "Unbekannter Status";
+

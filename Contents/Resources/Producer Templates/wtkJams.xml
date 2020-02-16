@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Keyframe Elements</key>
+	<array>
+		<dict>
+			<key>affine_rect</key>
+			<dict>
+				<key>Bottom</key>
+				<integer>192</integer>
+				<key>Height</key>
+				<integer>192</integer>
+				<key>Left</key>
+				<integer>113</integer>
+				<key>Right</key>
+				<integer>281</integer>
+				<key>Top</key>
+				<integer>0</integer>
+				<key>Width</key>
+				<integer>168</integer>
+			</dict>
+			<key>color</key>
+			<dict>
+				<key>Blue</key>
+				<integer>65338</integer>
+				<key>Green</key>
+				<integer>29078</integer>
+				<key>Red</key>
+				<integer>55671</integer>
+			</dict>
+			<key>font</key>
+			<string>Arial Narrow</string>
+			<key>justify horiz</key>
+			<integer>1</integer>
+			<key>justify vert</key>
+			<integer>1</integer>
+			<key>option bits</key>
+			<integer>1</integer>
+			<key>selected</key>
+			<true/>
+			<key>sizeF</key>
+			<real>18</real>
+			<key>string</key>
+			<string>Use your smart phone (iOS or Android) to search for songs and submit them to the KJ! Just go to the App store and search for “wtkJams”
+</string>
+			<key>stroke color</key>
+			<dict>
+				<key>Blue</key>
+				<integer>0</integer>
+				<key>Green</key>
+				<integer>0</integer>
+				<key>Red</key>
+				<integer>0</integer>
+			</dict>
+			<key>stroke width</key>
+			<real>2</real>
+			<key>style</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>affine_rect</key>
+			<dict>
+				<key>Bottom</key>
+				<integer>191</integer>
+				<key>Height</key>
+				<integer>168</integer>
+				<key>Left</key>
+				<integer>2</integer>
+				<key>Right</key>
+				<integer>110</integer>
+				<key>Top</key>
+				<integer>23</integer>
+				<key>Width</key>
+				<integer>108</integer>
+			</dict>
+			<key>color</key>
+			<dict>
+				<key>Blue</key>
+				<integer>65535</integer>
+				<key>Green</key>
+				<integer>65535</integer>
+				<key>Red</key>
+				<integer>65535</integer>
+			</dict>
+			<key>font</key>
+			<string>Arial</string>
+			<key>justify horiz</key>
+			<integer>0</integer>
+			<key>justify vert</key>
+			<integer>0</integer>
+			<key>option bits</key>
+			<integer>0</integer>
+			<key>selected</key>
+			<false/>
+			<key>sizeF</key>
+			<real>14</real>
+			<key>string</key>
+			<string>[/Resources/pictures/wtkjams.png]</string>
+			<key>stroke color</key>
+			<dict>
+				<key>Blue</key>
+				<integer>0</integer>
+				<key>Green</key>
+				<integer>0</integer>
+				<key>Red</key>
+				<integer>0</integer>
+			</dict>
+			<key>stroke width</key>
+			<real>2</real>
+			<key>style</key>
+			<integer>0</integer>
+		</dict>
+	</array>
+	<key>Palette</key>
+	<array/>
+	<key>back color</key>
+	<integer>0</integer>
+	<key>clear screen</key>
+	<false/>
+	<key>dither</key>
+	<false/>
+	<key>duration</key>
+	<integer>1672</integer>
+	<key>fade</key>
+	<false/>
+	<key>label color</key>
+	<false/>
+	<key>new page</key>
+	<true/>
+	<key>new pal</key>
+	<true/>
+	<key>time</key>
+	<integer>5247</integer>
+	<key>xor</key>
+	<false/>
+</dict>
+</plist>

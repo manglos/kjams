@@ -1,0 +1,45 @@
+/* No comment provided by engineer. */
+"(none)" = "(なし)";
+
+/* No comment provided by engineer. */
+"Burning Plugin" = "Burning プラグイン";
+
+/* No comment provided by engineer. */
+"Burning plugin has expired, please download the latest!" = "Burning プラグインが期限切れです。最新のものをダウンロードしてください!";
+
+/* this means, the software now has all functions, and is no longer limited (to 3 songs per playlist) */
+"Fully Functional" = "フル機能";
+
+/* No comment provided by engineer. */
+"Installs kJams Burner" = "kJams バーナーをインストールします";
+
+/* No comment provided by engineer. */
+"kJams Burning Plugin, v" = "kJams バーニングプラグイン、v";
+
+/* No comment provided by engineer. */
+"Plugin that allows kJams to burn new CD+G format discs." = "kJams が新しい CD+G 形式ディスクを作成できるプラグイン";
+
+/* No comment provided by engineer. */
+"str_too_long" = "プレイリストには 80分のミュージックがあります。 79.9 分以下になるように、曲を削除してください。";
+
+/* No comment provided by engineer. */
+"str_tryout" = "Burning プラグインの試用版では、1ディスクにつき2曲までしか作成することができません。もっと入れたい場合は、プラグインを購入してください。";
+
+/* we couldn't figure out what went wrong during the burn */
+"Strange Status State in Burning Plugin" = "プラグインが奇妙な状態状況です";
+
+/* No comment provided by engineer. */
+"That's not a writable CD!" = "これは、書き込み可能なCDではありません!";
+
+/* No comment provided by engineer. */
+"Tryout Only (2 songs per disc)" = "試用版のみ（1ディスクにつき 2曲まで）";
+
+/* No comment provided by engineer. */
+"Unable to create burn track" = "トラックの書き込みができません。";
+
+/* No comment provided by engineer. */
+"Unable to create correct burn track, due to an apple bug.  Expect a fix for this soon, sorry." = "Apple バグのために正しいトラックの書き込みができません。これが修正されるまでお待ちください。申し訳ありません。";
+
+/* No comment provided by engineer. */
+"Unknown Status" = "Unknown ステータス";
+

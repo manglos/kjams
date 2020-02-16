@@ -1,0 +1,21 @@
+L-L-T-R-S
+L-T-R-S
+L-T-R-S (V)
+L-T-S-R
+L-T R-S
+L-T S-R
+R-S
+S-R
+R-S-L
+R-S-L-T
+S-R-L-T
+T-R-S-L-T
+S
+T S
+R-T-S
+S-R (L T)
+/R/S/L-T
+/R/L/T S
+/R/S/L
+/R/L/S
+/L/R/S

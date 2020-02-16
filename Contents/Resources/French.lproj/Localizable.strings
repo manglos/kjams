@@ -1,0 +1,3335 @@
+/* User Sort Order */
+"#" = "#";
+
+/* number of times the song has been sung */
+"# Sung" = "Nb. de fois la chanson a été lu";
+
+/* first is name of program */
+"%s only allows you to export up to 10 songs to QuickTime." = "%s vous permet d'exporter jusqu'à 10 chansons uniquement vers QuickTime.";
+
+/* first is name of program, 2nd is playlist type */
+"%s only allows you to have up to %ld items in a “%s” playlist." = "%1$s vous permet d'avoir jusqu'à %2$ articles uniquement dans une \"%3$s\" liste de lecture.";
+
+/* first is name of program, 2nd is number of singers, 3rd is playlist type */
+"%s only allows you to have up to %ld singers in the “%s” playlist." = "%1$s vous permet d'avoir jusqu'à %2$ pistes uniquement dans une \"%3$s\" liste de lecture.";
+
+/* first is name of program, 2nd is playlist type */
+"%s only allows you to rip the first %ld songs in a “%s” playlist." = "%1$s vous permet de graver les %2$ premières chansons dans une \"%3$s\" liste de lecture.";
+
+/* first is name of application, second is version number */
+"%s version %s is now available!" = "%1$s la version %2$s est maintenant disponible!";
+
+/* expires on date */
+"(Expires: %s)" = "(Expire le: %s)";
+
+/* does not expire */
+"(No Expiration)" = "(Pas de date de validité)";
+
+/* No comment provided by engineer. */
+"(Not Verified)" = "(Non vérifié)";
+
+/* change the pitch */
+"(Pitch Bend: %+d)" = "(Moduler la fréquence: %+d)";
+
+/* as in, you can try this out for free, and pay later when you want */
+"(Tryout)" = "(Essayer)";
+
+/* indicates a song has vocals.  note preceeding space and parens */
+"(With Vocals)" = "(Avec paroles)";
+
+/* you can download this */
+"* Download" = "* Téléchargement";
+
+/* No comment provided by engineer. */
+"* Singer PW" = "MP chanteur";
+
+/* name of store */
+"* Store ID" = "* ID magasin";
+
+/* you can stream this */
+"* Stream" = "* Diffusion";
+
+/* service level */
+"* Tier" = "* Niveau";
+
+/* first name */
+"1st name" = "1er nom";
+
+/* second name */
+"2nd name" = "2em nom";
+
+/* No comment provided by engineer. */
+": Free sign up required" = "Inscription gratuite requise";
+
+/* the name of the space bar key */
+"[space]" = "[espace]";
+
+/* No comment provided by engineer. */
+"A general connection failure has occured." = "Une erreur de connexion générale s'est produite.";
+
+/* No comment provided by engineer. */
+"A parameter is incorrect." = "Un paramètre est incorrect.";
+
+/* No comment provided by engineer. */
+"A purchase attempt was unsuccessful." = "Une tentative d'achat a été infructueuse.";
+
+/* No comment provided by engineer. */
+"A SKU update is available from the eSellerate Servers." = "Une mise à jour SKU est disponible sur les serveurs eSellerate.";
+
+/* mmm */
+"A song you are trying to delete is currently playing.  Are you sure you want to delete it?" = "Une chanson que vous essayez de supprimer est en cours de lecture. Etes-vous sûr de vouloir la supprimer?";
+
+/* No comment provided by engineer. */
+"Abort orphan encoding" = "Abandonnez l'encodage orphelines";
+
+/* No comment provided by engineer. */
+"Abort QT exporters" = "Abandonnez les exportateurs QT";
+
+/* No comment provided by engineer. */
+"Abort song importers and zip tasks" = "Abandonnez les importateurs de chansons et les tâches d'archivage";
+
+/* you are trying to do something you should not do */
+"Action not allowed" = "Actions intérdites";
+
+/* warning */
+"activated_good_blurb" = "Vous avez correctement activé kJams! Toutes les fonctionnalités sont maintenant pleinement fonctionnel. Vous recevrez rapidement un reçu par e-mail , veuillez conserver une copie de ceci, car il contient votre numéro de série, au cas où vous auriez besoin de réinstaller.";
+
+/* No comment provided by engineer. */
+"Activating" = "Activation en cours";
+
+/* No comment provided by engineer. */
+"Activation Key is Invalid" = "Clé d'activation n'est pas valide";
+
+/* Activity window, shows running threads */
+"Activity" = "Activité";
+
+/* length of song not including silence at start and end */
+"Actual Duration" = "Durée actuelle";
+
+/* track is the song on the disc, proxy means <substitute> or <replacement> */
+"Add CD Track Proxy Song…" = "Ajout de piste CD de chanson de substitution…";
+
+/* undo string */
+"Add Picture" = "Ajoutez image";
+
+/* as in, this was put in or entered or inputted */
+"Added:" = "Ajouté:";
+
+/* gathering song name index */
+"Adding Song Entries…" = "Saisie des chansons…";
+
+/* adding to [name of playlist] */
+"Adding songs to “%s”…" = "Ajout de chansons sur “%s”…";
+
+/* adding songs */
+"Adding to Library…" = "Ajout à la bibliothèque";
+
+/* i am agreeing to this */
+"Agree" = "Accepter";
+
+/* where the song resides */
+"Album" = "Album";
+
+/* No comment provided by engineer. */
+"All sales are FINAL there are NO REFUNDS." = "Toutes les ventes sont FINALES et ne sont PAS REMBOURSABLES.";
+
+/* No comment provided by engineer. */
+"All the data on the disc will be lost" = "Toutes les données sur le disque seront perdues";
+
+/* No comment provided by engineer. */
+"Allocating CDPedia" = "Allocation de l’encyclopédie des CDs";
+
+/* No comment provided by engineer. */
+"Already Reported This Error" = "Cette erreur a déjà été signalé";
+
+/* always just try it anyway */
+"Always Attempt" = "Essayez toujours";
+
+/* No comment provided by engineer. */
+"An activation attempt failed due to the maximum number of allowable activations being met." = "Une tentative d'activation a échoué en raison du nombre maximal d'activations permises atteint.";
+
+/* No comment provided by engineer. */
+"An activation attempt was made on an invalid order." = "Une tentative d'activation a été faite sur une commande invalide.";
+
+/* No comment provided by engineer. */
+"An attempt was made to activate an blacklisted serial number." = "Une tentative a été faite pour activer un numéro de série  sur liste noire .";
+
+/* No comment provided by engineer. */
+"An attempt was made to activate an unknown serial number." = "Une tentative a été faite pour activer un numéro de série  inconnu.";
+
+/* No comment provided by engineer. */
+"An error occured finalizing the activation on the client machine." = "Une erreur s'est produite lors de la finalisation d'activation sur un ordinateur du client.";
+
+/* No comment provided by engineer. */
+"An internal error has occured in the engine." = "Une erreur interne s'est produite dans le moteur.";
+
+/* No comment provided by engineer. */
+"An unknown server error has occured." = "Une erreur de serveur inconnue s'est produite.";
+
+/* http://en.wikipedia.org/wiki/Anti-alias */
+"Anti-alias" = "Anti-repliement";
+
+/* No comment provided by engineer. */
+"Applause!" = "Applaudissements!";
+
+/* undo string */
+"Apply Template" = "Appliquez modèle";
+
+/* size will be in (b, K, MB, GB, TB), indicates how big it would be if the cache were filled to maximum.  let me know if the units need to be localized */
+"Approximate size of cache if filled: %s" = "Taille approximative de la mémoire cache si remplie:%s";
+
+/* asking if two songs are the same song */
+"Are these songs the same?" = "Sont-elles les mêmes chansons?";
+
+/* mmm */
+"Are you sure you want reveal %d songs in the Finder?" = "Etes-vous sûr de vouloir révéler des  chansons %d dans le rechercheur?";
+
+/* mmm */
+"Are you sure you want to deactivate kJams on this computer?  If you deactivate, kJams will revert to Tryout mode, and you can then use your serial number on a different computer." = "Êtes-vous sûr de vouloir désactiver kJams sur cet ordinateur ?  Si vous le désactivez, kJams repassera en version d'essai et vous pourrez alors utiliser votre numéro de série sur un autre ordinateur.";
+
+/* yep */
+"Are you sure you want to delete the selected singer(s)?" = "Etes-vous sûr de vouloir supprimer le(s) morceau(x) sélectionné (s)?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to interrupt the current song?" = "Etes-vous sûr de vouloir interrompre le morceau en cours?";
+
+/* yes? */
+"Are you sure you want to permanantly delete playlist “%s”?  You can not undo this action." = "Etes-vous sûr de vouloir supprimer définitivement la liste de lecture  “%s? Vous ne pouvez pas annuler cette action.";
+
+/* mmm */
+"Are you sure you want to remove the selected track references? (no actual files will be deleted)" = "Etes-vous sûr de vouloir supprimer les références des pistes sélectionnées? (aucun fichiers actuels sera supprimé)";
+
+/* mmm */
+"Are you sure you want to scan every single song for graphic lyrics?  This will take a VERY long time." = "Etes-vous sûr de vouloir analyser chaque chanson pour des paroles graphiques? Cela va prendre un TRÈS long temps .";
+
+/* asking for confirmation */
+"Are you sure?" = "Êtes-vous sûr ?";
+
+/* No comment provided by engineer. */
+"Are your credentials correct?" = "Vos informations sont-elles correctes ?";
+
+/* No comment provided by engineer. */
+"Argument list too long" = "Liste des arguments trop longe";
+
+/* Artist of song */
+"Artist" = "Artiste";
+
+/* No comment provided by engineer. */
+"Ask for Password" = "Sollicitez un mot de passe";
+
+/* kjams is doing the asking */
+"Asking about updating database" = "Se renseigner sur la mise à jour de la base de données";
+
+/* part of a Bin/Cue pair of files */
+"Assembling Bin file:" = "Élaboration du fichier Bin:";
+
+/* for burning */
+"Assembling Disc Image" = "Élaboration des images du disque";
+
+/* eeeks! */
+"Assert Fail: %s, in file: '%s' at line %ld" = "Échec d'affirmation: %1$s, dans le fichier: '%2$s' à la ligne %3$ld";
+
+/* bummer */
+"At least one of these songs is missing." = "Au moins une de ces chansons est manquante.";
+
+/* try to see if it works */
+"Attempt" = "Essaie";
+
+/* sound track */
+"Audio" = "Audio";
+
+/* this translation must EXACTLY match what the finder shows as the DISC title when you put in a disc that has no meta info */
+"Audio CD" = "CD Audio";
+
+/* this translation must EXACTLY match what the finder shows as a TRACK title when you put in a disc that has no meta info */
+"Audio Track" = "Piste audio";
+
+/* warning */
+"auth_twice_blurb" = "kJams vous demandera l'identifiant et le mot de passe de votre ordinateur deux fois, puis ne vous les demandera plus.  Le but est de : 1) permettre à kjams de se mettre à jour automatiquement et 2) permettre à kJams d'utiliser le port serveur 80 lorsque vous autorisez le serveur web kJams.";
+
+/* video background contents.  (eg: colors? movie? black?) */
+"Background" = "Musique de fond";
+
+/* this song has backing vocals */
+"Backing Vocals" = "Les choeurs";
+
+/* No comment provided by engineer. */
+"Bad address" = "Mauvaise adresse";
+
+/* No comment provided by engineer. */
+"Bad file descriptor" = "Mauvais descripteur de fichier";
+
+/* No comment provided by engineer. */
+"Bad file name (eg: no colons allowed)" = "Mauvais nom de fichier (par exemple: pas de virgules autorisées)";
+
+/* No comment provided by engineer. */
+"Bad File Reference Number" = "Mauvais numéro de réference";
+
+/* validate blurb */
+"bad_cc_ms_blurb" = "Vérifiez que vous êtes connecté au réseau. Ou peut-être votre numéro de carte de crédit a été ma saisi? Ou le code CVV2? Le numéro de la carte doit être de Visa ou MasterCard et ne doit pas contenir des tirets ou des espaces.";
+
+/* message */
+"bad_drive_blurb" = "Terriblement désolé, mais votre lecteur CD-ROM ne prend tout simplement pas en charge la lecture de disques CD + G. Vous aurez besoin d'obtenir un autre lecteur. Pour une liste des lecteurs pris en charge, consultez la FAQ.";
+
+/* warning */
+"bad_encode_blurb" = "Désolé, il semble que vos paramètres de compression audio ont créé une situation que QuickTime ne peut pas comprendre. Vous aurez à modifier vos paramètres et ré-gravez la chanson.";
+
+/* warning */
+"bad_mp3_blurb" = "Un ou plusieurs de vos fichiers MP3 peuvent être corrompues. Pour chacun d'eux, essayez de le lire. S'il ne lis pas,  supprimez- le en le sélectionnant et en choisissant la  menu de commande: “Edit->Trash Original Files…”.";
+
+/* self explanatory */
+"bad_template_blurb" = "Votre modèle actuelle d'onglet d'écriture  (“%s”), ne contient pas tous les type de modèle. Comme  vous exportez vers une liste à plat, ceci pourrait écraser les fichiers. Veuillez sélectionner des modèles\" noms des chansons conformes\"  qui a tout type de modèle, par exemple: “L-T - R - S”.";
+
+/* verb as in 'make this permanent' */
+"Bake" = "Création";
+
+/* a type of audio file ready for buring to disc */
+"Bin/Cue file" = "Bin/ fichier repéré";
+
+/* shown when you attempt to rip to bin/cue */
+"bin_cue_ask_blurb" = "Remarque: bin / fichier repéré peut ne pas être ce que vous voulez. Garver des fichiers Bin / repéré  crée une copie non compressée de vos CD entier (jusqu'à 800 Mo), qui vivent en dehors de votre dossier\"Musique kJams \".";
+
+/* short for ‘biography’, history and information about a person */
+"Bio" = "Bio";
+
+/* bit rate of compressed audio */
+"Bit Rate" = "Niveau de Bit";
+
+/* the background has only black in it */
+"Black" = "Noir";
+
+/* make the background have nothing in it */
+"Black Background" = "Arrière plan noir";
+
+/* beats per minute */
+"BPM" = "BPM";
+
+/* technical error, unix command could not be redirected */
+"Broken pipe" = "Brise de conduite";
+
+/* building as in creating or constructing */
+"Building CDG" = "Construction CDG";
+
+/* No comment provided by engineer. */
+"Building Playlist: %s" = "Élaboration de la liste de lecture:%s";
+
+/* No comment provided by engineer. */
+"Building SMS Gateways" = "Installation des passerelles SMS";
+
+/* No comment provided by engineer. */
+"Building Venues" = "Élaboration des chemins";
+
+/* warning */
+"bummer_download" = "Désolé, il n'y avait une erreur lors du dézippage de votre téléchargement. Il suffit d'aller sur le site web et le télécharger manuellement.";
+
+/* warning */
+"bummer_plugin" = "Désolé, il y a eu une erreur lors de la localisation de votre plugin d'installation. Veuillez contacter Dave.";
+
+/* burn an entire disc from a pair of files with .bin and .cue extensions */
+"Burn bin/cue to disc…" = "Gravez Bin/ repère au disc…";
+
+/* No comment provided by engineer. */
+"Burn completed, ejecting Disc…" = "Gravure terminé , éjectez disc…";
+
+/* bummer */
+"Burn Failed:" = "Échec gravure :";
+
+/* description of the dialog where the user will choose (pick) the order of the songs on the burned disc */
+"Burn Order Choice" = "Choix de l'ordre de gravure";
+
+/* be happy */
+"burn_activ_success_blurb" = "Vous allez recevoir rapidement un e-mail de confirmation. Veuillez en conserver une copie, car il contiendra votre numéro de série, nécessaire si vous devez réinstaller l'app plus tard.";
+
+/* warning */
+"burn_not_sorted_blurb" = "Cette liste n'est pas indiqué dans l'ordre de tri de l'utilisateur. Voulez-vous graver la liste avec l'ordre de tri actuels(“%1$s”)? Ou voulez-vous graver la liste en utilisant la commande Tri utilisateur (“%2$s”)? Remarque: la gravure à l'ordre de tri actuel  renumérotera l'ordre tri utilisateur afin de correspondre.";
+
+/* warning */
+"burn_prep_mismatch_blurb" = "Il y avait un problème lors de l'élaboration du %1$s \"%2$s\" pour la gravure, la taille de la vidéo a été %3$d, alors que la taille audio a été %4$d.";
+
+/* yep */
+"Burning Plugin API out of date, upgrade the plugin." = "Gravure API Plugin n'est pas à jour, mettre à jour le plugin.";
+
+/* No comment provided by engineer. */
+"Burning Plugin not detected." = "Plugin de la gravure non-détecté";
+
+/* verb: purchase (shortest possible word that conveys the meaning) */
+"Buy" = "Acheter";
+
+/* verb: purchase the song */
+"Buy Song" = "Achetez la chanson";
+
+/* No comment provided by engineer. */
+"Cache folder not found, resetting to default location." = "Dossier cache non- trouvé, réinitialisation à l'emplacement par défaut en cours.";
+
+/* warning */
+"cache size blurb" = "Votre taille du cache a été ajusté pour tenir compte du nombre de morceaux dans cette playlist. Vous voudriez peut-être la réajuster après la gravure.";
+
+/* copying the data to local storage */
+"Cacheing Audio stream:" = "Cache de la diffusion audio:";
+
+/* pre-loading data */
+"Cacheing file formats…" = "Cache des formats des fichiers…";
+
+/* pre-loading data */
+"Cacheing search paths…" = "Cache des chemins de recherche…";
+
+/* No comment provided by engineer. */
+"Cacheing song files…" = "Cache des fichiers chansons...";
+
+/* No comment provided by engineer. */
+"Calculating Playlist durations…" = "Calcul de la durée des listes de lecture";
+
+/* sorry */
+"Can't Delete Playlist" = "Suppression de la liste de lecture impossible";
+
+/* bummer */
+"Can't extract this media type on a background thread." = "Impossible d'extraire ce type de support sur ​​un fil de discussion en arrière.";
+
+/* bummer */
+"Can't move this media type to a background thread." = "Impossible de déplacer ce type de support à un fil de discussion d'arrière.";
+
+/* no no */
+"Can't re-order the currently playing song" = "Impossible de re-commander la chanson en cours de lecture";
+
+/* bummer */
+"Can't skip back to previous rotation" = "Impossible de revenir en arrière à la rotation précédente";
+
+/* No comment provided by engineer. */
+"Cannot allocate memory" = "Impossible d'allouer de la mémoire";
+
+/* don't translate 'kJams Music' cuz it's used in the finder */
+"cant_add_library" = "Vous ne pouvez pas ajouter des chansons qui résident dans la \"Musique kJams\" au dossier dans votre bibliothèque. Si vous pensez que vous devriez faire cela, alors vous avez mal fait quelque chose .";
+
+/* eek */
+"cant_find_pl_singer_blurb" = "Il s'avère que la liste de lecture appartenait à un chanteur. Mais je ne sais pas lequel. Alors je vais juste faire une liste de lecture normale, désolé. Vous pouvez essayer de trouver le chanteur et faire glisser les éléments vers leur liste de lecture.";
+
+/* bummer */
+"cant_use_case_sens" = "kJams ne pouvez pas utiliser  les disques formatés «cases sensibles» en raison de plusieurs facteurs techniques, je n'irai pas là bas. Pour utiliser la musique sur ce disque, vous devez reformater le disque, sans «cases sensibles» .";
+
+/* bummer */
+"cant_use_ntfs" = "kJams ne peut utiliser les disques formatés en NTFS car le MacOS n'a pas nativement  la possibilité d'écrire à des volumes de ce type. Si vous avez besoin d'une compatibilité avec Windows, vous devez reformater le disque en FAT.";
+
+/* No comment provided by engineer. */
+"cb_blurb_1" = "Des pistes spéciales  qui ne contiennent pas de paroles  sont maintenant disponibles. Vous pouvez contacter Chartbuster pour les licences supplémentaires qui vous permet d'enregistrer avec ces pistes. Ces pistes nécessitent 7 crédits ou 14,99 $ pour l'achat, frais de licence non compris  (obligatoire).";
+
+/* 16 digit number */
+"CC Number:" = "Numéro de CC:";
+
+/* type of credit card */
+"CC Type:" = "Type de CC:";
+
+/* track is the song on the disc, proxy means <substitute> or <replacement> */
+"CD Track Proxy" = "Piste CD de chansons de substitution";
+
+/* obvious */
+"CD-ROM" = "CD-ROM";
+
+/* eeks */
+"CF_ASSERT Fail: Setting CD file status to empty!" = "Échec CF_ASSERT :Définition de l'état des fichiers de CD à vide!";
+
+/* bad situation */
+"CF_ASSERT Fail: Trying to tell a CD that it's not a CD" = "Échec CF_ASSERT: Essayer de dire à un CD que ce n'est pas un CD";
+
+/* warning */
+"CF_ASSERT_crash_blurb" = "Vous êtes sur le point de collision. Ce serait formidable si vous laissez  kJams faire, puis, * Annuler * le le rapport d'incident Apple, puis exécutez kJams à nouveau et  kJams offrira son propre rapport . Envoyez ce rapport de collision à Dave pour qu'il puisse le réparer. Si vous voulez, vous pouvez toutefois prendre le risque en essayant de continuer, mais cela peut tout de même provoquer une collision. Si non, effectuez un sauvegarde forcé  (Command-Option-Shift-S), puis quittez et relancez le plus tôt possible.";
+
+/* warning */
+"CF_ASSERT_crash_blurb_win" = "Vous êtes sur le point d'une collision. Ce serait formidable si vous laissez derouler l'incident kJams, puis envoyer le rapport d'incident à Dave afin qu'il puisse le réparer. Si vous voulez, vous pouvez toutefois prendre le risque en essayant de continuer, mais cela peut tout de même provoquer une collision. Si non, effectuez un sauvegarde forcé (Control-Alt-Shift-S), puis quittez et relancez le plus tôt possible.";
+
+/* delete whatever it is */
+"Change All" = "Tout changer";
+
+/* name of dialog */
+"Change Cache Location?" = "Voulez vous changer l'emplacement du cache?";
+
+/* undo string */
+"Change CDG Stream" = "Modifiez la diffusion CDG";
+
+/* undo string: change font information */
+"Change Font Info" = "Modifiez l'info sur la police";
+
+/* name of dialog */
+"Change “kJams Music” Folder Location?" = "Modifiez l'emplacement du dossier \"Musique kJams \"";
+
+/* press this button to explode */
+"change_cache_warn_blurb" = "AVERTISSEMENT: Ceci n'a rien à voir avec là où kJams recherche pour votre musique. Etes-vous sûr que vous savez ce que vous faites?";
+
+/* warning */
+"change_music_fold_warn_blurb" = "AVERTISSEMENT: Ce dossier ne doit PAS être utilisé par vous (l'utilisateur). Il est utilisé uniquement par les kJams pour stocker des chansons gravées à partir du disque, ou des chansons achetées dans le magasin de musique. Il ne sert PAS à raconter à kJams où trouver de la musique.";
+
+/* warning */
+"ChangeFileModePrompt" = "kJams demande de modifier un fichier ou un dossier qui est restreint, et doit être autorisé pour cela.";
+
+/* only these credit cards */
+"Chartbuster does not accept American Express" = "Chartbuster n'accepte pas la carte de paiement American Express";
+
+/* confirm */
+"check_music_stores_blurb" = "Au moins %d de vos magasins de musique peut ne pas être  à jour, vous souhaitez télécharger la dernière mise à jour, le cas échéant?";
+
+/* mmm */
+"Checking original song files…" = "Vérification des fichiers de chanson originaux…";
+
+/* sdf */
+"Checking Playlists…" = "Vérification des listes de lecture…";
+
+/* mmm */
+"Checking the playing song…" = "Vérification de la chanson en cours de lecture…";
+
+/* No comment provided by engineer. */
+"City must not be empty" = "Le champs ville ne doit pas être vidé";
+
+/* - */
+"City:" = "Ville :";
+
+/* as in: completing, finishing, finalizing */
+"Cleaning Up:" = "Nettoyage :";
+
+/* No comment provided by engineer. */
+"Cleaning Up…" = "Nettoyage:";
+
+/* verb as in (you) erase */
+"Clear" = "Effacer";
+
+/* at startup */
+"Clearing out temp songs…" = "Effacement des chansons temporaires…";
+
+/* does that make sense? */
+"Clearing Playlist" = "Effacement des listes de lecture";
+
+/* No comment provided by engineer. */
+"Clearing SMS Gateways" = "Nettoyage des passerelles SMS";
+
+/* No comment provided by engineer. */
+"Clearing Song List" = "Effacement de la liste des chansons";
+
+/* No comment provided by engineer. */
+"Close CD Tray" = "Fermez le plateau du CD";
+
+/* warning */
+"close_purchase_blurb" = "Après avoir effectué l'achat, il vous sera présenté une \"fenêtre d'accusé de réception\". Vous devez juste la fermer, vous allez obtenir une copie par e-mail. Ne  le minimiser PAS. Ce n'est que par  * la fermeture * de cette fenêtre automatiquement que le logiciel s'auto enregistrera et déverrouillera toutes les fonctionnalités, en d'autres termes, il saisir votre numéro de série pour vous. Il n'ya pas de téléchargement, il fonctionne déjà.";
+
+/* No comment provided by engineer. */
+"closing Clipboard" = "fermeture de presse papiers";
+
+/* No comment provided by engineer. */
+"Closing Database" = "Fermeture de la base de données";
+
+/* No comment provided by engineer. */
+"closing database" = "Fermeture de la base de données";
+
+/* No comment provided by engineer. */
+"closing eSellerate" = "Fermeture d'eSellerate";
+
+/* No comment provided by engineer. */
+"closing prefs" = "fermeture de favoris";
+
+/* No comment provided by engineer. */
+"closing QuickTime" = "fermeture de QuickTime";
+
+/* the background has colors in it */
+"Colored" = "Coloré";
+
+/* random thoughts about a song entered by the user */
+"Comment_blurb" = "Commentaire";
+
+/* these options are related to the composition */
+"Comp Level" = "Niveau de l'ordinateur";
+
+/* No comment provided by engineer. */
+"Component not thread safe" = "Composant fil de discussion non sécurisé";
+
+/* who composed the song? */
+"Composer" = "Compositeur";
+
+/* No comment provided by engineer. */
+"Configuring account…" = "Configuration du compte...";
+
+/* confirm */
+"confirm_1_purch_blurb" = "Etes-vous sûr de vouloir acheter la chanson \"%1$s\" pour %2$s, plus TVA?.";
+
+/* confirm */
+"confirm_2_purch_blurb" = "Etes-vous sûr de vouloir acheter les chansons sélectionnées \"%1$d\" pour %2$s, plus TVA?";
+
+/* confirm */
+"confirm_special_blurb" = "Au moins une chanson que vous vous apprêtez à acheter nécessite un permis spécial pour l'utilisation. Vous devez contacter Chartbuster pour l'utiliser lors d'un enregistrement ou à des compétitions. Il est donc relativement coûteux, quoique la dépense ne comprend PAS les frais de licence, que vous devez vous arranger avec Chartbuster. Etes-vous sûr que vous vouliez acheter cette version?";
+
+/* asking the database for info */
+"Connecting to song stream" = "Connexion à la chanson de diffusion";
+
+/* No comment provided by engineer. */
+"Contest Tonight!" = "Concours ce soir!";
+
+/* go on */
+"Continue" = "Continuer";
+
+/* No comment provided by engineer. */
+"Control error (debug)" = "Erreur de contrôle (débogage)";
+
+/* No comment provided by engineer. */
+"Converting KMA file failed." = "Conversion du fichier KMA échoué";
+
+/* does that make sense? */
+"Converting Library selection to Song List" = "Conversion de l sélection  bibliothèque en liste de chanson";
+
+/* does that make sense? */
+"Converting Playlist selection to Library selection…" = "Conversion de la liste de lecture en sélection bibliothèque…";
+
+/* does that make sense? */
+"Converting Playlist selection to Song List" = "Conversion de la sélection liste de lecture en liste de chanson";
+
+/* No comment provided by engineer. */
+"Converting PlayLists to SQL…" = "Conversion de la liste de lecture en SQL…";
+
+/* No comment provided by engineer. */
+"Converting Songs to SQL…" = "Conversion des chansons en SQL…";
+
+/* sort columns */
+"Copy Column Layout" = "Copiez la mise en colonne";
+
+/* No comment provided by engineer. */
+"Copy to Clipboard" = "Copiez vers au presse papier";
+
+/* who owns the rights? */
+"Copyright" = "Droit d'auteur";
+
+/* bad file */
+"Corrupted MP3 File" = "Fichier MP3 corrompu";
+
+/* a zip file that is bad */
+"Corrupted Zip File" = "Fichier zip corrompu";
+
+/* No comment provided by engineer. */
+"Could not determine if media is supported:" = "Impossible de déterminer si le média est supporté :";
+
+/* No comment provided by engineer. */
+"Could not determine media type:" = "Impossible de déterminer le type de média :";
+
+/* oh well */
+"Could not find the song “%s”" = "Chanson “%s” n'a pas été rétrouvée";
+
+/* bummer */
+"Could not find video" = "Vidéo introuvable";
+
+/* bummer */
+"Could not find zipped song file." = "Fichier audio zippé introuvable";
+
+/* fatal */
+"Could not get app bundle" = "Impossible d'obtenir l'ensemble d'application";
+
+/* No comment provided by engineer. */
+"Counting Music Store Songs:" = "Numérotation des chansons à partir des magasins musicaux :";
+
+/* enumerate the number of items */
+"Counting:" = "Numérotation :";
+
+/* - */
+"Country:" = "Pays :";
+
+/* a code for a discount */
+"Coupon" = "Coupon";
+
+/* execute the crash command */
+"Crash" = "Ecrasement";
+
+/* would you like to crash now */
+"Crash?" = "Écrasement?";
+
+/* warning */
+"crash_report_blurb" = "Malheureusement, kJams semble avoir été écrasé récemment. REMARQUE: kJams n'est PAS écrasé MAINTENANT. C'est un rapports sur un écrasement *antérieur * . Voulez-vous m' envoyer un rapport d'écrasement pour que je puisse corriger le bogue?";
+
+/* No comment provided by engineer. */
+"Create Account…" = "Créer le compte...";
+
+/* No comment provided by engineer. */
+"Creating Account…" = "Création du compte...";
+
+/* No comment provided by engineer. */
+"Creating browser buttons" = "Création des touches de navigation";
+
+/* No comment provided by engineer. */
+"Creating Browser Window" = "Création de la fenêtre de navigation";
+
+/* No comment provided by engineer. */
+"Creating Clipboard" = "Création de presse papiers";
+
+/* No comment provided by engineer. */
+"Creating Graphics Window" = "Création de la fenêtre des graphiques";
+
+/* No comment provided by engineer. */
+"Creating kJams Windows" = "Création de Windows kJams";
+
+/* 'Messenger' is the name of a feature.  'overlay' is like a layer for compositing */
+"Creating Messenger Overlays" = "Création des couches Messenger";
+
+/* No comment provided by engineer. */
+"Creating QuickTime Components menu…" = "Création du menu des composants QuickTime…";
+
+/* No comment provided by engineer. */
+"Creating ShowScreens menu…" = "Création du menu ShowScreens…";
+
+/* No comment provided by engineer. */
+"Creating Sources List" = "Création de la liste de sources";
+
+/* No comment provided by engineer. */
+"Creating task manager" = "Création du gestionnaire des tâches";
+
+/* No comment provided by engineer. */
+"Creating Task Window" = "Création de la fenêtre des tâches";
+
+/* No comment provided by engineer. */
+"Creating Tasks Window" = "Création de la fenêtre des tâches";
+
+/* No comment provided by engineer. */
+"Creating Tracks List" = "Création de la liste des pistes";
+
+/* No comment provided by engineer. */
+"Creating Video Window" = "Création de la fenêtre vidéo";
+
+/* No comment provided by engineer. */
+"Credit Card Number must be numeric" = "Le numéro de la carte de crédit doit être numérique";
+
+/* No comment provided by engineer. */
+"Credit card number must have between 13 and 19 digits" = "La carte de crédit doit comporter entre 13 et 19 chiffres";
+
+/* No comment provided by engineer. */
+"Critical warning!  The release of MacOS 10.8 is imminent!  Since you have a PowerPC computer, kJams will require a special PowerPC-only version.  Please email Dave immediately if you need to continue running kJams on your PowerPC computer." = "Avertissement critique! La sortie de MacOS 10.8 est imminente! Étant donné que vous avez un ordinateur PowerPC, kJams aura besoin d'une version spéciale PowerPC-seulement. Veuillez écrire un e-mail à Dave immmédiatement si vous souhaitez continuer à utiliser kJams sur votre ordinateur PowerPC.";
+
+/* confirm */
+"critical_update_blurb" = "Le magasin de musique \"%1$s» a une mise à jour critique: %2$s Voulez-vous télécharger le magasin de musique mis à jour?";
+
+/* No comment provided by engineer. */
+"Cross-device link" = "Lien inter-composant";
+
+/* size comes after this */
+"Current Cache Size:" = "Taille de cache actuelle :";
+
+/* manually entered 'freedb' server */
+"Custom" = "Personnaliser";
+
+/* custom string set by user */
+"custom_blurb" = "Personnaliser";
+
+/* No comment provided by engineer. */
+"CVV2 code must be numeric" = "Le code CVV2 doit être numérique";
+
+/* No comment provided by engineer. */
+"CVV2 code must have between 3 and 4 digits" = "La code CVV2 doit être entre 3 et 4 chiffres";
+
+/* credit card security code (three or four digits) */
+"CVV2:" = "CVV2:";
+
+/* the freedb database */
+"Database:" = "Base de données:";
+
+/* date the song was last sung */
+"Date" = "Date";
+
+/* when was this added to the library */
+"Date Added" = "Date  ajoutée";
+
+/* No comment provided by engineer. */
+"Date must be of the form “MM/YYYY”" = "La date doit être au format \"MM/AAAA\"";
+
+/* one */
+"Day" = "Jour";
+
+/* plural */
+"Days" = "Jours";
+
+/* verb: i deactivate */
+"Deactivate" = "Désactiver";
+
+/* the BIN file is the source of the song */
+"Decode from BIN file:" = "Décode à partir du fichier BIN :";
+
+/* the value that is used if the user does not specify a value */
+"Default" = "Par défaut";
+
+/* No comment provided by engineer. */
+"Default Media Stream Info has been saved." = "Info sur la diffusion média par défaut a été sauvegardée.";
+
+/* see above */
+"Deinterleaving / Error Correcting Graphics" = "Désentrelacement / Erreur lors de la correction des graphiques";
+
+/* how long to wait after the user clicks before showing the text edit box */
+"Delay time after click to start edit (seconds)" = "Temps d'attente après validation pour commencer la modification (en secondes)";
+
+/* how long to wait before setting the ID3 tag info within the files */
+"Delay time after editing to store tags to files (seconds)" = "Temps d'attente après la modification des onglets d'archivage aux fichiers (en secondes)";
+
+/* delete whatever it is */
+"Delete" = "Supprimer";
+
+/* No comment provided by engineer. */
+"Delete browser" = "Supprimer le navigateur";
+
+/* undo string */
+"Delete composition element" = "Supprimer l'élément de composition";
+
+/* are you sure? */
+"Delete Current Singer?" = "Supprimer le chanteur actuel?";
+
+/* No comment provided by engineer. */
+"Delete graphics" = "Supprimer les graphiques";
+
+/* No comment provided by engineer. */
+"Delete LAME" = "Supprimer LAME";
+
+/* mmm */
+"Delete Library" = "Supprimer la bibliothèque";
+
+/* No comment provided by engineer. */
+"Delete Object Tracker" = "Supprimer la suivie d'objet";
+
+/* yes? */
+"Delete Playlist" = "Supprimer la liste de lecture";
+
+/* yep */
+"Delete Singers" = "Supprimer les chanteurs";
+
+/* mmm */
+"Delete Tracks" = "Supprimer les pistes";
+
+/* yep */
+"Delete Venue" = "Supprimer endroit";
+
+/* No comment provided by engineer. */
+"Delete version tracker" = "Supprimer la suivie de version";
+
+/* No comment provided by engineer. */
+"Delete zipper" = "Supprimer le zipper";
+
+/* warning */
+"delete_singing_singer" = "Aviez-vous vraiment l'intention de supprimer la personne qui est actuellement entrain de chanter? Remarque: ceci interromera le morceau en cours!";
+
+/* deletion warning */
+"delete_songs_blurb" = "Avertissement! Ceci déplacera des fichiers d'origine sur votre disque dur vers la corbeille de recyclage, ainsi que supprimer toutes les références de toutes les listes de lecture! Etes-vous sûr de vouloir supprimer les fichiers sélectionnés?";
+
+/* deletion warning */
+"delete_venue_blurb" = "Etes-vous sûr de vouloir supprimer le l'endroit “%s\"? Ceci supprimera définitivement  tous les chanteurs à à cet endroit. Si il y a des chanteurs qui vivent dans cet endroit qui ont des alias dans d'autres lieux, ils seront supprimés à partir des autres sites  aussi. Vous ne pouvez pas annuler cette action.";
+
+/* No comment provided by engineer. */
+"Deleting CDPedia…" = "Suppression de l'encyclopédie des CDs…";
+
+/* No comment provided by engineer. */
+"Deleting MetaData Traits Database" = "Suppression des traits de données Meta de la base de données";
+
+/* does that make sense? */
+"Deleting Songs from Database" = "Suppression des chansons de la base de donnée";
+
+/* obvious? */
+"Deleting Songs…" = "Suppression des chansons…";
+
+/* No comment provided by engineer. */
+"Deleting task manager" = "Suppression du gestionnaire des tâches";
+
+/* No comment provided by engineer. */
+"Deleting Undo System" = "Suppression du système d'annulation";
+
+/* see above */
+"Demuxing Audio & Graphic Streams" = "Démultiplexage du flux audio & diffusions graphiques";
+
+/* demux means separating audio and video */
+"Demuxing MPEG audio…" = "Démultiplexage d'audio MPEG…";
+
+/* un-select, or cause there to be no selection */
+"Deselect" = "Désélectionner";
+
+/* the name of the desktop folder */
+"Desktop" = "Bureau";
+
+/* No comment provided by engineer. */
+"Device busy" = "Périphérique indisponible";
+
+/* No comment provided by engineer. */
+"Device not configured" = "Périphérique non-configuré";
+
+/* No comment provided by engineer. */
+"Directory not empty" = "Répertoire pas vide";
+
+/* No comment provided by engineer. */
+"Disable" = "Désactiver";
+
+/* No comment provided by engineer. */
+"disable_auto_renew_blurb" = "Êtes-vous sûr de vouloir désactiver l'Auto-renouvellement ?  Vous serez quand même facturé pour la durée de votre période contractuelle.  Désactiver l'Auto-renouvellement signifie seulement que la période contractuelle actuelle ne se renouvellera pas automatiquement à expiration.";
+
+/* No comment provided by engineer. */
+"Disabled" = "Désactivé";
+
+/* No comment provided by engineer. */
+"Disabling Auto-Renew…" = "Désactivation de l'Auto-renouvellement... ";
+
+/* No comment provided by engineer. */
+"Disc Burning Progress" = "Processus de gravure disque";
+
+/* No comment provided by engineer. */
+"Disc Recorder Error: 0x%08x" = "Erreur de l'enregistreur de disque : 0x%08x";
+
+/* No comment provided by engineer. */
+"Disc Ripping Complete!" = "Gravure de disque terminé!";
+
+/* warning */
+"disc_meta_info1_blurb" = "Veuillez saisir tous les informations méta pour le disque. Vos données manquantes: %s.";
+
+/* warning */
+"disc_meta_info2_blurb" = "Il y a encore quelques infos méta manquantes là-bas, continuez à essayer… Vos données manquantes: %s.";
+
+/* No comment provided by engineer. */
+"Disk is full" = "Disque plein";
+
+/* No comment provided by engineer. */
+"Disposing Task Window" = "Disposition de la fenêtre de tâche";
+
+/* No comment provided by engineer. */
+"disposing Task Window" = "L’élimination des tâches windows";
+
+/* http://en.wikipedia.org/wiki/Dither */
+"Dither" = "Tremblement";
+
+/* No comment provided by engineer. */
+"Do you have a coupon?  Or is this just a normal purchase?" = "Avez-vous un coupon de réduction ? Ou bien est-ce un achat normal ?";
+
+/* No comment provided by engineer. */
+"Do you use Apple's “Mail” application to send email or do you use some other method?" = "Utilisez-vous l'application \"mail\" d'Apple  pour envoyer des e-mail ou utilisez-vous une autre méthode?";
+
+/* yes */
+"Do you want to try to find it yourself?" = "Voulez-vous essayer de le trouver vous-même?l";
+
+/* these options are related to the composition */
+"Document Level" = "Niveau de document";
+
+/* do not ask me the same question any more, i will give the same answer always */
+"Don't Ask Again" = "Ne me demander plus";
+
+/* No comment provided by engineer. */
+"Don't forget to tip your waitress!" = "N'oubliez pas à donner un pourboire à votre serveuse!";
+
+/* do NOT send this to me via email */
+"Don't Send" = "N'envoyez pas";
+
+/* No comment provided by engineer. */
+"Don't warn me again for a month" = "Ne m'avertissez plus pendant un mois";
+
+/* finished, completed */
+"Done" = "Terminé";
+
+/* as in download, as a verb */
+"Download" = "Télécharger";
+
+/* No comment provided by engineer. */
+"Download session timed out" = "Session de téléchargement expirée";
+
+/* message */
+"download_pro_blurb" = "La version Lite de kJams n'a pas de chanteurs et de rotation. Voulez-vous télécharger la version Pro?";
+
+/* No comment provided by engineer. */
+"Downloading file:" = "Téléchargement du fichier:";
+
+/* downloads folder */
+"Downloads" = "Téléchargements";
+
+/* No comment provided by engineer. */
+"Drink Specials!" = "Promos sur les boissons!";
+
+/* No comment provided by engineer. */
+"DRStatusStateFailed" = "StatutDRÉtatÉchec";
+
+/* a duet is a song sung by two people */
+"Duet" = "Duo";
+
+/* a comment about who will be singing the duet */
+"Duet Comment" = "Commentaire sur le duo";
+
+/* oops */
+"dupe items blurb" = "Certains de vos articles de base de données ont double identité, qui peuvent éventuellement corrompre votre base de données.";
+
+/* i tried */
+"dupe items fixed blurb" = "J'ai essayé de les réparer, mais vous pouvez toujours avoir des problèmes. Vous pouvez contacter Dave";
+
+/* oops */
+"dupes not fixed blurb" = "Ils n'étaient pas tous fixés, veuillez envoyez votre fichier de journal  et votre dossier «Bibliothèque kJams \" à Dave, puis retirer ce même dossier. Désolé.";
+
+/* No comment provided by engineer. */
+"Duplicate File Name" = "Nom du fichier double";
+
+/* No comment provided by engineer. */
+"Duplicate Singer:" = "Chanteur double:";
+
+/* Duration of song */
+"Duration" = "Durée";
+
+/* settings that are only relevant while playing a song */
+"During Play:" = "Pendant la lecture:";
+
+/* No comment provided by engineer. */
+"E-mail address or password is empty" = "L'adresse e-mail ou le mot de passe est vide";
+
+/* obvious */
+"E-Mail address:" = "Adresse e-mail:";
+
+/* No comment provided by engineer. */
+"e-mail must not be empty" = "Le champs e-mail ne doit pas être vide";
+
+/* No comment provided by engineer. */
+"e-mail:" = "e-mail :";
+
+/* undo string */
+"Edit Graphic" = "Modifier le graphique";
+
+/* undo string */
+"Edit Instruction Value" = "Modifiez la valeur de l'instruction";
+
+/* thanks */
+"Ejecting disc, please wait…" = "Sortie de disque,veuillez patienter…";
+
+/* No comment provided by engineer. */
+"Elapsed Time: %s" = "Temps écoulé :%s";
+
+/* these options are related to the selected composition element */
+"Element Level" = "Niveau d'élément";
+
+/* this is what's in the freedb pane */
+"email_blurb" = "Votre adresse e-mail sera utilisée comme adresse de réponse pour la requête freedb. Ainsi, s'il y a une erreur dans votre requête, vous recevrez une notification. Elle sera aussi utilisée permettre la diffusion et les achats à partir du magasin musicaux, et comme adresse de réponse pour les rapports d'erreur.";
+
+/* message */
+"email_log_blurb" = "Je vais maintenant enregistrer le rapport dans un dossier temporaire et le révéler. Veuillez joindre ce dossier à un nouveau message et l'envoyer à dave@kjams.com. Je vais tenter de créer le message pour vous.";
+
+/* No comment provided by engineer. */
+"Enable" = "Activer";
+
+/* short message system, or 'texting' */
+"Enable SMS" = "Activer SMS";
+
+/* No comment provided by engineer. */
+"Enabled" = "Activé";
+
+/* No comment provided by engineer. */
+"Enabling Auto-Renew…" = "Activation de l'Auto-renouvellement...";
+
+/* No comment provided by engineer. */
+"Encoder not found" = "Encodeur introuvable";
+
+/* mmmhmmm */
+"Encoding with %s: %s" = "Encodage avec %1$s: %2$s";
+
+/* yup */
+"Encoding with QuickTime:" = "Encodage avec QuickTime:";
+
+/* No comment provided by engineer. */
+"End of File" = "Fin du fichier";
+
+/* No comment provided by engineer. */
+"Enter e-mail address and password:" = "Saisissez l'adresse e-mail et le mot de passe :";
+
+/* how long should the sample be? */
+"Enter the duration of the song sample:" = "Saisissez la durée de l'exemple de la chanson:";
+
+/* No comment provided by engineer. */
+"Enter Track Information:" = "Saisissez l'information de la piste :";
+
+/* ask the user to enter the name of the disc, using the 'CDPedia' disc title */
+"Enter “CDPedia” Disc Title" = "Saisissez le titre du disque \"Encyclopédie des CD\"";
+
+/* ask the user to enter the name of the disc, using the 'kjpro' disc title format, do not localize 'kjpro' */
+"Enter “KJPro.com” Disc Title" = "Saisissez le titre du disque “KJPro.com”";
+
+/* message */
+"erase_drive_blurb" = "Etes-vous sûr de vouloir effacer le disque dans le lecteur de %s avant de le garver?";
+
+/* eek */
+"err_saving" = "Une erreur est survenue lors de l'enregistrement du fichier“%s”";
+
+/* bummer */
+"Error" = "Erreur";
+
+/* No comment provided by engineer. */
+"Error attempting to save database!" = "Une erreur est survenue lors de l'enregistrement de la base de données!";
+
+/* first is either 'file' or 'folder', second is either 'specification' or empty, third is name of file/folder */
+"Error creating %s %s“%s”" = "Erreur lors de l'enregistrement %1$s %2$s“%3$s”";
+
+/* No comment provided by engineer. */
+"Error gathering crash or log data" = "Erreur de récupération de données de journal ou de crash";
+
+/* mmm */
+"Error loading editor state" = "Erreur lors du chargement de l'état editeur";
+
+/* No comment provided by engineer. */
+"Error loading XML file:" = "Erreur lors du chargement du fichier XML:";
+
+/* No comment provided by engineer. */
+"Error parsing Karaoke Locker music store." = "Erreur d'analyse du magasin de musique Karaoké Locker.";
+
+/* No comment provided by engineer. */
+"Error parsing the version XML data" = "Erreur d'analyse des données de la version XML";
+
+/* first is name of venue or playlist, second is string describing the error */
+"Error renaming <%s> in the file system! (%s)" = "Erreur lors du renommage de <%1$s> dans le système de fichier ! (%2$s)";
+
+/* bummer */
+"Error renaming Singer in the Finder" = "Erreur de renommage du chanteur dans le rechercher";
+
+/* bad file */
+"Error Renaming Songs" = "Erreur dans le renommage de la chanson";
+
+/* No comment provided by engineer. */
+"Error resolving shortcut: Could not instantiate %s.  Original path: %s" = "Erreur de résolution du raccourci : impossible de concrétiser %1$s.  Chemin original : %2$s";
+
+/* No comment provided by engineer. */
+"Error while syncing:" = "Erreur lors de la synchronisation :";
+
+/* error number */
+"Error: %d" = "Erreur: %d";
+
+/* bummer */
+"Error: CDPedia says the disc has wrong number of songs?" = "Erreur: encyclopédie dit que le disque a un mauvais nombre de chansons?";
+
+/* No comment provided by engineer. */
+"Error: Did not recieve a serial number?" = "Erreur: Non Réception du numéro de série?";
+
+/* bummer */
+"Error: KJPro says the disc has wrong number of songs?" = "Erreur: KJPro dit que le disque a un mauvais nombre de chansons?";
+
+/* bummer */
+"Error: The freedb says the disc has wrong number of songs?" = "Erreur: Le freedb dit que le disque a un mauvais nombre de chansons?";
+
+/* warning */
+"ese perms blurb" = "Il est possible que ceci peut être corrigé par la mise en permission d'écriture sur le dossier / bibliothèque / cadres.";
+
+/* No comment provided by engineer. */
+"eSellerate engine happy!" = "Moteur eSellerate heureux!";
+
+/* No comment provided by engineer. */
+"eSellerate engine not found!" = "Moteur eSellerate introuvable!";
+
+/* No comment provided by engineer. */
+"Exec format error" = "Erreur du format d’exécution";
+
+/* short warning this song will cost you more */
+"Expensive Song!" = "Chansons chères!";
+
+/* expiry date of credit card */
+"Expiration:" = "Expiration :";
+
+/* No comment provided by engineer. */
+"Expired:" = "Expiré :";
+
+/* date */
+"Expired: %s" = "Expiré : %s";
+
+/* help me understand the situation */
+"Explain" = "Expliquer";
+
+/* No comment provided by engineer. */
+"explain_cc_blurb" = "Sur l'écran suivant, veuillez saisir votre nom et adresse de facturation ainsi que vos informations de carte de crédit.  Votre carte ne sera PAS débitée à moins que vous n'achetiez spécifiquement une chanson, un abonnement ou un bon cadeau.";
+
+/* No comment provided by engineer. */
+"explain_name_pw_blurb" = "Sur l'écran suivant, veuillez saisir le nom d'utilisateur et le mot de passe que vous souhaitez utiliser pour créer un compte KaraokeCloud.";
+
+/* there are dirty words in this song */
+"Explicit" = "Explicites";
+
+/* dialog name.  the user is editing their QuickTime Export settings, and saving them for later, so the settings are available ahead of time for when they want to do an export, hence 'pre-set' */
+"Export Preset" = "Exportation prédéfinis";
+
+/* command */
+"Export Songs" = "Exportation des chansons";
+
+/* self explanatory */
+"export_format_blurb" = "Aimeriez-vous que le dossier principal soit triés par \"artiste\" et les sous-dossiers classés par «Album» (deux niveaux)? Ou aimeriez-vous que le dossier principal soit triés par album avec toutes les chansons de l'album à l'intérieur (un niveau)? Choisissez le format du dossier principal.";
+
+/* self explanatory */
+"export_heirarchic_blurb" = "Voulez-vous exporter toutes les chansons dans un seul dossier (plat)? Ou voulez-vous les copier dans les sous-dossiers organisés par album et artiste (hiérarchique)?";
+
+/* for export */
+"Exporting BIN/CUE" = "Exportation BIN/REPÈRE";
+
+/* yup */
+"Exporting QuickTime:" = "Exportation QuickTime:";
+
+/* verb as in (you) cause this image to fade to black */
+"Fade" = "Effacer";
+
+/* No comment provided by engineer. */
+"Failed downloading list of songs" = "Échec du téléchargement de la liste de chansons.";
+
+/* parse means read/digest/understand/collate */
+"Failed parsing list of songs" = "Échec de collecte de la liste de chansons.";
+
+/* this track is not real, don't use it */
+"fake track, do not rip" = "Fausse piste , ne pas graver";
+
+/* the singers favorite songs */
+"Favorites" = "Favoris";
+
+/* the girl singer */
+"Female" = "Femelle";
+
+/* go get the audio */
+"Fetch Audio from iTunes" = "Prendre audio à partir d' iTunes";
+
+/* from iTunes */
+"Fetching Artist '%s'" = "Prendre les artistes '%s'";
+
+/* No comment provided by engineer. */
+"file" = "fichier";
+
+/* No comment provided by engineer. */
+"File already open with write permission" = "Fichier déjà ouvert avec permission d'écriture";
+
+/* No comment provided by engineer. */
+"File exists" = "Fichier existe";
+
+/* No comment provided by engineer. */
+"File name too long" = "Nom du fichier trop long";
+
+/* names of files */
+"File Names" = "Nom de fichier";
+
+/* No comment provided by engineer. */
+"File Not Found" = "Fichier non trouvé";
+
+/* No comment provided by engineer. */
+"File Not Open" = "Fichier non-ouvert";
+
+/* No comment provided by engineer. */
+"File Position Error" = "Erreur position du fichier";
+
+/* bummer */
+"File spooler open error" = "Erreur d'ouverture des réserves du fichier";
+
+/* No comment provided by engineer. */
+"File too large" = "Fichier trop large";
+
+/* specified file will come after this string */
+"File:" = "Fichier:";
+
+/* a ring buffer is a buffer area that gets used over and over, like a circular ring with a read  head and a write head.  The heads don't move, while the ring spins, the write head puts data into the ring, and the read head reads it off */
+"Fill Ring Buffer: Audio Out" = "Remplir les tampons de sonnerie:Sortie audio";
+
+/* No comment provided by engineer. */
+"Finalizing Playlists…" = "Finalisez les listes de lecture…";
+
+/* verb as in please go find this */
+"Find" = "Trouver";
+
+/* have the user locate the folder */
+"Find it" = "Trouvez le";
+
+/* directive: user, please select a folder */
+"Find Music Folder:" = "Retrouvez le dossier de musique:";
+
+/* please locate the following musical arrangment */
+"Find Song: “%s”" = "Retrouvez la chanson:“%s”";
+
+/* an orphaned song is one that has been abandoned and is unaccounted for */
+"Finding Orphans" = "Recherchez les orphelins";
+
+/* No comment provided by engineer. */
+"Finishing Browser Window" = "Terminer la fenêtre de navigation";
+
+/* No comment provided by engineer. */
+"Finishing menu creation" = "Terminer la création de menu";
+
+/* No comment provided by engineer. */
+"First Name must not be empty" = "Le champs nom de fichier ne doit pas être vide";
+
+/* - */
+"First Name:" = "Prénom:";
+
+/* No comment provided by engineer. */
+"First you take a drink, then the drink takes a drink, then the drink takes you." = "D'abord, vous prenez un verre, puis le verre boit un coup, puis la boisson vous emmène.";
+
+/* No comment provided by engineer. */
+"folder" = "Dossier";
+
+/* obvious? */
+"Font size:" = "Taille de la police:";
+
+/* No comment provided by engineer. */
+"For the Server to function properly, you must install Bonjour (Print Services) for Windows" = "Afin que le serveur fonctionne correctement, vous devez installer Bonjour (Services d'impression) pour Windows";
+
+/* describes type of file (mp3, aif, mov, etc) */
+"Format" = "Format";
+
+/* results of a search, how many found */
+"Found %d songs" = "Chansons %d retrouvées";
+
+/* as in: there is no cost or charge for this */
+"Free" = "Gratuit";
+
+/* No comment provided by engineer. */
+"Function not implemented" = "Fonction non implémentée";
+
+/* when the user deletes a list of songs, we must first gather some info about what will be deleted */
+"Gathering deletion information…" = "Collecte d'informations suppression…";
+
+/* No comment provided by engineer. */
+"Gathering Files in folder" = "Collecte de fichiers dans le dossier";
+
+/* sex of singer */
+"Gender" = "Genre";
+
+/* the style of a song, eg: rock, blues, hip-hop etc */
+"Genre" = "Type";
+
+/* command to go and fetch something */
+"Get it…" = "Procurez-en…";
+
+/* verb: get the free song */
+"Get Song" = "Procurez vous une chanson";
+
+/* warning */
+"get_producer_blurb" = "Certaines chansons seront gravées sans les illustrations à moins que vous ne récupériez la version d'essai gratuite du plugin Producer, vendue séparément. Assurez-vous de nettoyer le cache du disque (prefs audio) après l'installation du plugin, et de nouveau après que vous l'ayez acheté pour faire disparaître les croix rouges.";
+
+/* reading the directory of a disk */
+"Getting bulk catalog info for “%s”" = "Procurez les catalogues au détail pour “%s”";
+
+/* from freedb */
+"Getting Categories…" = "Procurez les catégories…";
+
+/* for freedb */
+"Getting Disc ID…" = "Procurez l'identité du disque…";
+
+/* from freedb */
+"Getting Sites…" = "Procurez les sites…";
+
+/* from freedb */
+"Getting Tracks…" = "Procurez les pistes…";
+
+/* No comment provided by engineer. */
+"Gift Card:" = "Carte cadeau";
+
+/* how much does the video slip from the audio (float, seconds) */
+"Global Slip: %.2f Seconds" = "Lissage globale : %.2f secondes";
+
+/* how far to slip the video sync relative to the audio, for all songs */
+"Global Sync Slip: %.1f seconds" = "Lissage sync. globale: %.1f secondes";
+
+/* user enters a new time */
+"Go To Time" = "Rendez vous à l'horaire";
+
+/* what channel are you watching */
+"Graphic Channels" = "Des chaines graphiques";
+
+/* short for Global Slip */
+"GS: %.2f," = "GS: %.2f,";
+
+/* eek */
+"guessing_cd_meta" = "Les informations sur les pistes de ce CD a été enregistré avec une version de kJams qui n'a pas enregistrer  les informations uniques par chanson correctement. Vous trouverez les entrées dupliquées, veuillez de les corriger immédiatement.";
+
+/* No comment provided by engineer. */
+"Hardware Mismatch" = "Inadéquation du matériel";
+
+/* No comment provided by engineer. */
+"Help" = "Aide";
+
+/* present, available, accounted for, at the venue, as opposed to 'has gone home' */
+"Here" = "Ici";
+
+/* please remove the silly / ridiculous multi-colored picture */
+"Hide That Crazy Rainbow!" = "Cachez cet arc en ciel insensés";
+
+/* No comment provided by engineer. */
+"Hide Windows" = "Cachez windows";
+
+/* make it look really good */
+"High Quality Render" = "Rendu de haute qualité";
+
+/* record of all songs ever sung by the singer */
+"History" = "Histoire";
+
+/* private (not public) performance */
+"Home Streaming" = "Diffusion à domicile";
+
+/* No comment provided by engineer. */
+"Home Streaming. Monthly contract" = "Diffusion à domicile. Contrat mensuel.";
+
+/* user affirms they use the product only at home */
+"Home User" = "Utilisateur à domicile";
+
+/* one */
+"Hour" = "Heure";
+
+/* plural */
+"Hours" = "Heures";
+
+/* question */
+"How would you like to obtain meta info?" = "Comment aimeriez vous obtenir de l'info méta?";
+
+/* No comment provided by engineer. */
+"I'm serious, if you don't enter a valid email address you can't use kJams. If you enter an invalid address, the universe will implode, so take care!" = "Cela est très sérieux: si vous n'entrez pas une adresse e-mail valide, vous ne pourrez pas utiliser kJams. Si vous entrez une adresse e-mail invalide, l'univers implosera, alors faites attention!";
+
+/* if they are the same, then pick one please */
+"If so, please pick which name to use:\n1st:\t%s\n2nd:\t%s" = "Si c'est le cas, veuillez choisir un nom à utiliser:\n1er:\t%1$s\n2em:\t%2$s";
+
+/* No comment provided by engineer. */
+"If the auto-update fails, you should manually install it.  To do so, go to the web site, then download it manually and install it." = "Si la mise à jour auto a échoue, vous devriez l'installer manuellement. Pour le faire, consultez le site Web, puis  télécharger-le manuellement et l'installer.";
+
+/* as in so what, or i don't care, or blow it off */
+"Ignore" = "Ignorer";
+
+/* No comment provided by engineer. */
+"Ignore Error Correction" = "Ignorer la correction d'erreur";
+
+/* No comment provided by engineer. */
+"Illegal key type:" = "Type de clef illégale :";
+
+/* No comment provided by engineer. */
+"Illegal seek" = "Recherche illégale";
+
+/* dialog name.  same as 'Export Preset', but for import (ripping) */
+"Import Preset" = "Pré-définissez l'importation";
+
+/* getting info about each song */
+"Importing CAVS Meta Data" = "Importation des données Méta CAVS";
+
+/* No comment provided by engineer. */
+"Improper usage of the activation routines." = "Une mauvaise utilisation de la routine d'activation.";
+
+/* No comment provided by engineer. */
+"Inappropriate ioctl for device" = "Ioctl Inappropri pour le dispositif";
+
+/* warning */
+"include stores in library" = "Cette option contient toutes les chansons de tous les magasins de musique de la principale liste de lecture de la bibliothèque. Elle est conçue uniquement pour les KJs qui veulent que les chanteurs puissent acheter ou écouter en diffusion des chansons des magasins de musique.  Êtes-vous sûr de savoir ce que vous faites ?";
+
+/* bummer */
+"Incompatible Drive" = "Lecteur Incompatible";
+
+/* more information */
+"Info" = "Info";
+
+/* the %s is “kJams <VERSION>” when the app is opening */
+"Initializing %s" = "Initialisation %s";
+
+/* No comment provided by engineer. */
+"Initializing AppleRemote" = "Initialisation de AppleRemote";
+
+/* No comment provided by engineer. */
+"Initializing Fast CDG Upscaling" = "Initialisation rapide CDG";
+
+/* No comment provided by engineer. */
+"Initializing Growl" = "Initialisation Growl";
+
+/* No comment provided by engineer. */
+"Initializing Microphone" = "Initialisation de la microphone";
+
+/* asking the database for info */
+"Initiating song download" = "Initialisation du téléchargement de chanson";
+
+/* No comment provided by engineer. */
+"Input/output error" = "Erreur entré/sortie";
+
+/* undo string */
+"Insert composition template" = "Insérer modèle de composition";
+
+/* this is the window where you inspect (view) information about your selection */
+"Inspector" = "Inspecteur";
+
+/* warning */
+"install_ffmpeg" = "Vous auriez besoin de télécharger et d'installer le \"ffmpeg\" plugin pour lire des fichiers MPEG-1 ou MPEG-2.";
+
+/* No comment provided by engineer. */
+"Instructions" = "Consignes";
+
+/* No comment provided by engineer. */
+"Interrupted system call" = "Appel au système interrompu";
+
+/* No comment provided by engineer. */
+"Invalid argument" = "Argument non-valide";
+
+/* No comment provided by engineer. */
+"Invalid coupon code.  Are you sure have it right?" = "Code de coupon invalide. Êtes-vous sûr de ne pas avoir fait d'erreur ?";
+
+/* No comment provided by engineer. */
+"Invalid Gift Pack ID" = "Identifiant Offre-cadeau invalide";
+
+/* No comment provided by engineer. */
+"Invalid QuickTime (MIDI?) File" = "Fichier QuickTime non-valide (MIDI?)";
+
+/* No comment provided by engineer. */
+"Invalid Streaming ID" = "Identifiant Diffusion invalide";
+
+/* No comment provided by engineer. */
+"Invalid Track Number" = "Numéro de piste invalide";
+
+/* No comment provided by engineer. */
+"Invalid User ID" = "Identifiant Utilisateur invalide";
+
+/* warning */
+"invalid_cb_id_blurb" = "L'ID d'utilisateur Chartbuster est un nombre à quatre ou cinq chiffres. Veuillez consulter les instructions pour savoir comment trouver votre ID d'utilisateur.";
+
+/* No comment provided by engineer. */
+"Is a directory" = "Est un répertoire";
+
+/* mmm */
+"It seems you are deleting your entire library.  Is this what you mean to do?" = "Il semble que vous supprimez  votre bibliothèque entière. Est-ce ce que vous voulez vraiment le faire?";
+
+/* delete whatever it is */
+"Just One" = "Une seulement";
+
+/* that crazy sing along phenomenon */
+"Karaoke" = "Karoké";
+
+/* No comment provided by engineer. */
+"KaraokeCloud Login Information" = "Informations de connexion KaraokeCloud";
+
+/* No comment provided by engineer. */
+"kc_acct_success" = "Bravo !  Votre compte KaraokeCloud a été créé et configuré !";
+
+/* No comment provided by engineer. */
+"kc_disable_auto_renew" = "Votre “Auto-renouvellement” est actuellement configuré comme “Activé”.  Avant de pouvoir améliorer votre “Niveau de la souscription”, vous devez d'abord désactiver “l'Auto-renouvellement” en appuyant sur le bouton “Désactiver”.";
+
+/* No comment provided by engineer. */
+"kc_home_stream_warn" = "Le niveau “Diffusion à domicile” est uniquement pour une utilisation privée et à domicile !  Il n'est PAS sous licence pour des performances publiques. Souvenez-vous que toutes les diffusions sont identifiées par utilisateur, adresse IP et date et qu'elles SERONT surveillées pour repérer les abus  !  Avez-vous *vraiment* l'intention d'utiliser uniquement le service de diffusion à votre domicile personnel ?";
+
+/* No comment provided by engineer. */
+"kc_must_log_in" = "Pour jouer les musiques gratuites ou pour acheter, recevoir en diffusion ou visualiser d'autres chansons en prévisualisation, vous devez être connecté à KaraokeCloud.  L'inscription est gratuite et il y a plusieurs chansons gratuites à utiliser.";
+
+/* No comment provided by engineer. */
+"kc_purch_agreement" = "En cliquant sur “%1$s”, vous acceptez d'être facturé %2$s $ USD par mois pendant une période contractuelle de 1 %3$s. À l'issue de la période contractuelle, une nouvelle période contractuelle démarrera à moins que vous ne l'annuliez en avance. Vous pouvez annuler à tout moment, cependant vous serez tout de même facturé pour la durée entière de la période contractuelle. Pour annuler, cliquez simplement sur le bouton “%4$s” près de “%5$s”.";
+
+/* No comment provided by engineer. */
+"kc_upsell_tier" = "Vous avez terminé !  Cliquez sur le menu contextuel “Niveau de la souscription” dans le panneau de préférences pour découvrir les options de diffusion qui vous sont proposées !";
+
+/* song pitch quantized in semitones as in “Key of G” */
+"Key" = "Note";
+
+/* changes to the key during the song */
+"Key Changes" = "Modification des notes";
+
+/* list of words used by user to recall song eg: fast, sad, love, duet etc */
+"Keywords" = "Mots clés";
+
+/* this is labeled as a 'karaoke jockey', one of the administrators of the show, and has special rights' */
+"KJ" = "KJ";
+
+/* do not translate [KJ] */
+"KJ Download Daily" = "Téléchargement KJ quotidien";
+
+/* do not translate [KJ] */
+"KJ Download Monthly" = "Téléchargement KJ mensuel";
+
+/* do not translate [KJ] */
+"KJ Download Yearly" = "Téléchargement KJ annuel";
+
+/* rotation managed by the kj */
+"KJ Rotation" = "Rotation KJ";
+
+/* do not translate [KJ] */
+"KJ Streaming" = "Diffusion KJ";
+
+/* tethering means attached, or connected (song files are downloadable but locked to the user's account). KJ is karaoke jockey or emcee */
+"KJ Tethering. Yearly contract" = "Attachement KJ. Contrat annuel";
+
+/* obvious? */
+"kJams Cache Folder location:" = "Emplacement du dossier cache kJams:";
+
+/* No comment provided by engineer. */
+"kJams has recently crashed, but the version you are using is old, you should update to latest" = "kJams a récemment écrasé, mais la version que vous utilisez est ancien, vous devez le mettre à jour plus tard le";
+
+/* yep */
+"kJams is too old to support the Producer plugin. Upgrade kJams!" = "kJams est trop vieux pour prendre en compte le plugin producteur. Mettez à jour kJams!";
+
+/* yep */
+"kJams is too old to support this plugin. Upgrade kJams!" = "kJams est trop vieux pour prendre en compte le plugin producteur. Mettez à jour kJams!";
+
+/* obvious */
+"kJams Music Folder location:" = "Emplacement du dossier musique kJams";
+
+/* secret message */
+"kJams Producer can only edit CDG files.  To edit other media types, please use another program." = "Producteur kJams peut seulement modifier des fichiers CDG. Pour modifier d'autres types de médias, veuillez utiliser un autre programme.";
+
+/* music store fail */
+"kJams Purchase Failure" = "Échec d'achat kJams";
+
+/* fatal */
+"kJams requires MacOS X 10.4 or greater." = "kJams nécessite la version MacOS X 10.4 ou plus";
+
+/* fatal */
+"kJams requires QuickTime 7.1 or greater." = "kJams nécessite la version QuickTime 7.1 ou plus";
+
+/* No comment provided by engineer. */
+"kJams requires write access to the folder <%s>, you must fix this for kJams to function correctly." = "kJams nécessite l'accès à l'écriture vers le dossier <%s>, vous devez réparez ceci afin que kJams puisse fonctionner correctement.";
+
+/* No comment provided by engineer. */
+"kJams would like to update your database for “fast searching”, this may take several minutes." = "kJams souhaite mettre à jour votre base de données de \"recherche rapide\", cela peut prendre plusieurs minutes.";
+
+/* No comment provided by engineer. */
+"kJams: no eSellerate Engine" = "Kjams :Moteur eSellerate";
+
+/* warning */
+"kv_sample_blurb" = "Vous êtes maintenant entrain d' être dirigé vers un site Web externe pour lire l'échantillon de la chanson. N'acheter pas la chanson sur le site Web de chanson , choisissez juste l' échantillon que vous aimez, puis revenez à kJams et l'acheter dans auprès de kJams.";
+
+/* label color, you know, photon vibrational frequencies interpreted by your eyes */
+"Label" = "Étiquette";
+
+/* No comment provided by engineer. */
+"LAME MP3 Not Installed" = "LAME MP3 non installé";
+
+/* okay */
+"LAME Not Installed" = "LAME n'est pas installé";
+
+/* okay */
+"LAME Out of Date" = "LAME expiré";
+
+/* message */
+"lame_install_blurb" = "Après le téléchargement du fichier, décompressez-le, monter l'image disque, double-cliquez sur l'installeur, et suivez les étapes. kJams doit quitter lors de l'installation";
+
+/* warning */
+"lame_not_installed" = "Il semble que vous n'avez pas installé l'encodeur LAME MP3 . Voulez-vous le télécharger maintenant pour l'installer?";
+
+/* warning */
+"lame_out_of_date_blurb" = "La version de la composante LAME que vous avez installé fonctionnera mais est plus ancienne, vous devez passer à la dernière version. Voulez-vous le télécharger maintenant pour l'installer?";
+
+/* what language are you speaking? */
+"Language" = "Langue";
+
+/* No comment provided by engineer. */
+"Last Name must not be empty" = "Nom de famille ne doit pas rester vide";
+
+/* - */
+"Last Name:" = "Nom de famille";
+
+/* as in 'do this in the future, not right now' */
+"Later" = "Plus tard";
+
+/* a 'launch file' is one that will be automatically run when the song plays */
+"Launch" = "Démarrer";
+
+/* The channel that the lead vocal track is in, left, right, or both (center) */
+"Lead Vocal Channel" = "Canaux vocales principaux";
+
+/* this song has a lead vocal track */
+"Lead Vocals" = "Vocales principales";
+
+/* typographical leading */
+"Leading offset:" = "Compensation principale:";
+
+/* educate yourself */
+"Learn" = "Apprendre";
+
+/* as in music collection */
+"Library" = "Bibliothèque";
+
+/* how many lines on a page */
+"Lines per page:" = "Lignes par page";
+
+/* No comment provided by engineer. */
+"Loading Database" = "Chargement base de données";
+
+/* No comment provided by engineer. */
+"Loading Icons" = "Chargement des icônes";
+
+/* No comment provided by engineer. */
+"Loading Menus" = "Chargement des menus";
+
+/* at startup */
+"Loading Music Store “%s”…" = "Chargement du magasin de musique “%s”…";
+
+/* at startup */
+"Loading songs into Database…" = "Chargement des chansons vers la base de données…";
+
+/* No comment provided by engineer. */
+"Loading Zipper" = "Chargement du zipper";
+
+/* No comment provided by engineer. */
+"Loading…" = "Chargement…";
+
+/* No comment provided by engineer. */
+"Localizing Menus…" = "Localisation des menus…";
+
+/* make it un-changeable */
+"Lock color palette" = "Verrouillez la palette des couleurs";
+
+/* undo string */
+"Lock Palette" = "Verrouillez palette";
+
+/* No comment provided by engineer. */
+"Log In…" = "Se connecter...";
+
+/* No comment provided by engineer. */
+"Log Out" = "Se Déconnecter";
+
+/* No comment provided by engineer. */
+"Logging in…" = "Connexion...";
+
+/* warning */
+"LowNumberedPortsPrompt" = "kJams demande d'ouvrir le port TCP 80 pour le serveur web, et doit être autorisé pour cela.";
+
+/* No comment provided by engineer. */
+"Mac OS error" = "Erreur Mac OS";
+
+/* i use the Apple Mail application */
+"Mail…" = "Courriel…";
+
+/* No comment provided by engineer. */
+"Make sure you have write permissions for the folder <<%s>>" = "Make sure you have write permissions for the folder <<%s>>";
+
+/* the boy singer */
+"Male" = "Male";
+
+/* who manufactured this version of the song? */
+"Manufacturer" = "Créateur";
+
+/* the singer is in the venue */
+"Mark singer “Here”" = "Marquez chanteur \"présent\"";
+
+/* the singer has gone home */
+"Mark singer “Not Here”" = "Marquez chanteur \"absent\"";
+
+/* editable number follows the string.  only this many songs will be put in the cache */
+"Maximum number of songs allowed in the cache:" = "Nombre maximal de chansons autorisées dans le cache:";
+
+/* maximum CD burn speed allowed */
+"Maximum Possible" = "Maximum possible";
+
+/* pushing refers to storing meta data inside files */
+"Maximum simultaneous tasks for pushing into zipped files" = "Tâches simultanées maximum pour pousser dans des fichiers compressés";
+
+/* No comment provided by engineer. */
+"Media - %s" = "Média - %s";
+
+/* No comment provided by engineer. */
+"Media must be prepared" = "Le média doit être préparé";
+
+/* No comment provided by engineer. */
+"Media Not Supported" = "Média non supporté";
+
+/* ‘XML’ is a file format, don't translate it */
+"Meta Data XML" = "Donnée Méta XML";
+
+/* shown when you add to library */
+"meta_choice_blurb" = "L'utilisation de \"Noms de fichiers\" va tenter de balayer d'info méta hors de la chanson elle-même le nom du fichier, éventuellement aussi à partir des noms dossier supérieur. L'utilisation de \"onglets\" va essayer de lire les onglets méta existants, ce qui peut être lent, car il peut décompresser les fichiers pour accéder à des onglets.";
+
+/* warning */
+"meta_info_2_blurb" = "Vous devez définir toutes les infos méta pour le disque et chaque piste avant de soumettre. Informations sur le disque manquant:%1$s, Info sur la piste manquante: %2$s.";
+
+/* warning */
+"meta_info_blurb" = "Veuillez remplir toute l'info méta pour chaque piste.Vous pouvez choisir des pistes multiples et paramétrer l'info pour le tout d'un coup en utilisant “Filchier->Obtenez de l'info…”. Vos données manquantes: %s.";
+
+/* gain on microphone 1 */
+"Mic 1 Gain" = "Gain Mic 1";
+
+/* one */
+"Minute" = "Minute";
+
+/* plural */
+"Minutes" = "Minutes";
+
+/* is this song not available?  can it not be found? */
+"Missing" = "Manquantes";
+
+/* some data is not there */
+"Missing meta data" = "Données méta manquantes";
+
+/* as in [cost per month] */
+"month" = "mois";
+
+/* pick from this list */
+"More than one disc was found, please choose:" = "Plus d'un disque a été trouvé, veuillez choisir:";
+
+/* as in *move this file* */
+"Move" = "Déplacer";
+
+/* undo string */
+"Move composition element" = "Déplacez la composition d'élément";
+
+/* error string */
+"Moving songs to trash" = "Déplacez les chansons vers la corbeille";
+
+/* yeah */
+"Multisession discs not supported, if you need this ask Dave." = "Les disques des sessions multiples sont pas prise en charge, si vous avez besoin de ça demandez à Dave .";
+
+/* places to buy music */
+"Music Stores" = "Magasins de musique";
+
+/* eek */
+"music_folder_not_found" = "Il y avait un problème pour localiser votre \"%1$s\" dossier. Est-ce peut-être un alias à un volume hors ligne? (%2$s)";
+
+/* message */
+"music_store_update_avail" = "Le magasin musicaux “%s” dispose d'une mise à jour. Voulez-vous la télécharger ?";
+
+/* No comment provided by engineer. */
+"Must pick a country" = "Doit choisir un pays";
+
+/* No comment provided by engineer. */
+"Must specify Gift Pack Code" = "Doit précisez le code d'offre cadeau";
+
+/* No comment provided by engineer. */
+"Network Host Failed to Provide Data (HTTP Response: 400 <bad request>)" = "Échec de transmission des données par le réseau hôte (Réponse HTTP : 400 <mauvaise requête>";
+
+/* error */
+"Network Host has no data at all (kOTNoDataErr)" = "Le réseau hôte n'a aucune donnée (kOTNoDataErr)";
+
+/* No comment provided by engineer. */
+"Network Timeout" = "Réseau expiré";
+
+/* validate blurb */
+"network_timeout_blurb" = "Le client internet  a dépassé le délai imparti.  Si votre réseau est lent, rendez-vous sur “%1$s”, puis sur “%2$s”, et ensuite réglez “%3$s” sur un nombre de secondes plus élevé, comme par exemple 240.";
+
+/* a place to buy songs */
+"New Music Store Available!" = "Nouveau magasin de musique disponible!";
+
+/* as in, create a new preset playlist */
+"New Preset Playlist" = "Nouveau pré-reglage de la liste de lecture";
+
+/* No comment provided by engineer. */
+"New Singer created: %s" = "Nouveau chanteur crée %s";
+
+/* message */
+"new_import_library" = "Voulez-vous déplacer les chansons dans le répertoire “musique kJams” ?  Ou voulez-vous que kJams prenne comme référence l'emplacement actuel des fichiers ?  Remarque : si les fichiers se trouvent dans le répertoire “Téléchargements”, sur le “Bureau”, sur un “disque dur USB” ou bien sur un emplacement temporaire, vous devriez alors choisir de les “Déplacer”.";
+
+/* confirm */
+"new_music_store_blurb" = "Il y a un nouveau magasin de musique appelé \"%s\", aimeriez-vous le télécharger?";
+
+/* eek */
+"newer_db_version_blurb" = "Cette base de données a été enregistré avec une kJams plus récents, qui écrit le format base de données (%1$@), qui est, malheureusement, plus ce que cette version peut lire (%2$@). Vous devez mettre à jour une version ultérieure.";
+
+/* as in next song */
+"Next" = "Suivant";
+
+/* negative */
+"No" = "Non";
+
+/* No comment provided by engineer. */
+"No child processes" = "Aucun processus d'enfant";
+
+/* No comment provided by engineer. */
+"No error detected" = "Pas d'erreur détectée";
+
+/* does not expire */
+"No Expiration" = "Pas d'expiration";
+
+/* No comment provided by engineer. */
+"No locks available" = "Pas de verrouillage valable";
+
+/* this song has no synced lyrics */
+"No Lyrics" = "Pas de paroles";
+
+/* No comment provided by engineer. */
+"No media in drive." = "Pas de média dans le lecteur.";
+
+/* No comment provided by engineer. */
+"No new version available." = "Nouvelle version disponible .";
+
+/* No comment provided by engineer. */
+"No password specified." = "Nouveau mot de passe spécifié .";
+
+/* No comment provided by engineer. */
+"No reply from KaraokeCloud server (offline?)" = "Aucune réponse du serveur KaraokeCloud (hors ligne ?)";
+
+/* No comment provided by engineer. */
+"No singer name specified." = "Pas de nom de chanteur spécifié.";
+
+/* No comment provided by engineer. */
+"No SKU update is available from the eSellerate Servers." = "Pas de mise a jour SKU disponible depuis les serveurs eSellerate.";
+
+/* No comment provided by engineer. */
+"No songs to sync" = "Pas de chansons à synchroniser";
+
+/* No comment provided by engineer. */
+"No space left on device" = "Aucune espace disponible sur le périphérique";
+
+/* No comment provided by engineer. */
+"No such file or directory" = "Absence d'un tel fichier ou répertoire";
+
+/* No comment provided by engineer. */
+"No such process" = "Absence d'un tel processus";
+
+/* No comment provided by engineer. */
+"No Such Volume" = "Absence d'un tel volume";
+
+/* No comment provided by engineer. */
+"No suitable disc in drive" = "Pas de disque approprié dans le lecteur";
+
+/* warning */
+"no_cdg_blurb" = "Le lecteur de CD \"%s\" indique qu'il n'est pas capable de lire les disques CD + G. Voulez-vous essayer de l'utiliser quand même? Ou aimeriez-vous apprendre plus sur les lecteurs compatibles disponibles?";
+
+/* No comment provided by engineer. */
+"no_email_blurb" = "Avertissement critique! kJams a besoin d'une adresse e-mail valide pour pouvoir envoyer les rapports d'erreur. Elle est aussi utilisée pour vous envoyer le reçu lorsque vous achetez des chansons dans les magasins musicaux, et pour vous notifier si une \"requête freedb\" a échoué. Vous devez entrer une adresse e-mail valide.";
+
+/* message */
+"no_lame_blurb" = "Nous sommes terriblement désolés, mais l'encodeur LAME MP3 que vous avez utilisé n'avait pas été installé correctement.  Les exigences légales imposent d'installer l'encodeur séparément de l'application. Si vous souhaitez encoder en MP3, vous devrez télécharger et installer le plugin manuellement.";
+
+/* warning */
+"no_movie_blurb" = "Aucun média jouable n'a été trouvé sur ce fichier.  Si vous pensez que cela n'est pas normal, envoyez ce fichier chanson à Dave.";
+
+/* validate blurb */
+"no_song_ms_blurb" = "D'une certaine manière, il n'ya pas de chanson dans la sélection actuelle pour l'achat.";
+
+/* warning */
+"no_you_dont" = "Vous êtes au milieu du processus d'achat. Veuillez compléter le processus et fermer la fenêtre de reçu, le programme va s'inscrire de lui même, de sorte que vous n'aurez pas à saisir le numéro de série";
+
+/* no songs were found */
+"None" = "Aucun";
+
+/* No comment provided by engineer. */
+"Not a directory" = "Pas un répertoire";
+
+/* No comment provided by engineer. */
+"Not applicable" = "Non applicable";
+
+/* the plugin is not installed */
+"Not Available." = "Pas Disponible.";
+
+/* No comment provided by engineer. */
+"Not logged in" = "Non connecté";
+
+/* these songs are not the same */
+"Not Same" = "Pas le même";
+
+/* warning */
+"not_liable_blurb" = "kJams est un partagiciel sans limite de durée. Cela signifie que vous pouvez l'utiliser GRATUITEMENT aussi longtemps que vous voulez. Assurez-vous donc que vous le voulez vraiment avant de l'acheter. Le numéro de téléphone de l'assistance technique est disponible les mardi et jeudi après 19 h 00, heure du pacifique, et l'assistance technique par e-mail est généralement disponible dans l'heure qui suit, pendant les heures de bureau.";
+
+/* warning */
+"not_renamed_blurb" = "Il y avait un problème lors de la mise à jour des informations de méta pour au moins une chanson (peut-être plus). Soit le fichier est introuvable, il y avait une erreur en renommant le fichier, ou qu'il ne contient pas les données-méta que vous avez spécifié dans les préférences \"Onglet -> Ecriture ->Noms des Chansons Conformes \" modèle. Pour une liste des chansons avec des problèmes, voir la liste de lecture appelée \"%s\".";
+
+/* take note, check this out */
+"Note" = "Remarque";
+
+/* everything is here */
+"Nothing is missing" = "Rien ne manque";
+
+/* No comment provided by engineer. */
+"Numerical argument out of domain" = "Argument numérique hors du domaine";
+
+/* !!!SPECIAL!!! Localizers: do not localize this string!!  contact me for more info */
+"NumSpacesInPlayCommand=12" = "NumSpacesInPlayCommand=12";
+
+/* No comment provided by engineer. */
+"Object (menu, window, control) Property Not Found" = "Objet (menu, fenêtre, contrôle) Propriété introuvable";
+
+/* No comment provided by engineer. */
+"Offline Mode" = "Mode hors-ligne";
+
+/* No comment provided by engineer. */
+"One Moment Please" = "Un instant s'il vous plait";
+
+/* No comment provided by engineer. */
+"One of the songs in your burn list is missing." = "Une chanson de notre Liste de gravure est manquante .";
+
+/* security blurb */
+"one_click_security_blurb" = "kJams conserves vos informations de carte bancaires cryptées en permanence, et utilise également SSL pour toutes les transactions réseaux financières.  Votre adresse e-mail est utilisée par les éditeurs de magasins de musique pour vous envoyer un reçu et aussi comme adresse réponse des  “requête freedb” et les rapports de crash.  kJams ne l'utilise jamais dans un autre but.";
+
+/* No comment provided by engineer. */
+"Only blank media is supported" = "Seuls les médias vierges sont supportés";
+
+/* No comment provided by engineer. */
+"Only CD-R/RW media is supported" = "Seuls les médias CD-R/RW sont supportés";
+
+/* directive: user, please select a folder */
+"Open Folder:" = "Ouvrir un dossier:";
+
+/* No comment provided by engineer. */
+"Operation Aborted" = "Opération abandonnée";
+
+/* No comment provided by engineer. */
+"Operation not permitted" = "Opération non autorisée";
+
+/* No comment provided by engineer. */
+"Operation not supported by device" = "Opération non prise en charge par le périphérique";
+
+/* who originally published the song? */
+"Original Publisher" = "Éditeur Original";
+
+/* year this song was first published */
+"Original Year" = "Année Originale";
+
+/* a list of songs that were left behind, but are now found */
+"Orphaned Songs" = "Chanson Orpheline";
+
+/* i use some other mail application */
+"Other…" = "Autre…";
+
+/* replace what is there */
+"Overwrite" = "Écraser";
+
+/* No comment provided by engineer. */
+"Parameter Error" = "Erreur de paramètre";
+
+/* scanning */
+"Parsing Music Store:" = "Analyse du magasin de musique";
+
+/* password wrong */
+"Password incorrect.  Please try again." = "Mot de passe incorrect. Réessayer s'il vous plait.";
+
+/* No comment provided by engineer. */
+"password:" = "mot de passe :";
+
+/* No comment provided by engineer. */
+"Passwords don't match." = "Mots de passe ne correspondent pas.";
+
+/* sort columns */
+"Paste Column Layout" = "Disposition des dernières colonnes";
+
+/* No comment provided by engineer. */
+"Paste from Clipboard" = "Coller à partir du presse-papier";
+
+/* enter in discount number */
+"Paste your Coupon Code for “%s” here:" = "Collez votre code de Coupon pour “%s” ici :";
+
+/* mmm */
+"Pasting over meta data is dangerous, you can destroy data and there is no undo.  Are you sure you want to coninue?" = "Coller par dessus des données méta est dangereux, vous pourriez détruire les données et il est impossible d'annuler cette action. Êtes-vous sûr(e) de vouloir continuer?";
+
+/* as in pause the song, rather than stop */
+"Pause" = "Pause";
+
+/* are you paying attention? */
+"pay_attention_blurb" = "Qu'est-ce que vous allez faire après la fin  l'achat? Voulez-vous A) Fermez la fenêtre de reçu, B) Saisir le numéro de série ou C) Télécharger la version sous licence?";
+
+/* subscription price paid every month, eg: [$10 per month] */
+"per month" = "par mois";
+
+/* windows only */
+"Perhaps one is a shortcut to the other?" = "Peut-être l'un est un raccourci vers l'autre?";
+
+/* macintosh only */
+"Perhaps one is an alias of the other?" = "Peut-être l'un est un alias de l'autre?";
+
+/* warning */
+"perian_blurb" = "Afin de pouvoir jouer la chanson “%s”, vous devrez peut-être télécharger et installer le plugin Perian.";
+
+/* No comment provided by engineer. */
+"Permission denied" = "Permission refusée";
+
+/* No comment provided by engineer. */
+"Phone number must be valid" = "Le numéro de téléphone doit être valide";
+
+/* address */
+"Phone:" = "Téléphone";
+
+/* Pitch of song */
+"Pitch" = "Hauteur des notes";
+
+/* as in play the song */
+"Play" = "Lecture";
+
+/* list of music */
+"Playlist" = "Liste de lecture";
+
+/* this playlist is the one users (via the kJams Web Server) will search when looking for songs to sing */
+"Playlist is used for Server Search" = "La liste de lecture est utilisée pour les recherches serveur";
+
+/* when you purchase time it will be added to your account */
+"Please add subscription time" = "Veuillez ajouter la durée de souscription";
+
+/* No comment provided by engineer. */
+"Please Drink Responsibly!" = "Veuillez consommer avec modération !";
+
+/* No comment provided by engineer. */
+"Please edit your One Click settings." = "Veuillez modifier vos paramètres en Un Clic.";
+
+/* umm */
+"Please enter a new time" = "Veuillez saisir une nouvelle heure";
+
+/* No comment provided by engineer. */
+"Please enter a search term." = "Veuillez entrez un terme de recherche .";
+
+/* No comment provided by engineer. */
+"Please enter or paste your serial number:" = "Veuillez entrer ou coller votre numéro de série:";
+
+/* No comment provided by engineer. */
+"Please enter some detailed info about what you were doing right before the crash!" = "Veuillez saisir quelques informations détaillées sur ce que vous faisiez juste avant la collision!";
+
+/* new password */
+"Please enter the NEW password:" = "Veuillez saisir un NOUVEAU mot de passe:";
+
+/* new password */
+"Please enter the OLD password:" = "Veuillez saisir L'ANCIEN mot de passe:";
+
+/* No comment provided by engineer. */
+"Please enter your e-mail address:" = "Veuillez saisir l'adresse e-mail:";
+
+/* No comment provided by engineer. */
+"Please enter your message:" = "Veuillez saisir votre message:";
+
+/* No comment provided by engineer. */
+"Please enter your Streaming ID:" = "Veuillez entrer votre identifiant de diffusion:";
+
+/* as in please find this file */
+"Please find the picture “%s”" = "Veuillez retrouver l'image“%s”";
+
+/* instructions to user: QuickTime import/export Settings, the user will decide the name */
+"Please name this preset:" = "Veuillez nommer cette présélection:";
+
+/* instructions to user: the user will decide the name */
+"Please name this Singer:" = "Veuillez nommer ce chanteur:";
+
+/* umm */
+"Please name this template" = "Veuillez nommer ce modèle";
+
+/* obvious? */
+"Please pick a credit card type" = "Veuillez choisir un type de carte de crédit";
+
+/* No comment provided by engineer. */
+"Please purchase some streaming time." = "Veuillez acheter du temps de diffusion.";
+
+/* No comment provided by engineer. */
+"Please re-insert the disc…" = "Veuillez ré-insérez le disque…";
+
+/* No comment provided by engineer. */
+"Please select a folder, not a file." = "Veuillez sélectionner un dossier , pas un fichier.";
+
+/* help me debug */
+"Please send the purchase failure email report." = "Veuillez envoyer l'email de rapport avec l'échec de l'achat.";
+
+/* No comment provided by engineer. */
+"Please set the type of credit card you are using" = "Veuillez choisir le type de carte de crédit que vous utilisez";
+
+/* No comment provided by engineer. */
+"Please wait a few moments and this screen will refresh." = "Merci d'attendre quelques instants et cet écran sera rafraîchi";
+
+/* sort by name, album, artist etc */
+"Please wait until the sort tasks are finished." = "Veuillez patienter jusqu'aux tâches de tri soit terminé.";
+
+/* play list item identifier */
+"PLI" = "PLI";
+
+/* a list of mp3 songs that may be corrupted */
+"Possibly Corrupted MP3" = "MP3 probablement endommagé";
+
+/* [post-disposing] means [cleaning up] */
+"Post-disposing file system utils" = "Élimination du système des fichiers poste utilisation";
+
+/* user settings */
+"Preferencs" = "Préferences";
+
+/* No comment provided by engineer. */
+"Preset not found" = "Présélection non retrouvée";
+
+/* as in previous song */
+"Previous" = "Précédent";
+
+/* cost, USD */
+"Price" = "Prix";
+
+/* No comment provided by engineer. */
+"Problem starting the kJams web server. Make sure the specified port (%d) isn't in use. Only port 80 or ports >= 1024 are valid." = "Problème de démarrage du serveur web kJams. Assurez-vous que le port spécifié (%d) n'est pas utilisé. Seul le port 80 ou les ports >= 1024 sont valides.";
+
+/* yep */
+"Producer Plugin API out of date, upgrade the plugin." = "Plugin API du producteur expiré , mettre à jour le plugin.";
+
+/* No comment provided by engineer. */
+"Producer Plugin not detected." = "Plugin producteur non-détecté.";
+
+/* yep */
+"Producer plugin status: Unknown" = "Statut plugin du producteur: inconnu";
+
+/* warning */
+"producer_tryout_blurb" = "Certaines chansons seront gravées avec des croix rouges dans les illustrations car vous utilisez la version d'essai du plugin Producer. Pour enlever les croix rouges, vous devez acheter le plugin Producer. Souhaitez-vous l'acheter?";
+
+/* media stream project file (KTP, LRC, SingStar etc) */
+"Project" = "Projet";
+
+/* who published this version of the song? */
+"Publisher" = "Éditeur";
+
+/* pull as in fetch, get or extract */
+"Pull Meta Data" = "Retirez rapport les données méta";
+
+/* buy th */
+"Purchase" = "Acheter";
+
+/* No comment provided by engineer. */
+"Purchase Result error: %s" = "Erreur sur le résultat d'achat:%s";
+
+/* a voucher is like an iTunes Gift Card */
+"Purchase Voucher Credit…" = "Achat de crédit de bon cadeau...";
+
+/* is this a store bought song? */
+"Purchased" = "Acheté";
+
+/* No comment provided by engineer. */
+"Purchasing streaming time…" = "En train d'acheter du temps de diffusion...";
+
+/* No comment provided by engineer. */
+"Purchasing Subscription…" = "Achat de souscription...";
+
+/* querying means asking, and 'freedb' is not to be translated */
+"Querying freedb…" = "Interrogation freeb…";
+
+/* asking the database for info */
+"Querying KJPro.com Database" = "Interrogation de la base de données KJPro.com";
+
+/* querying means asking, and 'MusicBrainz' is not to be translated */
+"Querying MusicBrainz.org Database…" = "Interrogation de base de données MusicBrainz.org…";
+
+/* querying means asking, and 'TrackType' is not to be translated */
+"Querying TrackType.org Database…" = "Interrogation de base de données TrackType.org…";
+
+/* this message is shown, then after it is shown a more detailed message, like 'QuickTime error: The encoder popped a tire.' */
+"QuickTime error" = "Erreur QuickTime";
+
+/* No comment provided by engineer. */
+"QuickTime not installed" = "QuickTime installé";
+
+/* exit the app */
+"Quit" = "Quitter";
+
+/* are you sure */
+"Quit during Encode?" = "Quittez pendant l'encodage?";
+
+/* are you sure */
+"Quit during Rip?" = "Quittez pendant la gravure?";
+
+/* warning */
+"quit_during_export_blurb" = "Il y a une tâche d'encodage en cours, si vous quittez maintenant, l'encodage sera annulé. Pour regarder la tâche, afficher la fenêtre des tâches.";
+
+/* warning */
+"quit_during_rip_blurb" = "Il y a une gravure en cours, si vous quittez maintenant, vous devrez re-graver le fichier de chanson, car il sera incomplet, et ne s'éxecutera pas correctement.";
+
+/* when the app is quiting */
+"Quitting…" = "Quitter…";
+
+/* how does the user rate this song?  eg: good or bad */
+"Rating" = "Notation";
+
+/* as in parse, render, resolve */
+"Re-Bake" = "Refaire";
+
+/* No comment provided by engineer. */
+"Read-only file system" = "Système de fichier lecture seule";
+
+/* error */
+"reading CD in sector: %d" = "Lecture du CD dans le secteur:%d";
+
+/* error */
+"Reading CD Table of Contents" = "Lecture CD table de matières";
+
+/* at startup */
+"Reading file:" = "Lecture du fichier:";
+
+/* No comment provided by engineer. */
+"Reading Music Store file into memory" = "Lecture fichier magasin de musique dans le mémoire";
+
+/* preferences you can set that have to do with reading or importing meta tags */
+"Reading:" = "Lecture:";
+
+/* i am finished with my tasks */
+"Ready!" = "Prêt!";
+
+/* No comment provided by engineer. */
+"rebuild_library_blurb" = "Veuillez quitter kJams, puis, dans le camps de recherche, supprimez le dossier \"bibliothèque kJams\", situé dans le dossier kJams, dans votre dossier musique, puis re-démarrer kJams. C'est le meilleur moyen de créer une «nouvelle» bibliothèque.";
+
+/* starting from scratch */
+"Rebuilding library" = "Reconstruction de la bibliothèque";
+
+/* confirm */
+"receipt_str" = "Vérifiez votre adresse email pour une reçu, ou contactez \"%s\" pour de l' aide. Ou aimeriez-vous acheter la chanson à nouveau?";
+
+/* is this a store bought song? */
+"Recent" = "Récent";
+
+/* as in make a reference to something else (an alias or a shortcut) */
+"Reference" = "Référence";
+
+/* oops */
+"reinterp_sort_pli_blurb" = "Cette liste de lecture est actuellement triée sur une colonne dont les données changent quand le titre d'une chanson est réinterprété. Nous vous recommandons de les trier par index de liste de lecture (ILL) ou par identifiant de chanson avant de la réinterpréter.";
+
+/* No comment provided by engineer. */
+"Release icons" = "Relâchez les icônes";
+
+/* No comment provided by engineer. */
+"Releasing Microphone" = "Relâchez le microphone";
+
+/* load it again */
+"Reload Music Store" = "Rechargement du magasin de musique";
+
+/* No comment provided by engineer. */
+"Reloading Disc…" = "Rechargement du disque…";
+
+/* verb */
+"Remove" = "Effacer";
+
+/* No comment provided by engineer. */
+"Remove Event Handler" = "Effacez le gestionnaire d’évènements";
+
+/* removes references, not actual songs */
+"Remove from Library" = "Effacez de la bibliothèque";
+
+/* No comment provided by engineer. */
+"Remove Timers" = "Effacer la minuterie";
+
+/* deletion warning */
+"remove_dupes_blurb" = "Cela ne fera que de supprimer les (le duplicata présumé) éléments de la liste de lecture de la bibliothèque. Cela ne fonctionnera (c'est à dire: ne plantera pas) si cette liste de lecture contient les duplicata des * références * à partir de votre  *bibliothèque *. Ceci ne se produira en raison de bogues. Etes-vous sûr de vouloir prendre le risque de voir planter en ce moment? Est ce que Dave vous a directement de faire cela?";
+
+/* deletion warning */
+"remove_refs_blurb" = "Cela permettra d'éliminer toutes les références de toutes les listes de lecture! Il va laisser des fichiers sur votre disque vierge. Etes-vous sûr de vouloir supprimer toutes les références?";
+
+/* No comment provided by engineer. */
+"Removing Duplicates" = "Effacement des doublons";
+
+/* No comment provided by engineer. */
+"removing music store manager" = "Suppression du gestionnaire de magasin de la musique";
+
+/* does that make sense? */
+"Removing Songs from all playlists" = "Suppression des chansons de la liste de lecture";
+
+/* does that make sense? */
+"Removing Songs from Library" = "Suppression des chansons de la bibliothèque";
+
+/* what type (instrumental, vocal, vocal right channel, backing vocal etc) */
+"Rendition" = "Extraditions";
+
+/* imperative command, as in <please make this request> */
+"Request" = "Demande";
+
+/* undo string */
+"Reset Picture Position" = "Réinitialisez la position de l'image";
+
+/* pos is short for 'position' */
+"Reset Pos" = "Redéfinissez la position";
+
+/* undo string */
+"Resize composition element" = "Redimensionnement de la composition des éléments";
+
+/* No comment provided by engineer. */
+"Resource deadlock avoided" = "L'impasse des ressources évitée";
+
+/* No comment provided by engineer. */
+"Resource temporarily unavailable" = "Ressources indisponible pour le moment";
+
+/* No comment provided by engineer. */
+"Result too large" = "Résultat trop large";
+
+/* show, display, disclose, view (in the finder / explorer) */
+"Reveal" = "Révéler";
+
+/* No comment provided by engineer. */
+"Reveal Web Site" = "Révéler site web";
+
+/* rewind song */
+"Rewind: %s" = "Retour:%s";
+
+/* as in rip a CD */
+"Rip" = "Graver";
+
+/* rip as in digitize or import */
+"Rip from CD:" = "Gravure à partir du CD:";
+
+/* rip an entire disc to a pair of files with .bin and .cue extensions */
+"Rip to bin/cue…" = "Gravez vers Bin/repère…";
+
+/* all done */
+"Ripping complete" = "Gravure terminée";
+
+/* ripping means reading the tracs directly from the CD */
+"Ripping, please wait…" = "Gravure en cours , patientez s'il vous plait…";
+
+/* rotation */
+"Rotation" = "Rotation";
+
+/* how long should the sample be? */
+"Sample duration (seconds)" = "Exemple de la durée (en secondes)";
+
+/* this is only a sample (small portion) of a song, it is not the entire song */
+"Sample Only" = "Échantillon uniquement";
+
+/* message shown when saving the database */
+"Saving Database…" = "Sauvegarde de la base de donnée…";
+
+/* No comment provided by engineer. */
+"Saving:" = "Sauvegarde en cours:";
+
+/* yup */
+"Scanning for missing songs" = "Analyse pour des chansons manquante";
+
+/* No comment provided by engineer. */
+"Script Error" = "Erreur de script";
+
+/* No comment provided by engineer. */
+"Search" = "Rechercher";
+
+/* a list of file system paths */
+"Search paths used to locate songs:" = "Chemins de recherche utilisé pour localiser les chansons:";
+
+/* from freedb */
+"Searching for Disc…" = "Recherche pour le disque…";
+
+/* for a song */
+"Searching in iTunes" = "Rechercher dans iTunes";
+
+/* sorting message */
+"Searching “%s” for “%s”…" = "Recherche de “%1$s” pour “%2$s”…";
+
+/* one */
+"Second" = "Seconde";
+
+/* plural */
+"Seconds" = "Secondes";
+
+/* obvious? */
+"Security Information" = "Information sur la sécurité";
+
+/* No comment provided by engineer. */
+"See your KJ for information!" = "Consultez votre KJ pour de l'information!";
+
+/* msg */
+"Selection added to QuickTime Export que" = "Sélection ajouté à QuickTime Export Québec";
+
+/* msg */
+"Selection added to re-encode que" = "Ajout d'une sélection de ré-encoder Québec";
+
+/* command as in 'send the crash report' */
+"Send" = "Envoyer";
+
+/* No comment provided by engineer. */
+"Send Crash Report" = "Envoyer un rapport d'incident";
+
+/* mmm */
+"Sending Music Store purchase request" = "Envoi la demande d'achat au magasin de musique";
+
+/* No comment provided by engineer. */
+"Serial Number" = "Numéro de série";
+
+/* No comment provided by engineer. */
+"Server or Port not found" = "Serveur ou port non-- trouvé";
+
+/* undo string */
+"Set Comp Duration" = "Paramétrez la durée de l'ordinateur";
+
+/* undo string, a comp is a composition, a visual frame composed of one or more elements */
+"Set Comp Start Time" = "Paramétrez l'heure de démarrage de l'ordinateur";
+
+/* undo string, includes duration */
+"Set Comp Time" = "Paramétrez l'heure de l'ordinateur";
+
+/* undo string */
+"Set Composition Palette Color" = "Paramétrez la composition de la palette des couleurs";
+
+/* undo string */
+"Set Sweep Color" = "Paramétrez la couleur de balayage";
+
+/* undo string */
+"Set Text Color" = "Paramétrez la couleur du texte";
+
+/* meta data warning */
+"set_meta_on_selection_blurb" = "Êtes-vous sûr(e) de vouloir régler la donnée méta \"%1$s\" sur \"%2$s\" pour toutes les chansons \"%3$d\" de la sélection actuelle? Ou souhaitez-vous en changer une seulement? Vous ne pouvez pas annuler cette action.";
+
+/* No comment provided by engineer. */
+"Settings" = "Paramètres";
+
+/* as in 'display this' */
+"Show" = "Afficher";
+
+/* No comment provided by engineer. */
+"Show Message" = "Affichez le message";
+
+/* No comment provided by engineer. */
+"Showing Windows" = "Affichage de windows";
+
+/* No comment provided by engineer. */
+"Shutting down thread manager" = "Fermeture du gestionnaire du fil de la discussion";
+
+/* No comment provided by engineer. */
+"Shutting down Web Server" = "Arrêt sur serveur web";
+
+/* No comment provided by engineer. */
+"Signal error" = "Signaler l'erreur";
+
+/* you know who */
+"Singer" = "Chanteur";
+
+/* this singer is a 'karaoke jockey', one of the administrators of the show, and has special rights */
+"Singer is KJ" = "Le chanteur est le KJ";
+
+/* No comment provided by engineer. */
+"Singer name already taken. Please choose another." = "Nom du chanteur déjà pris. Veuillez en choisir un autre.";
+
+/* No comment provided by engineer. */
+"Singer Nickname" = "Surnom du chanteur";
+
+/* the folks who get on the stage to sing */
+"Singers" = "Chanteurs";
+
+/* this is due to an error */
+"single_select_bug_blurb" = "Vous devez avoir exactement un morceau sélectionné en vue de la lecture. D'une certaine manière, il semble qu'il y ait deux ou plusieurs morceaux sélectionnés. Aimeriez-vous les désélectionner? Vous pouvez ensuite double cliquer sur la chanson que vous voulez jouer.";
+
+/* how large is the file? */
+"Size" = "Taille";
+
+/* sync delta in seconds (float), Video slips relative to Audio */
+"Slip" = "Lissage";
+
+/* name of the regional cell phone company */
+"SMS Carrier" = "Distributeur SMS";
+
+/* No comment provided by engineer. */
+"SMS Number" = "Numéro SMS";
+
+/* name of geographical location where the short message service (texting) is available */
+"SMS Region" = "Région SMS";
+
+/* bummer */
+"Some crazy QuickTime error trying to extract audio!  Bummer!" = "Des erreurs incroyables de QuickTime essayant d'extraire l'audio! Décevant!";
+
+/* there will be a colon then an error message appended */
+"Some kind of error deleting songs" = "Des erreurs lors de la sélection de chansons";
+
+/* yep */
+"Some kind of problem deleting a singer.  You might try quitting, and deleting the singer in the finder" = "Des erreur lors de la suppression du chanteur.Vous pouvez essayer de quitter et supprimer le chanteur dans le champs de la recherche";
+
+/* mmm */
+"Some of the selected files are located in your kJams music folder.  Would you like to move these files to the trash?" = "Quelques fichiers sélectionnés sont situés dans votre dossier de musique kJams. Voulez-vous déplacer ces fichiers vers la corbeille?";
+
+/* mmm */
+"Some of the selected items may be referenced by other playlists.  Are you sure you want to delete all references?" = "Quelques fichiers sélectionnés peuvent être sélectionnés par des autres listes de lecture et situés dans votre dossier de musique kJams. Voulez-vous déplacer ces fichiers vers la corbeille?";
+
+/* No comment provided by engineer. */
+"Some settings you have changed will take effect the next time you start kJams." = "Certains paramètres que vous avez changé prendra effet la prochaine fois que vous démarrez kJams.";
+
+/* No comment provided by engineer. */
+"Some songs are not listed in the store." = "Certaines chansons ne sont pas listées dans le magasin.";
+
+/* you know, la la laaa */
+"Song" = "Chanson";
+
+/* song identifier */
+"Song ID" = "ID de la chanson";
+
+/* name of song */
+"Song Name" = "Nom de la chanson";
+
+/* No comment provided by engineer. */
+"Song not found" = "Chanson non-trouvée";
+
+/* how far to slip the video sync relative to the audio, per song */
+"Song Sync Slip: %.1f seconds" = "Sync. de lissage de la chanson: %.en secondes";
+
+/* who wrote the song? */
+"Song Writer" = "Écrivain de la chanson";
+
+/* song name added to playlist or singer */
+"Song “%@” added to “%@”" = "Chanson “%1$@”  ajoutée à “%2$@”";
+
+/* the plural of one song */
+"Songs" = "Chansons";
+
+/* a list of songs that did not get renamed during a rename operation */
+"Songs Not Renamed" = "Chansons n'ont pas été rénommées";
+
+/* this is a test */
+"Sorry, but you must pay better attention for this to work.  Please actually read the following message all the way through." = "Désolé, mais vous devez faire plus attention pour que cela fonctionne. Veuillez réellement lire le message entièrement.";
+
+/* No comment provided by engineer. */
+"Sorry, I think your credit card number was declined.  Is your card blocked?  Did you type the right number? The TriceraSoft music store does not accept American Express, perhaps try a different card." = "Désolé, je pense que votre numéro de carte de crédit a été refusée. Est-ce votre carte bloquée? Avez-vous saisi le bon numéro? Le magasin de musique TriceraSoft n'accepte pas American Express,  essayez une autre carte.";
+
+/* warning */
+"sort_blurb" = "À la fin de la colonne de tri %1$s, nous avons constaté que la colonne de tri n'était pas trié? (Nombre de touches: %2$d)Veuillez envoyer le fichier journal.";
+
+/* sorting message */
+"Sorting by “%s”, please wait…" = "Tri par “%s”, veuillez patienter…";
+
+/* No comment provided by engineer. */
+"Sorting file names…" = "Tri des noms de fichier…";
+
+/* No comment provided by engineer. */
+"Sorting new music list" = "Classement de la nouvelle liste musicale";
+
+/* No comment provided by engineer. */
+"Sorting old music list" = "Classement de l'ancienne liste musicale";
+
+/* the 'sources' list column header, on the left */
+"Source" = "Source";
+
+/* as in description */
+"specification" = "Spécification";
+
+/* spooler is the thing that streams data from one place to another */
+"Spooler Error" = "Erreur de réserve";
+
+/* No comment provided by engineer. */
+"Starting Script Engine" = "Démarrage du moteur de la scripte";
+
+/* No comment provided by engineer. */
+"State must not be empty" = "Etat ne doit pas être vide";
+
+/* or province */
+"State:" = "État :";
+
+/* name of store */
+"Store Name" = "Nom du magasin";
+
+/* yep */
+"Strange burn plugin status" = "Statut gravure plugin étrange";
+
+/* No comment provided by engineer. */
+"Stranger than Fiction error: The song you're trying to play is not in the current playlist." = "Erreur plus étrange que la fiction: La chanson que vous essayez de lire n'est pas dans la liste de lecture courante.";
+
+/* message */
+"strea_expire_blurb" = "Votre diffusion TriceraSoft va expirer à la date suivante : %s. Souhaitez-vous acheter du temps de diffusion supplémentaire?";
+
+/* verb: stream (shortest possible word that conveys the meaning) */
+"Stream" = "Diffusion";
+
+/* verb: stream the subscribed song */
+"Stream Song" = "Chanson de diffusion";
+
+/* audio format eg mp3, aif, wav */
+"Streaming Audio:" = "Audio de diffusion:";
+
+/* yup */
+"Streaming CDG to Cache" = "Diffusion CDG à cache";
+
+/* No comment provided by engineer. */
+"Streaming Expiration:" = "Expiration diffusion :";
+
+/* No comment provided by engineer. */
+"Streaming ID:" = "Identifiant diffusion :";
+
+/* No comment provided by engineer. */
+"Street must not be empty" = "Rue ne doit pas être vide";
+
+/* - */
+"Street:" = "Rue:";
+
+/* stroke over fill text */
+"Stroke" = "slash";
+
+/* font outline width */
+"Stroke Size:" = "Taille slash:";
+
+/* more info on the style of a song, eg: rock, blues, hip-hop etc */
+"Sub Genre" = "Sous genre";
+
+/* hmmm */
+"Submit Failed: You must enter your e-mail address in the freedb preference pane, then submit again." = "Échec de l'envoi: Vous devez saisir votre adresse e-mail dans le panneau de préférences freedb, puis le soumettre à nouveau.";
+
+/* from freedb */
+"Submitting Tracks…" = "Soumettre les pistes…";
+
+/* No comment provided by engineer. */
+"Success" = "Réussite";
+
+/* No comment provided by engineer. */
+"Successful Burn." = "Gravure réussie.";
+
+/* No comment provided by engineer. */
+"Successfully Upgraded!  We will now download and launch the new version!" = "Mise à jour réussi!Nous allons maintenant télécharger et lancer la nouvelle version!";
+
+/* a command to persue legal action against the user */
+"Sue Me" = "Faites-moi un procès";
+
+/* No comment provided by engineer. */
+"Sunc purchases" = "Achats synchronisés";
+
+/* text hilight color */
+"Sweep fill:" = "Remplissage au balayage:";
+
+/* text hilight color */
+"Sweep Stroke:" = "Slash balayage";
+
+/* No comment provided by engineer. */
+"Sync Previous Purchases" = "Synchroniser achats précédents";
+
+/* default audio output device in system prefs panel */
+"System Default" = "Système par défaut";
+
+/* ID3 meta data tags, tags describe information about a file (title, artist, album, track number etc */
+"Tags" = "Onglets";
+
+/* a pre-developed page layout: http://en.wikipedia.org/wiki/Template */
+"Templates" = "Modèles";
+
+/* how fast or slow is the song? */
+"Tempo" = "Tempo";
+
+/* by what delta value will the temp change */
+"Tempo Change Increment:" = "Augmentation dans la modification du tempo:";
+
+/* speed of the song */
+"Tempo:" = "Tempo:";
+
+/* warning */
+"test_burn_blurb" = "N'achetez pas le plugin Gravure avant d'avoir fait une gravure test et vérifié que votre disque est compatible. Avez-vous fait une gravure test ?";
+
+/* No comment provided by engineer. */
+"Tether decrypt failed" = "Échec du décryptage d'attachement";
+
+/* how many lines on a page */
+"Text Fill:" = "Remplissage du texte:";
+
+/* how many lines on a page */
+"Text Stroke:" = "Texte slash:";
+
+/* No comment provided by engineer. */
+"That is a coupon, not a serial number.  Please go thru the purchase process and use the coupon during your purchase." = "C'est un coupon, et non pas un numéro de série.Veuillez suivre le processus d'achat et l'utilisation du coupon lors de votre achat.";
+
+/* yah */
+"That template name is already taken.  Please try again." = "Ce nom du modèle est déjà pris. Veuillez essayez de nouveau.";
+
+/* eek! */
+"The CD Volume has gone offline, or the BIN file has been deleted." = "Le volume CD a été déconnecté, ou le fichier BIN a été effacé.";
+
+/* No comment provided by engineer. */
+"The Chartbuster Gift Pack (User ID) has no more credits, or is invalid." = "L’offre-cadeau Chartbuster” (ID d'utilisateur) n'a plus de crédits, ou est invalide.";
+
+/* No comment provided by engineer. */
+"The current machine does not match the machine on which the product was activated." = "La machine actuelle ne correspond pas à la machine sur laquelle le produit a été activé.";
+
+/* No comment provided by engineer. */
+"The current machine matches the machine on which the product was activated." = "La machine actuelle correspond à la machine sur laquelle le produit a été activé.";
+
+/* yep */
+"The current rip was interrupted, you will have to re-rip the last song." = "La gravure actuelle a été interrompue, vous devrez re-graver la dernière chanson.";
+
+/* No comment provided by engineer. */
+"The data browser is not properly configured." = "Le navigateur de données n'a pas été correctement configuré.";
+
+/* No comment provided by engineer. */
+"The device failed to accept the command within the timeout period" = "Échec d'acceptation de la commande par l'appareil dans le délai imparti";
+
+/* No comment provided by engineer. */
+"The drive reported that it is in the process of becoming ready. Please try the request again later" = "Le lecteur a indiqué qu'il était actuellement en train de se préparer. Veuillez refaire la demande plus tard.";
+
+/* No comment provided by engineer. */
+"The engine failed to connect to the eSellerate servers." = "Le moteur n'a pas pu se connecter aux serveurs eSellerate.";
+
+/* No comment provided by engineer. */
+"The engine failed to download an update." = "Le moteur a échoué dans le téléchargement d'une mise à jour.";
+
+/* No comment provided by engineer. */
+"The engine is already running within the application." = "Le moteur est entrain de fonctionner auprès de l'application.";
+
+/* No comment provided by engineer. */
+"The engine is corrupted." = "Le moteur est endommagé.";
+
+/* No comment provided by engineer. */
+"The eSellerate engine data is missing from the results." = "Les données du moteur eSellerate ne figurent pas sur les résultats.";
+
+/* No comment provided by engineer. */
+"The eSellerate server failed to return a valid activation key." = "Le serveur eSellerate a échoué lors de la saisie d'une clé d'activation valide.";
+
+/* No comment provided by engineer. */
+"The format of the supplied activation key is invalid." = "Le format de la clé saisie est incorrecte.";
+
+/* No comment provided by engineer. */
+"The Gift Pack does not exist or has no more credits." = "L'offre cadeau n'existe pas ou n'a plus de crédits.";
+
+/* No comment provided by engineer. */
+"The item is not in the data browser." = "L'article ne figure pas dans le navigateur des données.";
+
+/* No comment provided by engineer. */
+"The item was not added to the data browser." = "L'article n'a pas été ajouté sur le navigateur des données.";
+
+/* No comment provided by engineer. */
+"The latest engine is already installed." = "Le dernier moteur a déjà été installé.";
+
+/* No comment provided by engineer. */
+"The latest engine was successfully installed." = "Le dernier moteur a été installé avec succès.";
+
+/* No comment provided by engineer. */
+"The Lite version of kJams does not allow scripting, if you need scripting, please upgrade to Pro." = "La version Lite de kJams ne permet pas de script age, si vous avez besoin de scriptage, veuillez télécharger  la version Pro.";
+
+/* No comment provided by engineer. */
+"The old activation key is invalid." = "L’ancienne clé d'activation est non-valide.";
+
+/* No comment provided by engineer. */
+"The playlist “%@” somehow has the same ID as the already existing playlist “%@”.  Attempting to rectify…" = "La liste de lecture \"%1$@\" a en quelque sorte le même ID que la liste de lecture existante\" %2$@\". Tentative à remédier…";
+
+/* No comment provided by engineer. */
+"The property data is not valid." = "Les données de propriété ne sont pas valide.";
+
+/* No comment provided by engineer. */
+"The property is not in the data browser." = "La propriété n'est pas dans le navigateur des données.";
+
+/* No comment provided by engineer. */
+"The property is not supported in the data browser." = "La propriété n'est pas compatible avec le navigateur de données.";
+
+/* No comment provided by engineer. */
+"The property part is not valid." = "La partie propriétaire n'est pas valide.";
+
+/* No comment provided by engineer. */
+"The provided audio stream is not valid" = "La diffusion audio fournie n'est pas valide";
+
+/* No comment provided by engineer. */
+"The requested resource is in use" = "La ressource demandé est utilisée";
+
+/* No comment provided by engineer. */
+"The result from the engine could not be found." = "Les données du moteur ne sont pas valide.";
+
+/* No comment provided by engineer. */
+"The SDK failed to add a name/value entnry." = "Le SDK n'a pas réussi à ajouter un nom:saisie de valeur.";
+
+/* No comment provided by engineer. */
+"The serial number to be activated is not unique." = "Le numéro de sérié à activer n'est pas unique.";
+
+/* No comment provided by engineer. */
+"The Show is About to Begin!" = "Le spectacle est sur le point de commencer !";
+
+/* No comment provided by engineer. */
+"The Show Is Over, thanks for coming!" = "Le spectacle est terminé , merci d’être venu !";
+
+/* first @ is the singer's name, second @ is the playlist name */
+"The singer “%@” somehow lost their playlist “%@”.  A new empty playlist has been created." = "Le chanteur \"%1$@\" en quelque sorte a perdu sa liste de lecture\" %2$@\". Une nouvelle liste de lecture vide a été créé.";
+
+/* No comment provided by engineer. */
+"The singer “%s” somehow lost their account.  A new account has been created, and we will attempt to recover their playlists." = "Le chanteur “%s” en quelque sorte a perdu son compte. Un nouveau compte a été créé, et nous allons tenter de récupérer leurs listes de lecture.";
+
+/* long version (see short version) */
+"The song you picked is no longer available.  Please reload the music store and try again." = "La chanson que vous avez choisie n'est plus disponible.Veuillez recharger le magasin de musique et essayez à nouveau.";
+
+/* could not figure it out */
+"The song “%s” did not parse." = "La chanson  “%s” n'a pas pu être analysée.";
+
+/* No comment provided by engineer. */
+"The song “%s” is already being exported." = "La chanson La chanson “%s”est déjà en cours d'exportation.";
+
+/* No comment provided by engineer. */
+"The song “%s” was not converted because it is not a CDG file" = "La chanson  “%s” n'a pas été converti parce que ce n'est pas un fichier CDG.";
+
+/* No comment provided by engineer. */
+"The stream does not contain a sufficient number of sectors in the leadin for the current media" = "La diffusion ne contient pas un nombre de secteurs suffisant pour le média actuel";
+
+/* No comment provided by engineer. */
+"The system does not meet the minimum requirements for the Embedded Web Store" = "Le système ne répond pas aux exigences minimales pour la boutique Web embarqué";
+
+/* No comment provided by engineer. */
+"The user cancelled a manual activation attempt." = "L'utilisateur a annulé une tentative d'activation manuelle.";
+
+/* No comment provided by engineer. */
+"The “User ID” used for streaming is invalid." = "L' \"ID utilisateur\" utilisé pour la diffusion n'est pas valide.";
+
+/* first is number of songs, second is a string showing the duration of time it may take */
+"There are %@ songs.  It could take more than %@ to complete." = "Il y a %1$@ chansons. Elle pourrait prendre plus de %2$@pour terminer.";
+
+/* more than one */
+"There are multiple songs selected" = "Il y a plusieurs morceaux choisis";
+
+/* bummer */
+"There is not enough free space on your cache volume to build a burn image." = "Il n'ya pas assez d'espace libre sur votre volume de mémoire cache pour construire une image rémanente.";
+
+/* thanks */
+"There was a problem ejecting the disc." = "Il y avait un problème pour éjecter le disque.";
+
+/* oops */
+"There was a problem initializing audio output, check your audio output device. Are your speakers plugged in?" = "Il y avait un problème d'initialisation de la sortie audio, vérifiez votre périphérique de sortie audio. Vos haut-parleurs sont branchés?";
+
+/* oops */
+"There was a problem initializing audio output, you may want to quit and re-run" = "Il y avait un problème d'initialisation de la sortie audio, vous pouvez quitter et relancer";
+
+/* orphan refers to a song that was ripped but didn't have time to encode before the user quit */
+"There was a problem maybe with orphan encoding?" = "Il y avait  peut-être un problème avec l'encodage orphelin?";
+
+/* error str */
+"There was an error attempting to calculate the cache folder size" = "Il y avait une erreur lors de la tentation de calculer la taille du dossier cache";
+
+/* No comment provided by engineer. */
+"There was an error creating your account. Please ask the KJ to create your account for you." = "Il y avait une erreur lors de la création de votre compte. Veuillez demander à KJ de créer votre compte pour vous.";
+
+/* No comment provided by engineer. */
+"There was an error enabling Bonjour" = "Une erreur s'est produite lors de l'activation de Bonjour";
+
+/* error */
+"There was an error encoding the song “%s”" = "Il y avait une erreur lors de l'encodage de la chanson \"%s\"";
+
+/* No comment provided by engineer. */
+"There was an error installing the engine." = "Il y avait une erreur lors de l'installation du moteur.";
+
+/* No comment provided by engineer. */
+"There was an error loading the installed engine." = "Il y avait une erreur lors du chargement du moteur installé.";
+
+/* yup */
+"There was an error loading the song for editing" = "Il y avait une erreur lors du chargement de la chanson en vue d'une modification";
+
+/* No comment provided by engineer. */
+"There was an error moving “%s” into the folder “%s”: %s" = "Il y avait une erreur en mouvement “%1$s” vers le dossier“%2$s”: %3$s";
+
+/* eek */
+"There was an error saving the song" = "Il y avait une erreur lors de l'enregistrement de la chanson.";
+
+/* No comment provided by engineer. */
+"There was an error setting the temporary file name for the song “%s” in “%s”" = "Une erreur s'est produite lors du paramétrage du nom de fichier temporaire pour la chanson “%1$s” dans “%2$s”";
+
+/* bummer */
+"There was an error setting up your burn" = "Il y avait une erreur de réglage de vos gravures";
+
+/* No comment provided by engineer. */
+"There was an error with that serial number, please check the number and try again." = "Il y avait une erreur avec ce numéro de série, veuillez vérifier le nombre et essayez à nouveau.";
+
+/* first one describes the error, second one is the name of the song */
+"There was an error “%@” preparing the song “%@” for export." = "Il y avait une erreur “%1$@” lors de la préparation de la chanson“%2$@” pour l'exportation.";
+
+/* I/O is input/output */
+"There was an I/O error reading the disc, perhaps it is scratched?" = "Il y avait une erreur I/O de lecture du disque , peut-être qu'il est rayé?";
+
+/* ‘chain’ in this context means ‘pipeline’ or ‘list’ of audio processors */
+"There was some error setting up the Audio chain." = "Il y avait une erreur de réglage de la chaîne audio.";
+
+/* No comment provided by engineer. */
+"There was some kind of error while disabling Auto-Renew." = "Un genre d'erreur s'est produit lors de la désactivation de l'Auto-renouvellement.";
+
+/* No comment provided by engineer. */
+"There was some kind of error while subscribing." = "Un genre d'erreur s'est produit lors de la souscription.";
+
+/* No comment provided by engineer. */
+"There was some kind of problem checking the server for a new version." = "Il y avait une sorte de problème pour vérifier la nouvelle version sur le serveur.";
+
+/* No comment provided by engineer. */
+"This device can burn CD+G" = "Cet appareil peut graver en CD+G";
+
+/* No comment provided by engineer. */
+"This device can NOT burn CD+G" = "Cet appareil ne peut PAS graver en CD+G";
+
+/* No comment provided by engineer. */
+"This KMA file has no data?" = "Ce fichier KMA n'a pas de données ?";
+
+/* No comment provided by engineer. */
+"This operation will overwrite existing instructions.  Are you sure?" = "Cette opération va écraser les instructions existantes. Etes-vous sûr?";
+
+/* showed when the user hits the QuickTime Export edit button when eg. 'iPod' is selected */
+"This QuickTime encoder does not have an options dialog." = "Cet encodeur QuickTime ne dispose pas d'une option de dialogue .";
+
+/* No comment provided by engineer. */
+"This setting takes effect the next time you manually reload the Music Store." = "Ce paramètre prend effet la prochaine fois que vous rechargez manuellement le magasin de musique.";
+
+/* No comment provided by engineer. */
+"This setting takes effect the next time you start kJams." = "Ce paramètre ne prend effet la prochaine fois que vous démarrez kJams.";
+
+/* No comment provided by engineer. */
+"This song was previously purchased.  You can sync your previous purchases." = "Cette chanson a été acheté précedemment. Vous pouvez synchroniser vos achats précédents.";
+
+/* obvious */
+"This will only happen once…" = "Ceci ne se produira qu'une fois…";
+
+/* No comment provided by engineer. */
+"This wizard will walk you through the process of creating a new KaraokeCloud Account" = "Le logiciel d'installation vous guidera dans la procédure de création d'un nouveau compte KaraokeCloud ";
+
+/* how seconds late / early are we? */
+"Time Offset:" = "Décalage de l'heure:";
+
+/* shows how much time is left */
+"Time Remaining: %s" = "Temps restant: %s";
+
+/* line of time */
+"Timeline" = "Délais accordé";
+
+/* mmm */
+"Timeout (in seconds)" = "Délais expiré (en secondes)";
+
+/* timeout means it took too long so we aborted */
+"Timeout running helper application “%s”" = "Délai imparti de l'application d'aide “%s”";
+
+/* No comment provided by engineer. */
+"Tip your Waitress!" = "Donnez un pourboire à votre serveuse!";
+
+/* No comment provided by engineer. */
+"To download or stream songs, you must enter your e-mail address." = "Pour télécharger ou diffuser les chansons , vous devez saisir votre adresse e-mail.";
+
+/* No comment provided by engineer. */
+"To play this type of media, you must install Flip4Mac, which is free." = "Pour lire ce type de média, vous devez installer Flip4Mac, qui est gratuit.";
+
+/* No comment provided by engineer. */
+"To reload a Music Store, context-click on the it’s icon in the browser window, and pick “Reload Music Store”." = "Pour recharger un magasin de musique,cliquez sur l'icône dans la fenêtre du navigateur et choisissez \"Recharger magasin de musique\".";
+
+/* first one is <what kind of subscription>, second one is <kJams Lite> or <kJams Pro> */
+"To use the Chartbuster “%s” for streaming, you must be using “%s”." = "Pour utiliser Chartbuster \"%1$s\" pour la diffusion, vous devez utiliser “%2$s”.";
+
+/* the playlist the singer plans to sing during this session */
+"Tonight" = "Ce soir";
+
+/* No comment provided by engineer. */
+"Too many links" = "Trop de liens";
+
+/* No comment provided by engineer. */
+"Too many open files" = "Trop de fichiers ouverts";
+
+/* No comment provided by engineer. */
+"Too many open files in system" = "Trop de fichiers ouverts dans le système";
+
+/* name of store */
+"Total Songs" = "Nombre total de chansons";
+
+/* track number */
+"Track #" = "# de piste";
+
+/* No comment provided by engineer. */
+"Track Name:" = "Nom de piste :";
+
+/* No comment provided by engineer. */
+"Track Number:" = "Numéro de piste :";
+
+/* as a verb, as in 'perform the trashing action' */
+"Trash" = "Corbeille";
+
+/* will put actual song files into the trash */
+"Trash Original Files" = "Mettre les fichiers originaux dans la corbeille";
+
+/* security blurb */
+"tri_gift_pack_blurb" = "kJams utilise SSL pour toutes les transactions réseaux financières. Votre adresse e-mail est utilisée par les magasins de musique pour vous envoyer un reçu, kJams ne l'utilise jamais dans un autre but.";
+
+/* only these credit cards */
+"TriceraSoft only accepts Visa and Master Card" = "TriceraSoft accepte uniquement les cartes Visa et Master Card";
+
+/* one more time */
+"Try again" = "Essayez à nouveau";
+
+/* No comment provided by engineer. */
+"Try logging in instead." = "Essayez de vous connecter à la place.";
+
+/* No comment provided by engineer. */
+"Umm, sorry, but I've somehow lost track of this many songs:" = "Umm, désolé, mais j'ai en quelque sorte perdu la trace de ce nombre de chansons:";
+
+/* No comment provided by engineer. */
+"Unable to install eSellerate engine!" = "Impossible d'installer le moteur eSellerate !";
+
+/* No comment provided by engineer. */
+"Unable to select song in Library" = "Impossible de sélectionner chanson dans la bibliothèque";
+
+/* bummer */
+"Unix Error:" = "Erreur Unix:";
+
+/* No comment provided by engineer. */
+"Unknown Activation Key" = "Clé d'activation inconnue";
+
+/* who is that? */
+"Unknown Album" = "Album inconnu";
+
+/* artist is not known */
+"Unknown Artist" = "Artiste inconnu";
+
+/* No comment provided by engineer. */
+"Unknown error" = "Erreur inconnue";
+
+/* No comment provided by engineer. */
+"Unknown eSellerate Error" = "Erreur eSellerate inconnue";
+
+/* unable to identify the folder */
+"Unknown Folder" = "Dossier Inconnu";
+
+/* No comment provided by engineer. */
+"Unknown Singer" = "Chanteur inconnu";
+
+/* nobody knows */
+"Unknown Song" = "Chanson inconnue";
+
+/* No comment provided by engineer. */
+"Unknown." = "Inconnue.";
+
+/* No comment provided by engineer. */
+"Unloading Plugins" = "Chargement des Plugins";
+
+/* undo string */
+"Unlock Palette" = "Déverrouillage de la palette";
+
+/* audio format eg mp3, aif, wav */
+"Unpacking Audio format:" = "Déballage du format audio:";
+
+/* QuickTime import/export settings file */
+"Untitled Preset" = "Présélection sans titre";
+
+/* No comment provided by engineer. */
+"Untitled Venue" = "Lieu sans titre";
+
+/* No comment provided by engineer. */
+"Unused" = "Inutilisée";
+
+/* No comment provided by engineer. */
+"Unzipping download…" = "Décompression du téléchargement…";
+
+/* scanning */
+"Unzipping Music Store:" = "Décompression du magasin de la musique:";
+
+/* ja */
+"Unzipping on command line" = "Décompression sur la ligne de commande";
+
+/* decompressing */
+"Unzipping song:" = "décompression de la chanson :";
+
+/* as in update the application to a newer version */
+"Update" = "Mise à jour";
+
+/* yep */
+"Update Database" = "Mise à jour de la base de données";
+
+/* pre-loading data */
+"Updating DB with new search paths…" = "Mise à jour de la base de données avec les nouveaux chemins de recherche…";
+
+/* they have changed */
+"Updating Values" = "Mise à jour des valeurs";
+
+/* pre-loading data */
+"Updating “Date Added” meta data…" = "Mise à jour des données-méta \"date rajoutée\"…";
+
+/* pre-loading data */
+"Updating “No Lyrics” meta data…" = "Mise à jour des données-méta \"Paroles\"…";
+
+/* No comment provided by engineer. */
+"Upgrade" = "Mise à niveau";
+
+/* display the name that the Finder uses to refer to the file */
+"Use File Name" = "Utilisez nom du fichier";
+
+/* display the name that kJams uses to refer to the song (the song title) */
+"Use Song Name" = "Utilisez nom de la chanson";
+
+/* No comment provided by engineer. */
+"Use your iPhone or iPod Touch to browse songs and submit them to the KJ! Just go to the App store and search for “iJams”" = "Utilisez votre iPhone ou votre iPod Touch pour défiler les chansons et les soumettre à KJ! Allez simplement sur l'App store et recherchez \"iJams\"";
+
+/* No comment provided by engineer. */
+"User Canceled" = "Utilisateur annulé";
+
+/* the version of the software is old */
+"Using Old Version" = "Utilisation d'une ancienne version";
+
+/* <kJams Lite> or <kJams Pro> will be substituted */
+"Valid only with “%s”" = "Valide uniquement avec “%s”";
+
+/* validate blurb */
+"validate_ms_blurb" = "Premièrement, vous devez correctement saisir tous vos \"paramètres 1-Touche\".";
+
+/* as in many different, eg: the disc contains songs my various artists */
+"Various" = "Divers";
+
+/* no! */
+"VCD titles must be ripped into the library before playing." = "Les titres VCD doivent être gravés dans la bibliothèque avant la lecture.";
+
+/* as in version 1.0 */
+"Version" = "Version";
+
+/* No comment provided by engineer. */
+"Version Checking" = "Vérification de la version";
+
+/* you know, like moving pictures */
+"Video" = "Vidéo";
+
+/* how loud is the song? */
+"Volume" = "Volume";
+
+/* warning */
+"vorbis_blurb" = "Afin de lire la chanson \"%s\", vous devez télécharger et installer le  composant XiphQT.";
+
+/* warning */
+"vorbis_edit_blurb" = "Pou sauvegarder l'info méta que vous avez paramétrez dans des fichiers\". Ogg\" , vous devez télécharger et installer le \"cadres Xiph\", et le le \"cadre VorbisCommentEdit\".";
+
+/* No comment provided by engineer. */
+"Voucher Purchase not available yet!  Would you like to send KaraokeCloud (NOT the developer) a request for this feature?  This is NOT a request for tech support." = "Achat de bon cadeau non encore disponible !  Voulez-vous envoyer à KaraokeCloud (PAS le développeur) une demande pour cette fonctionnalité ?  Ce n'est PAS une demande de support technique.";
+
+/* No comment provided by engineer. */
+"Waiting for cache purging to complete" = "En attente de la finalisation de la purge du cache";
+
+/* tasks will be done soon */
+"Waiting for sort tasks…" = "En attente de trier les tâches…";
+
+/* No comment provided by engineer. */
+"Waiting for Spotlight…" = "En attente des projecteurs…";
+
+/* once is enough */
+"Warn me if this happens again after two hours." = "Me prévenir si cela se produit à nouveau après deux heures.";
+
+/* warning */
+"warn_karaoke_locker" = "Le magasin de musique “Mode Karoké” est UNIQUEMENT sous licence pour une utilisation à domicile. Sound Choice poursuit des gens en justice pour l'utilisation de ces chansons dans un lieu public.  Actuellement, la seule manière d'obtenir légalement des chansons Sound Choice pour une utilisation dans un lieu public est d'acheter le média physique directement auprès de Sound Choice.  Si vous êtes un utilisateur à domicile, pas de problème.  Mais si vous participez à des spectacles en public, êtes-vous sûr de vouloir courir le risque d'être poursuivi en justice par Sound Choice ?";
+
+/* you are being warned */
+"Warning:" = "Avertissement:";
+
+/* No comment provided by engineer. */
+"Web Server Not Started" = "Serveur web non démarré";
+
+/* as in go to my */
+"Web Site" = "Site Web";
+
+/* mmm */
+"Webserver port" = "Port du serveur Web";
+
+/* warning */
+"weird_unix_err" = "Le système d'exploitation m'indique que votre lecteur de CD a une erreur \"%s\" . Maintenant, je ne suis pas entièrement sûr de ce que cela signifie, mais pratiquement, cela signifie que vous ne pouvez pas graver avec ce lecteur";
+
+/* okay */
+"Well there was some sort of problem reading your CD.  You should send dave your log file" = "Eh bien il y avait une sorte de problème de lecture de votre CD. Vous devez envoyer votre fichier de journal à Dave";
+
+/* No comment provided by engineer. */
+"Went south getting a CPixels, please send the log file" = "Problème d'acquisition de CPixels, merci de m'envoyer le fichier journal";
+
+/* No comment provided by engineer. */
+"Went south getting an offscreen, please send the log file" = "Je suis allé au sud en obtenant un hors champ, veuillez envoyez le fichier de journal";
+
+/* this is a test */
+"What will you do?" = "Que feriez vous?";
+
+/* No comment provided by engineer. */
+"Who's Singing Next:" = "Chanteur suivant :";
+
+/* No comment provided by engineer. */
+"Wide character encoding error" = "Erreur d'encodage de caractères larges";
+
+/* date */
+"Will Renew on: %s" = "Renouvellement le : %s";
+
+/* the song is only available for streaming, not for purchasing */
+"Within your selection is a streaming only song which can not be purchased." = "Dans votre sélection figure une chanson de diffusion ne pouvant pas être achetée.";
+
+/* No comment provided by engineer. */
+"Would you like to create a new video?" = "Aimeriez-vous créer une autre vidéo?";
+
+/* one click */
+"Would you like to edit your account settings?" = "Voulez-vous modifier vos paramètres de compte ?";
+
+/* one click */
+"Would you like to edit your payment settings?" = "Aimeriez-vous modifier vos paramètres de paiement?";
+
+/* advertisment */
+"Would you like to purchase the fully functional version?" = "Voulez-vous acheter la version pleinement fonctionnelle?";
+
+/* Writer of song */
+"Writer" = "Lyriciste";
+
+/* No comment provided by engineer. */
+"Writing CDG to Cache" = "Ecrire CDG sur cache";
+
+/* pcm is pluse code modulated */
+"Writing Uncompressed PCM Audio To Cache" = "Ecrire audio  non compressé PCM à Cache";
+
+/* preferences you can set that have to do with writing or exporting meta tags */
+"Writing:" = "Ecrire";
+
+/* as in [cost per year] */
+"year" = "an";
+
+/* enumeration of revolutions around the sun */
+"Year" = "Année";
+
+/* affirmative */
+"Yes" = "Oui";
+
+/* No comment provided by engineer. */
+"You already purchased this song.  Your email receipt has a download link." = "Vous avez déjà acheté cette chanson. Votre reçu courriel a un lien de téléchargement.";
+
+/* No comment provided by engineer. */
+"You are not allowed to “Reference” songs from the “%s” folder, so kJams will Copy/Move the files instead." = "Vous n'êtes pas autorisé à “Référencer” des chansons du répertoire “%s”, kJams va donc copier/déplacer les fichiers à la place.";
+
+/* not connected to the internet */
+"You are offline" = "Vous êtes hors-ligne";
+
+/* must buy from one store at a time */
+"You can not buy songs from more than one store at the same time." = "Vous ne pouvez pas acheter des chansons sur plus d'un magasin au même moment.";
+
+/* No comment provided by engineer. */
+"You can not purchase or stream songs while any music store is still loading." = "Vous ne pouvez pas acheter ou diffuser de chansons pendant qu'un magasin de musique est toujours en cours de chargement.";
+
+/* yeah */
+"You can't burn the same song twice on a single disc." = "Vous ne pouvez pas graver la même chanson deux fois sur un seul disque.";
+
+/* dur */
+"You can't eject a disc while it is importing!" = "Vous ne pouvez pas éjecter un disque en cours d'importation!";
+
+/* you can't download a purchased song at the same time you stream another song */
+"You can't mix purchases with streaming." = "Vous ne pouvez pas mélanger les achats avec les diffusions.";
+
+/* no! */
+"You can't play a song while a different one is ripping from the same CD" = "Vous ne pouvez pas jouer une chanson alors qu'une autre est en cours de gravure à partir du même CD";
+
+/* No comment provided by engineer. */
+"You can't re-encode the song “%s” because it is a streaming song." = "Vous ne pouvez pas ré-encoder la chanson \"%s% s\" parce que c'est une chanson en streaming.";
+
+/* No comment provided by engineer. */
+"You can't remove the currently playing song." = "Vous ne pouvez pas retirer la chanson qui est actuellement en train d'être jouée.";
+
+/* No comment provided by engineer. */
+"You can't run more than one copy of kJams at once!" = "Vous ne pouvez pas exécuter plus d'une copie de kJams à la fois!";
+
+/* first is name of application, second is version number */
+"You have %s version %s." = "Vous avez %1$s  la version %2$s.";
+
+/* No comment provided by engineer. */
+"You have already bought at least some songs in this selection." = "Vous avez déjà acheté au moins quelques chansons dans cette sélection.";
+
+/* No comment provided by engineer. */
+"You have already bought this song." = "Vous avez déjà acheté cette chanson.";
+
+/* No comment provided by engineer. */
+"You have an old version Flip4Mac installed. You must uninstall it or update it to the latest version.  Updates are free." = "Vous avez une ancienne version de Flip4Mac installé. Vous devez le désinstaller ou mettre à jour pour la dernière version. Les mises à jour sont gratuites.";
+
+/* No comment provided by engineer. */
+"You have entered an illegal character in one of your templates. Legal characters are LTRSI-()/. and Space." = "Vous avez saisi un caractère illégal de l'un de vos modèles. Caractères juridiques sont LTRSI-() /. et l'espace.";
+
+/* No comment provided by engineer. */
+"You have less than 4 GB RAM.  You need to upgrade your RAM or you will experience performance degradation (eg: slow searching)." = "Vous avez moins de 4 Go de RAM. Vous devez mettre à niveau votre RAM ou vous feriez l'expérience de la dégradation des performances (par exemple: ralentissement de la recherche).";
+
+/* No comment provided by engineer. */
+"You have successfully activated %s!, All features are now fully functional." = "Vous avez correctement activé  %s!, Toutes les fonctionnalités sont maintenant pleinement fonctionnel.";
+
+/* notify */
+"You have successfully activated the plugin “%s”." = "Vous avez correctement activé le plugin \"%s\".";
+
+/* bad */
+"You have two singers with the same ID.  %s.  The two singers are “%s” and “%s”.  The second one will be ignored for now." = "Vous avez deux chanteurs avec le même ID. %1$s. Les deux chanteurs sont \"%2$s\" et \"%3$s\". Le second sera ignoré pour l'instant.";
+
+/* No comment provided by engineer. */
+"You may get silent audio.  If so, stop the song and clear your cache, then try again.  If the problem persists, turn off “Skip silence at start of song”." = "Vous pouvez obtenir le silence de l'audio. Si oui, arrêtez la chanson et  vider votre cache, puis essayez à nouveau. Si le problème persiste, éteignez \"sauter le silence  au début de la chanson\".";
+
+/* oops */
+"You may need to empty your trash first, or rename the Playlist before deleting it." = "Vous pouvez avoir besoin de vider votre corbeille d'abord, ou renommer la liste de lecture avant de la supprimer.";
+
+/* No comment provided by engineer. */
+"You must enable the music store and restart kJams for this feature to be available." = "Vous devez autoriser le magasin musicaux et redémarrer kJams pour que cette fonction soit disponible.";
+
+/* No comment provided by engineer. */
+"You must enter the name of the song" = "Vous devez saisir le nom de la chanson";
+
+/* No comment provided by engineer. */
+"You must install QuickTime" = "Vous devez installer QuickTime";
+
+/* No comment provided by engineer. */
+"You must install the “Image Mastering API v2.0”" = "Vous devez installer “Image Mastering API v2.0\"";
+
+/* notify */
+"You must purchase or activate kJams before you can purchase or activate the Burning Plugin." = "Vous devez acheter ou activer kJams avant de pouvoir acheter ou activer le plugin de gravure.";
+
+/* No comment provided by engineer. */
+"You must restart kJams for this option to be enabled." = "Vous devez redémarrer kJams pour que cette option soit activée.";
+
+/* notify */
+"You will have to quit and re-run kJams after you install the plugin “%s”." = "Vous devrez quitter et relancer kJams après avoir installé le plugin \"%s\".";
+
+/* No comment provided by engineer. */
+"Your credit card has expired" = "Votre carte de crédit a expiré";
+
+/* No comment provided by engineer. */
+"Your credit card has expired.  Check the expiration date." = "Votre carte de crédit a expiré. Vérifiez la date d'expiration.";
+
+/* No comment provided by engineer. */
+"Your credit card number is invalid." = "Le numéro de votre carte de crédit est non-valide.";
+
+/* No comment provided by engineer. */
+"Your credit card was declined, please call your bank." = "Votre carte de crédit a été refusée, veuillez contacter votre banque.";
+
+/* No comment provided by engineer. */
+"Your phone number must be at least 9 digits" = "Votre numéro de téléphone doit comporter au moins 9 chiffres";
+
+/* warning */
+"Your QuickTime Export name template is blank, please fill it in in the preferences" = "Votre modèle nom de l'exportation  QuickTime est vide, veuillez le remplir dans les préférences";
+
+/* No comment provided by engineer. */
+"Your search criteria produced more than %d results.  Please narrow your search by entering more search terms." = "Votre critère de sélection a produit plus de %d résultats. Veuillez réduire votre recherche en entrant plus de termes de recherche.";
+
+/* No comment provided by engineer. */
+"Your serial number file has been saved to the Desktop." = "Votre numéro de série a été sauvegardé sur le Bureau.";
+
+/* you ran out of money */
+"Your TriceraSoft Gift Pack has no more credits." = "Votre offre cadeau TriceraSoft n'a plus de crédits.";
+
+/* warning */
+"zero_size" = "Le fichier audio que vous essayez de jouer contient zéro octets. Y a-t-il eu un problème lors de l'encodage du fichier ?";
+
+/* a type of compressed file, i don't think you should translate this */
+"Zip" = "Code Postal";
+
+/* No comment provided by engineer. */
+"Zip Code must not be empty" = "Le champ code postal ne doit pas être vide";
+
+/* postal code */
+"Zip Code:" = "Code postal:";
+
+/* warning */
+"zip_warn_blurb" = "Il y a un autre processus qui est occupée par le fichier de décompression pour la chanson \"%s\", veuillez essayer à nouveau.";
+
+/* i don't think zLib can be translated */
+"Zipping Audio+G with zLib" = "Décompression audio + G avec zLib";
+
+/* as in <“kJams Music” folder>, or <“User” folder> */
+"“%s” folder" = "dossier“%s”";
+
+/* oops */
+"“%s” folder not found" = "dossier n'a pas été retrouvé“%s”";

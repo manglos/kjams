@@ -1,0 +1,45 @@
+/* No comment provided by engineer. */
+"(none)" = "(ñôñè) 12";
+
+/* No comment provided by engineer. */
+"Burning Plugin" = "Búrñïñg Plúgïñ ôñè twô";
+
+/* No comment provided by engineer. */
+"Burning plugin has expired, please download the latest!" = "Búrñïñg plúgïñ hás èxpïrèd, plèásè dôwñlôád thè látèst! ôñè twô thrèè ƒôúr";
+
+/* this means, the software now has all functions, and is no longer limited (to 3 songs per playlist) */
+"Fully Functional" = "ƒúll¥ ƒúñçtïôñál ôñè twô";
+
+/* No comment provided by engineer. */
+"Installs kJams Burner" = "Íñstálls kJáms Búrñèr ôñè twô";
+
+/* No comment provided by engineer. */
+"kJams Burning Plugin, v" = "kJáms Búrñïñg Plúgïñ, v ôñè twô";
+
+/* No comment provided by engineer. */
+"Plugin that allows kJams to burn new CD+G format discs." = "Plúgïñ thát állôws kJáms tô búrñ ñèw ÇD+G ƒôrmát dïsçs. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"str_too_long" = "¥ôú hávè môrè tháñ 80 mïñútès wôrth ôƒ músïç ïñ ¥ôúr plá¥lïst, ït wôñ't ƒït ôñ thè dïsç. Plèásè rèmôvè sôñgs úñtïl ¥ôú hávè 79.9 mïñútès ôr lèss. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè";
+
+/* No comment provided by engineer. */
+"str_tryout" = "Thè tr¥ôút vèrsïôñ ôƒ thè búrñïñg plúgïñ ôñl¥ állôws 2 sôñgs tô bè búrñèd pèr dïsç.  Íƒ ¥ôú wáñt tô búrñ môrè, plèásè púrçhásè thè plúgïñ. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè";
+
+/* we couldn't figure out what went wrong during the burn */
+"Strange Status State in Burning Plugin" = "$tráñgè $tátús $tátè ïñ Búrñïñg Plúgïñ ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"That's not a writable CD!" = "Thát's ñôt á wrïtáblè ÇD! ôñè twô ";
+
+/* No comment provided by engineer. */
+"Tryout Only (2 songs per disc)" = "Tr¥ôút Óñl¥ (2 sôñgs pèr dïsç) ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Unable to create burn track" = "Úñáblè tô çrèátè búrñ tráçk ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Unable to create correct burn track, due to an apple bug.  Expect a fix for this soon, sorry." = "Úñáblè tô çrèátè çôrrèçt búrñ tráçk, dúè tô áñ ápplè búg.  Éxpèçt á ƒïx ƒôr thïs sôôñ, sôrr¥. ôñè twô thrèè ƒôúr ƒïvè sïx ";
+
+/* No comment provided by engineer. */
+"Unknown Status" = "Úñkñôwñ $tátús ôñè twô";
+

@@ -1,0 +1,68 @@
+<html>
+	<head>
+		<title>kJams Server</title>
+	
+		<script src="spry/xpath.js"></script>
+		<script src="spry/SpryData.js"></script>
+		<script src="ui.js"></script>
+		<script src="data.js"></script>
+		<script src="main.js"></script>
+		<script src="common.js"></script>
+		
+<link rel="stylesheet" href="screen.css" media="screen"/> 
+	</head>
+
+	<body onLoad="m_sessionCheckin()" onmousemove="m_pingSession()" onclick="m_pingSession()" onkeypress="m_pingSession()" onscroll="m_pingSession()">
+		<div id="displaybox" style="display: none;" onclick="alert('Still retrieving your results. You waity, no clicky!');"><table id='displayTable'><tr></tr><tr><td class='displayboxes'>Loading search results….</td></tr><tr><td class='displayboxes'><img src="SmallestEQ.gif" alt="please wait"></td></tr><tr><td class='displayboxes'><a name=blinker>Please wait!</a></tr></table></div>
+		<table id='hintsTable'><tr><td><div id='hints' onclick="alert ('Still retrieving your results. You waity, no clicky!');"><p id="hint1">Hint:<br>Do you need to change the key of your song?<br>Just raise or lower the key from the Pitch pop up menu for that track in your "Tonight" list.</p><p id="hint2">Hint:<br>Want to change the order of your songs?<br>Just drag them with the mouse up and down in your "Tonight" list.</p><p id="hint3">Hint:<br>Changed your mind?<br>To delete a track from your "Tonight" list, just click it and hit the delete key!</p><p id="hint4">Hint:<br>Please be kind and rewind!<br>Don't forget to logout when you're done!</p><p id="hint5">Hint:<br>Want faster search times?<br>Use the filter buttons below the search field to limit searches to artist or song name.</p></div></td></tr></table>
+		<div id="main">
+			<table style='border-collapse:collapse;'><tr><td id="title" rowspan="2"><nobr>{singer}</nobr></td><td id="search"><nobr>Search Library: <input type="search" id="searchfield" name="search" onkeypress=searchKeyPressed(event) onblur="inSearch.off()" onfocus="inSearch.on()" autofocus /><input type="submit" style="" name="dosearch" value="Go" onclick=m_doSearch() /></nobr></td><td id="help" rowspan="2"><nobr>[ <a id="helplink" onClick="allowUnload=true" href="">Help</a> ] [ <a id="logoutlink" onClick="allowUnload=true" href="">Logout</a> ]</nobr></td></tr><tr><td id='filterbar'><form style="display: inline; margin: 0;">Search by: <c><input type='radio' name='filters' id='any' value='' style='display:none;' checked='checked' onclick='filter()' /><label for='any'>  Any  </label></c><c><input type='radio' name='filters' id='name' value='song name:' style='display:none;' onclick='filter()' /><label for='name'>  Title  </label></c><c><input type='radio' name='filters' id='artist' value='artist:' style='display:none;' onclick='filter()' /><label for='artist'> Artist </label></c></form></td></tr></table>
+			<div id="left">
+				<div id="playlists"></div>
+				<div id="photo"><img src="kjams-main.jpg" /></div>
+			</div>
+			<div id="songs"><p id="msg_error"></p><p id="msg_dosearch">Please enter a search.<br><br><b>Hint: To limit your search to just a particular artist, type the name of the artist into the seach field and click "Artist".<br>Likewise, to search on just song names type the name of your song and click "Title".</b></p><p id="message"><b>Enter a search above and hit "Go".</b><br><br><i>To submit a song, just click the "Tonight" button next to that song.<br>(You can also make your own "Favorites" list.)</i><br><br><b> Hint: Want faster results? To narrow your search to just a particular artist, type the name of the artist into the seach field and click "Artist".<br>Likewise, to search for just song titles type the name of your song and click "Title".</b></p><p id="waiting">Please Wait….</p></div>
+			<div id="status">Welcome to kJams!</div>
+		</div>
+		<script language="javascript">
+			//Bind key press function
+			document.onkeyup = m_keyPressed;
+			//Prevent browser from seeing the Delete key press
+			 document.onkeydown=trapDelete;
+
+			document.getElementById("searchfield").focus();
+
+			//Hide message fields
+			document.getElementById("waiting").style.display = 'none';
+			document.getElementById("msg_dosearch").style.display = 'none';
+			document.getElementById("msg_error").style.display = 'none';
+			
+			//Plug in help and logout URLs
+			document.getElementById("helplink").href = url_help;
+			document.getElementById("logoutlink").href = url_login;
+			
+			//Playlists
+			m_populatePlaylists();
+		
+			if (0) {
+				//Song list
+				var songs = new KJList();
+				songs.create(document.getElementById("songs"));
+				songs.setColumns(Array("#", "Song Name", "Artist", "Pitch", "Add to", "Add to"), 1);
+				
+				//Set clipping
+				songs.setClipping({'right' : songs.getColumnWidth(5) + songs.getColumnWidth(4) + songs.getColumnWidth(3)});
+				
+				getSongs(url_songs, populateList, 'playlist=1');
+				
+				function populateList(songList) {
+					for(var i = 0; i < songList.length; i++) {
+						songs.addItem(songList[i]['number'], Array(songList[i]['number'], songList[i]['name'], songList[i]['artist'], "<select><option>+6</option><option>+5</option><option>+4</option><option>+3</option><option>+2</option><option>+1</option><option selected>0</option><option>-1</option><option>-2</option><option>-3</option><option>-4</option><option>-5</option></select>", "<input type=\"submit\" value=\"Tonight\" />", "<input type=\"submit\" value=\"Favorites\" />"), null, null, false);
+					}
+					
+					songs.color();
+				}
+			}
+		</script>
+	</body>
+</html>

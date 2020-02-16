@@ -1,0 +1,3972 @@
+/* number of times the song has been sung */
+"# Sung" = "# ori:";
+
+/* plural: two or more */
+"%d serial number files have been saved to the Desktop." = "%d serial number files have been saved to the Desktop.";
+
+/* first is name of program */
+"%s only allows you to export up to 10 songs to QuickTime." = "%s vă permite să exportaţi doar până la 10 melodii în QuickTime.";
+
+/* first is name of program, 2nd is playlist type */
+"%s only allows you to have up to %ld items in a “%s” playlist." = "%1$s vă permite să aveți numai pînă la %2$ld melodii într-o “%3$s” listă de redare.";
+
+/* first is name of program, 2nd is number of singers, 3rd is playlist type */
+"%s only allows you to have up to %ld singers in a “%s” playlist." = "%1$s only allows you to have up to %2$ld singers in a “%3$s” playlist.";
+
+/* first is name of program, 2nd is playlist type */
+"%s only allows you to rip the first %ld songs in a “%s” playlist." = "%1$s vă permite să ripați numai pînă la %2$ld melodii într-o “%3$s”listă de redare.";
+
+/* first is name of application, second is version number */
+"%s version %s is now available!" = "%1$s versiune %2$s este acum disponibilă!";
+
+/* either one */
+"%s” or “%s" = "%1$s” or “%2$s";
+
+/* expires on date */
+"(Expires: %s)" = "(Expiră: %s)";
+
+/* does not expire */
+"(No Expiration)" = "(Nu expiră)";
+
+/* No comment provided by engineer. */
+"(Not Verified)" = "(Neverificat)";
+
+/* change the pitch */
+"(Pitch Bend: %+d)" = "(Acordaj: %+d)";
+
+/* as in, you can try this out for free, and pay later when you want */
+"(Tryout)" = "(Tryout)";
+
+/* indicates a song has vocals.  note preceeding space and parens */
+"(With Vocals)" = "(Cu voci)";
+
+/* you can download this */
+"* Download" = "* Descarcă";
+
+/* No comment provided by engineer. */
+"* Singer PW" = "* Singer PW";
+
+/* name of store */
+"* Store ID" = "* ID magazinului";
+
+/* you can stream this */
+"* Stream" = "* Stream";
+
+/* service level */
+"* Tier" = "* Tier";
+
+/* No comment provided by engineer. */
+": Free sign up required" = ": Free sign up required";
+
+/* the name of the space bar key */
+"[space]" = "[space]";
+
+/* No comment provided by engineer. */
+"A general connection failure has occured. Do you have “WebGuard” or a FireWall?" = "A general connection failure has occured. Do you have “WebGuard” or a FireWall?";
+
+/* No comment provided by engineer. */
+"A parameter is incorrect." = "Un parametru nu este corect.";
+
+/* No comment provided by engineer. */
+"A purchase attempt was unsuccessful." = "O încercarea de cumpărare nu a reușit.";
+
+/* No comment provided by engineer. */
+"A SKU update is available from the eSellerate Servers." = "O actualizare SKU este disponibila  de la serverele eSellerate.";
+
+/* mmm */
+"A song you are trying to delete is currently playing.  Are you sure you want to delete it?" = "Melodia pe care incerci să o ștergi este în redare.  Ești sigur că vrei să o ștergi?";
+
+/* No comment provided by engineer. */
+"Abort orphan encoding" = "Abandonează  codarea orfană";
+
+/* No comment provided by engineer. */
+"Abort QT exporters" = "Abandonează  exporturile QT";
+
+/* No comment provided by engineer. */
+"Aborting background activities…" = "Aborting background activities…";
+
+/* No comment provided by engineer. */
+"About to check for Music Store updates…" = "About to check for Music Store updates…";
+
+/* you are trying to do something you should not do */
+"Action not allowed" = "Acţiunea nu este permisă";
+
+/* No comment provided by engineer. */
+"Activating" = "Activating";
+
+/* No comment provided by engineer. */
+"Activation Key is Invalid" = "Codul de activare este invalid";
+
+/* Activity window, shows running threads */
+"Activity" = "Activitate";
+
+/* length of song not including silence at start and end */
+"Actual Duration" = "Durata actuală";
+
+/* track is the song on the disc, proxy means <substitute> or <replacement> */
+"Add CD Track Proxy Song…" = "Add CD Track Proxy Song…";
+
+/* undo string */
+"Add Picture" = "Adaugă imagine";
+
+/* as in, this was put in or entered or inputted */
+"Added:" = "Adăugat:";
+
+/* gathering song name index */
+"Adding Song Entries…" = "Adăugarea de registrări in cîntece…";
+
+/* adding to [name of playlist] */
+"Adding songs to “%s”…" = "Adding songs to “%s”…";
+
+/* adding songs */
+"Adding to Library…" = "Adiționarea in Biblioteca…";
+
+/* i am agreeing to this */
+"Agree" = "Acceptă";
+
+/* where the song resides */
+"Album" = "Album";
+
+/* No comment provided by engineer. */
+"All %d songs were already downloaded." = "All %d songs were already downloaded.";
+
+/* No comment provided by engineer. */
+"All sales are FINAL there are NO REFUNDS." = "Toate vânzările sunt finalizate NU se pot RESTITUI.";
+
+/* No comment provided by engineer. */
+"All the data on the disc will be lost" = "Toate datele de pe disc vor fi pierdute";
+
+/* No comment provided by engineer. */
+"All warnings have been reset to their default values." = "All warnings have been reset to their default values.";
+
+/* No comment provided by engineer. */
+"Allocating CDPedia" = "Alocarea CDPedia";
+
+/* No comment provided by engineer. */
+"Already Reported This Error" = "Această eroare a fost raportată";
+
+/* No comment provided by engineer. */
+"already_converted" = "This license has already been converted once, and can't be automatically recovered. Instead, we need to email your license to you, and you can enter the serial number manually.";
+
+/* always just try it anyway */
+"Always Attempt" = "Încearcă mereu";
+
+/* No comment provided by engineer. */
+"An activation attempt failed due to the maximum number of allowable activations being met." = "O încercare de activare a eşuat din cauza că numărul maxim de activări permise a fost realizat.";
+
+/* No comment provided by engineer. */
+"An activation attempt was made on an invalid order." = "O încercare de activare a fost făcută cu o comandă greșită.";
+
+/* No comment provided by engineer. */
+"An attempt was made to activate an blacklisted serial number." = "O încercare de activare a fost făcută cu un număr de serie de pe lista neagră.";
+
+/* No comment provided by engineer. */
+"An attempt was made to activate an unknown serial number." = "O încercare de activare a fost făcută cu un număr necunoscut de serie.";
+
+/* No comment provided by engineer. */
+"An error occured finalizing the activation on the client machine." = "Pe aparatul clientului a apărut o eroare la finalizarea activării.";
+
+/* No comment provided by engineer. */
+"An internal error has occured in the engine." = "O eroare internală a apărut în engine.";
+
+/* No comment provided by engineer. */
+"An unknown server error has occured." = "A apărut o eroare necunoscută de server.";
+
+/* http://en.wikipedia.org/wiki/Anti-alias */
+"Anti-alias" = "Anti-alias";
+
+/* No comment provided by engineer. */
+"Applause!" = "Aplauz!";
+
+/* undo string */
+"Apply Template" = "Aplică șablonul";
+
+/* size will be in (b, K, MB, GB, TB), indicates how big it would be if the cache were filled to maximum.  let me know if the units need to be localized */
+"Approximate size of cache if filled: %s" = "A fost realizată mărimea aproximativă de cache: %s";
+
+/* mmm */
+"Are you sure you want reveal %d songs in the Finder?" = "Sînteți sigur că vreți să regăsiți %d songs în Finder?";
+
+/* mmm */
+"Are you sure you want to deactivate kJams on this computer?  If you deactivate, kJams will revert to Tryout mode, and you can then use your serial number on a different computer." = "Are you sure you want to deactivate kJams on this computer?  If you deactivate, kJams will revert to Tryout mode, and you can then use your serial number on a different computer.";
+
+/* yep */
+"Are you sure you want to delete the selected singer(s)?" = "Sînteți sigur că vreți să ștergeți cîntărețul(ii) selectați?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to interrupt the current song?" = "Sînteți sigur că vreți să întrerupeți songul curent?";
+
+/* yes? */
+"Are you sure you want to permanantly delete playlist “%s”?  You can not undo this action." = "Sînteți sigur că vreți să ștergeți permanent lista de redare “%s”?  Nu puteți revoca această acțiune.";
+
+/* mmm */
+"Are you sure you want to remove the selected track references? (no actual files will be deleted)" = "Sînteți sigur că vreți să ștergeți referințele pistei selectate? (fișierul curent nu se va șterge)";
+
+/* mmm */
+"Are you sure you want to scan every single song for graphic lyrics?  This will take a VERY long time." = "Sînteți sigur că vreți să scanați fiecare song în parte după texte grafice?  Aceasta va dura FOARTE mult timp.";
+
+/* No comment provided by engineer. */
+"Are you sure you want to switch to the venue “%s”?" = "Are you sure you want to switch to the venue “%s”?";
+
+/* asking for confirmation */
+"Are you sure?" = "Sînteți sigur?";
+
+/* No comment provided by engineer. */
+"Are your credentials correct?" = "Are your credentials correct?";
+
+/* No comment provided by engineer. */
+"Argument list too long" = "Argument listă prea lung";
+
+/* Artist of song */
+"Artist" = "Artist";
+
+/* No comment provided by engineer. */
+"Ask for Password" = "Cere parola";
+
+/* part of a Bin/Cue pair of files */
+"Assembling Bin file:" = "Asamblarea fișierului Bin:";
+
+/* for burning */
+"Assembling Disc Image" = "Asamblarea imaginii de disc";
+
+/* eeeks! */
+"Assert Fail: %s, in file: '%s' at line %ld" = "Afirmă eșecul: %1$s, în fișierul: '%2$s' de la rîndul %3$ld";
+
+/* bummer */
+"At least one of these songs is missing." = "Cel puțin unul din aceste cîntece lipsește.";
+
+/* try to see if it works */
+"Attempt" = "Încercare";
+
+/* sound track */
+"Audio" = "Audio";
+
+/* this translation must EXACTLY match what the finder shows as the DISC title when you put in a disc that has no meta info */
+"Audio CD" = "Audio CD";
+
+/* this translation must EXACTLY match what the finder shows as a TRACK title when you put in a disc that has no meta info */
+"Audio Track" = "Pistă Audio";
+
+/* warning */
+"auth_tools_blurb" = "kJams may now ask you for your computer's Login Password.  This is for updating it's authorization tools.";
+
+/* warning */
+"auth_twice_blurb" = "kJams va cere parola de două ori, după aceea nu o va mai cere.  Acestea sunt pentru:. 1) pentru a permite kjams de auto-update şi 2) pentru a permite kJams să utilizaţi serverul de portul 80, atunci când activaţi serverul web kJams.";
+
+/* No comment provided by engineer. */
+"Authorizing" = "Authorizing";
+
+/* video background contents.  (eg: colors? movie? black?) */
+"Background" = "Background";
+
+/* this song has backing vocals */
+"Backing Vocals" = "Backing Vocals";
+
+/* No comment provided by engineer. */
+"Bad address" = "Adresă rea";
+
+/* No comment provided by engineer. */
+"Bad file descriptor" = "Fișier descriptor rău";
+
+/* No comment provided by engineer. */
+"Bad file name (eg: no colons allowed)" = "Nume rău de fișier (ex: două puncte nu sînt permise)";
+
+/* No comment provided by engineer. */
+"Bad File Reference Number" = "Număr rău de referință a fișierului";
+
+/* validate blurb */
+"bad_cc_ms_blurb" = "Verificaţi dacă sunteţi conectat la reţeaua Sau poate a-ți dat un nr. greșit de card? Sau codul CVV2? Numărul de card trebuie sa fie de la Visa sau MasterCard să nu conţină liniuţe sau spaţii.";
+
+/* message */
+"bad_drive_blurb" = "Ne pare foarte rău, dar CD-ROM-ul dvs. pur şi simplu nu are suport pentru citirea CD+G discuri.  Trebue să vă procurați un alt drive. Pentru o listă de driv-uri suportate consultați FAQ.";
+
+/* warning */
+"bad_encode_blurb" = "Ne pare rău, se pare că setările de compresie audio au creat o situaţie care QuickTime n-o pot înţelege. Va trebui să modificaţi setările şi re-ripa piesa.";
+
+/* warning */
+"bad_id3_blurb" = "One or more of your MP3 files has invalid ID3 tags.  It is easy enough to fix, just use the menu command: “Advanced->Convert Selection To…”.";
+
+/* warning */
+"bad_mp3_blurb" = "Unul sau mai multe dintre fişierele MP3 poate fi deteriorat.  Pentru fiecare în parte, încercaţi redarea.  În cazul în care nu cîntă, ştergeţi-l prin selectarea acesteia şi alegerea comenzii de meniu:“Edit->Trash Original Files…”.";
+
+/* the %s is <<Edit->Trash Original Files>> */
+"bad_tags_blurb" = "The song's MP3 ID3 Tags (Meta data) could not be updated due to an error. If you can play the song, you should re-encode it, which will fix the error. Otherwise you should select the song and from the menu bar pick %s.";
+
+/* self explanatory */
+"bad_template_blurb" = "Șablonul curent de scriere a tag-urilor (“%s”), nu conține fiecare tip de șablon.  Din moment ce sunt exportatoare către o listă de flat, acest lucru ar putea suprascrie fişierele. Vă rugăm să selectaţi un șablon “Conform Song Names” care are fiecare tip de şablon, de exemplu, : ”L-T - R - S”.";
+
+/* warning */
+"bad_zip_blurb" = "One or more of your zip files may be corrupted.  There are some things you can try to fix it.  If it can not be fixed, then delete it by selecting it and choosing the menu command: “Edit->Trash Original Files…”.";
+
+/* No comment provided by engineer. */
+"Badly mastered disc, or it is not really a CD" = "Badly mastered disc, or it is not really a CD";
+
+/* verb as in 'make this permanent' */
+"Bake" = "Bake";
+
+/* a type of audio file ready for buring to disc */
+"Bin/Cue file" = "Fișier Bin/Cue";
+
+/* shown when you attempt to rip to bin/cue */
+"bin_cue_ask_blurb" = "Notă: bin/cue nu poate fi cea ce doriți.  Ripparea către fișiere bin/cue va crea o copie necompresată a întregului CD (pîna la 800 MB), care va fi plasată în afara dosarului “kJams Music”.";
+
+/* short for ‘biography’, history and information about a person */
+"Bio" = "Bio";
+
+/* bit rate of compressed audio */
+"Bit Rate" = "Bit Rate";
+
+/* the background has only black in it */
+"Black" = "Negru";
+
+/* make the background have nothing in it */
+"Black Background" = "Fundal negru";
+
+/* beats per minute */
+"BPM" = "BPM";
+
+/* technical error, unix command could not be redirected */
+"Broken pipe" = "Broken pipe";
+
+/* building as in creating or constructing */
+"Building CDG" = "Construirea CDG";
+
+/* No comment provided by engineer. */
+"Building Playlist: %s" = "Construirea listei de redare: %s";
+
+/* No comment provided by engineer. */
+"Building SMS Gateways" = "Building SMS Gateways";
+
+/* No comment provided by engineer. */
+"Building Venues" = "Construirea locurilor de eveniment";
+
+/* warning */
+"bummer_download" = "Ne pare rau, a existat o eroare la dezarhivare download-ului dvs. Trebuie doar să accesaţi site-ul web și să descărcați manual.";
+
+/* warning */
+"bummer_plugin" = "Ne pare rau, a fost o eroare de localizarea pluginului pentru instalare. Vă rugăm contactaţi-l pe Dave.";
+
+/* burn an entire disc from a pair of files with .bin and .cue extensions */
+"Burn bin/cue to disc…" = "Arde bin/cue pe disc…";
+
+/* No comment provided by engineer. */
+"Burn completed, ejecting Disc…" = "Arderea completă, se aruncă discul…";
+
+/* bummer */
+"Burn Failed:" = "Arderea a eșuat:";
+
+/* description of the dialog where the user will choose (pick) the order of the songs on the burned disc */
+"Burn Order Choice" = "Arde alegerea comenzii";
+
+/* be happy */
+"burn_activ_success_blurb" = "Aţi activat cu succes plugin-ul “%s”! Veţi primi în scurt timp un e-mail cu o factură, vă rugăm să păstraţi o copie a acesteia, deoarece va conţine numărul dumneavoastră de serie, în cazul în care aveţi nevoie pentru a reinstala.";
+
+/* warning */
+"burn_not_sorted_blurb" = "Această listă de redare nu este afişată în culegerea după Manual de utilizare.  Doriţi să ardă lista cu ordinea de sortare curentă (”%1$s”)? Sau doriţi să ardeți lista folosind ordinea de sortare ghid de utilizare (“%2$s”)?  Notă: arderea cu ordinea de sortare curentă va renumera ordinea de sortare ghid de utilizare pentru a se potrivi";
+
+/* warning */
+"burn_prep_mismatch_blurb" = "A apărut o problemă la asamblarea %1$s “%2$s” pentru ardere, mărimea video a fost %3$d, în timp ce dimensiunea audio a fost de %4$d.";
+
+/* warning */
+"burn_test_blurb" = "A web page has opened explaining how to do a test burn.  Have you followed all the instructions?";
+
+/* yep */
+"Burning Plugin API out of date, upgrade the plugin." = "Plugin-ul de ardere API este ieșit din termen faceți upgrade la plugin.";
+
+/* No comment provided by engineer. */
+"Burning Plugin not detected." = "Pluginul de ardere nu a fost detectat.";
+
+/* https://karaoke.kjams.com/wiki/Music_Store/Business_Info */
+"Business ID:" = "Business ID:";
+
+/* No comment provided by engineer. */
+"Business Information" = "Business Information";
+
+/* verb: purchase (shortest possible word that conveys the meaning) */
+"Buy" = "Buy";
+
+/* verb: purchase the song */
+"Buy Song" = "Buy Song";
+
+/* warning */
+"buy_for_burning_ask" = "Are you buying kJams so that you can use it to Burn (write) CD+G discs?";
+
+/* No comment provided by engineer. */
+"By clicking “%s”, you agree to be charged USD $%s for 48 hours of streaming time." = "By clicking “%1$s”, you agree to be charged USD $%2$s for 48 hours of streaming time.";
+
+/* No comment provided by engineer. */
+"Cache folder not found, resetting to default location." = "Dosarul Cache nu a fost găsit resetează locația standard.";
+
+/* warning */
+"cache size blurb" = "Mărimea cache-ului dvs. a fost ajustată pentru potrivirea numărului de cîntece in această listă de redare.  Mai doriți să-l reajustați după terminarea arderii.";
+
+/* copying the data to local storage */
+"Cacheing Audio stream:" = "Cacheing Audio stream:";
+
+/* pre-loading data */
+"Cacheing file formats…" = "Cacheing formate de fişiere…";
+
+/* pre-loading data */
+"Cacheing search paths…" = "Cacheing path-urilor de cautare…";
+
+/* No comment provided by engineer. */
+"Cacheing Streaming Song" = "Cacheing Streaming Song";
+
+/* No comment provided by engineer. */
+"Calculating Playlist durations…" = "Calculează durata listei de redare…";
+
+/* sorry */
+"Can't Delete Playlist" = "Lista de redare nu se poate șterge";
+
+/* bummer */
+"Can't extract this media type on a background thread." = "Nu se poate extrage acest tip de medii intr-un fundal thread.";
+
+/* bummer */
+"Can't move this media type to a background thread." = "Nu se poate mișca acest tip de medii intr-un fundal thread.";
+
+/* no no */
+"Can't re-order the currently playing song" = "Nu se poate re-dispune melodia în curs de redare";
+
+/* bummer */
+"Can't skip back to previous rotation" = "Nu se poate sări înapoi la rotația precedentă";
+
+/* No comment provided by engineer. */
+"Cancellable at any time." = "Cancellable at any time.";
+
+/* No comment provided by engineer. */
+"Cannot allocate memory" = "Nu se poate aloca memoria";
+
+/* don't translate 'kJams Music' cuz it's used in the finder */
+"cant_add_library" = "Nu puteţi adăuga în Bibliotecă melodii care se află în dosarul “kJams Music”.  Dacă credeţi că ar trebui să puteți asta, atunci a-ți gîndit greșit.";
+
+/* eek */
+"cant_find_pl_singer_blurb" = "Se pare că lista de redare a aparținut unui cântăreţ.  Dar nu se știe care.  Aşa că am de gând să fac o listă de redare regulară, îmi pare rău.  Puteţi încerca să găsiți cântăreţul şi să glisați înapoi elementele în lista lor de redare.";
+
+/* bummer */
+"cant_use_case_sens" = "kJams nu poate folosi drive-uri formatizate “Case Sensitive“, aceasta se datorează mai multor factori tehnici nu voi intra în ei.  Pentru a utiliza muzica de pe aceast drive, trebuie să reformataţi drive-ul fără “Case Sensitive“.";
+
+/* bummer */
+"cant_use_ntfs" = "kJams nu poate folosi drive-uri formatate NTFS, deoarece MacOS nu are nativ capacitatea de a scrie pe volume de acest tip.  Dacă aveţi nevoie de compatibilitate cu Windows, trebuie să reformataţi drive-ul ca FAT.";
+
+/* message */
+"CantRunEseSucks1" = "kJams will run on your system, at least in Tryout mode, but requires %s or greater in order to purchase or activate a serial number.";
+
+/* message */
+"CantRunEseSucks_okForNow1" = "kJams is currently activated on your computer, but if it does revert to 'Tryout' mode, just contact kJams tech support for help.";
+
+/* No comment provided by engineer. */
+"cb_blurb_1" = "Piese speciale sunt acum disponibile, care nu conţin nicio voce.  Puteti contacta Chartbuster pentru licenţe suplimentare care vă permit să înregistraţi cu aceste piese. Aceste piese costă 7 credite sau $ 14.99, fără a include taxa de licenţiere (obligatorie).";
+
+/* No comment provided by engineer. */
+"cb_blurb_2" = "KaraokeCloud recently added songs to the store that did not have Video Lyrics. This has been fixed, but kJams must update the music store to make sure they are removed. If you wish to see them in the store, you can turn on that option in Preferences -> Stores -> Edit Music Store Settings -> Karaoke Cloud.";
+
+/* 16 digit number */
+"CC Number:" = "CC Număr:";
+
+/* type of credit card */
+"CC Type:" = "CC Tip:";
+
+/* track is the song on the disc, proxy means <substitute> or <replacement> */
+"CD Track Proxy" = "CD Track Proxy";
+
+/* obvious */
+"CD-ROM" = "CD-ROM";
+
+/* key change offset in cents */
+"Cents" = "Cents";
+
+/* eeks */
+"CF_ASSERT Fail: Setting CD file status to empty!" = "CF_ASSERT Fail: Stabilirea stării fişierului CD gol!";
+
+/* bad situation */
+"CF_ASSERT Fail: Trying to tell a CD that it's not a CD" = "CF_ASSERT nereuşit: Încercarea de a spune un CD care nu este un CD";
+
+/* warning */
+"CF_ASSERT_crash_blurb" = "Sunteţi după un crash.  Ar fi minunat dacă lăsați kJams să facă crash-ul, apoi *revocați* raportul Apple de crash, apoi executaţi din nou şi kJams kJams vă oferă raportul propriu de crash. Trimiteţi acest raport lui Dave asa ca să-l poată remedia. Dacă doriţi, totuşi, aveţi posibilitatea să încercaţi să riscați de a lucra în continuare, dar acest lucru poate duve din nou la un crash.  În cazul de nu doriți crash, puteți face o salvare forţătă (Cmd-alt-Shift-S), apoi închideţi şi faceți restart cât mai repede posibil.";
+
+/* warning */
+"CF_ASSERT_crash_blurb_win" = "Sînteți aprope de un Crash.  Ar fi minunat sa lăsați kJams sa faca crashul, si după aceea trimiteți raportul de crash lui Dave el poate găsi cauza.  Daca doriți, puteți lucra așa mai departe dar crashul se va repeta .  Este și o posibilitate de salvare forțată cu combinațiunea (cmd-alt-shift-S),dupa care inchideți programul și porniți din nou cît mai repede posibil.";
+
+/* delete whatever it is */
+"Change All" = "Schimbă tot ce este";
+
+/* name of dialog */
+"Change Cache Location?" = "Schimbă locul de cache?";
+
+/* undo string */
+"Change CDG Stream" = "Schimbă CDG Stream";
+
+/* undo string: change font information */
+"Change Font Info" = "Schimbă Font Info";
+
+/* name of dialog */
+"Change “kJams Music” Folder Location?" = "Schimba locul dosarului “kJams Music”?";
+
+/* press this button to explode */
+"change_cache_warn_blurb" = "AVERTISMENT: Aceasta nu are nimic comun cu unde cauta kJams pentru muzica dvs. Ești SIGUR că știi ce ai de făcut?";
+
+/* warning */
+"change_music_fold_warn_blurb" = "AVERTISMENT: Acest dosar nu trebuie să fie utilizat de dvs. (utilizatorul).  Acesta este folosit doar de kJams pentru a stoca melodii rippate de pe disc, sau melodii cumpărate în magazinul de muzică.Acesta NU este folosit pentru a-i spune lui kJams unde să caute muzica.";
+
+/* warning */
+"ChangeFileModePrompt" = "kJam este întrebat pentru a modifica un fişier sau un dosar care este limitat, şi trebuie să fie autorizat pentru aceasta.";
+
+/* only these credit cards */
+"Chartbuster does not accept American Express" = "Chartbuster nu acceptă American Express";
+
+/* No comment provided by engineer. */
+"Check Catalog" = "Check Catalog";
+
+/* No comment provided by engineer. */
+"Check Flip4Mac Version" = "Check Flip4Mac Version";
+
+/* confirm */
+"check_music_stores_blurb" = "Cel puțin %d magazinele de muzică ale dvs. pot fi înafară de durată, doriţi să descărcaţi cele mai recente actualizări, dacă este cazul?";
+
+/* No comment provided by engineer. */
+"Checking App Version" = "Checking App Version";
+
+/* No comment provided by engineer. */
+"Checking Burner Version" = "Checking Burner Version";
+
+/* No comment provided by engineer. */
+"Checking Default Columns" = "Checking Default Columns";
+
+/* mmm */
+"Checking original song files…" = "Controlați fișierele originale de cîntec…";
+
+/* sdf */
+"Checking Playlists…" = "Controlează listele de redare…";
+
+/* No comment provided by engineer. */
+"Checking Producer Version" = "Checking Producer Version";
+
+/* mmm */
+"Checking the playing song…" = "Controlează melodia care cîntă…";
+
+/* No comment provided by engineer. */
+"City must not be empty" = "Orașul nu trebue să fie gol";
+
+/* - */
+"City:" = "Oraș:";
+
+/* emptying, tidying up */
+"Cleaning Folder" = "Cleaning Folder";
+
+/* see <<Vacuuming>> for comment */
+"Cleaning up after vacuuming" = "Cleaning up after vacuuming";
+
+/* No comment provided by engineer. */
+"Cleaning up alert messages" = "Cleaning up alert messages";
+
+/* No comment provided by engineer. */
+"Cleaning up disc events" = "Cleaning up disc events";
+
+/* No comment provided by engineer. */
+"Cleaning up file system utils" = "Cleaning up file system utils";
+
+/* as in: completing, finishing, finalizing */
+"Cleaning Up:" = "Curăță:";
+
+/* No comment provided by engineer. */
+"Cleaning Up…" = "Curăță pînă…";
+
+/* verb as in (you) erase */
+"Clear" = "Curăță";
+
+/* undo string */
+"Clear label Sensitive" = "Clear label Sensitive";
+
+/* at startup */
+"Clearing out temp songs…" = "Curăță temp-ul de cîntece…";
+
+/* does that make sense? */
+"Clearing Playlist" = "Curăță lista de redare";
+
+/* No comment provided by engineer. */
+"Clearing SMS Gateways" = "Clearing SMS Gateways";
+
+/* No comment provided by engineer. */
+"Clearing Song List" = "Curăță lista cu cîntece";
+
+/* %s is 'Help' */
+"Click “” to learn how to fix this." = "Click “” to learn how to fix this.";
+
+/* No comment provided by engineer. */
+"Close CD Tray" = "Închide tava de CD";
+
+/* warning */
+"close_purchase_blurb" = "După ce faci achiziţia, va fi prezentată o “Receipt Window”.  Ar trebui pur şi simplu să închideţi fereastra, veţi primi un exemplar la adresa de e-mail. Să NU o minimalizați. Numai prin *inchiderea* acestei ferestre software-ul  se va registra de la sine și va debloca toate caracteristicile, cu alte cuvinte, va introduce nr. de serie pentru Dumneavoastră.  Nu există nici o descărcare, deja se execută.";
+
+/* No comment provided by engineer. */
+"closing Clipboard" = "Închide Clipboardul";
+
+/* No comment provided by engineer. */
+"Closing CSeller" = "Closing CSeller";
+
+/* No comment provided by engineer. */
+"Closing Database" = "Închide Database";
+
+/* No comment provided by engineer. */
+"closing database" = "închide database";
+
+/* No comment provided by engineer. */
+"closing eSellerate" = "închide eSellerate";
+
+/* No comment provided by engineer. */
+"closing prefs" = "închide preferințele";
+
+/* No comment provided by engineer. */
+"closing QuickTime" = "închide QuickTime";
+
+/* No comment provided by engineer. */
+"Closing Session" = "Closing Session";
+
+/* the background has colors in it */
+"Colored" = "Colorat";
+
+/* random thoughts about a song entered by the user */
+"Comment_blurb" = "Comentar";
+
+/* these options are related to the composition */
+"Comp Level" = "Nivelul Comp";
+
+/* https://karaoke.kjams.com/wiki/Music_Store/Business_Info */
+"Company Name:" = "Company Name:";
+
+/* No comment provided by engineer. */
+"Component not thread safe" = "Component not thread safe";
+
+/* who composed the song? */
+"Composer" = "Compositor";
+
+/* No comment provided by engineer. */
+"Configuring Account" = "Configuring Account";
+
+/* No comment provided by engineer. */
+"Configuring account…" = "Configuring account…";
+
+/* confirm */
+"confirm_1_purch_blurb" = "Sînteți sigur că doriți să cumpărați cîntecul “%1$s” pentru %2$s plus taxe?.";
+
+/* confirm */
+"confirm_2_purch_blurb" = "Sînteți sigur ca doriți sa cumpărați %1$d cîntece selectate cu un preț total de %2$ plus taxe?";
+
+/* confirm */
+"confirm_special_blurb" = "Cel puțin un cintec din ceace cumpărați necesită o licență specială.  Trebue sa contactati  ChartBuster pentru a le spune că va fi folosit la imprimări sau concursuri.  Este relativ scump, deorece pretul include valoarea licenței speciale, care trebue s-o stabiliți cu ChartBuster.  Sînteți sigur că doriți să cumpărați această versiune?";
+
+/* asking the database for info */
+"Connecting to song stream" = "Conectare cu streamul de cîntec";
+
+/* No comment provided by engineer. */
+"Contest Tonight!" = "Această seară concurs!";
+
+/* go on */
+"Continue" = "Continuă";
+
+/* No comment provided by engineer. */
+"Control error (debug)" = "Control eroare (debug)";
+
+/* warning */
+"convert tether db1" = "If you subscribe to “Karaoke Cloud Pro” or “Party Tyme Pro”, the locally stored cloud data needs to be downloaded again. Do you subscribe to either of these services?";
+
+/* warning */
+"convert tether db2" = "Downloading the data requires fast internet and can take quite a bit of time. Do you have time to do this now?";
+
+/* No comment provided by engineer. */
+"Convert to Subscription" = "Convert to Subscription";
+
+/* No comment provided by engineer. */
+"Converting KMA file failed." = "Converirea fișierului KMA a dat greș.";
+
+/* does that make sense? */
+"Converting Library selection to Song List" = "Convertește selecția din Bibliotecă in lista cu cintece";
+
+/* does that make sense? */
+"Converting Playlist selection to Library selection…" = "Convertirea selecției din lista de redare în selecția din bibliotecă…";
+
+/* does that make sense? */
+"Converting Playlist selection to Song List" = "Convertește selecția din lista de redare in lista de cîntece";
+
+/* No comment provided by engineer. */
+"Converting PlayLists to SQL…" = "Convertește lista de redare în SQL…";
+
+/* song identifiers to code used to purchase song */
+"Converting SongIDs to PurchaseCodes" = "Converting SongIDs to PurchaseCodes";
+
+/* No comment provided by engineer. */
+"Converting Songs to SQL…" = "Konvertește melodiile in SQL";
+
+/* as in *copy this file* */
+"Copy" = "Copy";
+
+/* sort columns */
+"Copy Column Layout" = "Copiaza layout-ul coloanei";
+
+/* No comment provided by engineer. */
+"Copy to Clipboard" = "Copiază în clipboard";
+
+/* who owns the rights? */
+"Copyright" = "Drepturi de autor";
+
+/* an MP3 file with bad meta data */
+"Corrupted ID3 Tags" = "Corrupted ID3 Tags";
+
+/* a zip file that is bad */
+"Corrupted Zip File" = "Fișier zip stricat";
+
+/* No comment provided by engineer. */
+"Could not connect to server. The server may be offline. Are you connected to the Internet?" = "Could not connect to server. The server may be offline. Are you connected to the Internet?";
+
+/* No comment provided by engineer. */
+"Could not determine if media is supported:" = "Could not determine if media is supported:";
+
+/* No comment provided by engineer. */
+"Could not determine media type:" = "Could not determine media type:";
+
+/* bummer */
+"Could not find video" = "Nu poate găsi Video";
+
+/* bummer */
+"Could not find zipped song file." = "Nu poate găsi fișierul zippat al melodiei.";
+
+/* fatal */
+"Could not get app bundle" = "Pachetul app nu poate fi obținut";
+
+/* enumerating, tallying */
+"Counting" = "Counting";
+
+/* No comment provided by engineer. */
+"Counting Music Store Songs" = "Counting Music Store Songs";
+
+/* enumerate the number of items */
+"Counting:" = "Numără:";
+
+/* - */
+"Country:" = "Țara:";
+
+/* a code for a discount */
+"Coupon" = "Coupon";
+
+/* execute the crash command */
+"Crash" = "Crash";
+
+/* would you like to crash now */
+"Crash?" = "Crash?";
+
+/* warning */
+"crash_report_blurb" = "Se pare ca kJams a facut de curînd un crash.  NOTĂ: Crashul nu a fost chiar acum.  Raportul se referă la un crash precedent.  Vă rog foarte, foarte frumos trimiteți-mi raportul de crash, astfel pot să corectez greșeala?";
+
+/* No comment provided by engineer. */
+"Create Account…" = "Create Account…";
+
+/* No comment provided by engineer. */
+"Creating Account…" = "Creating Account…";
+
+/* No comment provided by engineer. */
+"Creating browser buttons" = "Crearea unor butoane de browser";
+
+/* No comment provided by engineer. */
+"Creating Browser Window" = "Crearea fereastrei browser";
+
+/* No comment provided by engineer. */
+"Creating Clipboard" = "Crează clipboard";
+
+/* No comment provided by engineer. */
+"Creating Graphics Window" = "Crează fereastra grafică";
+
+/* No comment provided by engineer. */
+"Creating kJams Windows" = "Crează fereastra kJams";
+
+/* 'Messenger' is the name of a feature.  'overlay' is like a layer for compositing */
+"Creating Messenger Overlays" = "Creating Messenger Overlays";
+
+/* No comment provided by engineer. */
+"Creating QuickTime Components menu…" = "Crează componente de meniu QuickTime…";
+
+/* No comment provided by engineer. */
+"Creating ShowScreens menu…" = "Crează meniul ShowScreen…";
+
+/* No comment provided by engineer. */
+"Creating Sources List" = "Crează lista surselor";
+
+/* No comment provided by engineer. */
+"Creating task manager" = "Creating task manager";
+
+/* No comment provided by engineer. */
+"Creating Task Window" = "Crează fereastra task";
+
+/* No comment provided by engineer. */
+"Creating Tasks Window" = "Crează fereastra task-uri";
+
+/* No comment provided by engineer. */
+"Creating Tracks List" = "Crează lista pistelor";
+
+/* No comment provided by engineer. */
+"Creating User Account" = "Creating User Account";
+
+/* No comment provided by engineer. */
+"Creating Video Window" = "Crează fereastra video";
+
+/* No comment provided by engineer. */
+"Credit card number did not update correctly!" = "Credit card number did not update correctly!";
+
+/* No comment provided by engineer. */
+"Credit Card Number must be numeric" = "Numărul card-ului trebue să fie numeric";
+
+/* No comment provided by engineer. */
+"Credit card number must have between 13 and 19 digits" = "Numărul card-ului trebue sa aibă intre 13 și 19 cifre";
+
+/* No comment provided by engineer. */
+"Credit card type did not update correctly!" = "Credit card type did not update correctly!";
+
+/* confirm */
+"critical_update_blurb" = "Magazinul “%1$s” are o actualizare nouă: %2$s Doriți să o descărcați pentru a actualiza magazinul?";
+
+/* No comment provided by engineer. */
+"Cross-device link" = "Cross-device link";
+
+/* size comes after this */
+"Current Cache Size:" = "Mărimea actuală de Cache:";
+
+/* manually entered 'freedb' server */
+"Custom" = "Individual";
+
+/* custom number set by user */
+"Custom Number" = "Custom Number";
+
+/* custom string set by user */
+"custom_blurb" = "Custom";
+
+/* No comment provided by engineer. */
+"CVV2 code must be numeric" = "Codul CVV2 trebue să fie numeric";
+
+/* No comment provided by engineer. */
+"CVV2 code must have between 3 and 4 digits" = "Codul CVV2 trebue să aibă intre 3 și 4 cifre";
+
+/* credit card security code (three or four digits) */
+"CVV2:" = "CVV2:";
+
+/* the freedb database */
+"Database:" = "Banca de date:";
+
+/* date the song was last sung */
+"Date" = "Data";
+
+/* when was this added to the library */
+"Date Added" = "Data adiționării";
+
+/* No comment provided by engineer. */
+"Date must be of the form “MM/YYYY”" = "Data trebue să aibă formatul “MM/YYYY”";
+
+/* one */
+"Day" = "Day";
+
+/* No comment provided by engineer. */
+"Days" = "Zile";
+
+/* verb: i deactivate */
+"Deactivate" = "Deactivate";
+
+/* No comment provided by engineer. */
+"Deactivating" = "Deactivating";
+
+/* No comment provided by engineer. */
+"Deactivation error" = "Deactivation error";
+
+/* the BIN file is the source of the song */
+"Decode from BIN file:" = "Decodare din fișierul BIN:";
+
+/* the value that is used if the user does not specify a value */
+"Default" = "Standard";
+
+/* No comment provided by engineer. */
+"Default Media Stream Info has been saved." = "Informațiile standard de Media Stream au fost salvate.";
+
+/* see above */
+"Deinterleaving / Error Correcting Graphics" = "Deinterleaving / Corectarea erorilor grafice";
+
+/* how long to wait after the user clicks before showing the text edit box */
+"Delay time after click to start edit (seconds)" = "Întîrzierea după click pînă la startul editării (secunde)";
+
+/* how long to wait before setting the ID3 tag info within the files */
+"Delay time after editing to store tags to files (seconds)" = "Întîrzierea după editare pînă la înmagazinarea tag-urilor în fișiere (secunde)";
+
+/* delete whatever it is */
+"Delete" = "Șterge";
+
+/* No comment provided by engineer. */
+"Delete browser" = "Șterge browser-ul";
+
+/* undo string */
+"Delete composition element" = "Șterge compoziția elementului";
+
+/* No comment provided by engineer. */
+"Delete graphics" = "Șterge graficile";
+
+/* No comment provided by engineer. */
+"Delete LAME" = "Șterge LAME";
+
+/* mmm */
+"Delete Library" = "Șterge biblioteca";
+
+/* No comment provided by engineer. */
+"Delete Object Tracker" = "Șterge trackerul de obiecte";
+
+/* yes? */
+"Delete Playlist" = "Șterge lista de redare";
+
+/* yep */
+"Delete Singers" = "Șterge cîntărețul";
+
+/* mmm */
+"Delete Tracks" = "Șterge pistele";
+
+/* yep */
+"Delete Venue" = "Șterge locul evenimentului";
+
+/* No comment provided by engineer. */
+"Delete version tracker" = "Șterge tracker-ul de versiune";
+
+/* No comment provided by engineer. */
+"Delete zipper" = "Șterge zipper";
+
+/* No comment provided by engineer. */
+"delete_music_store_song_blurb" = "Some of the songs you are deleting are Music Store songs.  To remove Music Store songs from the Library, go to Preferencs->Stores and set the preference <<%s>> to “None”, then restart kJams.";
+
+/* warning */
+"delete_singing_singer" = "Vreți cu adevăt să ștergeți persoana care cintă acum? Atenție: aceasta va întrerupe melodia!";
+
+/* deletion warning */
+"delete_songs_blurb" = "Atenție!! Aceasta va deplasa fișierele originale în coșul de gunoi și va șterge toate referințel din toate listele! Sînteți sigur că vreți să ștergeți fișierele selectate?";
+
+/* deletion warning */ 
+"delete_venue_blurb" = "Sînteți sigur că vreți să ștergeți locul “%s” de eveniment? Aceasta are ca urmare ștergerea tuturor cîntăreților din acest loc de eveniment.  Dacă există cîntăreți, care domiciliază în acest loc și au pseudonime in alte locuri, vor fi șterși și de acolo. Nu puteți revoca această comandă.";
+
+/* No comment provided by engineer. */
+"Deleting Account" = "Deleting Account";
+
+/* No comment provided by engineer. */
+"Deleting CDPedia…" = "Șterge CDPedia…";
+
+/* No comment provided by engineer. */
+"Deleting MetaData Traits Database" = "Șterge banca de date MetaData Traits";
+
+/* does that make sense? */
+"Deleting Songs from Database" = "Șterge cîntece din banca de date";
+
+/* obvious? */
+"Deleting Songs…" = "Șterge cîntece…";
+
+/* No comment provided by engineer. */
+"Deleting task manager" = "Șterge task managerul";
+
+/* No comment provided by engineer. */
+"Deleting Undo System" = "Șterge revocarea de sistem";
+
+/* No comment provided by engineer. */
+"Demo: Stream only songs with a Green (color) label" = "Demo: Stream only songs with a Green (color) label";
+
+/* see above */
+"Demuxing Audio & Graphic Streams" = "Demuxing Audio & Graphic Streams";
+
+/* demux means separating audio and video */
+"Demuxing MPEG audio…" = "Demuxing MPEG audio…";
+
+/* un-select, or cause there to be no selection */
+"Deselect" = "Deselectare";
+
+/* the name of the desktop folder */
+"Desktop" = "Desktop";
+
+/* warning */
+"dev_2_blurb" = "kJams 2 is “Open Development”, which means you're paying for early access to an unfinished and possibly buggy program.  There are no refunds, you should play with the tryout before coming back here to upgrade.   For more info, click “%s”.";
+
+/* No comment provided by engineer. */
+"Device busy" = "Device ocupat";
+
+/* No comment provided by engineer. */
+"Device not configured" = "Device nu este configurat";
+
+/* No comment provided by engineer. */
+"Directory not empty" = "Culegerea nu este goală";
+
+/* No comment provided by engineer. */
+"Disable" = "Disable";
+
+/* No comment provided by engineer. */
+"disable_auto_renew_blurb" = "Are you sure you want to disable Auto-renew?  You will still be charged for the duration of your contract period.  Disabling Auto-Renew only means the current contract period will not auto-renew when it expires.";
+
+/* No comment provided by engineer. */
+"Disabled" = "Disabled";
+
+/* No comment provided by engineer. */
+"Disabling Auto-Renew…" = "Disabling Auto-Renew…";
+
+/* No comment provided by engineer. */
+"Disc Burning Progress" = "Progresul la arderea discului";
+
+/* No comment provided by engineer. */
+"Disc Recorder Error: 0x%08x" = "Disc Recorder Error: 0x%08x";
+
+/* No comment provided by engineer. */
+"Disc Ripping Complete!" = "Ripparea de disc este completă!";
+
+/* warning */
+"disc_meta_info1_blurb" = "Vă rugăm completați toate meta informațiile pentru acest disc.  Fișierele lipsă: %s.";
+
+/* warning */
+"disc_meta_info2_blurb" = "Acolo lipsesc încă unele meta informații, incercați mai departe…  Fișierele tale lipsă: %s.";
+
+/* No comment provided by engineer. */
+"Disk is full" = "Discul este plin";
+
+/* No comment provided by engineer. */
+"disposing Task Window" = "dispune fereastra de task";
+
+/* No comment provided by engineer. */
+"disposing Task Window" = "disposing Task Window";
+
+/* No comment provided by engineer. */
+"Disposing TouchBar" = "Disposing TouchBar";
+
+/* http://en.wikipedia.org/wiki/Dither */
+"Dither" = "Dither";
+
+/* No comment provided by engineer. */
+"dlg/134/Disc Selection" = "dlg/134/Disc Selection";
+
+/* No comment provided by engineer. */
+"Do not warn me again" = "Do not warn me again";
+
+/* No comment provided by engineer. */
+"Do you have a coupon?  Or is this just a normal purchase?" = "Do you have a coupon?  Or is this just a normal purchase?";
+
+/* No comment provided by engineer. */
+"Do you use Apple's “Mail” application to send email or do you use some other method?" = "Folosiți programul Apple's “Mail”, pentru a trimite email-uri, sau folosiți o altă metodă?";
+
+/* these options are related to the composition */
+"Document Level" = "Nivelul documentului";
+
+/* do not ask me the same question any more, i will give the same answer always */
+"Don't Ask Again" = "Nu mă mai întrebați din nou";
+
+/* No comment provided by engineer. */
+"Don't forget to tip your waitress!" = "Nu uitați să chemați chelnerița!";
+
+/* do NOT send this to me via email */
+"Don't Send" = "Nu trimite";
+
+/* No comment provided by engineer. */
+"Don't warn me again for a month" = "Nu mă mai avertizați timp de o lună";
+
+/* No comment provided by engineer. */
+"Donate" = "Donate";
+
+/* finished, completed */
+"Done" = "Done";
+
+/* as in download, as a verb */
+"Download" = "Descarcă";
+
+/* No comment provided by engineer. */
+"Download session timed out" = "Sesiunea de descărcare a ieșit din timp";
+
+/* message */
+"download_pro_blurb" = "Versiunea redusă de kJams test nu are cîntăreț și rotație.  Doriți să descărcați versiunea pro?";
+
+/* No comment provided by engineer. */
+"Downloading file:" = "Descarcă fișierul:";
+
+/* No comment provided by engineer. */
+"Downloading Song" = "Downloading Song";
+
+/* preview is a short sample */
+"Downloading Song Preview" = "Downloading Song Preview";
+
+/* No comment provided by engineer. */
+"Downloading Update" = "Downloading Update";
+
+/* downloads folder */
+"Downloads" = "Downloads";
+
+/* No comment provided by engineer. */
+"Drink Specials!" = "Băuturi speciale!";
+
+/* No comment provided by engineer. */
+"DRStatusStateFailed" = "DRStatusStateFailed";
+
+/* a duet is a song sung by two people */
+"Duet" = "Duet";
+
+/* a comment about who will be singing the duet */
+"Duet Comment" = "Duet Comment";
+
+/* oops */
+"dupe items blurb" = "Unele din articolele Dv. din banca de date au o identitate dublă, care ar putea să dăuneze băncii de date.";
+
+/* i tried */
+"dupe items fixed blurb" = "Am incercat să aduc in regulă, dar ar mai putea sa existe probleme.  Vreți cumva să-l contactați pe dave?";
+
+/* oops */
+"dupes not fixed blurb" = "Nu au fost aduse în ordine, vă rugăm să-i trimite-ți lui dave fișierele Dv. log și dosarul “kJams Library”, după aceea ștergeți acest dosar.  Scuze.";
+
+/* No comment provided by engineer. */
+"Duplicate File Name" = "Dubleză numele de fișier";
+
+/* No comment provided by engineer. */
+"Duplicate Singer:" = "Dublează cîntărețul:";
+
+/* Duration of song */
+"Duration" = "Durata";
+
+/* settings that are only relevant while playing a song */
+"During Play:" = "In timpul redării:";
+
+/* No comment provided by engineer. */
+"E-mail address or password is empty" = "E-mail address or password is empty";
+
+/* obvious */
+"E-Mail address:" = "Adresă E-Mail:";
+
+/* No comment provided by engineer. */
+"e-mail must not be empty" = "email-ul nu poate fi gol";
+
+/* No comment provided by engineer. */
+"e-mail:" = "e-mail:";
+
+/* undo string */
+"Edit Graphic" = "Editarea de grafică";
+
+/* undo string */
+"Edit Instruction Value" = "Prelucrează valoarea instrucțiunii";
+
+/* thanks */
+"Ejecting disc, please wait…" = "Discul se ejectează, va rog așteptați…";
+
+/* No comment provided by engineer. */
+"Elapsed Time: %s" = "Timpul scurs: %s";
+
+/* these options are related to the selected composition element */
+"Element Level" = "Nivelul elementului";
+
+/* No comment provided by engineer. */
+"email_blurb1" = "kJams requires a valid email address in order to send you your serial number, and any purchase receipts. It is also used as the reply address for any crash reports you send, so kJams technical support can follow up to in order to help you. It is also used to to notify you if a “freedb submit” has failed. You must enter a valid email address.";
+
+/* message */
+"email_log_blurb" = "Voi salva acum raportul într-un dosar temporar.  Vă rog anexați acest dosar de un e-mail și trimite-ți la adresa dave@kjams.com.  Eu voi încerca să compun e-mailul pentru Dumneavoastră.";
+
+/* No comment provided by engineer. */
+"Enable" = "Enable";
+
+/* short message system, or 'texting' */
+"Enable SMS" = "Enable SMS";
+
+/* No comment provided by engineer. */
+"Enabled" = "Enabled";
+
+/* No comment provided by engineer. */
+"Enabling Auto-Renew…" = "Enabling Auto-Renew…";
+
+/* No comment provided by engineer. */
+"Encoder not found" = "Encoderul nu poate fi găsit";
+
+/* mmmhmmm */
+"Encoding with %s: %s" = "Codează cu %1$s: %2$s";
+
+/* yup */
+"Encoding:" = "Encoding:";
+
+/* No comment provided by engineer. */
+"End of File" = "Sfîrșitul de fișier";
+
+/* error */
+"ENETDOWN, Network is down" = "ENETDOWN, Network is down";
+
+/* language name */
+"English" = "English";
+
+/* No comment provided by engineer. */
+"Enter e-mail address and password:" = "Enter e-mail address and password:";
+
+/* how long should the sample be? */
+"Enter the duration of the song sample:" = "Introduceți durata  mostrei de melodie:";
+
+/* No comment provided by engineer. */
+"Enter Track Information:" = "Enter Track Information:";
+
+/* the substitute string is an adjective, a TYPE of search */
+"Enter “%s” search term" = "Enter “%s” search term";
+
+/* ask the user to enter the name of the disc, using the 'CDPedia' disc title */
+"Enter “CDPedia” Disc Title" = "Introduceți numele discului “CDPedia”";
+
+/* message */
+"erase_drive_blurb" = "Sinteți siguri ca doriti sa îndepărtați discul din drive %s , inainte de a-l arde?";
+
+/* eek */
+"err_saving" = "La salvarea fișierului “%s” a apărut o eroare";
+
+/* No comment provided by engineer. */
+"Error attempting to delete signer song." = "Error attempting to delete signer song.";
+
+/* No comment provided by engineer. */
+"Error attempting to save database!" = "Eroare la incercarea de salvare a băncii de date!";
+
+/* first is either 'file' or 'folder', second is either 'specification' or empty, third is name of file/folder */
+"Error creating %s %s“%s”" = "Eroare la crearea %1$s %2$s“%3$s”";
+
+/* No comment provided by engineer. */
+"Error during save" = "Error during save";
+
+/* No comment provided by engineer. */
+"Error gathering crash or log data" = "Error gathering crash or log data";
+
+/* mmm */
+"Error loading editor state" = "Eroare la incărcarea statutului de Editor";
+
+/* No comment provided by engineer. */
+"Error loading XML file:" = "Eroare la incărcarea fișierului XML:";
+
+/* No comment provided by engineer. */
+"Error parsing Karaoke Locker music store." = "Eroare la analizarea Magazinului de muzică Karaoke Locker.";
+
+/* No comment provided by engineer. */
+"Error parsing the version XML data" = "Eroare la analizarea versiunii fișierelor XML";
+
+/* first is name of venue or playlist, second is string describing the error */
+"Error renaming <%s> in the file system! (%s)" = "Error renaming <%1$s> in the file system! (%2$s)";
+
+/* bummer */
+"Error renaming Singer in the Finder" = "Eroare la renumirea cîntărețului în finder";
+
+/* No comment provided by engineer. */
+"Error resolving shortcut: Could not instantiate %s.  Original path: %s" = "Error resolving shortcut: Could not instantiate %1$s.  Original path: %2$s";
+
+/* No comment provided by engineer. */
+"Error while syncing:" = "Error while syncing:";
+
+/* error number */
+"Error: %d" = "Eroare: %d";
+
+/* bummer */
+"Error: CDPedia says the disc has wrong number of songs?" = "Greșeală: CDPedia anunța că discul are un număr greșit de cîntece?";
+
+/* No comment provided by engineer. */
+"Error: Did not recieve a serial number?" = "Greșeală: Nu a-ți primit un număr de serie?";
+
+/* bummer */
+"Error: KayJayPro says the disc has wrong number of songs?" = "Error: KayJayPro says the disc has wrong number of songs?";
+
+/* bummer */
+"Error: “%s” The disc has wrong number of songs?" = "Error: “%s” The disc has wrong number of songs?";
+
+/* eek */
+"error_during_save" = "kJams encountered an error while trying to save the database (%1$s). You may need to free up some space on your hard drive, or delete the existing Songs.ktd file, then press “%2$s”. Note that if you press “%3$s”, your database will not be saved, and may be corrupted.";
+
+/* warning */
+"ese perms blurb" = "Este posibil ca acest lucru poate fi rezolvat prin alegerea permisiunii SCRIE in dosarul/Biblioteca/Frameworks.";
+
+/* No comment provided by engineer. */
+"eSellerate engine happy!" = "eSellerate engine fericit!";
+
+/* No comment provided by engineer. */
+"eSellerate engine not found!" = "eSellerate engine nu se găsește!";
+
+/* https://karaoke.kjams.com/wiki/Music_Store/Business_Info */
+"EU VAT ID:" = "EU VAT ID:";
+
+/* No comment provided by engineer. */
+"Exec format error" = "Greșeală de format în Exec";
+
+/* short warning this song will cost you more */
+"Expensive Song!" = "Melodie scumpă!";
+
+/* expiry date of credit card */
+"Expiration:" = "Expirare:";
+
+/* date */
+"Expired on: %s" = "Expired on: %s";
+
+/* help me understand the situation */
+"Explain" = "Explica";
+
+/* No comment provided by engineer. */
+"explain_business_blurb" = "In the next screen, please enter information about your business. If you are a home user, you may leave the fields blank. Click the “Help” button if you're not sure what to enter.";
+
+/* No comment provided by engineer. */
+"explain_cc_blurb" = "In the next screen, please enter your billing name and address, and your credit card info.  Your card will NOT be charged unless you specifically purchase a song, a subscription, or a voucher.";
+
+/* No comment provided by engineer. */
+"explain_name_pw_blurb" = "In the next screen, please enter the user name and password you would like to use to create a KaraokeCloud account.";
+
+/* there are dirty words in this song */
+"Explicit" = "Explicit";
+
+/* dialog name.  the user is editing their QuickTime Export settings, and saving them for later, so the settings are available ahead of time for when they want to do an export, hence 'pre-set' */
+"Export Preset" = "Export de presetări";
+
+/* command */
+"Export Songs" = "Exportă cîntece";
+
+/* self explanatory */
+"export_format_blurb" = "Doriți să sortați dosarul principal după “Artist” și subdosarul după “Album” (2 Nivele)?  Sau doriți să sortați dosarul principal inclusiv toate cîntecele din acest album, după album(un Nivel)?  Alegeți formatul dosarului principal. ";
+
+/* self explanatory */
+"export_heirarchic_blurb" = "Doriţi să exportaţi toate melodiile dintr-un singur folder (flat)?  Sau doriţi să le copiaţi în subdosare, care sunt organizate după album şi artist (ierarhic)?";
+
+/* No comment provided by engineer. */
+"Exporting" = "Exporting";
+
+/* for export */
+"Exporting BIN/CUE" = "Exportă BIN/CUE";
+
+/* yup */
+"Exporting:" = "Exporting:";
+
+/* verb as in (you) cause this image to fade to black */
+"Fade" = "Fade";
+
+/* this track is not real, don't use it */
+"fake track, do not rip" = "pistă falsă,nu rippați";
+
+/* the singers favorite songs */
+"Favorites" = "Favorite";
+
+/* the girl singer */
+"Female" = "Feminin";
+
+/* go get the audio */
+"Fetch Audio from iTunes" = "Preluare Audio din iTunes";
+
+/* No comment provided by engineer. */
+"Fetching all file references" = "Fetching all file references";
+
+/* from iTunes */
+"Fetching Artist '%s'" = "Preluare  Artist '%s'";
+
+/* No comment provided by engineer. */
+"Fetching Catalog Update Image" = "Fetching Catalog Update Image";
+
+/* No comment provided by engineer. */
+"Fetching country and state names" = "Fetching country and state names";
+
+/* No comment provided by engineer. */
+"Fetching Song Updates Banner" = "Fetching Song Updates Banner";
+
+/* song identifiers */
+"Fetching SongIDs" = "Fetching SongIDs";
+
+/* No comment provided by engineer. */
+"file" = "fișier";
+
+/* No comment provided by engineer. */
+"File already open with write permission" = "Fişier deja deschis cu permisiuni de scriere";
+
+/* No comment provided by engineer. */
+"File exists" = "Fișierul există";
+
+/* No comment provided by engineer. */
+"File name too long" = "Numele de fișier prea lung";
+
+/* names of files */
+"File Names" = "Nume fișiere";
+
+/* No comment provided by engineer. */
+"File Not Found" = "Fișierul nu a fost găsit";
+
+/* No comment provided by engineer. */
+"File Not Open" = "Fișierul nu este deschis";
+
+/* No comment provided by engineer. */
+"File Position Error" = "Greșeală de poziție a fișierului";
+
+/* bummer */
+"File spooler open error" = "Eroare de deschidere a fișierului spooler";
+
+/* No comment provided by engineer. */
+"File too large" = "Fișierul este prea mare";
+
+/* specified file will come after this string */
+"File:" = "Fișier:";
+
+/* a ring buffer is a buffer area that gets used over and over, like a circular ring with a read  head and a write head.  The heads don't move, while the ring spins, the write head puts data into the ring, and the read head reads it off */
+"Fill Ring Buffer: Audio Out" = "Completați Ring Buffer: Ieșire Audio";
+
+/* No comment provided by engineer. */
+"Finalizing Playlists…" = "Finalizez listele de redare…";
+
+/* verb as in please go find this */
+"Find" = "Caută";
+
+/* have the user locate the folder */
+"Find it" = "Caută-l";
+
+/* directive: user, please select a folder */
+"Find Music Folder:" = "Găsește dosarul de muzică:";
+
+/* please locate the following musical arrangment */
+"Find Song: “%s”" = "Găsește cîntecul: “%s”";
+
+/* No comment provided by engineer. */
+"Finding Existing Song Matches…" = "Finding Existing Song Matches…";
+
+/* an orphaned song is one that has been abandoned and is unaccounted for */
+"Finding Orphans" = "Găsește orfanii";
+
+/* No comment provided by engineer. */
+"Finishing Browser Window" = "Finisează fereastra browser";
+
+/* No comment provided by engineer. */
+"Finishing menu creation" = "Finisează crearea de meniu";
+
+/* language name */
+"Finnish" = "Finnish";
+
+/* No comment provided by engineer. */
+"First Name must not be empty" = "Prenumele nu poate fi gol";
+
+/* - */
+"First Name:" = "Prenume:";
+
+/* No comment provided by engineer. */
+"First you take a drink, then the drink takes a drink, then the drink takes you." = "Întîi ia băutură, apoi băutura ia altă băutură, apoi băutura te ia pe tine.";
+
+/* fit font size to available space */
+"Fit" = "Fit";
+
+/* No comment provided by engineer. */
+"folder" = "Dosar";
+
+/* obvious? */
+"Font size:" = "Mărimea scrisului";
+
+/* No comment provided by engineer. */
+"For a list of songs with problems, see the playlist called “%s”." = "For a list of songs with problems, see the playlist called “%s”.";
+
+/* No comment provided by engineer. */
+"For the Server to function properly, you must install Bonjour (Print Services) for Windows" = "For the Server to function properly, you must install Bonjour (Print Services) for Windows";
+
+/* describes type of file (mp3, aif, mov, etc) */
+"Format" = "Format";
+
+/* results of a search, how many found */
+"Found %d songs" = "Găsește %d cîntece";
+
+/* as in: there is no cost or charge for this */
+"Free" = "Gratuit";
+
+/* language name */
+"French" = "French";
+
+/* No comment provided by engineer. */
+"Function not implemented" = "Funcţia nu este pusă în aplicare";
+
+/* when the user deletes a list of songs, we must first gather some info about what will be deleted */
+"Gathering deletion information…" = "Colectarea de informaţii text eliminat";
+
+/* No comment provided by engineer. */
+"Gathering Files in folder" = "Colectarea fișierelor în Dosare";
+
+/* No comment provided by engineer. */
+"Gathering freedb servers" = "Gathering freedb servers";
+
+/* sex of singer */
+"Gender" = "Gen";
+
+/* the style of a song, eg: rock, blues, hip-hop etc */
+"Genre" = "Stil";
+
+/* language name */
+"German" = "German";
+
+/* command to go and fetch something */
+"Get it…" = "Obține-l…";
+
+/* No comment provided by engineer. */
+"Get Purchased List" = "Get Purchased List";
+
+/* verb: get the free song */
+"Get Song" = "Obține cîntecul";
+
+/* No comment provided by engineer. */
+"Get Song Meta Data" = "Get Song Meta Data";
+
+/* warning */
+"get_producer_blurb" = "Unele melodii se vor arde fără grafici cu excepția că obțineți plugin-ul Producer care se vinde separat, gratis pentru testare.  Asigurați-vă că cachul disc este șters(audio prefers)după ce instalați plugin-ul, și din nou după cumpărare ștergeți marcările roșii.";
+
+/* message */
+"get_python" = "To use Python Scripting with kJams, you must install Python 2.7.  Would you like to install it?";
+
+/* No comment provided by engineer. */
+"Getting AirFoil Slip Value" = "Getting AirFoil Slip Value";
+
+/* No comment provided by engineer. */
+"Getting Album Info…" = "Getting Album Info…";
+
+/* reading the directory of a disk */
+"Getting bulk catalog info for %s" = "Getting bulk catalog info for %s";
+
+/* from freedb */
+"Getting Categories…" = "Primește categorii…";
+
+/* for freedb */
+"Getting Disc ID…" = "Primește disc ID…";
+
+/* No comment provided by engineer. */
+"Getting Disc Tracks" = "Getting Disc Tracks";
+
+/* No comment provided by engineer. */
+"Getting Disc Tracks…" = "Getting Disc Tracks…";
+
+/* No comment provided by engineer. */
+"Getting Finder Label Colors" = "Getting Finder Label Colors";
+
+/* No comment provided by engineer. */
+"Getting list of songs…" = "Getting list of songs…";
+
+/* language dialect */
+"Getting Locale Info…" = "Getting Locale Info…";
+
+/* No comment provided by engineer. */
+"Getting Python Download" = "Getting Python Download";
+
+/* No comment provided by engineer. */
+"Getting Serial Number" = "Getting Serial Number";
+
+/* from freedb */
+"Getting Sites…" = "Primește pagini…";
+
+/* No comment provided by engineer. */
+"Getting Streaming Products" = "Getting Streaming Products";
+
+/* No comment provided by engineer. */
+"Getting test Tricera packages" = "Getting test Tricera packages";
+
+/* No comment provided by engineer. */
+"Getting version information" = "Getting version information";
+
+/* 16 digit number */
+"Gift Card:" = "Card de cadouri:";
+
+/* how much does the video slip from the audio (float, seconds) */
+"Global Slip: %.2f Seconds" = "Sincronizarea globală: %.2f secunde";
+
+/* how far to slip the video sync relative to the audio, for all songs */
+"Global Sync Slip: %.1f seconds" = "Abaterea globală de sincronizare: %.1f secunde";
+
+/* user enters a new time */
+"Go To Time" = "Merge la timp";
+
+/* mmm */
+"Gracenote has started charging me monthly for each user's access to it's database. Would you consider sending a small donation (eg: $1 USD) to help cover the costs?" = "Gracenote has started charging me monthly for each user's access to it's database. Would you consider sending a small donation (eg: $1 USD) to help cover the costs?";
+
+/* what channel are you watching */
+"Graphic Channels" = "Grafic Canale";
+
+/* short for Global Slip */
+"GS: %.2f," = "GS: %.2f,";
+
+/* eek */
+"guessing_cd_meta" = "Informaţii despre pistele pentru acest CD au fost salvate cu o versiune kJam, care nu a inregistrat corect informațiile pentru fiecare cîntec.  Veți găsi înscrieri duble, vă rog corectați-le imediat.";
+
+/* No comment provided by engineer. */
+"Hardware Mismatch" = "Nepotrivire de hardware";
+
+/* No comment provided by engineer. */
+"hd_vid_blurb" = "The song you are about to play is High Definition. It is known that kJams has difficulty playing HD videos, you may experience stutter or freezes if you choose to continue. Only attempt this if you have a brand new, very high end computer. You can re-encode the video to a smaller size to overcome this limiation, or wait until the new update coming some time in 2020.";
+
+/* present, available, accounted for, at the venue, as opposed to 'has gone home' */
+"Here" = "Aici";
+
+/* please remove the silly / ridiculous multi-colored picture */
+"Hide That Crazy Rainbow!" = "Ascunde acest curcubeu carghios!";
+
+/* No comment provided by engineer. */
+"Hide Windows" = "Ascunde fereastra";
+
+/* No comment provided by engineer. */
+"High Definition Video" = "High Definition Video";
+
+/* make it look really good */
+"High Quality Render" = "Render de înaltă calitate";
+
+/* record of all songs ever sung by the singer */
+"History" = "Cronică";
+
+/* user affirms they use the product only at home */
+"Home User" = "Home User";
+
+/* one */
+"Hour" = "Hour";
+
+/* No comment provided by engineer. */
+"Hours" = "Ore";
+
+/* question */
+"How would you like to obtain meta info?" = "Cum dorți să obțineți meta informațiile?";
+
+/* error */
+"HTTP Network Connection Lost" = "HTTP Network Connection Lost";
+
+/* No comment provided by engineer. */
+"I'm serious, if you don't enter a valid email address you can't use kJams. If you enter an invalid address, the universe will implode, so take care!" = "Sunt serios, dacă nu introduceţi o adresă de email validă, nu se poate folosi kJams. Dacă introduceţi o adresă invalidă, vaavea loc o implozie universală, asa ca aveti grija!";
+
+/* No comment provided by engineer. */
+"If the auto-update fails, you should manually install it.  To do so, go to the web site, then download it manually and install it." = "Dacă actualizarea automată nu reușește, puteți să o instalați manual.  Pentru aceasta mergeți pe Website, încărcați manual și instalați.";
+
+/* 'north america' means 'usa or canada', first string is 'State / Province', second string is 'Edit credit card settings' */
+"If you live in North America, you must properly set “%s” in the “%s” dialog." = "If you live in North America, you must properly set “%1$s” in the “%2$s” dialog.";
+
+/* No comment provided by engineer. */
+"If you use “Party Tyme Pro” or “Karaoke Cloud Pro”, you will need to re-download the cloud data." = "If you use “Party Tyme Pro” or “Karaoke Cloud Pro”, you will need to re-download the cloud data.";
+
+/* as in so what, or i don't care, or blow it off */
+"Ignore" = "Ignorează";
+
+/* No comment provided by engineer. */
+"Ignore Error Correction" = "Ignore Error Correction";
+
+/* No comment provided by engineer. */
+"Illegal key type:" = "Tip de cheie ilegal:";
+
+/* No comment provided by engineer. */
+"Illegal seek" = "Căutare ilegală";
+
+/* dialog name.  same as 'Export Preset', but for import (ripping) */
+"Import Preset" = "Import Preset";
+
+/* getting info about each song */
+"Importing CAVS Meta Data" = "Importă CAVS-Meta Data";
+
+/* No comment provided by engineer. */
+"Importing Singers" = "Importing Singers";
+
+/* No comment provided by engineer. */
+"Improper usage of the activation routines." = "Utilizarea necorespunzătoare a rutinei de activare.";
+
+/* No comment provided by engineer. */
+"Inappropriate ioctl for device" = "Necorespunzător ioctl pentru device";
+
+/* warning */
+"include stores in library" = "Această opţiune include fiecare melodie de la orice magazin de muzică din lista de redare a biblitecii principale.  Acesta este destinat numai pentru kJams, care doresc să achiziţioneze melodii de cîntăreț. Eşti sigur că ştii ce faci?";
+
+/* bummer */
+"Incompatible Drive" = "Drive incompatibil";
+
+/* more information */
+"Info" = "Info";
+
+/* No comment provided by engineer. */
+"Initiaing Song Stream" = "Initiaing Song Stream";
+
+/* No comment provided by engineer. */
+"Initiaing Song Stream (Audio)" = "Initiaing Song Stream (Audio)";
+
+/* No comment provided by engineer. */
+"Initiaing Song Stream (Video)" = "Initiaing Song Stream (Video)";
+
+/* the %s is “kJams <VERSION>” when the app is opening */
+"Initializing %s" = "Initializează %s";
+
+/* No comment provided by engineer. */
+"Initializing AppleRemote" = "Inițializează AppleRemote";
+
+/* No comment provided by engineer. */
+"Initializing Fast CDG Upscaling" = "Inițializează Fast CDG Upscaling";
+
+/* No comment provided by engineer. */
+"Initializing GraceNote" = "Initializing GraceNote";
+
+/* No comment provided by engineer. */
+"Initializing Growl" = "Inițializează Growl";
+
+/* No comment provided by engineer. */
+"Initializing Microphone" = "Inițializează Microphone";
+
+/* No comment provided by engineer. */
+"Initializing Python" = "Initializing Python";
+
+/* No comment provided by engineer. */
+"Initializing TouchBar" = "Initializing TouchBar";
+
+/* asking the database for info */
+"Initiating song download" = "Inițierea descărcării cîntecului";
+
+/* No comment provided by engineer. */
+"Input/output error" = "Eroare intrare/ieșire";
+
+/* undo string */
+"Insert composition template" = "Introduce șablon de compoziție";
+
+/* this is the window where you inspect (view) information about your selection */
+"Inspector" = "Inspector";
+
+/* No comment provided by engineer. */
+"Install" = "Install";
+
+/* warning */
+"install_ffmpeg" = "Trebuie să descărcaţi si instalați plugin-ul “ffmpeg” pentru a putea reda fișierele MPEG-1 sau MPEG-2.";
+
+/* No comment provided by engineer. */
+"Interrupted system call" = "Sistemul de apel s-a întrerupt";
+
+/* No comment provided by engineer. */
+"Invalid argument" = "Argument greșit";
+
+/* No comment provided by engineer. */
+"Invalid coupon code. Are you sure have it right?" = "Invalid coupon code. Are you sure have it right?";
+
+/* No comment provided by engineer. */
+"Invalid QuickTime (MIDI?) File" = "Fișier nevalabil QuickTime (MIDI?)";
+
+/* No comment provided by engineer. */
+"Invalid Track Number" = "Invalid Track Number";
+
+/* No comment provided by engineer. */
+"Is a directory" = "Este o culegere";
+
+/* mmm */
+"It seems you are deleting your entire library.  Is this what you mean to do?" = "Sînteți pe cale sa ștergeți întreaga bibliotecă.  Vreți intradevăr să faceți acest lucru?";
+
+/* No comment provided by engineer. */
+"It seems you are not pasting the entire serial number.  Please use copy and paste, and paste the whole thing." = "It seems you are not pasting the entire serial number.  Please use copy and paste, and paste the whole thing.";
+
+/* language name */
+"Italian" = "Italian";
+
+/* delete whatever it is */
+"Just One" = "Doar unul";
+
+/* that crazy sing along phenomenon */
+"Karaoke" = "Karaoke";
+
+/* No comment provided by engineer. */
+"Karaoke Cloud Pro has lowered the subscription price!" = "Karaoke Cloud Pro has lowered the subscription price!";
+
+/* tethering means attached, or connected (song files are downloadable but locked to the user's account). KJ is karaoke jockey or emcee */
+"Karaoke Cloud Pro: KJ Tethering" = "Karaoke Cloud Pro: KJ Tethering";
+
+/* No comment provided by engineer. */
+"Karaoke Cloud: Home Streaming" = "Karaoke Cloud: Home Streaming";
+
+/* No comment provided by engineer. */
+"KayJayPro is currently off. To turn it on, go to Preferences->KayJayPro and enable the check box." = "KayJayPro is currently off. To turn it on, go to Preferences->KayJayPro and enable the check box.";
+
+/* No comment provided by engineer. */
+"kc_acct_success" = "Success!  Your KaraokeCloud account has been created and configured!";
+
+/* No comment provided by engineer. */
+"kc_disable_auto_renew" = "You currently have “Auto-Renew” set to “Enabled”.  Before you can upgrade your “Subscription Tier”, you must first turn “Auto-Renew” off by pressing the “Disable” button.";
+
+/* No comment provided by engineer. */
+"kc_home_stream_warn" = "The “Home Streaming” tier is for private, home use only!  It is NOT licensed for public performance. Keep in mind that all streams are tracked by user, IP address and date, and WILL be monitored for abuse!  Are you *really* only planning to ever use the streaming service in the privacy of your own home?";
+
+/* No comment provided by engineer. */
+"kc_must_log_in" = "To play the free songs, or to purchase, stream, or see other song previews, you must be logged in to KaraokeCloud.  It is free to sign up and there are several free songs to try.";
+
+/* No comment provided by engineer. */
+"kc_purch_agreement" = "By clicking “%1$s”, you agree to be charged USD $%2$s per month for a contract period of 1 %3$s. At the end of the contract period, a new contract period will begin unless you cancel ahead of time. You may cancel at any time, however you will still be charged for the entire contract period. To cancel, just click the “%4$s” button that is next to “%5$s”.";
+
+/* No comment provided by engineer. */
+"kc_upsell_tier" = "You're done!  Click on the “Subscription Tier” popup menu in the preference panel to explore what streaming options are available to you!";
+
+/* warning */
+"kc_warn_audio_only" = "Enabling this option will add songs to the KaraokeCloud store that do NOT HAVE karaoke lyrics. This is probably NOT what anyone (singers or KJ's) will be expecting, are yo SURE you want to do this?";
+
+/* warning */
+"kc_warn_kns_tether" = "Enabling this option will cause kJams to download all the cloud data for the entire “Party Tyme Pro” streaming service. This could take up to 100 GB of hard drive space. It is possible to move this data to an external drive; to learn more about that, press the “%s” button. Are yo SURE you want download?";
+
+/* No comment provided by engineer. */
+"kdn_bad_server" = "Terribly sorry, but an old version of kJams used the wrong server for Party Tyme Pro. The problem is now fixed, but unfortunately it means that you must re-create your account. This was an error on my part, sorry for the inconvenience.";
+
+/* No comment provided by engineer. */
+"kdn_disable_auto_renew_blurb" = "Are you sure you want to disable Auto-renew? Disabling Auto-Renew means the current contract period will not auto-renew when it expires.";
+
+/* No comment provided by engineer. */
+"kdn_eula" = "kJams has opened a web page showing you the End User License Agreement. By clicking “%s”, you warrant that you fully agree.";
+
+/* song pitch quantized in semitones as in “Key of G” */
+"Key" = "Tonalitate";
+
+/* adjustment made to the song key by the singer */
+"Key Adjust" = "Key Adjust";
+
+/* changes to the key during the song */
+"Key Changes" = "Schimbări de tonalitate";
+
+/* message */
+"keyboard_update_avail" = "The default keyboard shortcuts file has changed.  If you have made changes to this file, you should get Help on what to do, otherwise you should just Install it.";
+
+/* list of words used by user to recall song eg: fast, sad, love, duet etc */
+"Keywords" = "Keywords";
+
+/* this is labeled as a 'karaoke jockey', one of the administrators of the show, and has special rights' */
+"KJ" = "KJ";
+
+/* rotation managed by the kj */
+"KJ Rotation" = "KJ Rotație";
+
+/* obvious? */
+"kJams Cache Folder location:" = "Locația Dosarului kJams Cache";
+
+/* No comment provided by engineer. */
+"kJams has recently crashed, but the version you are using is old, you should update to latest" = "kJams a facut recent crash, dar versiunea folosită este veche, va sfătuesc să o actualizați cu ultima";
+
+/* yep */
+"kJams is too old to support the Producer plugin. Upgrade kJams!" = "kJams este prea vechi pentru a funționa cu plugin-ul producer. Actualizați kJams!";
+
+/* yep */
+"kJams is too old to support this plugin. Upgrade kJams!" = "kJams este prea vechi, pentru a sprijini acest plugin.  Actualizați kJams!";
+
+/* obvious */
+"kJams Music Folder location:" = "Locul de amplasare al Dosarului kJams Music:";
+
+/* secret message */
+"kJams Producer can only edit CDG files.  To edit other media types, please use another program." = "kJams Producer poate să editeze numai fișiere CDG.  Pentru a edita medii de altă natură folosiți vă rog alt program.";
+
+/* music store fail */
+"kJams Purchase Failure" = "Cumpărarea lui kJams a dat greș";
+
+/* macOS name eg: 'macOS 10.9 (Mavericks)' */
+"kJams requires %s or greater." = "kJams requires %s or greater.";
+
+/* fatal */
+"kJams requires QuickTime 7.1 or greater." = "kJams necesită QuickTime 7.1 sau mai mare.";
+
+/* No comment provided by engineer. */
+"kJams requires QuickTime to be installed. Error: %s" = "kJams requires QuickTime to be installed. Error: %s";
+
+/* No comment provided by engineer. */
+"kJams requires write access to the folder <%s>, you must fix this for kJams to function correctly." = "kJams necesită acces de scriere pentru dosarul <%s>, trebue să faceți aici ordine, pentru ca kJams să funcționeze corect.";
+
+/* No comment provided by engineer. */
+"kJams will now quit so you can install the update.  Click “%s” to learn what to do." = "kJams will now quit so you can install the update.  Click “%s” to learn what to do.";
+
+/* warning */
+"kjpro_warn_blurb" = "In order to use the KayJayPro meta data service, you must set up your account.  Would you like to set that up now?";
+
+/* No comment provided by engineer. */
+"kns_must_log_in" = "Previews are not available for “%1$s”. To play all songs for a free period, you must log in and sign up for the free week. To do so, sign up for monthly streaming, then immediately turn off “%2$s” so you won't be charged. You can decide at any time to re-subscribe. Note: if you've already used the one free week, this offer is not valid and you WILL be charged.";
+
+/* No comment provided by engineer. */
+"kns_must_subscribe" = "Previews are not available for “%1$s”. You are logged in, but in order to play all songs for a free period, you must subscribe to the free week. To do so, sign up for monthly streaming, then immediately turn off “%2$s” so you won't be charged. You can decide at any time to re-subscribe. Note: if you've already used the one free week, this offer is not valid and you WILL be charged.";
+
+/* No comment provided by engineer. */
+"kns_upsell_tier" = "Note that for the Monthly subscription, the first week is FREE, meaning you won't be charged until one week after you subscribe, and if you need to you can cancel before the week is up. That way you can audition all the songs you want! Also be sure to enable the check box “%s”!";
+
+/* warning */
+"ktd_fail_blurb" = "You may have heard of the data loss bug, where kJams rebuilds your library database, and all your playlist entries turn to dashes or to random songs.  Well, lucky you, you get to help me fix this bug.  Please see your web browser for instructions.";
+
+/* label color, you know, photon vibrational frequencies interpreted by your eyes */
+"Label" = "Etichetă";
+
+/* changes if label color changes */
+"Label Sensitive" = "Label Sensitive";
+
+/* No comment provided by engineer. */
+"LAME MP3 Not Installed" = "LAME MP3 Not Installed";
+
+/* okay */
+"LAME Not Installed" = "LAME nu este instalat";
+
+/* okay */
+"LAME Out of Date" = "LAME este în afară de valabilitate";
+
+/* message */
+"lame_install_blurb" = "După descărcarea fișierului decomprimați-l, alegeți imaginea de disc, klick dublu pe programul de instalare și urmați pașii descriși. kJams trebue sa intrerupă în timpul instalării";
+
+/* warning */
+"lame_not_installed" = "Se pare că nu aţi instalat decoderul LAME MP3.  Doriţi să-l descărcaţi şi instalaţi acum?";
+
+/* warning */
+"lame_out_of_date_blurb" = "Versiunea Dv. a componentelor LAME funcționează, insă este veche, vă sfatuim să treceți la versiunea nouă.  Doriți acum să o descărcați și instalați?";
+
+/* what language are you speaking? */
+"Language" = "Limba";
+
+/* No comment provided by engineer. */
+"Last Name must not be empty" = "Numele de familie nu poate fi gol";
+
+/* - */
+"Last Name:" = "Nume de familie:";
+
+/* as in 'do this in the future, not right now' */
+"Later" = "Mai tîrziu";
+
+/* a 'launch file' is one that will be automatically run when the song plays */
+"Launch" = "Launch";
+
+/* The channel that the lead vocal track is in, left, right, or both (center) */
+"Lead Vocal Channel" = "Canalul vocii principale";
+
+/* this song has a lead vocal track */
+"Lead Vocals" = "Voci principale";
+
+/* typographical leading */
+"Leading offset:" = "Distanța între rînduri:";
+
+/* educate yourself */
+"Learn" = "Învață";
+
+/* as in music collection */
+"Library" = "Biblioteca";
+
+/* how many lines on a page */
+"Lines per page:" = "Rînduri pe pagină:";
+
+/* No comment provided by engineer. */
+"Loading Database" = "Încarcă Baza de date";
+
+/* No comment provided by engineer. */
+"Loading File" = "Loading File";
+
+/* No comment provided by engineer. */
+"Loading Icons" = "Loading Icons";
+
+/* No comment provided by engineer. */
+"Loading Menus" = "Încarcă meniu-rile";
+
+/* at startup */
+"Loading Music Store “%s”…" = "Încarcă magazinul de muzică “%s”…";
+
+/* No comment provided by engineer. */
+"Loading Playlists" = "Loading Playlists";
+
+/* at startup */
+"Loading songs into Database…" = "Încarcă  melodiile în baza de date…";
+
+/* No comment provided by engineer. */
+"Loading Zipper" = "Incarcă Zipper-ul";
+
+/* No comment provided by engineer. */
+"Loading…" = "Incarcă…";
+
+/* No comment provided by engineer. */
+"Localizing Menus…" = "Localizează meniurile…";
+
+/* make it un-changeable */
+"Lock color palette" = "Închide paleta de culori";
+
+/* undo string */
+"Lock Palette" = "Închide paleta";
+
+/* No comment provided by engineer. */
+"Log In…" = "Log In…";
+
+/* No comment provided by engineer. */
+"Log Out" = "Log Out";
+
+/* No comment provided by engineer. */
+"Logging In" = "Logging In";
+
+/* No comment provided by engineer. */
+"Logging in to music store(s)" = "Logging in to music store(s)";
+
+/* No comment provided by engineer. */
+"Logging in…" = "Logging in…";
+
+/* No comment provided by engineer. */
+"Logging In…" = "Logging In…";
+
+/* No comment provided by engineer. */
+"Logging Out" = "Logging Out";
+
+/* No comment provided by engineer. */
+"Login Information" = "Login Information";
+
+/* warning */
+"LowNumberedPortsPrompt" = "kJams este intrebat pentru deschiderea portului TCP 80 pentru server web şi trebuie să fie autorizat pentru aceasta.";
+
+/* bummer */
+"Mac Error" = "Mac Error";
+
+/* No comment provided by engineer. */
+"Mac OS error" = "Mac OS-eroare";
+
+/* i use the Apple Mail application */
+"Mail…" = "Mail…";
+
+/* No comment provided by engineer. */
+"Make sure you have write permissions for the folder <<%s>>" = "Asiguraţi-vă că aveţi permisiuni de scriere pentru folderul <<%s>>";
+
+/* the boy singer */
+"Male" = "Masculin";
+
+/* a rotation organized by hand */
+"Manual Rotation" = "Manual Rotation";
+
+/* who manufactured this version of the song? */
+"Manufacturer" = "Manufacturer";
+
+/* the singer is in the venue */
+"Mark singer “Here”" = "Marchează cântărețul ca “Here”";
+
+/* the singer has gone home */
+"Mark singer “Not Here”" = "Marchează cântărețul ca “Not Here”";
+
+/* editable number follows the string.  only this many songs will be put in the cache */
+"Maximum number of songs allowed in the cache:" = "Numărul maxim de melodii permis în cache:";
+
+/* maximum CD burn speed allowed */
+"Maximum Possible" = "Maximum Possible";
+
+/* pushing refers to storing meta data inside files */
+"Maximum simultaneous tasks for pushing into zipped files" = "Numărul maxim de tascuri simultane, în scopul de a presa fişierele comprimate";
+
+/* No comment provided by engineer. */
+"Media - %s" = "Media - %s";
+
+/* No comment provided by engineer. */
+"Media must be prepared" = "Media must be prepared";
+
+/* No comment provided by engineer. */
+"Media Not Supported" = "Media Not Supported";
+
+/* No comment provided by engineer. */
+"Menu item not found" = "Menu item not found";
+
+/* No comment provided by engineer. */
+"Menu/Advanced/Reinterpret names?" = "Menu/Advanced/Reinterpret names?";
+
+/* ‘XML’ is a file format, don't translate it */
+"Meta Data XML" = "Meta Date XML";
+
+/* shown when you add to library */
+"meta_choice_blurb" = "Utilizarea “File Names” va încerca să scanaţi meta-informaţii de la numele fişierului melodiei în sine, la dorința numele folder plin. Utilizarea de “Tags”, va încerca să citească meta-tagu-rile existente, care poate fi lentă, deoarece fişierele pot fi dezarhivate în scopul de a avea acces la tag-uri.";
+
+/* warning */
+"meta_info_2_blurb" = "Trebuie să configuraţi meta-informaţii pentru disc şi fiecare pistă înainte să-l trimită.  Informații lipsă de disc: %1$s, Informații lipsa despre piese: %2$s.";
+
+/* warning */
+"meta_info_blurb" = "Vă rugăm să introduceţi pentru fiecare piesă toate meta-informaţiile.  Puteţi selecta mai multe piste, şi a edita informaţii pentru toate, atunci când utilizaţi “File->Get Info…”.  Datele tale lipsă: %s.";
+
+/* gain on microphone 1 */
+"Mic 1 Gain" = "Mi. 1 Gain";
+
+/* one */
+"Minute" = "Minute";
+
+/* No comment provided by engineer. */
+"Minutes" = "Minute";
+
+/* making an in-memory cached backup */
+"Mirroring Playlists…" = "Mirroring Playlists…";
+
+/* is this song not available?  can it not be found? */
+"Missing" = "Pierdut";
+
+/* some data is not there */
+"Missing meta data" = "Meta date pierdute";
+
+/* No comment provided by engineer. */
+"Missing parameter" = "Missing parameter";
+
+/* as in [cost per month] */
+"month" = "month";
+
+/* one */
+"Month" = "Month";
+
+/* plural */
+"Months" = "Months";
+
+/* pick from this list */
+"More than one disc was found, please choose:" = "S-a găsit mai mult de un disc, vă rugăm să alegeți:";
+
+/* undo string */
+"Move composition element" = "Mută compoziția de element";
+
+/* error string */
+"Moving songs to trash" = "Aruncă cîntecele in coșul de gunoi";
+
+/* yeah */
+"Multisession discs not supported, if you need this ask Dave." = "Discuri multisesiune nu sunt acceptate atunci cand ai nevoie, întreabă-l pe Dave.";
+
+/* places to buy music */
+"Music Stores" = "Magazine de muzică";
+
+/* eek */
+"music_folder_not_found" = "La găsirea dosarului “%1$s” s-a iscat o problemă.  Este el poate un sinonim cu un Offline-Mediu? (%2$s)";
+
+/* message */
+"music_store_update_avail" = "Magazinul de muzică “%s” are o actualizare disponibilă.  Doriți să o descărcați?";
+
+/* No comment provided by engineer. */
+"Must drop on song that references the same singer as the dragged song." = "Must drop on song that references the same singer as the dragged song.";
+
+/* No comment provided by engineer. */
+"Must have at least two arguments" = "Must have at least two arguments";
+
+/* No comment provided by engineer. */
+"Must pick a country" = "Trebue să alegeți o țară";
+
+/* type error */
+"Needed “%s”, but got “%s”." = "Needed “%1$s”, but got “%2$s”.";
+
+/* No comment provided by engineer. */
+"Network error" = "Network error";
+
+/* No comment provided by engineer. */
+"Network Host Failed to Provide Data (HTTP Response: 400 <bad request>)" = "Network Host Failed to Provide Data (HTTP Response: 400 <bad request>)";
+
+/* error */
+"Network Host has no data at all (kOTNoDataErr)" = "Network Host has no data at all (kOTNoDataErr)";
+
+/* No comment provided by engineer. */
+"Network Timeout" = "Network Timeout";
+
+/* validate blurb */
+"network_timeout_blurb" = "The web client has timed out.  If you are on a slow network, go to “%1$s”, then to “%2$s”, then set “%3$s” to a larger number of seconds, for example: 240.";
+
+/* a place to buy songs */
+"New Music Store Available!" = "Un nou magazin de muzică este disponibil!";
+
+/* as in, create a new preset playlist */
+"New Preset Playlist" = "Nouă listă presetare de redare";
+
+/* No comment provided by engineer. */
+"New Singer created: %s" = "Creat un nou cîntăreț: %s";
+
+/* message */
+"new_import_library" = "Would you like to Copy the songs into the “kJams Music” folder?  Or do you want kJams to Reference the files from where they currently reside?  Note: if the files are in the “Downloads” folder, on the “Desktop”, in a “USB Thumb Drive” or otherwise currently residing in a temporary location, then you should choose to “Copy”.";
+
+/* confirm */
+"new_music_store_blurb" = "Există un nou magazin de muzică cu numele: “%s”, doriți să-l descărcați?";
+
+/* eek */
+"newer_db_version_blurb" = "Această bază de date a fost salvată cu o versiune mai nouă de kJams care scrie în formatul bazei de date (%1$@), care din păcate, este mai mare decât cea care nu poate citi această versiune (%2$@). Trebuie să faceţi upgrade la o versiune mai nouă.";
+
+/* as in next song */
+"Next" = "Următorul";
+
+/* negative */
+"No" = "Nu";
+
+/* No comment provided by engineer. */
+"No child processes" = "Nu sînt procese de copii";
+
+/* No comment provided by engineer. */
+"No error detected" = "Nu sînt erori detectate";
+
+/* does not expire */
+"No Expiration" = "No Expiration";
+
+/* No comment provided by engineer. */
+"No locks available" = "Nu sînt încuetori disponibile";
+
+/* this song has no synced lyrics */
+"No Lyrics" = "Nu este text";
+
+/* No comment provided by engineer. */
+"No media in drive." = "No media in drive.";
+
+/* No comment provided by engineer. */
+"No new version available." = "Nu este disponibilă nici o nouă versiune.";
+
+/* No comment provided by engineer. */
+"No reply from KaraokeCloud server (offline?)" = "No reply from KaraokeCloud server (offline?)";
+
+/* No comment provided by engineer. */
+"No reply from “%s” server (offline?)" = "No reply from “%s” server (offline?)";
+
+/* No comment provided by engineer. */
+"No Shopping Cart Engine" = "No Shopping Cart Engine";
+
+/* No comment provided by engineer. */
+"No singer name specified." = "Nu este specificat numele cîntărețului.";
+
+/* No comment provided by engineer. */
+"No SKU update is available from the eSellerate Servers." = "Nu este disponibilă actualizare SKU este disponibilă de la eSellerate Servers.";
+
+/* you need to submit a song (send one to the KJ) */
+"No song submitted!" = "No song submitted!";
+
+/* No comment provided by engineer. */
+"No songs to sync" = "No songs to sync";
+
+/* No comment provided by engineer. */
+"No space left on device" = "Nu mai este loc în device";
+
+/* No comment provided by engineer. */
+"No such file or directory" = "Nici un astfel de fișier sau culegere";
+
+/* No comment provided by engineer. */
+"No such process" = "Nu există un astfel proces";
+
+/* No comment provided by engineer. */
+"No Such Volume" = "Nu există un astfel mediu";
+
+/* No comment provided by engineer. */
+"No suitable disc in drive" = "Nici un disc corespunzător in drive";
+
+/* warning */
+"no_cdg_blurb" = "Drive-ul CD “%s” rapoartează că nu este capabil să citească CD+G discuri.  Vrei totuși să încerci să-l folosești? Sau dorești să afli mai multe despre drive-urile care sunt disponibile?";
+
+/* message */
+"no_lame_blurb" = "Terribly sorry, but the LAME MP3 encoder which you have been using had not been properly installed.  Legal requirements enforce the necessity that the encoder be installed separately from the application.  If you wish to encode to MP3, you will have to download and install the free plugin manually.";
+
+/* warning */
+"no_movie_blurb" = "There was no playable media found in this file.  kJams for Windows does not support WMV or AVI.  If you think something is wrong here, send this song file to dave.";
+
+/* validate blurb */
+"no_song_ms_blurb" = "Cumva nu este o melodie această selecție de cumpărătură.";
+
+/* warning */
+"no_you_dont" = "Ești în mijlocul procesului de cumpărare.  Te rog părăsește procesul și închide fereastra cu factura.  Programul se va registra singur așa încît nu trebue serie";
+
+/* no songs were found */
+"None" = "Nici un";
+
+/* No comment provided by engineer. */
+"Not a directory" = "Nu este colecție";
+
+/* No comment provided by engineer. */
+"Not applicable" = "Not applicable";
+
+/* the plugin is not installed */
+"Not Available." = "Nu este disponibil.";
+
+/* later please */
+"Not Now" = "Not Now";
+
+/* warning */
+"not_liable_blurb2" = "kJams is Shareware with no time limit, which means it is FREE to use for as long as you like. There are no refunds. Please be sure that you really want it before purchasing!";
+
+/* warning */
+"not_renamed_blurb" = "În actualizarea meta-informaţii pentru cel puţin o melodie (eventual mai multe) este o problemă.  Fie fişierul nu a fost găsit, a apărut o eroare la redenumirea fişierului sau nu conţine metadate de preferințe nefurnizate în şablonul “Tags -> Writing -> Conform Song Names”.  Pentru o listă de melodii cu probleme, a se vedea lista de redare numită “%s”.";
+
+/* take note, check this out */
+"Note" = "Notiță";
+
+/* No comment provided by engineer. */
+"Note: The menu commands for “Preferences…”, “Exit”, and “About kJams…” have moved to a new menu at the far left of the menu bar: “%s”." = "Note: The menu commands for “Preferences…”, “Exit”, and “About kJams…” have moved to a new menu at the far left of the menu bar: “%s”.";
+
+/* No comment provided by engineer. */
+"Note: “Stopping” a song (after it's mostly played) marks the song as sung.  You can turn this off in the General preferences." = "Note: “Stopping” a song (after it's mostly played) marks the song as sung.  You can turn this off in the General preferences.";
+
+/* everything is here */
+"Nothing is missing" = "Nu lipsește nimic";
+
+/* No comment provided by engineer. */
+"Notifying server a song was played" = "Notifying server a song was played";
+
+/* No comment provided by engineer. */
+"Numerical argument out of domain" = "Argument numeric în afară de domeniu";
+
+/* !!!SPECIAL!!! Localizers: do not localize this string!!  contact me for more info */
+"NumSpacesInPlayCommand=12" = "NumSpacesInPlayCommand=12";
+
+/* No comment provided by engineer. */
+"Object (menu, window, control) Property Not Found" = "Proprietățile obiectului(meniu, fereastră, control) nu sînt de găsit";
+
+/* 1: one click settings, 2: credit card, 3: state, 4: country */
+"ocs_cc_blurb" = "In the “%1$s” dialog for your Credit Card, please make sure that “%2$s” and “%3$s” are correct.";
+
+/* https://karaoke.kjams.com/wiki/Music_Store/Business_Info */
+"Office Name:" = "Office Name:";
+
+/* No comment provided by engineer. */
+"Offline Mode" = "Offline Mode";
+
+/* No comment provided by engineer. */
+"One Moment Please" = "Un moment vă rog";
+
+/* security blurb */
+"one_click_security_blurb" = "kJams păstrează în orice moment informaţiile cardului de credit, şi utilizează de asemenea criptarea SSL pentru toate tranzacţiile financiare de reţea.  Adresa dvs. de e-mail este utilizată de către editorii de magazinul de muzică, pentru a vă trimite factură, kJams nu le utilizează în alte scopuri.";
+
+/* No comment provided by engineer. */
+"Only blank media is supported" = "Only blank media is supported";
+
+/* No comment provided by engineer. */
+"Only CD-R/RW media is supported" = "Only CD-R/RW media is supported";
+
+/* directive: user, please select a folder */
+"Open Folder:" = "Deschide dosarul:";
+
+/* No comment provided by engineer. */
+"Opening Session" = "Opening Session";
+
+/* No comment provided by engineer. */
+"Operation Aborted" = "Operație întreruptă";
+
+/* No comment provided by engineer. */
+"Operation not permitted" = "Operația nu este permisă";
+
+/* No comment provided by engineer. */
+"Operation not supported by device" = "Operația nu este sprijiniă de device";
+
+/* who originally published the song? */
+"Original Publisher" = "Editor original";
+
+/* year this song was first published */
+"Original Year" = "Anul original";
+
+/* i use some other mail application */
+"Other…" = "Alte…";
+
+/* replace what is there */
+"Overwrite" = "Suprascrie";
+
+/* backgrond color (please abbreviate) */
+"Page BG Color:" = "Page BG Color:";
+
+/* No comment provided by engineer. */
+"Parameter Error" = "Greșeală de parametru";
+
+/* scanning */
+"Parsing Music Store" = "Parsing Music Store";
+
+/* password wrong */
+"Password incorrect.  Please try again." = "Parolă incorectă. Vă rog încercați din nou.";
+
+/* No comment provided by engineer. */
+"password:" = "password:";
+
+/* No comment provided by engineer. */
+"Passwords don't match." = "Parolele nu se potrivesc.";
+
+/* sor't columns */
+"Paste Column Layout" = "Inserează layout-ul coloanei";
+
+/* No comment provided by engineer. */
+"Paste from Clipboard" = "Lipește din Clipboard";
+
+/* enter in discount number */
+"Paste your Coupon Code for “%s” here:" = "Paste your Coupon Code for “%s” here:";
+
+/* mmm */
+"Pasting over meta data is dangerous, you can destroy data and there is no undo.  Are you sure you want to coninue?" = "Lipirea pe meta-date este periculoasă, vă poate distruge date şi nu există nici o anulare. Sunteţi sigur că doriţi să continuați?";
+
+/* as in pause the song, rather than stop */
+"Pause" = "Pauză";
+
+/* are you paying attention? */
+"pay_attention_blurb" = "Ce doriți să faceți după încheierea cumpărăturii? Veți: A) Inchide fereastra facturii, B) Introduceți nr. de serie sau C) Descărca versiunea licențiată?";
+
+/* subscription price paid every month, eg: [$10 per month] */
+"per month" = "per month";
+
+/* No comment provided by engineer. */
+"Performing debugging method…" = "Performing debugging method…";
+
+/* windows only */
+"Perhaps one is a shortcut to the other?" = "Probabil că unul este un shorcut către altul?";
+
+/* macintosh only */
+"Perhaps one is an alias of the other?" = "Probabil că unul este un sinonim spre altul?";
+
+/* warning */
+"perian_blurb" = "In order to play the song “%s”, you may need to download and install the Perian plugin.";
+
+/* No comment provided by engineer. */
+"Permission denied" = "Permisiunea a fost respinsă";
+
+/* No comment provided by engineer. */
+"Phone number must be valid" = "Phone number must be valid";
+
+/* address */
+"Phone:" = "Telefon:";
+
+/* as in play the song */
+"Play" = "Redare";
+
+/* a routine that notifies a server that a song was played, string is appended to name of music store */
+"Play Notifier" = "Play Notifier";
+
+/* list of music */
+"Playlist" = "Lista de redare";
+
+/* No comment provided by engineer. */
+"PlayList ID not found" = "PlayList ID not found";
+
+/* this playlist is the one users (via the kJams Web Server) will search when looking for songs to sing */
+"Playlist is used for Server Search" = "Playlist is used for Server Search";
+
+/* No comment provided by engineer. */
+"PlayList Item ID not found" = "PlayList Item ID not found";
+
+/* No comment provided by engineer. */
+"PlayList name already taken. Please choose another." = "PlayList name already taken. Please choose another.";
+
+/* No comment provided by engineer. */
+"PlayList not found" = "PlayList not found";
+
+/* No comment provided by engineer. */
+"Please check your email. Did you get your serial number? Or did dave send you a coupon code?" = "Please check your email. Did you get your serial number? Or did dave send you a coupon code?";
+
+/* No comment provided by engineer. */
+"Please choose a backup from this list:" = "Please choose a backup from this list:";
+
+/* No comment provided by engineer. */
+"Please Drink Responsibly!" = "Vă rugăm să beți cu responsabilitate!";
+
+/* umm */
+"Please enter a new time" = "Vă rog inserați un nou timp";
+
+/* No comment provided by engineer. */
+"Please enter a search term." = "Vă rugăm să introduceţi un termen de căutare.";
+
+/* No comment provided by engineer. */
+"Please enter or paste your serial number:" = "Vă rog să introduceți  nr. dvs. de serie:";
+
+/* No comment provided by engineer. */
+"Please enter some detailed info about what you were doing right before the crash!" = "Vă rugăm să oferiţi informaţii detaliate despre ceea ce a-ți întreprins înainte de crash!";
+
+/* new password */
+"Please enter the NEW password:" = "Vă rugăm introduceți  NOUA parolă:";
+
+/* new password */
+"Please enter the OLD password:" = "Vă rugăm introduceți VECHEA parolă:";
+
+/* No comment provided by engineer. */
+"Please enter your e-mail address:" = "Vă rugăm introduceți adresa de e-mail:";
+
+/* No comment provided by engineer. */
+"Please enter your message:" = "Vă rugăm introduceți mesajul Dumneavoastră:";
+
+/* as in please find this file */
+"Please find the picture “%s”" = "Vă rog căutați imaginea “%s”";
+
+/* instructions to user: QuickTime import/export Settings, the user will decide the name */
+"Please name this preset:" = "Vă rugăm să denumiți această setare:";
+
+/* instructions to user: the user will decide the name */
+"Please name this Singer:" = "Vă rugăm să denumiți acest cîntareț:";
+
+/* umm */
+"Please name this template" = "Vă rugăm să denumiți acest șablon";
+
+/* obvious? */
+"Please pick a credit card type" = "Vă rugăm să introduceți un tip de credit card";
+
+/* No comment provided by engineer. */
+"Please re-insert the disc before the time runs out…" = "Please re-insert the disc before the time runs out…";
+
+/* No comment provided by engineer. */
+"Please select a folder, not a file." = "Vă rugăm alegeți un dosar nu un fișier.";
+
+/* No comment provided by engineer. */
+"Please select a single folder." = "Please select a single folder.";
+
+/* No comment provided by engineer. */
+"Please Send the log file." = "Please Send the log file.";
+
+/* help me debug */
+"Please send the purchase failure email report." = "Vă rog să trimiteți email-ul  raport al cumpărării care a dat greș.";
+
+/* No comment provided by engineer. */
+"Please set the type of credit card you are using" = "Vă rog alegeți tipul de credit card folosit";
+
+/* No comment provided by engineer. */
+"Please wait a few moments and this screen will refresh." = "Please wait a few moments and this screen will refresh.";
+
+/* sort by name, album, artist etc */
+"Please wait until the sort tasks are finished." = "Vă rog așteptați pînă cind se sfîrșește taskul de sortare.";
+
+/* play list item identifier */
+"PLI" = "PLI";
+
+/* a list of mp3 songs that may be corrupted */
+"Possibly Corrupted MP3" = "Posibil că MP3-ul este stricat";
+
+/* postal code */
+"Postal Code:" = "Postal Code:";
+
+/* user settings */
+"Preferencs" = "Preferențe";
+
+/* No comment provided by engineer. */
+"Preset not found" = "Presetările nu au fost găsite";
+
+/* No comment provided by engineer. */
+"Pressing %s means kJams will summarily exit. Would you like to Restore from a backup?" = "Pressing %s means kJams will summarily exit. Would you like to Restore from a backup?";
+
+/* as in previous song */
+"Previous" = "Precedent";
+
+/* cost, USD */
+"Price" = "Preț";
+
+/* No comment provided by engineer. */
+"Problem starting the kJams web server. Make sure the specified port (%d) isn't in use. Only port 80 or ports >= 1024 are valid." = "Problem starting the kJams web server. Make sure the specified port (%d) isn't in use. Only port 80 or ports >= 1024 are valid.";
+
+/* yep */
+"Producer Plugin API out of date, upgrade the plugin." = "Producer-Plugin API a depășit valabilitatea, făceți upgrade.";
+
+/* No comment provided by engineer. */
+"Producer Plugin not detected." = "Plugin-ul Producer nu a fost detectat.";
+
+/* yep */
+"Producer plugin status: Unknown" = "Statutul Producer necunoscut";
+
+/* warning */
+"producer_tryout_blurb" = "Unele piese vor arde red X marks în grafică deoarece utilizaţi versiunea tryout a plugin-ului producer.  Pentru a elimina red X marks, trebuie să achiziţionaţi plugin-ul producer. Nu vreți să-l cumpărați?";
+
+/* media stream project file (KTP, LRC, SingStar etc) */
+"Project" = "Proiect";
+
+/* who published this version of the song? */
+"Publisher" = "Editor";
+
+/* pull as in fetch, get or extract */
+"Pull Meta Data" = "Introduceți metadatele";
+
+/* buy th */
+"Purchase" = "Purchase";
+
+/* No comment provided by engineer. */
+"Purchase Result error" = "Purchase Result error";
+
+/* No comment provided by engineer. */
+"Purchase Song" = "Purchase Song";
+
+/* a voucher is like an iTunes Gift Card */
+"Purchase Voucher Credit…" = "Purchase Voucher Credit…";
+
+/* is this a store bought song? */
+"Purchased" = "Cumpărat";
+
+/* No comment provided by engineer. */
+"Purchasing Song" = "Purchasing Song";
+
+/* No comment provided by engineer. */
+"Purchasing Subscription…" = "Purchasing Subscription…";
+
+/* push as in add, insert, or update: you're pushing the information into place, pull as in extract, reveal, or discover: you're pulling the information out of where it is stored */
+"Push / Pull" = "Push / Pull";
+
+/* No comment provided by engineer. */
+"Python Scripting" = "Python Scripting";
+
+/* querying means asking for information */
+"Querying %s…" = "Querying %s…";
+
+/* No comment provided by engineer. */
+"Querying…" = "Querying…";
+
+/* this message is shown, then after it is shown a more detailed message, like 'QuickTime error: The encoder popped a tire.' */
+"QuickTime error" = "Eroare QuickTime";
+
+/* No comment provided by engineer. */
+"QuickTime not installed" = "QuickTime nu este instalat";
+
+/* exit the app */
+"Quit" = "Părăsește";
+
+/* are you sure */
+"Quit during Encode?" = "Părăsește in timpul decodării?";
+
+/* are you sure */
+"Quit during Rip?" = "Părăsește in timpul rippării?";
+
+/* warning */
+"quit_during_export_blurb" = "Este o activitate de codificare în curs de desfăşurare, codarea se va intrerupe.  Pentru a vedea taskul, uitați-vă la fereastra de task.";
+
+/* warning */
+"quit_during_rip_blurb" = "Este o ripare în curs de desfăşurare, dacă o părăsești acum, va trebui să extragi din nou cântecul, pentru că este incomplet şi nu va cînta corect.";
+
+/* when the app is quiting */
+"Quitting…" = "Părăsire…";
+
+/* how does the user rate this song?  eg: good or bad */
+"Rating" = "Evaluare";
+
+/* as in parse, render, resolve */
+"Re-Bake" = "Re-Bake";
+
+/* No comment provided by engineer. */
+"Re-enabling subscription…" = "Re-enabling subscription…";
+
+/* No comment provided by engineer. */
+"Read-only file system" = "Citește numai fișierul de sistem";
+
+/* error */
+"reading CD in sector: %d" = "Citește CD in sectorul: %d";
+
+/* error */
+"Reading CD Table of Contents" = "Citește cuprinsul CD";
+
+/* at startup */
+"Reading file:" = "Citește fișierul:";
+
+/* No comment provided by engineer. */
+"Reading Music Store file into memory" = "Citește fișierul magazinului de muzică în memorie";
+
+/* preferences you can set that have to do with reading or importing meta tags */
+"Reading:" = "Citește:";
+
+/* i am finished with my tasks */
+"Ready!" = "Gata!";
+
+/* No comment provided by engineer. */
+"rebuild_library_blurb" = "Vă rog să părăsiți kJams, ştergeţi dosarul “kJams Library”, care se află în folderul kJams din folderul Music şi porniți din nou kJams.  Aceasta este cea mai bună metodă, de a crea o bibliotecă “fresh”.";
+
+/* starting from scratch */
+"Rebuilding library" = "Reconstruește din nou Biblioteca";
+
+/* warning */
+"receipt_blurb" = "You will shortly receive an e-mail receipt, please keep a backup of this, since it will contain your serial number, in case you need to reinstall.";
+
+/* confirm */
+"receipt_str" = "Verificaţi-vă email-ul după un document sau de contactactați “%s” pentru ajutor.  Doriți să cumpărați melodia din nou?";
+
+/* is this a store bought song? */
+"Recent" = "Recent";
+
+/* %s is name of product */
+"Recover your “%s” License" = "Recover your “%s” License";
+
+/* No comment provided by engineer. */
+"recover_blurb" = "In the next dialog, please enter the email address you used when you first obtained your license.";
+
+/* No comment provided by engineer. */
+"recover_blurb2" = "In a few minutes, you should receive an email with your serial number. Find that email, then copy the serial number, so you can paste it into the next dialog.";
+
+/* as in make a reference to something else (an alias or a shortcut) */
+"Reference" = "Reference";
+
+/* oops */
+"reinterp_sort_pli_blurb" = "This playlist is currently sorted by a column whose data will change when the song name is reinterpreted.  You should sort by PLI or SongID before reinterpreting.";
+
+/* No comment provided by engineer. */
+"Release icons" = "Eliberați criptograme";
+
+/* No comment provided by engineer. */
+"Releasing Microphone" = "Eliberați microfonul";
+
+/* load it again */
+"Reload Music Store" = "Incărcați din nou magazinul de muzică";
+
+/* No comment provided by engineer. */
+"Reloading Disc…" = "Incărcați din nou discul…";
+
+/* verb */
+"Remove" = "Îndepărtează";
+
+/* are you sure? */
+"Remove Current Singer?" = "Remove Current Singer?";
+
+/* No comment provided by engineer. */
+"Remove Event Handler" = "Îndepărtați Event-Handler";
+
+/* removes references, not actual songs */
+"Remove from Library" = "Îndepărtați din Bibliotecă";
+
+/* No comment provided by engineer. */
+"Remove Timers" = "Remove cronometrajul";
+
+/* deletion warning */
+"remove_dupes_blurb" = "Acest lucru va elimina (probabil de două ori), numai elementele din lista de redare a bibliotecii.  Aceasta funcţionează numai (de exemplu, nu face crash), în cazul în care această listă de redare “trimiteri” duble din *references* din *Library*. Acest lucru se va întâmpla numai datorită erorilor de software. Sunteţi siguri că vreți să riscați chiar acum un crash. Va sfătuit Dave să faceți acest lucru?";
+
+/* deletion warning */
+"remove_refs_blurb" = "Acest lucru va elimina toate referinţele din toate listele de redare nu va afecta fişierele de pe discul dvs. Sunteţi sigur că doriţi să eliminaţi toate referinţele?";
+
+/* No comment provided by engineer. */
+"Removing Duplicates" = "Removing Duplicates";
+
+/* No comment provided by engineer. */
+"removing music store manager" = "îndepărtează manager magazin de muzică";
+
+/* does that make sense? */
+"Removing Songs from all playlists" = "Îndepărtează melodii din toate listele de redare";
+
+/* does that make sense? */
+"Removing Songs from Library" = "Îndepărtează melodii din Bibliotecă";
+
+/* what type (instrumental, vocal, vocal right channel, backing vocal etc) */
+"Rendition" = "Ritm de:";
+
+/* imperative command, as in <please make this request> */
+"Request" = "Request";
+
+/* undo string */
+"Reset Picture Position" = "Resetează poziția imaginii";
+
+/* pos is short for 'position' */
+"Reset Pos" = "Reset Pos";
+
+/* undo string */
+"Resize composition element" = "Redimensionarea compunerea elementelor";
+
+/* No comment provided by engineer. */
+"Resource deadlock avoided" = "Evitat impasul resurse";
+
+/* No comment provided by engineer. */
+"Resource temporarily unavailable" = "Resurse temporar indisponibile";
+
+/* as in restore from a backup */
+"Restore" = "Restore";
+
+/* No comment provided by engineer. */
+"Restore From Backup" = "Restore From Backup";
+
+/* No comment provided by engineer. */
+"Result too large" = "Rezultatul prea mare";
+
+/* show, display, disclose, view (in the finder / explorer) */
+"Reveal" = "revela";
+
+/* No comment provided by engineer. */
+"Reveal Web Site" = "Reveal Web Site";
+
+/* rewind song */
+"Rewind: %s" = "Înapoi: %s";
+
+/* as in rip a CD */
+"Rip" = "Rip";
+
+/* rip as in digitize or import */
+"Rip from CD:" = "Ripează de pe CD:";
+
+/* rip an entire disc to a pair of files with .bin and .cue extensions */
+"Rip to bin/cue…" = "Rip spre bin/cue…";
+
+/* all done */
+"Ripping complete" = "Rip complet";
+
+/* ripping means reading the tracs directly from the CD */
+"Ripping, please wait…" = "Ripează, te rog așteaptă…";
+
+/* message */
+"rot_showscreens_update_avail" = "The default Rotation Showscreens files have changed.  If you have made changes to any of these files, you should get Help on what to do, otherwise you should just Install them.";
+
+/* rotation */
+"Rotation" = "Rotație";
+
+/* how long should the sample be? */
+"Sample duration (seconds)" = "Durata mostrei (Secunde)";
+
+/* this is only a sample (small portion) of a song, it is not the entire song */
+"Sample Only" = "Sample Only";
+
+/* message shown when saving the database */
+"Saving Database…" = "Salvează banca de date…";
+
+/* No comment provided by engineer. */
+"Saving:" = "Salvare:";
+
+/* yup */
+"Scanning for missing songs" = "Scanare după melodii lipsă";
+
+/* No comment provided by engineer. */
+"Script Error" = "Eroare de script";
+
+/* No comment provided by engineer. */
+"Script not found" = "Script not found";
+
+/* No comment provided by engineer. */
+"Search" = "Caută";
+
+/* a list of file system paths */
+"Search paths used to locate songs:" = "path-uri de căutare, care sunt utilizate pentru a localiza un cântec:";
+
+/* from freedb */
+"Searching for Disc…" = "Căutare de disc…";
+
+/* for a song */
+"Searching in iTunes" = "Căutare in iTunes";
+
+/* sorting message */
+"Searching “%s” for “%s”…" = "Searching “%1$s” for “%2$s”…";
+
+/* No comment provided by engineer. */
+"Searching…" = "Searching…";
+
+/* one */
+"Second" = "Second";
+
+/* No comment provided by engineer. */
+"Seconds" = "Secunde";
+
+/* obvious? */
+"Security Information" = "Informații de siguranță";
+
+/* No comment provided by engineer. */
+"See your KJ for information!" = "Vizualizează KJ pentru informaţii!";
+
+/* a <Launch File> is a special file that will launch automatically when you play a song */
+"Select Launch File" = "Select Launch File";
+
+/* No comment provided by engineer. */
+"Select Singer Folder" = "Select Singer Folder";
+
+/* msg *
+"Selection added to QuickTime Export que" = "Selection added to QuickTime Export que";
+
+/* msg */
+"Selection added to re-encode que" = "Selecția adăugată spre coada de așteptare pentru o recodare";
+
+/* command as in 'send the crash report' */
+"Send" = "Trimite";
+
+/* No comment provided by engineer. */
+"Send Crash Report" = "Trimite raportul de crash";
+
+/* mmm */
+"Sending Music Store purchase request" = "Trimite magazinului de muzică cererea de cumpărare";
+
+/* No comment provided by engineer. */
+"Serial Number" = "Număr de serie";
+
+/* the %s button is the “Install” button */
+"server_update_avail" = "The default Server Resource files have changed.  If you have made changes to your server files, you should get Help on what to do, otherwise (or if you don't know what this means) you should just click the “%s” button.";
+
+/* undo string */
+"Set Background Color" = "Set Background Color";
+
+/* undo string */
+"Set Comp Duration" = "Alege durata formării";
+
+/* undo string, a comp is a composition, a visual frame composed of one or more elements */
+"Set Comp Start Time" = "Alege punctul de start al duratei de formare";
+
+/* undo string, includes duration */
+"Set Comp Time" = "Alege timpul de compunere";
+
+/* undo string */
+"Set Composition Palette Color" = "Setarea paletei de culori a compoziției";
+
+/* undo string */
+"Set Label" = "Set Label";
+
+/* undo string */
+"Set Label Sensitive" = "Set Label Sensitive";
+
+/* undo string */
+"Set Sweep Color" = "Setarea culorii de linie";
+
+/* undo string */
+"Set Text Color" = "Alegerea culorii textului";
+
+/* meta data warning */
+"set_meta_on_selection_blurb" = "Sînteți siguri că doriți să alegeți “%1$s”-Metadatele pentru toate %3$d cîntecele în selecția de față pe “%2$s” ? Nu puteți revoca acest proces.";
+
+/* No comment provided by engineer. */
+"Settings" = "Setări";
+
+/* as in 'display this' */
+"Show" = "Spectacol";
+
+/* No comment provided by engineer. */
+"Show Message" = "Arată mesajul";
+
+/* No comment provided by engineer. */
+"Show new updates to this store" = "Show new updates to this store";
+
+/* show the rectangle of the current graphic command */
+"Show “Font” Rect" = "Show “Font” Rect";
+
+/* No comment provided by engineer. */
+"Showing Windows" = "Arată fereastra";
+
+/* No comment provided by engineer. */
+"Shutting down GraceNote…" = "Shutting down GraceNote…";
+
+/* No comment provided by engineer. */
+"Shutting down Push Notification" = "Shutting down Push Notification";
+
+/* No comment provided by engineer. */
+"Shutting down Python" = "Shutting down Python";
+
+/* No comment provided by engineer. */
+"Shutting down thread manager" = "Inchide Thread-Manager";
+
+/* No comment provided by engineer. */
+"Shutting down Web Server" = "Shutting down Web Server";
+
+/* No comment provided by engineer. */
+"Signal error" = "Eroare de semnal";
+
+/* you know who */
+"Singer" = "Cîntăreț";
+
+/* No comment provided by engineer. */
+"Singer Deleted: %s" = "Singer Deleted: %s";
+
+/* this singer is a 'karaoke jockey', one of the administrators of the show, and has special rights */
+"Singer is KJ" = "Singer is KJ";
+
+/* No comment provided by engineer. */
+"Singer name already taken. Please choose another." = "Numele de cîntăreț este deja acordat.  Vă rog alegeți altul.";
+
+/* No comment provided by engineer. */
+"Singer Nickname" = "Porecla cîntărețului";
+
+/* this is due to an error */
+"single_select_bug_blurb" = "Pentru redare trebue să selectați o singură melodie.  Se pare că a-ți ales 2 sau mai multe melodii.  Doriți să le deselectați? Simplu numai dublu click pe melodia care doriți să o redați.";
+
+/* how large is the file? */
+"Size" = "Mărimea";
+
+/* don't do it, avoid it, go around it, skip over it */
+"Skip" = "Skip";
+
+/* sync delta in seconds (float), Video slips relative to Audio */
+"Slip" = "Abatere";
+
+/* name of the regional cell phone company */
+"SMS Carrier" = "SMS Carrier";
+
+/* No comment provided by engineer. */
+"SMS Number" = "SMS Number";
+
+/* name of geographical location where the short message service (texting) is available */
+"SMS Region" = "SMS Region";
+
+/* bummer */
+"Some crazy QuickTime error trying to extract audio!  Bummer!" = "O Eroare caraghioasă de QuickTime să extragă audio!  Bummer!";
+
+/* there will be a colon then an error message appended */
+"Some kind of error deleting songs" = "O greșeală oarecare șterge cîntecele";
+
+/* yep */
+"Some kind of problem deleting a singer.  You might try quitting, and deleting the singer in the finder" = "O problemă oarecare șterge un cîntăreț.  Puteți incerca să închideți programul și să ștergeți cîntărețul in finder";
+
+/* mmm */
+"Some of the selected files are located in your kJams music folder.  Would you like to move these files to the trash?" = "Unele dintre fişierele selectate se află în folderul kJams music.  Doriţi să mutaţi aceste fişiere in coșul de gunoi";
+
+/* mmm */
+"Some of the selected items may be referenced by other playlists.  Are you sure you want to delete all references?" = "Unele din elementele selectate pot avea referințe din alte liste de redare.  Sînteți sigur că vreți să ștergeți toate referințele?";
+
+/* No comment provided by engineer. */
+"Some settings you have changed will take effect the next time you start kJams." = "Unele dintre setările schimbate vor intra in vigoare la următorul start a lui kJams.";
+
+/* No comment provided by engineer. */
+"Some tracks have a duration of zero, unable to calculate Table of Contents" = "Some tracks have a duration of zero, unable to calculate Table of Contents";
+
+/* first %s is an action like 'activating', second  is the product like 'MyApp' */
+"Something went wrong while “%s” “%s”." = "Something went wrong while “%1$s” “%2$s”.";
+
+/* you know, la la laaa */
+"Song" = "Cîntec";
+
+/* No comment provided by engineer. */
+"Song Download Failed" = "Song Download Failed";
+
+/* song identifier */
+"Song ID" = "Cîntec-ID";
+
+/* No comment provided by engineer. */
+"Song ID not found" = "Song ID not found";
+
+/* name of song */
+"Song Name" = "Numele cîntecului";
+
+/* No comment provided by engineer. */
+"Song not found" = "Cîntecul nu a fost găsit";
+
+/* No comment provided by engineer. */
+"Song Preview Failed" = "Song Preview Failed";
+
+/* how far to slip the video sync relative to the audio, per song */
+"Song Sync Slip: %.1f seconds" = "Abarerea sincronizării de cîntec: %.1f secunde";
+
+/* who wrote the song? */
+"Song Writer" = "Compozitor";
+
+/* song name added to playlist or singer */
+"Song “%@” added to “%@”" = "Cîntec “%1$@” adăugat în “%2$@”";
+
+/* the plural of one song */
+"Songs" = "Cîntece";
+
+/* a list of songs that did not get renamed during a rename operation */
+"Songs Not Renamed" = "Cîntece nerenumite";
+
+/* this is a test */
+"Sorry, but you must pay better attention for this to work.  Please actually read the following message all the way through." = "Ne pare rău, dar trebue să aveți mai multă grijă ca aceasta să funcționeze.  Vă rugăm să citiţi următoarea notă pînă la sfîrșit.";
+
+/* No comment provided by engineer. */
+"Sorry, I think your credit card number was declined.  Is your card blocked?  Did you type the right number? The TriceraSoft music store does not accept American Express, perhaps try a different card." = "Ne pare rau, cred, numărul cărţii de credit a fost respins.  Cardul dvs. este blocat?  A-ți introdus nr. corect?  Magazinul TriceraSoft nu acceptă American Express, vă rugăm să încercaţi o altă carte.";
+
+/* album name to sort by */
+"Sort Album" = "Sort Album";
+
+/* artist name to sort by */
+"Sort Artist" = "Sort Artist";
+
+/* song name to sort by */
+"Sort Name" = "Sort Name";
+
+/* warning */
+"sort_blurb" = "La finalizarea sortării de coloane %1$s, am descoperit că coloana sortată nu s-a sortat.  (Key count: %2$d) Vă rugăm trimiteți fișierul log.";
+
+/* collating, orgainzing */
+"Sorting" = "Sorting";
+
+/* sorting message */
+"Sorting by “%s”, please wait…" = "Sortare după “%s”, vă rugăm așteptați…";
+
+/* No comment provided by engineer. */
+"Sorting file names…" = "Sortează numele de fișiere…";
+
+/* No comment provided by engineer. */
+"Sorting new music list" = "Sorting new music list";
+
+/* No comment provided by engineer. */
+"Sorting old music list" = "Sorting old music list";
+
+/* the 'sources' list column header, on the left */
+"Source" = "Sursă";
+
+/* language name */
+"Spanish" = "Spanish";
+
+/* as in description */
+"specification" = "Specificare";
+
+/* spooler is the thing that streams data from one place to another */
+"Spooler Error" = "Spooler Error";
+
+/* No comment provided by engineer. */
+"Starting Script Engine" = "Start Skript-Engine";
+
+/* or province */
+"State / Province:" = "State / Province:";
+
+/* name of store */
+"Store Name" = "Numele magazinului";
+
+/* yep */
+"Strange burn plugin status" = "Plugin-Status ciudat la ardere";
+
+/* No comment provided by engineer. */
+"Stranger than Fiction error: The song you're trying to play is not in the current playlist." = "Ciudată greșeală fictivă: Melodia pe care încercați să o redați nu se găseste in această listă de redare.";
+
+/* verb: stream (shortest possible word that conveys' the meaning) */
+"Stream" = "Stream";
+
+/* verb: stream the subscribed song */
+"Stream Song" = "Stream cîntec";
+
+/* audio format eg mp3, aif, wav */
+"Streaming Audio:" = "Streaming de Audio:";
+
+/* yup */
+"Streaming CDG to Cache" = "Streaming CDG in cache";
+
+/* No comment provided by engineer. */
+"Streaming Song" = "Streaming Song";
+
+/* No comment provided by engineer. */
+"Street must not be empty" = "Strada nu poate fi goală";
+
+/* - */
+"Street:" = "Strada:";
+
+/* stroke over fill text */
+"Stroke" = "Margine";
+
+/* font outline width */
+"Stroke Size:" = "Mărimea marginii:";
+
+/* more info on the style of a song, eg: rock, blues, hip-hop etc */
+"Sub Genre" = "Substil";
+
+/* hmmm */
+"Submit Failed: You must enter your e-mail address in the freedb preference pane, then submit again." = "Trimiterea a eşuat: trebuie să introduceţi adresa de e-mail în domeniul de preferinţă freedb şi trimiteţi-l din nou.";
+
+/* No comment provided by engineer. */
+"Submitting Disc Tracks" = "Submitting Disc Tracks";
+
+/* from freedb */
+"Submitting Tracks…" = "Trimiterea pistelor…";
+
+/* warning */
+"subs_warning" = "Hi peeps! In order for me to be able to work on kJams full time, so I can make kJams better than ever, we are offering the option to switch to a subscription licensing model.";
+
+/* No comment provided by engineer. */
+"Subscribing…" = "Subscribing…";
+
+/* No comment provided by engineer. */
+"Success" = "Succes";
+
+/* No comment provided by engineer. */
+"Successful Burn." = "Ardere cu succes.";
+
+/* No comment provided by engineer. */
+"Successfully Upgraded to “%s”!  We will now download and launch the new version!" = "Successfully Upgraded to “%s”!  We will now download and launch the new version!";
+
+/* a command to persue legal action against the user */
+"Sue Me" = "Sue Me";
+
+/* language name */
+"Swedish" = "Swedish";
+
+/* text hilight color */
+"Sweep fill:" = "Marcaj text:";
+
+/* text hilight color */
+"Sweep Stroke:" = "Marcaj margine:";
+
+/* gathering data required for synchronization */
+"Sync Preflight…" = "Sync Preflight…";
+
+/* No comment provided by engineer. */
+"Sync Previous Purchases" = "Sync Previous Purchases";
+
+/* No comment provided by engineer. */
+"Sync purchases" = "Sync purchases";
+
+/* list of things to synchronize */
+"Sync Queue" = "Sync Queue";
+
+/* default audio output device in system prefs panel */
+"System Default" = "Sistem standard";
+
+/* ID3 meta data tags, tags describe information about a file (title, artist, album, track number etc */
+"Tags" = "Tagu-ri";
+
+/* No comment provided by engineer. */
+"target_blurb" = "By double clicking on a playlist, you are designating that playlist as the “Target”, also known as entering “Target Mode”.  When a playlist is targeted, any time you double click on a song, it will go to that playlist instead of being played.  To just select a play list, click it once.  To un-target a targeted playlist, double click it again.  Do you want to enter “Target Mode”?";
+
+/* a pre-developed page layout: http://en.wikipedia.org/wiki/Template */
+"Templates" = "Șabloane";
+
+/* how fast or slow is the song? */
+"Tempo" = "Tempou";
+
+/* by what delta value will the temp change */
+"Tempo Change Increment:" = "Varierea schimbării de tempou:";
+
+/* speed of the song */
+"Tempo:" = "Tempou:";
+
+/* No comment provided by engineer. */
+"Test Purchase" = "Test Purchase";
+
+/* warning */
+"test_burn_blurb" = "Do not buy the Burning plugin until after you have done a test burn and verified that your drive is compatible.  Have you done a test burn?";
+
+/* No comment provided by engineer. */
+"Tether decrypt failed" = "Tether decrypt failed";
+
+/* No comment provided by engineer. */
+"Tether decrypt validation" = "Tether decrypt validation";
+
+/* No comment provided by engineer. */
+"Tethering does not work in Tryout mode because one of the criteria for encryption is a serial number." = "Tethering does not work in Tryout mode because one of the criteria for encryption is a serial number.";
+
+/* how many lines on a page */
+"Text Fill:" = "Text:";
+
+/* how many lines on a page */
+"Text Stroke:" = "Margine literă:";
+
+/* No comment provided by engineer. */
+"That is a coupon, not a serial number.  Please go thru the purchase process and use the coupon during your purchase." = "Acesta este un cupon, un număr de serie.  Vă rugăm să mergeţi prin procesul de cumpărare şi a folosi cuponul pentru achiziţia dvs.";
+
+/* yah *
+"That template name is already taken.  Please try again." = "Acest nume de șablon este deja acordat.  Vă rog încercați din nou.";
+
+/* eek! */
+"The CD Volume has gone offline, or the BIN file has been deleted." = "Volumul CD-ului este offline, sau fişierul BIN a fost şters.";
+
+/* No comment provided by engineer. */
+"The Chartbuster Gift Pack (User ID) has no more credits, or is invalid." = "Pachetul de cadouri Chartbuster (Utilizator-ID) nu mai are valabilitate sau este greșit.";
+
+/* No comment provided by engineer. */
+"The current machine does not match the machine on which the product was activated." = "Aparatul actual nu se potriveşte cu dispozitivul pe care a fost activat produsul.";
+
+/* No comment provided by engineer. */
+"The current machine matches the machine on which the product was activated." = "Aparatul actual se potriveşte cu dispozitivul pe care a fost activat produsul.";
+
+/* yep */
+"The current rip was interrupted, you will have to re-rip the last song." = "Riparea în lucru s-a întrerupt, ultima melodie trebue ripată din nou.";
+
+/* No comment provided by engineer. */
+"The data browser is not properly configured." = "Browserul de date nu este configurat corect.";
+
+/* No comment provided by engineer. */
+"The device failed to accept the command within the timeout period" = "The device failed to accept the command within the timeout period";
+
+/* No comment provided by engineer. */
+"The drive reported that it is in the process of becoming ready. Please try the request again later" = "The drive reported that it is in the process of becoming ready. Please try the request again later";
+
+/* No comment provided by engineer. */
+"The email address you entered does not exist! Please use a real email address!" = "The email address you entered does not exist! Please use a real email address!";
+
+/* No comment provided by engineer. */
+"The engine being installed is corrupted." = "The engine being installed is corrupted.";
+
+/* No comment provided by engineer. */
+"The engine failed to connect to the eSellerate servers." = "Engine a eșuat la cuplarea cu serverul eSellerate.";
+
+/* No comment provided by engineer. */
+"The engine failed to download an update." = "Engine nu a reuşit să descarce actualizarea.";
+
+/* No comment provided by engineer. */
+"The engine is already running within the application." = "Engine este deja în lucru cu operația.";
+
+/* No comment provided by engineer. */
+"The engine is corrupted." = "Engine este stricat.";
+
+/* No comment provided by engineer. */
+"The eSellerate engine data is missing from the results." = "  Din datele din engine eSellerate lipsesc rezultate.";
+
+/* No comment provided by engineer. */
+"The eSellerate server failed to return a valid activation key." = "Serverul eSellerate ă eșuat să inițializeze o cheie de activare valabilă.";
+
+/* No comment provided by engineer. */
+"The format of the supplied activation key is invalid." = "Formatul cheii de activare furnizat este incorect.";
+
+/* No comment provided by engineer. */
+"The Gift Pack does not exist or has no more credits." = "Pachetul de cadou nu există sau nu mai are credit.";
+
+/* No comment provided by engineer. */
+"The item is not in the data browser." = "Articolul nu este în browserul de fișiere.";
+
+/* No comment provided by engineer. */
+"The item was not added to the data browser." = "Articolul nu a fost adaugat in browser-ul de date.";
+
+/* No comment provided by engineer. */
+"The latest engine is already installed." = "Cel mai recent engine este deja instalat.";
+
+/* No comment provided by engineer. */
+"The latest engine was successfully installed." = "Cel mai recent engine a fost instalat cu succes.";
+
+/* No comment provided by engineer. */
+"The license (Serial Number) format has changed. Your license for “%s” needs to be updated to the new format." = "The license (Serial Number) format has changed. Your license for “%s” needs to be updated to the new format.";
+
+/* No comment provided by engineer. */
+"The Lite version of kJams does not allow scripting, if you need scripting, please upgrade to Pro." = "Versiunea Lite nu permite script-urile din kJams, dacă aveţi nevoie de script-uri, vă rugăm să faceţi upgrade la versiunea Pro.";
+
+/* No comment provided by engineer. */
+"The Music Store “%s” does not have the ability to Sync Previous Purchases." = "The Music Store “%s” does not have the ability to Sync Previous Purchases.";
+
+/* No comment provided by engineer. */
+"The old activation key is invalid." = "Cheia veche de activare nu este valabilă.";
+
+/* No comment provided by engineer. */
+"The playlist “%@” somehow has the same ID as the already existing playlist “%@”.  Attempting to rectify…" = "Lista de redare “%1$@” are oarecum acelaşi ID cu lista de redare existentă “%2$@”.  Încearcă s-o corectezi.";
+
+/* No comment provided by engineer. */
+"The property data is not valid." = "Datele obiectului nu sînt valabile.";
+
+/* No comment provided by engineer. */
+"The property is not in the data browser." = "Obiectul nu este în browserul de date.";
+
+/* No comment provided by engineer. */
+"The property is not supported in the data browser." = "Obiectul nu este acceptat în browserul de date.";
+
+/* No comment provided by engineer. */
+"The property part is not valid." = "Partea de obiect este invalidă.";
+
+/* No comment provided by engineer. */
+"The provided audio stream is not valid" = "The provided audio stream is not valid";
+
+/* No comment provided by engineer. */
+"The requested resource is in use" = "The requested resource is in use";
+
+/* No comment provided by engineer. */
+"The result from the engine could not be found." = "Rezultatul de engine nu a putut fi găsit.";
+
+/* No comment provided by engineer. */
+"The SDK failed to add a name/value entnry." = " SDK a eșuat la adăugarea de nume sau o valoare.";
+
+/* No comment provided by engineer. */
+"The serial number to be activated is not unique." = "Seria de activare nu este un unicat.";
+
+/* No comment provided by engineer. */
+"The serial number you have entered is meant to activate “%s”, but you are currently attempting to activate “%s”." = "The serial number you have entered is meant to activate “%1$s”, but you are currently attempting to activate “%2$s”.";
+
+/* No comment provided by engineer. */
+"The Show is About to Begin!" = "Spectacolul este pe cale să înceapă!";
+
+/* No comment provided by engineer. */
+"The Show Is Over, thanks for coming!" = "Spectacolul s-a terminat, vă mulțumim pentru prezență!";
+
+/* first @ is the singer's name, second @ is the playlist name */
+"The singer “%@” somehow lost their playlist “%@”.  A new empty playlist has been created." = "Cîntărețul “%1$@” a pierdut cumva lista de redare “%2$@”.  O listă nouă s-a creat.";
+
+/* No comment provided by engineer. */
+"The singer “%s” somehow lost their account.  A new account has been created, and we will attempt to recover their playlists." = "Cîntărețul “%s” a pierdut cumva acontul.  Un nou acont a fost emis și noi vom încerca să obținem înapoi lista lor de redare.";
+
+/* long version (see short version) */
+"The song you picked is no longer available.  Please reload the music store and try again." = "Melodia pe care aţi selectat-o nu mai este disponibilă.  Va rugăm sa descărcati magazinul de muzică din nou şi să încercaţi încă o dată.";
+
+/* could not figure it out */
+"The song “%s” did not parse." = "Cîntecul “%s” nu a fost parsat.";
+
+/* No comment provided by engineer. */
+"The song “%s” is already being exported." = "Melodia “%s” a fost deja exportată.";
+
+/* No comment provided by engineer. */
+"The song “%s” is from a music store, and must be purchased first." = "The song “%s” is from a music store, and must be purchased first.";
+
+/* No comment provided by engineer. */
+"The song “%s” is missing." = "The song “%s” is missing.";
+
+/* No comment provided by engineer. */
+"The song “%s” was not converted because it is not a CDG file" = "Melodia “%s” nu a fost convertită pentru că nu este un fișier CDG";
+
+/* No comment provided by engineer. */
+"The stream does not contain a sufficient number of sectors in the leadin for the current media" = "The stream does not contain a sufficient number of sectors in the leadin for the current media";
+
+/* No comment provided by engineer. */
+"The system does not meet the minimum requirements for the Embedded Web Store" = "Sistemul nu îndeplineşte cerinţele minime pentru cumpăratul integrat din Web";
+
+/* No comment provided by engineer. */
+"The user cancelled a manual activation attempt." = "Utilizatorul a revocat o încercare de activare manuală.";
+
+/* No comment provided by engineer. */
+"The “User ID” used for streaming is invalid." = "The “User ID” nu este valabil pentru streaming.";
+
+/* first is number of songs, second is a string showing the duration of time it may take */
+"There are %@ songs.  It could take more than %@ to complete." = "Există %1$@ cîntece.  Aceasta ar putea dura mai mult de 2$%@ până la completare.";
+
+/* more than one */
+"There are multiple songs selected" = "Au fost selectate mai multe cîntece";
+
+/* bummer */
+"There is not enough free space on your cache volume to build a burn image." = "Nu este suficient spaţiu liber în cache-ul dumneavoastră pentru a arde o imagine de fişier.";
+
+/* No comment provided by engineer. */
+"There is nothing to deactivate." = "There is nothing to deactivate.";
+
+/* thanks */
+"There was a problem ejecting the disc." = "La ejectarea discului a apărut o problemă.";
+
+/* oops */
+"There was a problem initializing audio output, check your audio output device. Are your speakers plugged in?" = "La inițializarea ieșirii audio este o problemă, verificați device-ul de ieșire. Sînt cuplate difuzoarele?";
+
+/* oops */
+"There was a problem initializing audio output, you may want to quit and re-run" = "La inițializarea ieșirii audio este o problemă, poate doriți să inchideți programul și să-l porniți din nou?";
+
+/* orphan refers to a song that was ripped but didn't have time to encode before the user quit */
+"There was a problem maybe with orphan encoding?" = "A apărut o problemă, poate cu codarea orfană?";
+
+/* secret message */
+"There was a problem opening this song with Producer. No Audio? Bad XML?" = "There was a problem opening this song with Producer. No Audio? Bad XML?";
+
+/* error str */
+"There was an error attempting to calculate the cache folder size" = "La încercarea de dimensionare a dosarului cache, este o greşeală";
+
+/* No comment provided by engineer. */
+"There was an error creating your account. Please ask the KJ to create your account for you." = "La crearea contului dvs. este o greşeală.  Vă rugăm cereți de la kJams să facă acontul pentru Dumneavoastră.";
+
+/* No comment provided by engineer. */
+"There was an error enabling Bonjour" = "There was an error enabling Bonjour";
+
+/* error */
+"There was an error encoding the song “%s”" = "În timpul codificării piesei “%s” s-a făcut o greşeală";
+
+/* No comment provided by engineer. */
+"There was an error installing the engine." = "La instalarea engine a intervenit o greșeală.";
+
+/* No comment provided by engineer. */
+"There was an error loading the installed engine." = "La încărcarea engine instalată s-a făcut o greșeală.";
+
+/* yup */
+"There was an error loading the song for editing" = "La încărcarea melodiei pentru prelucrare a intervenit o eroare";
+
+/* No comment provided by engineer. */
+"There was an error moving “%s” into the folder “%s”: %s" = "La mutarea de “%1$s” in dosarul “%2$s”: %3$s a intervenit o eroare";
+
+/* eek */
+"There was an error saving the song" = "La salvarea melodiei a intervenit o greșeală";
+
+/* No comment provided by engineer. */
+"There was an error setting the temporary file name for the song “%s” in “%s”" = "There was an error setting the temporary file name for the song “%1$s” in “%2$s”";
+
+/* bummer */
+"There was an error setting up your burn" = "Atunci când se elaborează procesul de scriere intervine o greşeală";
+
+/* No comment provided by engineer. */
+"There was an error with that serial number, please check the number and try again." = "La acest nr. de serie este o greșeală, vă rugăm să verificaţi numărul şi să încercaţi din nou.";
+
+/* first one describes the error, second one is the name of the song */
+"There was an error “%@” preparing the song “%@” for export." = "La pregătirea cîntecului “%2$@” pentru export a apărut greșeala “%1$@”.";
+
+/* I/O is input/output */
+"There was an I/O error reading the disc, perhaps it is scratched?" = "La citirea discului a apărut o greșeală I/O, poate este zgîriat?";
+
+/* ‘chain’ in this context means ‘pipeline’ or ‘list’ of audio processors */
+"There was some error setting up the Audio chain." = "La înființarea lanţului audio este o greşeală.";
+
+/* No comment provided by engineer. */
+"There was some kind of error while disabling Auto-Renew." = "There was some kind of error while disabling Auto-Renew.";
+
+/* No comment provided by engineer. */
+"There was some kind of error while subscribing." = "There was some kind of error while subscribing.";
+
+/* No comment provided by engineer. */
+"There was some kind of problem checking the server for a new version." = "In timpul verificării serverului pentru o versiune nouă a apărut cumva o problemă.";
+
+/* after the second singer */
+"Third Singer" = "Third Singer";
+
+/* No comment provided by engineer. */
+"This device can burn CD+G" = "This device can burn CD+G";
+
+/* No comment provided by engineer. */
+"This device can NOT burn CD+G" = "This device can NOT burn CD+G";
+
+/* No comment provided by engineer. */
+"This disc was poorly mastered, but we'll do our best! (“Lead-in” was not set to 2 seconds)" = "This disc was poorly mastered, but we'll do our best! (“Lead-in” was not set to 2 seconds)";
+
+/* No comment provided by engineer. */
+"This KMA file has no data?" = "This KMA file has no data?";
+
+/* No comment provided by engineer. */
+"This operation will overwrite existing instructions.  Are you sure?" = "Această operaţiune va suprascrie instrucţiunile existente.  Sunteţi sigur?";
+
+/* showed when the user hits the QuickTime Export edit button when eg. 'iPod' is selected */
+"This QuickTime encoder does not have an options dialog." = "Acest QuickTime encoder nu are opțiuni dialog.";
+
+/* No comment provided by engineer. */
+"This setting takes effect the next time you manually reload the Music Store." = "Această setare are efect atunci când încărcaţi data viitoare, încărcați magazinul de muzică din nou manual.";
+
+/* No comment provided by engineer. */
+"This setting takes effect the next time you start kJams." = "Această setare are efect atunci când veţi porni kJams data viitoare.";
+
+/* No comment provided by engineer. */
+"This song was previously purchased.  You can sync your previous purchases." = "This song was previously purchased.  You can sync your previous purchases.";
+
+/* obvious */
+"This will only happen once…" = "Aceasta se va întîmla numai o dată…";
+
+/* No comment provided by engineer. */
+"This wizard will walk you through the process of creating a new account." = "This wizard will walk you through the process of creating a new account.";
+
+/* how seconds late / early are we? */
+"Time Offset:" = "Timpul Offset:";
+
+/* shows how much time is left */
+"Time Remaining: %s" = "Timpul rămas: %s";
+
+/* error */
+"Timed out talking to QTServer (lost connection)" = "Timed out talking to QTServer (lost connection)";
+
+/* line of time */
+"Timeline" = "Timeline";
+
+/* mmm */
+"Timeout (in seconds)" = "Timp depășit (în secunde)";
+
+/* timeout means it took too long so we aborted */
+"Timeout running helper application “%s”" = "Timeout running helper application “%s”";
+
+/* No comment provided by engineer. */
+"Tip your Waitress!" = "Chemați chelnerița!";
+
+/* No comment provided by engineer. */
+"To burn a song to a CD+G disc, it must be in “Audio+G” format (typically “MP3+G”). The song “%s” has the format “%s”." = "To burn a song to a CD+G disc, it must be in “Audio+G” format (typically “MP3+G”). The song “%1$s” has the format “%2$s”.";
+
+/* No comment provided by engineer. */
+"To download or stream songs, you must enter your e-mail address." = "Pentru descărcare sau stream melodie, trebue să introduceți adresa de email.";
+
+/* No comment provided by engineer. */
+"To play this type of media, you must install Flip4Mac. You will not be warned again until you re-launch kJams." = "To play this type of media, you must install Flip4Mac. You will not be warned again until you re-launch kJams.";
+
+/* No comment provided by engineer. */
+"To purchase songs, or to see song previews, you must be logged in to “%s”. It is free to sign up." = "To purchase songs, or to see song previews, you must be logged in to “%s”. It is free to sign up.";
+
+/* No comment provided by engineer. */
+"To reload a Music Store, context-click on the its icon in the browser window, and pick %s." = "To reload a Music Store, context-click on the its icon in the browser window, and pick %s.";
+
+/* first one is <what kind of subscription>, second one is <kJams Lite> or <kJams Pro> */
+"To use the Chartbuster “%s” for streaming, you must be using “%s”." = "Pentru a folosi la streamare Chartbuster “%1$s” trebue să întrebuințați “%2$s”.";
+
+/* the playlist the singer plans to sing during this session */
+"Tonight" = "În seara aceasta";
+
+/* No comment provided by engineer. */
+"Too many links" = "Prea multe linkuri";
+
+/* No comment provided by engineer. */
+"Too many open files" = "Prea multe fișiere deschise";
+
+/* No comment provided by engineer. */
+"Too many open files in system" = "Prea multe fișiere deschise în sistem";
+
+/* name of store */
+"Total Songs" = "Total Songs";
+
+/* track number */
+"Track #" = "Pista #";
+
+/* No comment provided by engineer. */
+"Track Name:" = "Track Name:";
+
+/* No comment provided by engineer. */
+"Track Number:" = "Track Number:";
+
+/* No comment provided by engineer. */
+"Tracking song stream" = "Tracking song stream";
+
+/* as a verb, as in 'perform the trashing action' */
+"Trash" = "Aruncă";
+
+/* will put actual song files into the trash */
+"Trash Original Files" = "Aruncarea fișierelor originale";
+
+/* warning */
+"trash_bad_aliases" = "Are you sure you want to trash all unresolveable symbolic links?";
+
+/* No comment provided by engineer. */
+"Treat “em dash” as regular dash" = "Treat “em dash” as regular dash";
+
+/* security blurb */
+"tri_gift_pack_blurb" = "kJams folosește SSL pentru toate tranzacțiile financiare web.  Adresa Dv de E-mail este folosită de TriceraSoft pentru a vă trimite facturi, kJams nu o folosește în alt scop.";
+
+/* only these credit cards */
+"TriceraSoft only accepts Visa and Master Card" = "TriceraSoft acceptă numai Visa și MasterCard";
+
+/* pruning, cropping, paring down */
+"Trimming" = "Trimming";
+
+/* No comment provided by engineer. */
+"Trimming Log files…" = "Trimming Log files…";
+
+/* chop text off if it doesn't fit */
+"Truncate" = "Truncate";
+
+/* one more time */
+"Try again" = "Incearcă din nou";
+
+/* No comment provided by engineer. */
+"Try logging in instead." = "Try logging in instead.";
+
+/* language name */
+"Turkish" = "Turkish";
+
+/* No comment provided by engineer. */
+"Umm, sorry, but I've somehow lost track of this many songs:" = "Umm, ne pare rau, dar am pierdut într-un fel trackul acestor multe melodii:";
+
+/* No comment provided by' engineer. */
+"Unable to install eSellerate engine!" = "Imposibil de a instala eSellerate engine!";
+
+/* No comment provided by engineer. */
+"Unable to select song in Library" = "Imposibil pentru a selecta o melodie în bibliotecă";
+
+/* bummer */
+"Unix Error:" = "Eroare Unix:";
+
+/* No comment provided by engineer. */
+"Unknown Activation Key" = "Cheie de activare necunoscută";
+
+/* who is that? */
+"Unknown Album" = "Album necunoscut";
+
+/* artist is not known */
+"Unknown Artist" = "Artist necunoscut";
+
+/* No comment provided by engineer. */
+"Unknown error" = "Eroare necunoscută";
+
+/* No comment provided by engineer. */
+"Unknown eSellerate Error" = "Eroare necunoscută eSellerate";
+
+/* unable to identify the folder */
+"Unknown Folder" = "Dosar necunoscut";
+
+/* No comment provided by engineer. */
+"Unknown Format" = "Unknown Format";
+
+/* No comment provided by engineer. */
+"Unknown Playlist" = "Unknown Playlist";
+
+/* No comment provided by engineer. */
+"Unknown Singer" = "Cîntăteț necunoscut";
+
+/* nobody knows */
+"Unknown Song" = "Melodie necunoscută";
+
+/* No comment provided by engineer. */
+"Unknown." = "Necunoscut.";
+
+/* No comment provided by engineer. */
+"Unloading Plugins" = "Descărcare Plugins";
+
+/* undo string */
+"Unlock Palette" = "Deblochează paleta";
+
+/* audio format eg mp3, aif, wav */
+"Unpacking Audio format:" = "Despachetează Audio formatul:";
+
+/* No comment provided by engineer. */
+"Unsubscribing…" = "Unsubscribing…";
+
+/* No comment provided by engineer. */
+"Untitled Playlist" = "Untitled Playlist";
+
+/* QuickTime import/export settings file */
+"Untitled Preset" = "Presetări fără nume";
+
+/* No comment provided by engineer. */
+"Untitled Venue" = "Loc de eveniment fără titlu";
+
+/* No comment provided by engineer. */
+"Unused" = "Nefolosit";
+
+/* No comment provided by engineer. */
+"Unzipping download…" = "Unzipping descărcarea…";
+
+/* scanning */
+"Unzipping Music Store" = "Unzipping Music Store";
+
+/* ja */
+"Unzipping on command line" = "Unzipping in rîndul de comandă";
+
+/* decompressing */
+"Unzipping song:" = "Unzipping cîntecul:";
+
+/* as in update the application to a newer version */
+"Update" = "Actualizare";
+
+/* No comment provided by engineer. */
+"Update Catalog" = "Update Catalog";
+
+/* are you sure */
+"Update Cloud Data?" = "Update Cloud Data?";
+
+/* No comment provided by engineer. */
+"Update Serial Number" = "Update Serial Number";
+
+/* No comment provided by engineer. */
+"Updating Account info…" = "Updating Account info…";
+
+/* No comment provided by engineer. */
+"Updating Business Information…" = "Updating Business Information…";
+
+/* pre-loading data */
+"Updating DB with new search paths…" = "Actualizarea DB cu noi path-uri de căutare…";
+
+/* No comment provided by engineer. */
+"Updating subscription…" = "Updating subscription…";
+
+/* they have changed */
+"Updating Values" = "Actualizarea valorilor";
+
+/* pre-loading data */
+"Updating “Date Added” meta data…" = "Actualizarea “Date Added” meta data…";
+
+/* pre-loading data */
+"Updating “No Lyrics” meta data…" = "Actualizarea “No Lyrics” meta data…";
+
+/* No comment provided by engineer. */
+"Upgrade" = "Upgrade";
+
+/* as in send a file to a remote server */
+"Upload" = "Upload";
+
+/* display the name that the Finder uses to refer to the file */
+"Use File Name" = "Folosește numele fișierului";
+
+/* display the name that kJams uses to refer to the song (the song title) */
+"Use Song Name" = "Folosește numele melodiei";
+
+/* No comment provided by engineer. */
+"Use your iPhone or iPod Touch to browse songs and submit them to the KJ! Just go to the App store and search for “iJams”" = "Utilizaţi iPhone sau iPod Touch pentru a căuta melodii şi să le prezinte KJ! Doar du-te la App Store şi caută pentru “iJams”";
+
+/* No comment provided by engineer. */
+"User Canceled" = "Revocat utilizatorul";
+
+/* the version of the software is old */
+"Using Old Version" = "Folosește versiunea veche";
+
+/* cleaning, weeding, curating, decluttering */
+"Vacuuming" = "Vacuuming";
+
+/* <kJams Lite> or <kJams Pro> will be substituted */
+"Valid only with “%s”" = "Valabil numai cu “%s”";
+
+/* validate blurb */
+"validate_ms_blurb" = "Întîi trebue să introduceți corect toate “1-Klick Settings“.";
+
+/* No comment provided by engineer. */
+"Validating Account" = "Validating Account";
+
+/* No comment provided by engineer. */
+"Validating account…" = "Validating account…";
+
+/* as in many different, eg: the disc contains songs my various artists */
+"Various" = "Diferit";
+
+/* no! */
+"VCD titles must be ripped into the library before playing." = "Melodiile VCD trebuie să fie rippate în bibliotecă înainte de redare.";
+
+/* place where people go to sing karaoke */
+"Venue" = "Venue";
+
+/* as in version 1.0 */
+"Version" = "Versiune";
+
+/* No comment provided by engineer. */
+"Version Checking" = "Verificarea versiunii";
+
+/* you know, like moving pictures */
+"Video" = "Video";
+
+/* how loud is the song? */
+"Volume" = "Volum";
+
+/* No comment provided by engineer. */
+"Voucher Purchase not available yet!  Would you like to send KaraokeCloud (NOT the developer) a request for this feature?  This is NOT a request for tech support." = "Voucher Purchase not available yet!  Would you like to send KaraokeCloud (NOT the developer) a request for this feature?  This is NOT a request for tech support.";
+
+/* No comment provided by engineer. */
+"Waiting for cache purging to complete" = "Waiting for cache purging to complete";
+
+/* tasks will be done soon */
+"Waiting for sort tasks…" = "Așteptare pentru taskuri de sortare…";
+
+/* No comment provided by engineer. */
+"Waiting for Spotlight…" = "Așteptare pentru taskuri Spotlight…";
+
+/* once is enough */
+"Warn me if this happens again after two hours." = "Warn me if this happens again after two hours.";
+
+/* warning */
+"warn_karaoke_locker" = "The “Karaoke Locker” music store is ONLY licensed for home use.  Sound Choice is going around suing people for using these songs in public venues.  Currently, the only way to legally obtain Sound Choice songs for use in a public venue is to purchase physical media directly from Sound Choice.  If you are a home user, there is no problem.  But if you are doing shows in public, are you sure you want to enable yourself to be sued by Sound Choice?";
+
+/* warning */
+"warn_skip_silence" = "You had recently turned off the preference “%s”.  This feature has been improved to avoid the problem it recently had, which was cutting off the end of a song. If you turn it back on, and continue to experience problems with it, please email me immediately, sending the song in question, so I can fix it! Would you like to turn it back on?";
+
+/* you are being warned */
+"Warning:" = "Avertizare:";
+
+/* No comment provided by engineer. */
+"Web result is not JSON" = "Web result is not JSON";
+
+/* No comment provided by engineer. */
+"Web Server Not Started" = "Web Server Not Started";
+
+/* No comment provided by engineer. */
+"Web Session could not be opened" = "Web Session could not be opened";
+
+/* as in go to my */
+"Web Site" = "Pagina Web";
+
+/* mmm *
+"Webserver port" = "Webserver port";
+
+/* warning */
+"weird_unix_err" = "OS mă informează că drive-ul CD are o eroare “%s”. Eu nu sunt sigur ce înseamnă asta, dar în practică aceasta înseamnă că nu se poate rippa cu aceast drive.";
+
+/* okay */
+"Well there was some sort of problem reading your CD." = "Well there was some sort of problem reading your CD.";
+
+/* No comment provided by engineer. */
+"Went south getting a CPixels" = "Went south getting a CPixels";
+
+/* No comment provided by engineer. */
+"Went south getting an offscreen" = "Went south getting an offscreen";
+
+/* this is a test */
+"What will you do?" = "Ce vreți să faceți?";
+
+/* No comment provided by engineer. */
+"Who's Singing Next:" = "Ce cîntați ca urmare:";
+
+/* No comment provided by engineer. */
+"Wide character encoding error" = "Eroare de codare a semnelor largi";
+
+/* date */
+"Will Renew on: %s" = "Will Renew on: %s";
+
+/* the song is only available for streaming, not for purchasing */
+"Within your selection is a streaming only song which can not be purchased." = "În selecție este un cintec care poate fi streamat dar nu cumpărat.";
+
+/* No comment provided by engineer. */
+"Would you like to create a new video?" = "Doriți să creați un nou video?";
+
+/* one click */
+"Would you like to edit your account settings?" = "Would you like to edit your account settings?";
+
+/* one click */
+"Would you like to edit your payment settings?" = "Doriți să editați setările de plată?";
+
+/* advertisment */
+"Would you like to purchase the fully functional version?" = "Doriți să procurați versiunea care are toate funcțiunile?";
+
+/* No comment provided by engineer. */
+"Would you like to upgrade to %s? Or to %s?" = "Would you like to upgrade to %1$s? Or to %2$s?";
+
+/* Writer of song */
+"Writer" = "Scriitor";
+
+/* No comment provided by engineer. */
+"Writing CDG to Cache" = "Scrie CDG în cache";
+
+/* pcm is pluse code modulated */
+"Writing Uncompressed PCM Audio To Cache" = "Scrie PCM Audio necomprimat în Cache";
+
+/* preferences you can set that have to do with writing or exporting meta tags */
+"Writing:" = "Scrie:";
+
+/* enumeration of revolutions around the sun */
+"Year" = "An";
+
+/* enumeration of revolutions around the sun */
+"Year" = "Year";
+
+/* plural */
+"Years" = "Years";
+
+/* affirmative */
+"Yes" = "Da";
+
+/* No comment provided by engineer. */
+"You already purchased this song.  Your email receipt has a download link." = "A-ți achiziționat deja această melodie.  Email-ul cu chitanța are un link.";
+
+/* No comment provided by engineer. */
+"You are not allowed to “Reference” songs from the “%s” folder, so kJams will Copy/Move the files instead." = "You are not allowed to “Reference” songs from the “%s” folder, so kJams will Copy/Move the files instead.";
+
+/* No comment provided by engineer. */
+"You are not authorized." = "You are not authorized.";
+
+/* not connected to the internet */
+"You are offline" = "You are offline";
+
+/* must buy from one store at a time */
+"You can not buy songs from more than one store at the same time." = "Nu puteți cumpăra in același timp din mai multe magazine.";
+
+/* No comment provided by engineer. */
+"You can not purchase or stream songs while any music store is still loading." = "You can not purchase or stream songs while any music store is still loading.";
+
+/* No comment provided by engineer. */
+"You can't add the same song twice to a singer's playlist." = "You can't add the same song twice to a singer's playlist.";
+
+/* yeah */
+"You can't burn the same song twice on a single disc." = "Nu puteți arde aceași melodie de două ori pe un singur disc.";
+
+/* dur */
+"You can't eject a disc while it is importing!" = "Nu puteți ejecta un disc în timpul importului!";
+
+/* you can't download a purchased song at the same time you stream another song */
+"You can't mix purchases with streaming." = "Puteți mixa cumpărăturile cu streaming.";
+
+/* no! */
+"You can't play a song while a different one is ripping from the same CD" = "Nu puteți reda o melodie in același timp cu alta care se rippează de pe același CD";
+
+/* No comment provided by engineer. */
+"You can't re-encode the song “%s” because it is a streaming song." = "Nu puteți recoda cîntecul “%s” deoarece este un streaming cîntec.";
+
+/* No comment provided by engineer. */
+"You can't remove the currently playing song." = "You can't remove the currently playing song.";
+
+/* No comment provided by engineer. */
+"You can't run more than one copy of kJams at once!" = "Nu puteți lucra concomitent decît cu o singură copie de kJams!";
+
+/* first is name of application, second is version number */
+"You have %s version %s." = "Aveți %1$s versiunea %2$s.";
+
+/* No comment provided by' engineer. */
+"You have already bought at least some songs in this selection." = "A-ți cumpărat deja unele melodii din această selecție.";
+
+/* No comment provided by engineer. */
+"You have already bought this song." = "A-ți cumpărat deja aceste melodii.";
+
+/* No comment provided by engineer. */
+"You have an old version Flip4Mac installed. You must uninstall it or update it to a newer version." = "You have an old version Flip4Mac installed. You must uninstall it or update it to a newer version.";
+
+/* No comment provided by engineer. */
+"You have entered an illegal character in one of your templates. Legal characters are LTRSI-()/. and Space." = "A-ți introdus un caracter neadmis în unul din șabloane. Caracterele admise sînt LTRSI-()/. și Space.";
+
+/* No comment provided by engineer. */
+"You have less than 4 GB RAM.  You need to upgrade your RAM or you will experience performance degradation (eg: slow searching)." = "Aveți mai puțin de 4GB RAM. Trebue să măriți RAM-ul, sau totul se va încetini (de ex. căutare înceată).";
+
+/* notify */
+"You have successfully activated the plugin “%s”." = "A-ți activat pluginul “%s” cu succes.";
+
+/* No comment provided by engineer. */
+"You have successfully activated “%s”!, All features are now fully functional." = "You have successfully activated “%s”!, All features are now fully functional.";
+
+/* bad */
+"You have two singers with the same ID.  %s.  The two singers are “%s” and “%s”.  The second one will be ignored for now." = "Aveți doi cîntăreți cu aceași ID.  %1$s.  Cei doi cîntăreți sînt “%2$s” und “%3$s”.  Al doilea nu va fi băgat în seamă de data aceasta.";
+
+/* No comment provided by engineer. */
+"You may get silent audio.  If so, stop the song and clear your cache, then try again.  If the problem persists, turn off “Skip silence at start of song”." = "Puteți obține  un track audio tăcut.  Dacă doriți aceasta, opriți cîntecul și goliți memoria cache, apoi încercați din nou.  Dacă problema apare iarăși, selectați “Skip silence at start of song”.";
+
+/* oops */
+"You may need to empty your trash first, or rename the Playlist before deleting it." = "Înainte de a șterge lista de redare trebue poate să goliți întîi coșul de gunoi sau să renumiți această listă.";
+
+/* No comment provided by engineer. */
+"You must enter the name of the song" = "You must enter the name of the song";
+
+/* No comment provided by engineer. */
+"You must install kJams to run it." = "You must install kJams to run it.";
+
+/* No comment provided by engineer. */
+"You must install the “Image Mastering API v2.0”" = "You must install the “Image Mastering API v2.0”";
+
+/* notify */
+"You must purchase kJams (Lite or Pro) before you can purchase the Burning Plugin (Sold Separately)." = "You must purchase kJams (Lite or Pro) before you can purchase the Burning Plugin (Sold Separately).";
+
+/* No comment provided by engineer. */
+"You must restart kJams for this option to be enabled." = "You must restart kJams for this option to be enabled.";
+
+/* notify */
+"You will have to quit and re-run kJams after you install the plugin “%s”." = "Trebue să părăsiți și să-l porniți kJams din nou după ce a-ți instalat plugin-ul “%s”.";
+
+/* oops */
+"Your audio driver is not capable of multiple simultaneous audio streams, and the channel has already been opened by another thread or process." = "Your audio driver is not capable of multiple simultaneous audio streams, and the channel has already been opened by another thread or process.";
+
+/* substitute a duration eg: '2 days' */
+"Your card will be charged in: %s" = "Your card will be charged in: %s";
+
+/* No comment provided by engineer. */
+"Your card will not be charged." = "Your card will not be charged.";
+
+/* No comment provided by engineer. */
+"Your credit card details are invalid." = "Your credit card details are invalid.";
+
+/* No comment provided by engineer. */
+"Your credit card has expired" = "Your credit card has expired";
+
+/* No comment provided by engineer. */
+"Your credit card has expired.  Check the expiration date." = "Cardul dvs. de credit a expirat.  Verificaţi data de expirare.";
+
+/* No comment provided by engineer. */
+"Your credit card was declined, please call your bank." = "Cardul dvs. de credit a fost respins, vă rugăm să sunaţi la bancă.";
+
+/* No comment provided by engineer. */
+"Your phone number must be at least 9 digits" = "Numărul dvs. de telefon trebuie să aibă cel puţin 9 cifre";
+
+/* warning */
+"Your QuickTime Export name template is blank, please fill it in in the preferences" = "Numele șablonului Dumneavoastră pentru exportul QuickTime este gol, vă rugăm să-l completaţi în preferenţe";
+
+/* No comment provided by engineer. */
+"Your search criteria produced more than %d results.  Please narrow your search by entering more search terms." = "Criteriile de căutare au produs mai mult de %d resultate.  Vă rugăm să restrângeţi căutarea prin introducerea mai multor termeni de căutare.";
+
+/* No comment provided by engineer. */
+"Your serial number file has been saved to the Desktop." = "Your serial number file has been saved to the Desktop.";
+
+/* you ran out of money */
+"Your TriceraSoft Gift Pack has no more credits." = "Pachetul de cadouri TriceraSoft nu mai are nici un credit.";
+
+/* warning */
+"zero_size" = "The audio file you're trying to play has zero bytes in it.  Was there a problem encoding the file?";
+
+/* a type of compressed file, i don't think you should translate this */
+"Zip" = "ZIP";
+
+/* No comment provided by engineer. */
+"Zip Code must not be empty" = "Codul poștal nu are voie să fie gol";
+
+/* error */
+"Zip file corrupted or requires password" = "Zip file corrupted or requires password";
+
+/* warning */
+"zip_warn_blurb" = "Un alt proces este ocupat cu fișierul ZIP pentru cîntecul “%s”, vă rugăm să încercați din nou.";
+
+/* i don't think zLib can be translated */
+"Zipping Audio+G with zLib" = "Zippează Audio+G cu zLib";
+
+/* as in <“kJams Music” folder>, or <“User” folder> */
+"“%s” folder" = "“%s” dosar";
+
+/* oops */
+"“%s” folder not found" = "Dosarul “%s” nu a fost găsit";
+
+/* first substitution is <Starter> second is <Full>, third is a list of song manufacturer names */
+"“%s”: Approximately 48,000 songs; includes these manufacturers: %s." = "“%1$s”: Approximately 48,000 songs; includes these manufacturers: %2$s.";
+
+/* first substitution is <Starter> second is <Full>, third is a list of song manufacturer names */
+"“%s”: Approximately 12,000 songs; includes the “Sunfly” manufacturer.\n\n“%s”: Approximately 53,000 songs; includes these manufacturers: %s." = "“%1$s”: Approximately 12,000 songs; includes the “Sunfly” manufacturer.\n\n“%2$s”: Approximately 53,000 songs; includes these manufacturers: %3$s.";
+
+/* first substitution is <Starter> second is <Full>, third is a list */
+"“%s” includes the “Sunfly” library, about 10,000 songs.\n“%s” includes these libraries: %s, about 60,000 songs." = "“%1$s” includes the “Sunfly” library, about 10,000 songs.\n“%2$s” includes these libraries: %3$s, about 60,000 songs.";
+

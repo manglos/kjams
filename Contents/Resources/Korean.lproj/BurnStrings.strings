@@ -1,0 +1,48 @@
+﻿/* No comment provided by engineer. */
+"(none)" = "(none)";
+
+/* No comment provided by engineer. */
+"Burning Plugin" = "Burning Plugin";
+
+/* No comment provided by engineer. */
+"Burning plugin has expired, please download the latest!" = "Burning plugin has expired, please download the latest!";
+
+/* No comment provided by engineer. */
+"Fully Functional" = "Fully Functional";
+
+/* Describes what the installer does */
+"Installs kJams Burner" = "Installs kJams Burner";
+
+/* No comment provided by engineer. */
+"kJams Burner." = "kJams Burner.";
+
+/* No comment provided by engineer. */
+"kJams Burning Plugin, v" = "kJams Burning Plugin, v";
+
+/* No comment provided by engineer. */
+"Plugin that allows kJams to burn new CD+G format discs." = "Plugin that allows kJams to burn new CD+G format discs.";
+
+/* No comment provided by engineer. */
+"str_too_long" = "You have more than 80 minutes worth of music in your playlist, it won't fit on the disc. Please remove songs until you have 79.9 minutes or less.";
+
+/* No comment provided by engineer. */
+"str_tryout" = "The tryout version of the burning plugin only allows 2 songs to be burned per disc.  If you want to burn more, please purchase the plugin.";
+
+/* we couldn't figure out what went wrong during the burn */
+"Strange Status State in Burning Plugin" = "Strange Status State in Burning Plugin";
+
+/* No comment provided by engineer. */
+"That's not a writable CD!" = "That's not a writable CD!";
+
+/* No comment provided by engineer. */
+"The Burning plugin requires MacOS 10.4 or later!" = "The Burning plugin requires MacOS 10.4 or later!";
+
+/* No comment provided by engineer. */
+"Tryout Only (2 songs per disc)" = "Tryout Only (2 songs per disc)";
+
+/* No comment provided by engineer. */
+"Unable to create burn track" = "Unable to create burn track";
+
+/* No comment provided by engineer. */
+"Unknown Status" = "Unknown Status";
+

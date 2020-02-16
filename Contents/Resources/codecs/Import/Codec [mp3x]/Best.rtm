@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MODE</key>
+	<integer>4</integer>
+	<key>QalT</key>
+	<integer>0</integer>
+	<key>RATE</key>
+	<integer>11</integer>
+	<key>SRat</key>
+	<integer>9</integer>
+	<key>VBrM</key>
+	<integer>4</integer>
+	<key>VBrQ</key>
+	<integer>0</integer>
+</dict>
+</plist>

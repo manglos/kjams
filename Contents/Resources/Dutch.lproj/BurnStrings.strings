@@ -1,0 +1,45 @@
+/* No comment provided by engineer. */
+"(none)" = "(geen)";
+
+/* No comment provided by engineer. */
+"Burning Plugin" = "Brand Plugin";
+
+/* No comment provided by engineer. */
+"Burning plugin has expired, please download the latest!" = "Branden plugin is verlopen, download aub de laatste!";
+
+/* this means, the software now has all functions, and is no longer limited (to 3 songs per playlist) */
+"Fully Functional" = "Volledig Funstioneel";
+
+/* No comment provided by engineer. */
+"Installs kJams Burner" = "Installeert kJams Burner";
+
+/* No comment provided by engineer. */
+"kJams Burning Plugin, v" = "kJams Brand Plugin, v";
+
+/* No comment provided by engineer. */
+"Plugin that allows kJams to burn new CD+G format discs." = "Plugin dat kJams toestaat nieuwe CD+G formaat op discs te branden.";
+
+/* No comment provided by engineer. */
+"str_too_long" = "U heeft meer dan 80 minuten muziek in uw afspeellijst, het past niet op de disc. Verwijder aub liedjes totdat u 79.9 minuten of minder heeft.";
+
+/* No comment provided by engineer. */
+"str_tryout" = "De probeer versie van de brand plugin staat toe maar 2 liedjes per disc te branden. Als u meer wilt branden, koop dan aub u de plugin.";
+
+/* we couldn't figure out what went wrong during the burn */
+"Strange Status State in Burning Plugin" = "Vreemde Status Staat in Brand Plugin";
+
+/* No comment provided by engineer. */
+"That's not a writable CD!" = "Dat is geen schrijfbare CD!";
+
+/* No comment provided by engineer. */
+"Tryout Only (2 songs per disc)" = "Alleen Proberen (2 liedjes per disc)";
+
+/* No comment provided by engineer. */
+"Unable to create burn track" = "Onmogelijk om brand track te maken";
+
+/* No comment provided by engineer. */
+"Unable to create correct burn track, due to an apple bug.  Expect a fix for this soon, sorry." = "Onmogelijk om juiste brand track te maken, door een apple bug. We verwachten spoedig een oplossing hiervoor, het spijt ons.";
+
+/* No comment provided by engineer. */
+"Unknown Status" = "Onbekende Status";
+

@@ -1,0 +1,30 @@
+/* No comment provided by engineer. */
+"(none)" = "(Nici un)";
+
+/* this means, the software now has all functions, and is no longer limited (to 3 songs per playlist) */
+"Fully Functional" = "Plin funcționabil";
+
+/* No comment provided by engineer. */
+"kJams Producer Plugin, v" = "kJams Producer Plugin, v";
+
+/* No comment provided by engineer. */
+"Plugin that allows kJams to edit existing or create new CD+G files." = "Pluginul care permite lui kJams să editeteze existente, sau să creeze CD+G fișiere noi.";
+
+/* No comment provided by engineer. */
+"Producer Plugin" = "Producer Plugin";
+
+/* No comment provided by engineer. */
+"Producer plugin has expired, please download the latest!" = "Producer pluginul este expirat, te rog descarcă ultimul!";
+
+/* No comment provided by engineer. */
+"str_tryout" = "Versiunea test de Producer desenează x-uri roșii in elemente. Dacă nu dorești aceasta te rog cumpără pluginul.";
+
+/* we couldn't figure out what went wrong */
+"Strange Status State in Producer Plugin" = "State Statut necunoscut in Producer Plgin";
+
+/* No comment provided by engineer. */
+"Tryout Only (Red X's appear in your elements)" = "Numai Versiune de Test (x-uri roșii apar în elemente)";
+
+/* No comment provided by engineer. */
+"Unknown Status" = "Statut necunoscut";
+

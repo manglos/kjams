@@ -1,0 +1,72 @@
+#	a comment line must begin with a pound sign (#), blank lines are ignored
+
+#	modifier keys are as follows
+#	c = control key
+#	s = shift key
+#	a = alt key
+
+#	they may come in any order, eg: "asc" is the same as "csa"
+#	they must be followed by a dash character, eg: -
+
+# you can have NO modifier keys, in which case you just use the dash by itself, see examples below
+#	that is followed by the UNMODIFIED version of the key you want to use
+#	ie: if you want shift-S then specify "s-s", not "s-S"
+#	ergo: you can not use keys which require shifting, controlling, or alting
+#	eg: the @ sign is not legal (shift 2 on US keyboards), but you can use "s-2"
+
+# the delimiter between menu name and shortcut MUST be "quote space equals space quote", the 
+# parser is NOT tolerant of white space (no extra spaces, no tabs)
+
+# virtual keys are also supported, see:
+# http://msdn.microsoft.com/en-us/library/dd375731%28v=VS.85%29.aspx
+# to use them you must enter the hex value associated with it, eg: for the left arrow, you will
+# see VK_LEFT = 0x25, so use "-0x25" 
+
+# the following table adds to the default existing shortcuts.  
+# to *remove* a shortcut from the default, just enter a 
+# blank line, eg: to remove the "New Playlist" Ctrl-N, do this:
+# "Menu/File/New Playlist" = "-"
+# then you can use Ctrl-N somewhere else.  (this is not recommended)
+
+# lines must end with a semi-colon: ;
+
+"SubMenu/Sync-Slipping/Global Slip Back" = "as--";
+
+"Menu/Controls/Cue to start" = "a-c";
+"Menu/File/Reveal in Explorer" = "cs-r";
+"Menu/File/Get Media Info?" = "cs-i";
+"Menu/Edit/Redo" = "cs-z";
+"Menu/Edit/Clear" = "-0x2E";
+"Menu/Edit/Deselect All" = "cs-a";
+"Menu/Edit/Find in Library" = "cs-f";
+
+# sorry, but you can't change these three, they are required
+"Menu/Controls/Play" = "-0x20";
+"Menu/Controls/Next" = "a-0x27";
+"Menu/Controls/Back" = "a-0x25";
+
+"Menu/Controls/Volume Up" = "c-0x26";
+"Menu/Controls/Volume Down" = "c-0x28";
+"Menu/Controls/Mute" = "cs-0x28";
+
+"Menu/Controls/Mic Up" = "a-0x26";
+"Menu/Controls/Mic Down" = "a-0x28";
+"Menu/Controls/Mic Mute" = "as-0x28";
+
+"Menu/Controls/Suppress Left Channel Vocal" = "ca-l";
+"Menu/Controls/Suppress Right Channel Vocal" = "ca-r";
+"Menu/Controls/Suppress Center Channel Vocal" = "ca-c";
+
+"SubMenu/Special/Set Launch File?" = "c-y";
+
+"SubMenu/Sync-Slipping/Global Slip AirFoil" = "cs-=";
+"SubMenu/Sync-Slipping/Global Slip Back" = "as--";
+"SubMenu/Sync-Slipping/Global Slip Forward" = "as-=";
+"SubMenu/Sync-Slipping/Global No Slip" = "as-0";
+
+"SubMenu/Sync-Slipping/Song Slip Back" = "a--";
+"SubMenu/Sync-Slipping/Song Slip Forward" = "a-=";
+"SubMenu/Sync-Slipping/Song No Slip" = "a-0";
+
+"Menu/Video/Messenger Message?" = "c-m";
+"Menu/Video/Loop Messenger" = "c-l";

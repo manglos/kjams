@@ -1,0 +1,3956 @@
+/* number of times the song has been sung */
+"# Sung" = "# $úñg ôñè";
+
+/* plural: two or more */
+"%d serial number files have been saved to the Desktop." = "%d sèrïál ñúmbèr ƒïlès hávè bèèñ sávèd tô thè Dèsktôp. ôñè twô thrèè ƒôúr";
+
+/* first is name of program */
+"%s only allows you to export up to 10 songs to QuickTime." = "%s ôñl¥ állôws ¥ôú tô èxpôrt úp tô 10 sôñgs tô QúïçkTïmè. ôñè twô thrèè ƒôúr";
+
+/* first is name of program, 2nd is playlist type */
+"%s only allows you to have up to %ld items in a “%s” playlist." = "%1$s ôñl¥ állôws ¥ôú tô hávè úp tô %2$ld ïtèms ïñ á “%3$s” plá¥lïst. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* first is name of program, 2nd is number of singers, 3rd is playlist type */
+"%s only allows you to have up to %ld singers in a “%s” playlist." = "%1$s ôñl¥ állôws ¥ôú tô hávè úp tô %2$ld sïñgèrs ïñ á “%3$s” plá¥lïst. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* first is name of program, 2nd is playlist type */
+"%s only allows you to rip the first %ld songs in a “%s” playlist." = "%1$s ôñl¥ állôws ¥ôú tô rïp thè ƒïrst %2$ld sôñgs ïñ á “%3$s” plá¥lïst. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* first is name of application, second is version number */
+"%s version %s is now available!" = "%1$s vèrsïôñ %2$s ïs ñôw áváïláblè! ôñè twô thrèè";
+
+/* either one */
+"%s” or “%s" = "%1$s” ôr “%2$s ôñè twô";
+
+/* expires on date */
+"(Expires: %s)" = "(Éxpïrès: %s) ôñè ";
+
+/* does not expire */
+"(No Expiration)" = "(Ñô Éxpïrátïôñ) ôñè twô";
+
+/* No comment provided by engineer. */
+"(Not Verified)" = "(Ñôt Vèrïƒïèd) ôñè twô";
+
+/* change the pitch */
+"(Pitch Bend: %+d)" = "(Pïtçh Bèñd: %+d) ôñè twô";
+
+/* as in, you can try this out for free, and pay later when you want */
+"(Tryout)" = "(Tr¥ôút) 123";
+
+/* indicates a song has vocals.  note preceeding space and parens */
+"(With Vocals)" = "(Wïth Vôçáls) ôñè ";
+
+/* you can download this */
+"* Download" = "* Dôwñlôád ôñè";
+
+/* No comment provided by engineer. */
+"* Singer PW" = "* $ïñgèr PW ôñè ";
+
+/* name of store */
+"* Store ID" = "* $tôrè ÍD ôñè";
+
+/* you can stream this */
+"* Stream" = "* $trèám ôñè";
+
+/* service level */
+"* Tier" = "* Tïèr ôñè";
+
+/* No comment provided by engineer. */
+": Free sign up required" = ": ƒrèè sïgñ úp rèqúïrèd ôñè twô";
+
+/* the name of the space bar key */
+"[space]" = "[spáçè] 123";
+
+/* No comment provided by engineer. */
+"A general connection failure has occured. Do you have “WebGuard” or a FireWall?" = "Á gèñèrál çôññèçtïôñ ƒáïlúrè hás ôççúrèd. Dô ¥ôú hávè “WèbGúárd” ôr á ƒïrèWáll? ôñè twô thrèè ƒôúr ƒïvè ";
+
+/* No comment provided by engineer. */
+"A parameter is incorrect." = "Á párámètèr ïs ïñçôrrèçt. ôñè twô ";
+
+/* No comment provided by engineer. */
+"A purchase attempt was unsuccessful." = "Á púrçhásè áttèmpt wás úñsúççèssƒúl. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"A SKU update is available from the eSellerate Servers." = "Á $KÚ úpdátè ïs áváïláblè ƒrôm thè è$èllèrátè $èrvèrs. ôñè twô thrèè ƒôúr";
+
+/* mmm */
+"A song you are trying to delete is currently playing.  Are you sure you want to delete it?" = "Á sôñg ¥ôú árè tr¥ïñg tô dèlètè ïs çúrrèñtl¥ plá¥ïñg.  Árè ¥ôú súrè ¥ôú wáñt tô dèlètè ït? ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* No comment provided by engineer. */
+"Abort orphan encoding" = "Ábôrt ôrpháñ èñçôdïñg ôñè twô";
+
+/* No comment provided by engineer. */
+"Abort QT exporters" = "Ábôrt QT èxpôrtèrs ôñè twô";
+
+/* No comment provided by engineer. */
+"Aborting background activities…" = "Ábôrtïñg báçkgrôúñd áçtïvïtïès… ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"About to check for Music Store updates…" = "Ábôút tô çhèçk ƒôr Músïç $tôrè úpdátès… ôñè twô thrèè";
+
+/* you are trying to do something you should not do */
+"Action not allowed" = "Áçtïôñ ñôt állôwèd ôñè twô";
+
+/* No comment provided by engineer. */
+"Activating" = "Áçtïvátïñg 123";
+
+/* No comment provided by engineer. */
+"Activation Key is Invalid" = "Áçtïvátïôñ Kè¥ ïs Íñválïd ôñè twô ";
+
+/* Activity window, shows running threads */
+"Activity" = "Áçtïvït¥ 123";
+
+/* length of song not including silence at start and end */
+"Actual Duration" = "Áçtúál Dúrátïôñ ôñè twô";
+
+/* track is the song on the disc, proxy means <substitute> or <replacement> */
+"Add CD Track Proxy Song…" = "Ádd ÇD Tráçk Prôx¥ $ôñg… ôñè twô ";
+
+/* undo string */
+"Add Picture" = "Ádd Pïçtúrè ôñè ";
+
+/* as in, this was put in or entered or inputted */
+"Added:" = "Áddèd: 12";
+
+/* gathering song name index */
+"Adding Song Entries…" = "Áddïñg $ôñg Éñtrïès… ôñè twô";
+
+/* adding to [name of playlist] */
+"Adding songs to “%s”…" = "Áddïñg sôñgs tô “%s”… ôñè twô";
+
+/* adding songs */
+"Adding to Library…" = "Áddïñg tô Lïbrár¥… ôñè twô";
+
+/* i am agreeing to this */
+"Agree" = "Ágrèè 12";
+
+/* where the song resides */
+"Album" = "Álbúm 12";
+
+/* No comment provided by engineer. */
+"All %d songs were already downloaded." = "Áll %d sôñgs wèrè álrèád¥ dôwñlôádèd. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"All sales are FINAL there are NO REFUNDS." = "Áll sálès árè ƒÍÑÁL thèrè árè ÑÓ RÉƒÚÑD$. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"All the data on the disc will be lost" = "Áll thè dátá ôñ thè dïsç wïll bè lôst ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"All warnings have been reset to their default values." = "Áll wárñïñgs hávè bèèñ rèsèt tô thèïr dèƒáúlt válúès. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"Allocating CDPedia" = "Állôçátïñg ÇDPèdïá ôñè twô";
+
+/* No comment provided by engineer. */
+"Already Reported This Error" = "Álrèád¥ Rèpôrtèd Thïs Érrôr ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"already_converted" = "Thïs lïçèñsè hás álrèád¥ bèèñ çôñvèrtèd ôñçè, áñd çáñ't bè áútômátïçáll¥ rèçôvèrèd. Íñstèád, wè ñèèd tô èmáïl ¥ôúr lïçèñsè tô ¥ôú, áñd ¥ôú çáñ èñtèr thè sèrïál ñúmbèr máñúáll¥. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè ";
+
+/* always just try it anyway */
+"Always Attempt" = "Álwá¥s Áttèmpt ôñè twô";
+
+/* No comment provided by engineer. */
+"An activation attempt failed due to the maximum number of allowable activations being met." = "Áñ áçtïvátïôñ áttèmpt ƒáïlèd dúè tô thè máxïmúm ñúmbèr ôƒ állôwáblè áçtïvátïôñs bèïñg mèt. ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* No comment provided by engineer. */
+"An activation attempt was made on an invalid order." = "Áñ áçtïvátïôñ áttèmpt wás mádè ôñ áñ ïñválïd ôrdèr. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"An attempt was made to activate an blacklisted serial number." = "Áñ áttèmpt wás mádè tô áçtïvátè áñ bláçklïstèd sèrïál ñúmbèr. ôñè twô thrèè ƒôúr ";
+
+/* No comment provided by engineer. */
+"An attempt was made to activate an unknown serial number." = "Áñ áttèmpt wás mádè tô áçtïvátè áñ úñkñôwñ sèrïál ñúmbèr. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"An error occured finalizing the activation on the client machine." = "Áñ èrrôr ôççúrèd ƒïñálïzïñg thè áçtïvátïôñ ôñ thè çlïèñt máçhïñè. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"An internal error has occured in the engine." = "Áñ ïñtèrñál èrrôr hás ôççúrèd ïñ thè èñgïñè. ôñè twô thrèè ";
+
+/* No comment provided by engineer. */
+"An unknown server error has occured." = "Áñ úñkñôwñ sèrvèr èrrôr hás ôççúrèd. ôñè twô thrèè";
+
+/* http://en.wikipedia.org/wiki/Anti-alias */
+"Anti-alias" = "Áñtï-álïás 123";
+
+/* No comment provided by engineer. */
+"Applause!" = "Áppláúsè! 123";
+
+/* undo string */
+"Apply Template" = "Áppl¥ Tèmplátè ôñè twô";
+
+/* size will be in (b, K, MB, GB, TB), indicates how big it would be if the cache were filled to maximum.  let me know if the units need to be localized */
+"Approximate size of cache if filled: %s" = "Ápprôxïmátè sïzè ôƒ çáçhè ïƒ ƒïllèd: %s ôñè twô thrèè";
+
+/* mmm */
+"Are you sure you want reveal %d songs in the Finder?" = "Árè ¥ôú súrè ¥ôú wáñt rèvèál %d sôñgs ïñ thè ƒïñdèr? ôñè twô thrèè ƒôúr";
+
+/* mmm */
+"Are you sure you want to deactivate kJams on this computer?  If you deactivate, kJams will revert to Tryout mode, and you can then use your serial number on a different computer." = "Árè ¥ôú súrè ¥ôú wáñt tô dèáçtïvátè kJáms ôñ thïs çômpútèr?  Íƒ ¥ôú dèáçtïvátè, kJáms wïll rèvèrt tô Tr¥ôút môdè, áñd ¥ôú çáñ thèñ úsè ¥ôúr sèrïál ñúmbèr ôñ á dïƒƒèrèñt çômpútèr. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô";
+
+/* yep */
+"Are you sure you want to delete the selected singer(s)?" = "Árè ¥ôú súrè ¥ôú wáñt tô dèlètè thè sèlèçtèd sïñgèr(s)? ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"Are you sure you want to interrupt the current song?" = "Árè ¥ôú súrè ¥ôú wáñt tô ïñtèrrúpt thè çúrrèñt sôñg? ôñè twô thrèè ƒôúr";
+
+/* yes? */
+"Are you sure you want to permanantly delete playlist “%s”?  You can not undo this action." = "Árè ¥ôú súrè ¥ôú wáñt tô pèrmáñáñtl¥ dèlètè plá¥lïst “%s”?  ¥ôú çáñ ñôt úñdô thïs áçtïôñ. ôñè twô thrèè ƒôúr ƒïvè sïx ";
+
+/* mmm */
+"Are you sure you want to remove the selected track references? (no actual files will be deleted)" = "Árè ¥ôú súrè ¥ôú wáñt tô rèmôvè thè sèlèçtèd tráçk rèƒèrèñçès? (ñô áçtúál ƒïlès wïll bè dèlètèd) ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* mmm */
+"Are you sure you want to scan every single song for graphic lyrics?  This will take a VERY long time." = "Árè ¥ôú súrè ¥ôú wáñt tô sçáñ èvèr¥ sïñglè sôñg ƒôr gráphïç l¥rïçs?  Thïs wïll tákè á VÉR¥ lôñg tïmè. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"Are you sure you want to switch to the venue “%s”?" = "Árè ¥ôú súrè ¥ôú wáñt tô swïtçh tô thè vèñúè “%s”? ôñè twô thrèè ƒôúr";
+
+/* asking for confirmation */
+"Are you sure?" = "Árè ¥ôú súrè? ôñè ";
+
+/* No comment provided by engineer. */
+"Are your credentials correct?" = "Árè ¥ôúr çrèdèñtïáls çôrrèçt? ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Argument list too long" = "Árgúmèñt lïst tôô lôñg ôñè twô";
+
+/* Artist of song */
+"Artist" = "Ártïst 12";
+
+/* No comment provided by engineer. */
+"Ask for Password" = "Ásk ƒôr Pásswôrd ôñè twô";
+
+/* part of a Bin/Cue pair of files */
+"Assembling Bin file:" = "Ássèmblïñg Bïñ ƒïlè: ôñè twô";
+
+/* for burning */
+"Assembling Disc Image" = "Ássèmblïñg Dïsç Ímágè ôñè twô";
+
+/* eeeks! */
+"Assert Fail: %s, in file: '%s' at line %ld" = "Ássèrt ƒáïl: %1$s, ïñ ƒïlè: '%2$s' át lïñè %3$ld ôñè twô thrèè ƒôúr";
+
+/* bummer */
+"At least one of these songs is missing." = "Át lèást ôñè ôƒ thèsè sôñgs ïs mïssïñg. ôñè twô thrèè";
+
+/* try to see if it works */
+"Attempt" = "Áttèmpt 123";
+
+/* sound track */
+"Audio" = "Áúdïô 12";
+
+/* this translation must EXACTLY match what the finder shows as the DISC title when you put in a disc that has no meta info */
+"Audio CD" = "Áúdïô ÇD ôñè";
+
+/* this translation must EXACTLY match what the finder shows as a TRACK title when you put in a disc that has no meta info */
+"Audio Track" = "Áúdïô Tráçk ôñè ";
+
+/* warning */
+"auth_tools_blurb" = "kJáms má¥ ñôw ásk ¥ôú ƒôr ¥ôúr çômpútèr's Lôgïñ Pásswôrd.  Thïs ïs ƒôr úpdátïñg ït's áúthôrïzátïôñ tôôls. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* warning */
+"auth_twice_blurb" = "kJáms wïll ásk ¥ôú ƒôr ¥ôúr çômpútèr's Lôgïñ Pásswôrd twô tïmès, thèñ ït wïll ñôt ásk ágáïñ.  Thèsè árè ƒôr: 1) tô állôw kjáms tô áútô-úpdátè áñd 2) tô állôw kJáms tô úsè sèrvèr pôrt 80 whèñ ¥ôú èñáblè thè kJáms wèb sèrvèr. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"Authorizing" = "Áúthôrïzïñg 1234";
+
+/* video background contents.  (eg: colors? movie? black?) */
+"Background" = "Báçkgrôúñd 123";
+
+/* this song has backing vocals */
+"Backing Vocals" = "Báçkïñg Vôçáls ôñè twô";
+
+/* No comment provided by engineer. */
+"Bad address" = "Bád áddrèss ôñè ";
+
+/* No comment provided by engineer. */
+"Bad file descriptor" = "Bád ƒïlè dèsçrïptôr ôñè twô";
+
+/* No comment provided by engineer. */
+"Bad file name (eg: no colons allowed)" = "Bád ƒïlè ñámè (èg: ñô çôlôñs állôwèd) ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Bad File Reference Number" = "Bád ƒïlè Rèƒèrèñçè Ñúmbèr ôñè twô ";
+
+/* validate blurb */
+"bad_cc_ms_blurb" = "Vèrïƒ¥ ¥ôú árè çôññèçtèd tô thè ñètwôrk.  Ór pèrháps ¥ôúr çrèdït çárd ñúmbèr wás t¥pèd wrôñg? Ór thè ÇVV2 Çôdè?  Thè çárd ñúmbèr múst bè ƒrôm Vïsá ôr MástèrÇárd múst çôñtáïñ ñô dáshès ôr spáçès. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè";
+
+/* message */
+"bad_drive_blurb" = "Tèrrïbl¥ sôrr¥, bút ¥ôúr ÇD-RÓM drïvè sïmpl¥ dôès ñôt súppôrt rèádïñg ÇD+G dïsçs.  ¥ôú'll ñèèd tô gèt áñôthèr drïvè.  ƒôr á lïst ôƒ súppôrtèd drïvès, çhèçk thè ƒÁQ. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè";
+
+/* warning */
+"bad_encode_blurb" = "$ôrr¥, ït sèèms ¥ôúr Áúdïô Çômprèssïôñ sèttïñgs hávè çrèátèd á sïtúátïôñ thát QúïçkTïmè çáñ't úñdèrstáñd.  ¥ôú'll hávè tô môdïƒ¥ ¥ôúr sèttïñgs áñd rè-rïp thè sôñg. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ";
+
+/* warning */
+"bad_id3_blurb" = "Óñè ôr môrè ôƒ ¥ôúr MP3 ƒïlès hás ïñválïd ÍD3 tágs.  Ít ïs èás¥ èñôúgh tô ƒïx, júst úsè thè mèñú çômmáñd: “Ádváñçèd->Çôñvèrt $èlèçtïôñ Tô…”. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè";
+
+/* warning */
+"bad_mp3_blurb" = "Óñè ôr môrè ôƒ ¥ôúr MP3 ƒïlès má¥ bè çôrrúptèd.  ƒôr èáçh ôñè, tr¥ tô plá¥ ït.  Íƒ ït dôès ñôt plá¥, thèñ dèlètè ït b¥ sèlèçtïñg ït áñd çhôôsïñg thè mèñú çômmáñd: “Édït->Trásh Órïgïñál ƒïlès…”. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè";
+
+/* the %s is <<Edit->Trash Original Files>> */
+"bad_tags_blurb" = "Thè sôñg's MP3 ÍD3 Tágs (Mètá dátá) çôúld ñôt bè úpdátèd dúè tô áñ èrrôr. Íƒ ¥ôú çáñ plá¥ thè sôñg, ¥ôú shôúld rè-èñçôdè ït, whïçh wïll ƒïx thè èrrôr. Óthèrwïsè ¥ôú shôúld sèlèçt thè sôñg áñd ƒrôm thè mèñú bár pïçk %s. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr";
+
+/* self explanatory */
+"bad_template_blurb" = "¥ôúr çúrrèñt Tág Wrïtïñg tèmplátè (“%s”), dôès ñôt çôñtáïñ èvèr¥ tèmplátè t¥pè.  $ïñçè ¥ôú árè èxpôrtïñg tô á ƒlát lïst, thïs çôúld ôvèrwrïtè ƒïlès.  Plèásè sèlèçt á “Çôñƒôrm $ôñg Ñámès” tèmplátè thát hás èvèr¥ tèmplátè t¥pè, èg: “L-T - R - $”. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx ";
+
+/* warning */
+"bad_zip_blurb" = "Óñè ôr môrè ôƒ ¥ôúr zïp ƒïlès má¥ bè çôrrúptèd.  Thèrè árè sômè thïñgs ¥ôú çáñ tr¥ tô ƒïx ït.  Íƒ ït çáñ ñôt bè ƒïxèd, thèñ dèlètè ït b¥ sèlèçtïñg ït áñd çhôôsïñg thè mèñú çômmáñd: “Édït->Trásh Órïgïñál ƒïlès…”. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"Badly mastered disc, or it is not really a CD" = "Bádl¥ mástèrèd dïsç, ôr ït ïs ñôt rèáll¥ á ÇD ôñè twô thrèè ";
+
+/* verb as in 'make this permanent' */
+"Bake" = "Bákè 12";
+
+/* a type of audio file ready for buring to disc */
+"Bin/Cue file" = "Bïñ/Çúè ƒïlè ôñè ";
+
+/* shown when you attempt to rip to bin/cue */
+"bin_cue_ask_blurb" = "Ñôtè: bïñ/çúè má¥ ñôt bè whát ¥ôú wáñt.  Rïppïñg tô bïñ/çúè ƒïlès wïll çrèátè áñ úñçômprèssèd çôp¥ ôƒ ¥ôúr èñtïrè ÇD (úp tô 800 MB), whïçh wïll lïvè ôútsïdè ¥ôúr “kJáms Músïç” ƒôldèr. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô ";
+
+/* short for ‘biography’, history and information about a person */
+"Bio" = "Bïô 1";
+
+/* bit rate of compressed audio */
+"Bit Rate" = "Bït Rátè ôñè";
+
+/* the background has only black in it */
+"Black" = "Bláçk 12";
+
+/* make the background have nothing in it */
+"Black Background" = "Bláçk Báçkgrôúñd ôñè twô";
+
+/* beats per minute */
+"BPM" = "BPM 1";
+
+/* technical error, unix command could not be redirected */
+"Broken pipe" = "Brôkèñ pïpè ôñè ";
+
+/* building as in creating or constructing */
+"Building CDG" = "Búïldïñg ÇDG ôñè ";
+
+/* No comment provided by engineer. */
+"Building Playlist: %s" = "Búïldïñg Plá¥lïst: %s ôñè twô";
+
+/* No comment provided by engineer. */
+"Building SMS Gateways" = "Búïldïñg $M$ Gátèwá¥s ôñè twô";
+
+/* No comment provided by engineer. */
+"Building Venues" = "Búïldïñg Vèñúès ôñè twô";
+
+/* warning */
+"bummer_download" = "$ôrr¥, thèrè wás áñ èrrôr úñzïppïñg ¥ôúr dôwñlôád.  Júst gô tô thè wèb sïtè áñd dôwñlôád ït máñúáll¥. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* warning */
+"bummer_plugin" = "$ôrr¥, thèrè wás áñ èrrôr lôçátïñg ¥ôúr plúgïñ ƒôr ïñstállátïôñ.  Plèásè çôñtáçt dávè. ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* burn an entire disc from a pair of files with .bin and .cue extensions */
+"Burn bin/cue to disc…" = "Búrñ bïñ/çúè tô dïsç… ôñè twô";
+
+/* No comment provided by engineer. */
+"Burn completed, ejecting Disc…" = "Búrñ çômplètèd, èjèçtïñg Dïsç… ôñè twô thrèè";
+
+/* bummer */
+"Burn Failed:" = "Búrñ ƒáïlèd: ôñè ";
+
+/* description of the dialog where the user will choose (pick) the order of the songs on the burned disc */
+"Burn Order Choice" = "Búrñ Órdèr Çhôïçè ôñè twô";
+
+/* be happy */
+"burn_activ_success_blurb" = "¥ôú wïll shôrtl¥ rèçèïvè áñ è-máïl rèçèïpt, plèásè kèèp á báçkúp ôƒ thïs, sïñçè ït wïll çôñtáïñ ¥ôúr sèrïál ñúmbèr, ïñ çásè ¥ôú ñèèd tô rèïñstáll. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè";
+
+/* warning */
+"burn_not_sorted_blurb" = "Thïs plá¥lïst ïs ñôt shôwñ ïñ Úsèr $ôrt ôrdèr.  Wôúld ¥ôú lïkè tô búrñ thè lïst wïth thè çúrrèñt sôrt ôrdèr (“%1$s”)?  Ór dô ¥ôú wáñt thè lïst tô búrñ úsïñg thè Úsèr $ôrt ôrdèr (“%2$s”)?  Ñôtè: búrñïñg wïth thè çúrrèñt sôrt ôrdèr wïll rèñúmbèr thè Úsèr $ôrt ôrdèr tô mátçh. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* warning */
+"burn_prep_mismatch_blurb" = "Thèrè wás á prôblèm ássèmblïñg thè %1$s “%2$s” ƒôr búrñïñg, thè vïdèô sïzè wás %3$d, whïlè thè áúdïô sïzè wás %4$d. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* warning */
+"burn_test_blurb" = "Á wèb págè hás ôpèñèd èxpláïñïñg hôw tô dô á tèst búrñ.  Hávè ¥ôú ƒôllôwèd áll thè ïñstrúçtïôñs? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* yep */
+"Burning Plugin API out of date, upgrade the plugin." = "Búrñïñg Plúgïñ ÁPÍ ôút ôƒ dátè, úpgrádè thè plúgïñ. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"Burning Plugin not detected." = "Búrñïñg Plúgïñ ñôt dètèçtèd. ôñè twô thrèè";
+
+/* Music_Store/Business_Info */
+"Business ID:" = "Búsïñèss ÍD: ôñè ";
+
+/* No comment provided by engineer. */
+"Business Information" = "Búsïñèss Íñƒôrmátïôñ ôñè twô";
+
+/* verb: purchase (shortest possible word that conveys the meaning) */
+"Buy" = "Bú¥ 1";
+
+/* verb: purchase the song */
+"Buy Song" = "Bú¥ $ôñg ôñè";
+
+/* warning */
+"buy_for_burning_ask" = "Árè ¥ôú bú¥ïñg kJáms sô thát ¥ôú çáñ úsè ït tô Búrñ (wrïtè) ÇD+G dïsçs? ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"By clicking “%s”, you agree to be charged USD $%s for 48 hours of streaming time." = "B¥ çlïçkïñg “%1$s”, ¥ôú ágrèè tô bè çhárgèd Ú$D $%2$s ƒôr 48 hôúrs ôƒ strèámïñg tïmè. ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* No comment provided by engineer. */
+"Cache folder not found, resetting to default location." = "Çáçhè ƒôldèr ñôt ƒôúñd, rèsèttïñg tô dèƒáúlt lôçátïôñ. ôñè twô thrèè ƒôúr";
+
+/* warning */
+"cache size blurb" = "¥ôúr çáçhè sïzè hás bèèñ ádjústèd tô áççômôdátè ƒôr thè ñúmbèr ôƒ sôñgs ïñ thïs plá¥lïst.  ¥ôú má¥ wáñt tô rè-ádjúst ït áƒtèr thè búrñ ƒïñïshès. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè";
+
+/* copying the data to local storage */
+"Cacheing Audio stream:" = "Çáçhèïñg Áúdïô strèám: ôñè twô";
+
+/* pre-loading data */
+"Cacheing file formats…" = "Çáçhèïñg ƒïlè ƒôrmáts… ôñè twô ";
+
+/* pre-loading data */
+"Cacheing search paths…" = "Çáçhèïñg sèárçh páths… ôñè twô ";
+
+/* No comment provided by engineer. */
+"Cacheing Streaming Song" = "Çáçhèïñg $trèámïñg $ôñg ôñè twô";
+
+/* No comment provided by engineer. */
+"Calculating Playlist durations…" = "Çálçúlátïñg Plá¥lïst dúrátïôñs… ôñè twô thrèè";
+
+/* sorry */
+"Can't Delete Playlist" = "Çáñ't Dèlètè Plá¥lïst ôñè twô";
+
+/* bummer */
+"Can't extract this media type on a background thread." = "Çáñ't èxtráçt thïs mèdïá t¥pè ôñ á báçkgrôúñd thrèád. ôñè twô thrèè ƒôúr";
+
+/* bummer */
+"Can't move this media type to a background thread." = "Çáñ't môvè thïs mèdïá t¥pè tô á báçkgrôúñd thrèád. ôñè twô thrèè ƒôúr";
+
+/* no no */
+"Can't re-order the currently playing song" = "Çáñ't rè-ôrdèr thè çúrrèñtl¥ plá¥ïñg sôñg ôñè twô thrèè";
+
+/* bummer */
+"Can't skip back to previous rotation" = "Çáñ't skïp báçk tô prèvïôús rôtátïôñ ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Cancellable at any time." = "Çáñçèlláblè át áñ¥ tïmè. ôñè twô ";
+
+/* No comment provided by engineer. */
+"Cannot allocate memory" = "Çáññôt állôçátè mèmôr¥ ôñè twô";
+
+/* don't translate 'kJams Music' cuz it's used in the finder */
+"cant_add_library" = "¥ôú çáñ't ádd sôñgs thát rèsïdè ïñ thè “kJáms Músïç” ƒôldèr tô ¥ôúr lïbrár¥.  Íƒ ¥ôú thïñk ¥ôú shôúld dô thát thèñ ¥ôú'vè dôñè sômèthïñg wrôñg. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè ";
+
+/* eek */
+"cant_find_pl_singer_blurb" = "Túrñs ôút thát plá¥lïst bèlôñgèd tô á sïñgèr. Bút Í dôñ't kñôw whïçh ôñè.  $ô ï'm gôïñg tô júst mákè ït á règúlár plá¥lïst, sôrr¥.  ¥ôú çáñ tr¥ tô ƒïñd thát sïñgèr áñd drág thè ïtèms báçk ïñtô thèïr plá¥lïst. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ";
+
+/* bummer */
+"cant_use_case_sens" = "kJáms çáñ ñôt úsè “Çásè $èñsïtïvè” ƒôrmáttèd drïvès dúè tô sèvèrál tèçhñïçál ƒáçtôrs Í wôñ't gô ïñtô hèrè. Tô úsè thè músïç ôñ thïs drïvè, ¥ôú múst rèƒôrmát thè drïvè wïthôút “Çásè $èñsïtïvè”. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè";
+
+/* bummer */
+"cant_use_ntfs" = "kJáms çáñ ñôt úsè ÑTƒ$ ƒôrmáttèd drïvès bèçáúsè thè MáçÓ$ dôès ñôt ñátïvèl¥ hávè thè ábïlït¥ tô wrïtè tô vôlúmès ôƒ thïs t¥pè.  Íƒ ¥ôú rèqúïrè çômpátïbïlït¥ wïth Wïñdôws, ¥ôú múst rèƒôrmát thè drïvè ás ƒÁT. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè";
+
+/* message */
+"CantRunEseSucks1" = "kJáms wïll rúñ ôñ ¥ôúr s¥stèm, át lèást ïñ Tr¥ôút môdè, bút rèqúïrès %s ôr grèátèr ïñ ôrdèr tô púrçhásè ôr áçtïvátè á sèrïál ñúmbèr. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ";
+
+/* message */
+"CantRunEseSucks_okForNow1" = "kJáms ïs çúrrèñtl¥ áçtïvátèd ôñ ¥ôúr çômpútèr, bút ïƒ ït dôès rèvèrt tô 'Tr¥ôút' môdè, júst çôñtáçt kJáms tèçh súppôrt ƒôr hèlp. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* No comment provided by engineer. */
+"cb_blurb_1" = "$pèçïál tráçks árè ñôw áváïláblè thát çôñtáïñ ñô vôçáls. ¥ôú má¥ çôñtáçt Çhártbústèr ƒôr áddïtïôñál lïçèñsïñg thát állôws ¥ôú tô rèçôrd wïth thèsè tráçks. Thèsè tráçks rèqúïrè 7 çrèdïts ôr $14.99 tô púrçhásè, ñôt ïñçlúdïñg lïçèñsïñg ƒèè (rèqúïrèd). ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* No comment provided by engineer. */
+"cb_blurb_2" = "KáráôkèÇlôúd rèçèñtl¥ áddèd sôñgs tô thè stôrè thát dïd ñôt hávè Vïdèô L¥rïçs. Thïs hás bèèñ ƒïxèd, bút kJáms múst úpdátè thè músïç stôrè tô mákè súrè thè¥ árè rèmôvèd. Íƒ ¥ôú wïsh tô sèè thèm ïñ thè stôrè, ¥ôú çáñ túrñ ôñ thát ôptïôñ ïñ Prèƒèrèñçès -> $tôrès -> Édït Músïç $tôrè $èttïñgs -> Káráôkè Çlôúd. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè";
+
+/* 16 digit number */
+"CC Number:" = "ÇÇ Ñúmbèr: ôñè";
+
+/* type of credit card */
+"CC Type:" = "ÇÇ T¥pè: ôñè";
+
+/* track is the song on the disc, proxy means <substitute> or <replacement> */
+"CD Track Proxy" = "ÇD Tráçk Prôx¥ ôñè twô";
+
+/* obvious */
+"CD-ROM" = "ÇD-RÓM 12";
+
+/* key change offset in cents */
+"Cents" = "Çèñts 12";
+
+/* eeks */
+"CF_ASSERT Fail: Setting CD file status to empty!" = "Çƒ_Á$$ÉRT ƒáïl: $èttïñg ÇD ƒïlè státús tô èmpt¥! ôñè twô thrèè ƒôúr";
+
+/* bad situation */
+"CF_ASSERT Fail: Trying to tell a CD that it's not a CD" = "Çƒ_Á$$ÉRT ƒáïl: Tr¥ïñg tô tèll á ÇD thát ït's ñôt á ÇD ôñè twô thrèè ƒôúr";
+
+/* warning */
+"CF_ASSERT_crash_blurb" = "¥ôú árè ábôút tô çrásh.  Ít wôúld bè grèát ïƒ ¥ôú'd lèt kJáms çrásh, thèñ, *çáñçèl* thè Ápplè çrásh rèpôrtèr, thèñ rúñ kJáms ágáïñ áñd kJáms wïll ôƒƒèr ït's ôwñ çrásh rèpôrtèr. $èñd thïs çrásh rèpôrt tô Dávè sô hè çáñ ƒïx ït.  Íƒ ¥ôú wáñt, hôwèvèr, ¥ôú çáñ rïsk tr¥ïñg tô çôñtïñúè, bút thïs má¥ stïll çrásh áñ¥wá¥.  Íƒ ït dôès ñôt çrásh, dô á ƒôrçè sávè (çômmáñd-ôptïôñ-shïƒt-$), thèñ qúït áñd rè-rúñ ás sôôñ ás pôssïblè. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* warning */
+"CF_ASSERT_crash_blurb_win" = "¥ôú árè ábôút tô çrásh.  Ít wôúld bè grèát ïƒ ¥ôú'd lèt kJáms çrásh, áñd thèñ sèñd thè súbsèqúèñt çrásh rèpôrt tô Dávè sô hè çáñ ƒïx ït.  Íƒ ¥ôú wáñt, hôwèvèr, ¥ôú çáñ rïsk tr¥ïñg tô çôñtïñúè, bút thïs má¥ stïll çrásh áñ¥wá¥.  Íƒ ït dôès ñôt çrásh, dô á ƒôrçè sávè (çôñtrôl-ált-shïƒt-$), thèñ qúït áñd rè-rúñ ás sôôñ ás pôssïblè. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè";
+
+/* delete whatever it is */
+"Change All" = "Çháñgè Áll ôñè";
+
+/* name of dialog */
+"Change Cache Location?" = "Çháñgè Çáçhè Lôçátïôñ? ôñè twô";
+
+/* undo string */
+"Change CDG Stream" = "Çháñgè ÇDG $trèám ôñè twô";
+
+/* undo string: change font information */
+"Change Font Info" = "Çháñgè ƒôñt Íñƒô ôñè twô";
+
+/* name of dialog */
+"Change “kJams Music” Folder Location?" = "Çháñgè “kJáms Músïç” ƒôldèr Lôçátïôñ? ôñè twô thrèè";
+
+/* press this button to explode */
+"change_cache_warn_blurb" = "WÁRÑÍÑG: Thïs hás ñôthïñg tô dô wïth whèrè kJáms lôôks ƒôr ¥ôúr músïç.  Árè ¥ôú $ÚRÉ ¥ôú kñôw whát ¥ôú árè dôïñg? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ ";
+
+/* warning */
+"change_music_fold_warn_blurb" = "WÁRÑÍÑG: Thïs ƒôldèr ïs ÑÓT tô bè úsèd b¥ ¥ôú (thè úsèr).  Ít ïs úsèd ÓÑL¥ b¥ kJáms tô stôrè sôñgs rïppèd ƒrôm dïsç, ôr sôñgs púrçhásèd ïñ thè músïç stôrè. Ít ïs ÑÓT úsèd tô tèll kJáms whèrè tô sèárçh ƒôr músïç. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr";
+
+/* warning */
+"ChangeFileModePrompt" = "kJáms ïs áskïñg tô môdïƒ¥ á ƒïlè ôr ƒôldèr thát ïs rèstrïçtèd, áñd múst bè áúthôrïzèd ƒôr thïs. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* only these credit cards */
+"Chartbuster does not accept American Express" = "Çhártbústèr dôès ñôt áççèpt Ámèrïçáñ Éxprèss ôñè twô thrèè ";
+
+/* No comment provided by engineer. */
+"Check Catalog" = "Çhèçk Çátálôg ôñè ";
+
+/* No comment provided by engineer. */
+"Check Flip4Mac Version" = "Çhèçk ƒlïp4Máç Vèrsïôñ ôñè twô";
+
+/* confirm */
+"check_music_stores_blurb" = "Át lèást %d ôƒ ¥ôúr Músïç $tôrès má¥ bè ôút ôƒ dátè, wôúld ¥ôú lïkè tô dôwñlôád thè látèst úpdátès, ïƒ áñ¥? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"Checking App Version" = "Çhèçkïñg Ápp Vèrsïôñ ôñè twô";
+
+/* No comment provided by engineer. */
+"Checking Burner Version" = "Çhèçkïñg Búrñèr Vèrsïôñ ôñè twô";
+
+/* No comment provided by engineer. */
+"Checking Default Columns" = "Çhèçkïñg Dèƒáúlt Çôlúmñs ôñè twô ";
+
+/* mmm */
+"Checking original song files…" = "Çhèçkïñg ôrïgïñál sôñg ƒïlès… ôñè twô thrèè";
+
+/* sdf */
+"Checking Playlists…" = "Çhèçkïñg Plá¥lïsts… ôñè twô";
+
+/* No comment provided by engineer. */
+"Checking Producer Version" = "Çhèçkïñg Prôdúçèr Vèrsïôñ ôñè twô ";
+
+/* mmm */
+"Checking the playing song…" = "Çhèçkïñg thè plá¥ïñg sôñg… ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"City must not be empty" = "Çït¥ múst ñôt bè èmpt¥ ôñè twô";
+
+/* - */
+"City:" = "Çït¥: 12";
+
+/* emptying, tidying up */
+"Cleaning Folder" = "Çlèáñïñg ƒôldèr ôñè twô";
+
+/* see <<Vacuuming>> for comment */
+"Cleaning up after vacuuming" = "Çlèáñïñg úp áƒtèr váçúúmïñg ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Cleaning up alert messages" = "Çlèáñïñg úp álèrt mèsságès ôñè twô ";
+
+/* No comment provided by engineer. */
+"Cleaning up disc events" = "Çlèáñïñg úp dïsç èvèñts ôñè twô";
+
+/* No comment provided by engineer. */
+"Cleaning up file system utils" = "Çlèáñïñg úp ƒïlè s¥stèm útïls ôñè twô thrèè";
+
+/* as in: completing, finishing, finalizing */
+"Cleaning Up:" = "Çlèáñïñg Úp: ôñè ";
+
+/* No comment provided by engineer. */
+"Cleaning Up…" = "Çlèáñïñg Úp… ôñè twô";
+
+/* verb as in (you) erase */
+"Clear" = "Çlèár 12";
+
+/* undo string */
+"Clear label Sensitive" = "Çlèár lábèl $èñsïtïvè ôñè twô";
+
+/* at startup */
+"Clearing out temp songs…" = "Çlèárïñg ôút tèmp sôñgs… ôñè twô ";
+
+/* does that make sense? */
+"Clearing Playlist" = "Çlèárïñg Plá¥lïst ôñè twô";
+
+/* No comment provided by engineer. */
+"Clearing SMS Gateways" = "Çlèárïñg $M$ Gátèwá¥s ôñè twô";
+
+/* No comment provided by engineer. */
+"Clearing Song List" = "Çlèárïñg $ôñg Lïst ôñè twô";
+
+/* %s is 'Help' */
+"Click “” to learn how to fix this." = "Çlïçk “” tô lèárñ hôw tô ƒïx thïs. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Close CD Tray" = "Çlôsè ÇD Trá¥ ôñè ";
+
+/* warning */
+"close_purchase_blurb" = "Áƒtèr ¥ôú mákè thè púrçhásè, ¥ôú wïll bè prèsèñtèd wïth á “Rèçèïpt Wïñdôw”. ¥ôú shôúld júst çlôsè thè rèçèïpt wïñdôw, ¥ôú wïll gèt á çôp¥ ïñ ¥ôúr è-máïl.  Dô ÑÓT mïñïmïzè ït.  Óñl¥ b¥ *çlôsïñg* thïs wïñdôw wïll thè sôƒtwárè áútômátïçáll¥ sèlƒ règïstèr áñd úñlôçk áll ƒèátúrès, ïñ ôthèr wôrds, ït wïll èñtèr ¥ôúr sèrïál ñúmbèr ƒôr ¥ôú.  Thèrè ïs ñô dôwñlôád, ¥ôú árè álrèd¥ rúññïñg ït. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ";
+
+/* No comment provided by engineer. */
+"closing Clipboard" = "çlôsïñg Çlïpbôárd ôñè twô";
+
+/* No comment provided by engineer. */
+"Closing CSeller" = "Çlôsïñg Ç$èllèr ôñè twô";
+
+/* No comment provided by engineer. */
+"Closing Database" = "Çlôsïñg Dátábásè ôñè twô";
+
+/* No comment provided by engineer. */
+"closing database" = "çlôsïñg dátábásè ôñè twô";
+
+/* No comment provided by engineer. */
+"Closing eSellerate" = "Çlôsïñg è$èllèrátè ôñè twô";
+
+/* No comment provided by engineer. */
+"closing prefs" = "çlôsïñg prèƒs ôñè ";
+
+/* No comment provided by engineer. */
+"closing QuickTime" = "çlôsïñg QúïçkTïmè ôñè twô";
+
+/* No comment provided by engineer. */
+"Closing Session" = "Çlôsïñg $èssïôñ ôñè twô";
+
+/* the background has colors in it */
+"Colored" = "Çôlôrèd 123";
+
+/* random thoughts about a song entered by the user */
+"Comment_blurb" = "Çômmèñt 123";
+
+/* these options are related to the composition */
+"Comp Level" = "Çômp Lèvèl ôñè";
+
+/* Music_Store/Business_Info */
+"Company Name:" = "Çômpáñ¥ Ñámè: ôñè ";
+
+/* No comment provided by engineer. */
+"Component not thread safe" = "Çômpôñèñt ñôt thrèád sáƒè ôñè twô ";
+
+/* who composed the song? */
+"Composer" = "Çômpôsèr 123";
+
+/* No comment provided by engineer. */
+"Configuring Account" = "Çôñƒïgúrïñg Áççôúñt ôñè twô";
+
+/* No comment provided by engineer. */
+"Configuring account…" = "Çôñƒïgúrïñg áççôúñt… ôñè twô";
+
+/* confirm */
+"confirm_1_purch_blurb" = "Árè ¥ôú súrè ¥ôú wïsh tô púrçhásè thè sôñg “%1$s” ƒôr %2$s plús táxès?. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* confirm */
+"confirm_2_purch_blurb" = "Árè ¥ôú súrè ¥ôú wïsh tô púrçhásè thè %1$d sèlèçtèd sôñgs ƒôr á tôtál ôƒ %2$s plús táxès? ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* confirm */
+"confirm_special_blurb" = "Át lèást ôñè sôñg ¥ôú árè ábôút tô púrçhásè rèqúïrès spèçïál lïçèñsïñg tô úsè.  ¥ôú múst çôñtáçt Çhártbústèr tô úsè ït ƒôr rèçôrdïñg ôr ïñ çômpètïtïôñs.  Ít ïs thèrèƒôrè rèlátïvèl¥ èxpèñsïvè, thô thè èxpèñsè dôès ÑÓT ïñçlúdè thè lïçèñsïñg ƒèè, whïçh ¥ôú múst árráñgè wïth Çhártbústèr.  Árè ¥ôú súrè ¥ôú mèáñt tô bú¥ thïs vèrsïôñ? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè";
+
+/* asking the database for info */
+"Connecting to song stream" = "Çôññèçtïñg tô sôñg strèám ôñè twô ";
+
+/* No comment provided by engineer. */
+"Contest Tonight!" = "Çôñtèst Tôñïght! ôñè twô";
+
+/* go on */
+"Continue" = "Çôñtïñúè 123";
+
+/* No comment provided by engineer. */
+"Control error (debug)" = "Çôñtrôl èrrôr (dèbúg) ôñè twô";
+
+/* warning */
+"convert tether db1" = "Íƒ ¥ôú súbsçrïbè tô “Káráôkè Çlôúd Prô” ôr “Párt¥ T¥mè Prô”, thè lôçáll¥ stôrèd çlôúd dátá ñèèds tô bè dôwñlôádèd ágáïñ. Dô ¥ôú súbsçrïbè tô èïthèr ôƒ thèsè sèrvïçès? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè";
+
+/* warning */
+"convert tether db2" = "Dôwñlôádïñg thè dátá rèqúïrès ƒást ïñtèrñèt áñd çáñ tákè qúïtè á bït ôƒ tïmè. Dô ¥ôú hávè tïmè tô dô thïs ñôw? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"Convert to Subscription" = "Çôñvèrt tô $úbsçrïptïôñ ôñè twô";
+
+/* No comment provided by engineer. */
+"Converting KMA file failed." = "Çôñvèrtïñg KMÁ ƒïlè ƒáïlèd. ôñè twô thrèè";
+
+/* does that make sense? */
+"Converting Library selection to Song List" = "Çôñvèrtïñg Lïbrár¥ sèlèçtïôñ tô $ôñg Lïst ôñè twô thrèè";
+
+/* does that make sense? */
+"Converting Playlist selection to Library selection…" = "Çôñvèrtïñg Plá¥lïst sèlèçtïôñ tô Lïbrár¥ sèlèçtïôñ… ôñè twô thrèè ƒôúr";
+
+/* does that make sense? */
+"Converting Playlist selection to Song List" = "Çôñvèrtïñg Plá¥lïst sèlèçtïôñ tô $ôñg Lïst ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Converting PlayLists to SQL…" = "Çôñvèrtïñg Plá¥Lïsts tô $QL… ôñè twô thrèè";
+
+/* song identifiers to code used to purchase song */
+"Converting SongIDs to PurchaseCodes" = "Çôñvèrtïñg $ôñgÍDs tô PúrçhásèÇôdès ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Converting Songs to SQL…" = "Çôñvèrtïñg $ôñgs tô $QL… ôñè twô ";
+
+/* as in *copy this file* */
+"Copy" = "Çôp¥ 12";
+
+/* sort columns */
+"Copy Column Layout" = "Çôp¥ Çôlúmñ Lá¥ôút ôñè twô";
+
+/* No comment provided by engineer. */
+"Copy to Clipboard" = "Çôp¥ tô Çlïpbôárd ôñè twô";
+
+/* who owns the rights? */
+"Copyright" = "Çôp¥rïght 123";
+
+/* an MP3 file with bad meta data */
+"Corrupted ID3 Tags" = "Çôrrúptèd ÍD3 Tágs ôñè twô";
+
+/* a zip file that is bad */
+"Corrupted Zip File" = "Çôrrúptèd Zïp ƒïlè ôñè twô";
+
+/* No comment provided by engineer. */
+"Could not connect to server. The server may be offline. Are you connected to the Internet?" = "Çôúld ñôt çôññèçt tô sèrvèr. Thè sèrvèr má¥ bè ôƒƒlïñè. Árè ¥ôú çôññèçtèd tô thè Íñtèrñèt? ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* No comment provided by engineer. */
+"Could not determine if media is supported:" = "Çôúld ñôt dètèrmïñè ïƒ mèdïá ïs súppôrtèd: ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Could not determine media type:" = "Çôúld ñôt dètèrmïñè mèdïá t¥pè: ôñè twô thrèè";
+
+/* bummer */
+"Could not find video" = "Çôúld ñôt ƒïñd vïdèô ôñè twô";
+
+/* bummer */
+"Could not find zipped song file." = "Çôúld ñôt ƒïñd zïppèd sôñg ƒïlè. ôñè twô thrèè";
+
+/* fatal */
+"Could not get app bundle" = "Çôúld ñôt gèt ápp búñdlè ôñè twô ";
+
+/* enumerating, tallying */
+"Counting" = "Çôúñtïñg 123";
+
+/* No comment provided by engineer. */
+"Counting Music Store Songs" = "Çôúñtïñg Músïç $tôrè $ôñgs ôñè twô ";
+
+/* enumerate the number of items */
+"Counting:" = "Çôúñtïñg: 123";
+
+/* - */
+"Country:" = "Çôúñtr¥: 123";
+
+/* a code for a discount */
+"Coupon" = "Çôúpôñ 12";
+
+/* execute the crash command */
+"Crash" = "Çrásh 12";
+
+/* would you like to crash now */
+"Crash?" = "Çrásh? 12";
+
+/* warning */
+"crash_report_blurb" = "$ádl¥, kJáms sèèms tô hávè çráshèd rèçèñtl¥.  ÑÓTÉ: kJáms ïs ÑÓT çráshèd RÍGHT ÑÓW.  Thïs ïs rèpôrtïñg ôñ á *prèvïôús* çrásh.  Wïll ¥ôú plèásè plèásè plèásè sèñd mè á çrásh rèpôrt sô Í çáñ ƒïx thè búg? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Create Account…" = "Çrèátè Áççôúñt… ôñè twô";
+
+/* No comment provided by engineer. */
+"Creating Account…" = "Çrèátïñg Áççôúñt… ôñè twô";
+
+/* No comment provided by engineer. */
+"Creating browser buttons" = "Çrèátïñg brôwsèr búttôñs ôñè twô ";
+
+/* No comment provided by engineer. */
+"Creating Browser Window" = "Çrèátïñg Brôwsèr Wïñdôw ôñè twô";
+
+/* No comment provided by engineer. */
+"Creating Clipboard" = "Çrèátïñg Çlïpbôárd ôñè twô";
+
+/* No comment provided by engineer. */
+"Creating Graphics Window" = "Çrèátïñg Gráphïçs Wïñdôw ôñè twô ";
+
+/* No comment provided by engineer. */
+"Creating kJams Windows" = "Çrèátïñg kJáms Wïñdôws ôñè twô";
+
+/* 'Messenger' is the name of a feature.  'overlay' is like a layer for compositing */
+"Creating Messenger Overlays" = "Çrèátïñg Mèssèñgèr Óvèrlá¥s ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Creating QuickTime Components menu…" = "Çrèátïñg QúïçkTïmè Çômpôñèñts mèñú… ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Creating ShowScreens menu…" = "Çrèátïñg $hôw$çrèèñs mèñú… ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Creating Sources List" = "Çrèátïñg $ôúrçès Lïst ôñè twô";
+
+/* No comment provided by engineer. */
+"Creating task manager" = "Çrèátïñg tásk máñágèr ôñè twô";
+
+/* No comment provided by engineer. */
+"Creating Task Window" = "Çrèátïñg Tásk Wïñdôw ôñè twô";
+
+/* No comment provided by engineer. */
+"Creating Tasks Window" = "Çrèátïñg Tásks Wïñdôw ôñè twô";
+
+/* No comment provided by engineer. */
+"Creating Tracks List" = "Çrèátïñg Tráçks Lïst ôñè twô";
+
+/* No comment provided by engineer. */
+"Creating User Account" = "Çrèátïñg Úsèr Áççôúñt ôñè twô";
+
+/* No comment provided by engineer. */
+"Creating Video Window" = "Çrèátïñg Vïdèô Wïñdôw ôñè twô";
+
+/* No comment provided by engineer. */
+"Credit card number did not update correctly!" = "Çrèdït çárd ñúmbèr dïd ñôt úpdátè çôrrèçtl¥! ôñè twô thrèè ";
+
+/* No comment provided by engineer. */
+"Credit Card Number must be numeric" = "Çrèdït Çárd Ñúmbèr múst bè ñúmèrïç ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Credit card number must have between 13 and 19 digits" = "Çrèdït çárd ñúmbèr múst hávè bètwèèñ 13 áñd 19 dïgïts ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"Credit card type did not update correctly!" = "Çrèdït çárd t¥pè dïd ñôt úpdátè çôrrèçtl¥! ôñè twô thrèè";
+
+/* confirm */
+"critical_update_blurb" = "Thè músïç stôrè “%1$s” hás á çrïtïçál úpdátè: %2$s Wôúld ¥ôú lïkè tô dôwñlôád thè úpdátèd músïç stôrè? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"Cross-device link" = "Çrôss-dèvïçè lïñk ôñè twô";
+
+/* size comes after this */
+"Current Cache Size:" = "Çúrrèñt Çáçhè $ïzè: ôñè twô";
+
+/* manually entered 'freedb' server */
+"Custom" = "Çústôm 12";
+
+/* custom number set by user */
+"Custom Number" = "Çústôm Ñúmbèr ôñè ";
+
+/* custom string set by user */
+"custom_blurb" = "Çústôm 12";
+
+/* No comment provided by engineer. */
+"CVV2 code must be numeric" = "ÇVV2 çôdè múst bè ñúmèrïç ôñè twô ";
+
+/* No comment provided by engineer. */
+"CVV2 code must have between 3 and 4 digits" = "ÇVV2 çôdè múst hávè bètwèèñ 3 áñd 4 dïgïts ôñè twô thrèè";
+
+/* credit card security code (three or four digits) */
+"CVV2:" = "ÇVV2: 12";
+
+/* the freedb database */
+"Database:" = "Dátábásè: 123";
+
+/* date the song was last sung */
+"Date" = "Dátè 12";
+
+/* when was this added to the library */
+"Date Added" = "Dátè Áddèd ôñè";
+
+/* No comment provided by engineer. */
+"Date must be of the form “MM/YYYY”" = "Dátè múst bè ôƒ thè ƒôrm “MM/¥¥¥¥” ôñè twô thrèè";
+
+/* one */
+"Day" = "Dá¥ 1";
+
+/* plural */
+"Days" = "Dá¥s 12";
+
+/* verb: i deactivate */
+"Deactivate" = "Dèáçtïvátè 123";
+
+/* No comment provided by engineer. */
+"Deactivating" = "Dèáçtïvátïñg 1234";
+
+/* No comment provided by engineer. */
+"Deactivation error" = "Dèáçtïvátïôñ èrrôr ôñè twô";
+
+/* the BIN file is the source of the song */
+"Decode from BIN file:" = "Dèçôdè ƒrôm BÍÑ ƒïlè: ôñè twô";
+
+/* the value that is used if the user does not specify a value */
+"Default" = "Dèƒáúlt 123";
+
+/* No comment provided by engineer. */
+"Default Media Stream Info has been saved." = "Dèƒáúlt Mèdïá $trèám Íñƒô hás bèèñ sávèd. ôñè twô thrèè";
+
+/* see above */
+"Deinterleaving / Error Correcting Graphics" = "Dèïñtèrlèávïñg / Érrôr Çôrrèçtïñg Gráphïçs ôñè twô thrèè";
+
+/* how long to wait after the user clicks before showing the text edit box */
+"Delay time after click to start edit (seconds)" = "Dèlá¥ tïmè áƒtèr çlïçk tô stárt èdït (sèçôñds) ôñè twô thrèè ";
+
+/* how long to wait before setting the ID3 tag info within the files */
+"Delay time after editing to store tags to files (seconds)" = "Dèlá¥ tïmè áƒtèr èdïtïñg tô stôrè tágs tô ƒïlès (sèçôñds) ôñè twô thrèè ƒôúr";
+
+/* delete whatever it is */
+"Delete" = "Dèlètè 12";
+
+/* No comment provided by engineer. */
+"Delete browser" = "Dèlètè brôwsèr ôñè twô";
+
+/* undo string */
+"Delete composition element" = "Dèlètè çômpôsïtïôñ èlèmèñt ôñè twô ";
+
+/* No comment provided by engineer. */
+"Delete graphics" = "Dèlètè gráphïçs ôñè twô";
+
+/* No comment provided by engineer. */
+"Delete LAME" = "Dèlètè LÁMÉ ôñè ";
+
+/* mmm */
+"Delete Library" = "Dèlètè Lïbrár¥ ôñè twô";
+
+/* No comment provided by engineer. */
+"Delete Object Tracker" = "Dèlètè Óbjèçt Tráçkèr ôñè twô";
+
+/* yes? */
+"Delete Playlist" = "Dèlètè Plá¥lïst ôñè twô";
+
+/* yep */
+"Delete Singers" = "Dèlètè $ïñgèrs ôñè twô";
+
+/* mmm */
+"Delete Tracks" = "Dèlètè Tráçks ôñè ";
+
+/* yep */
+"Delete Venue" = "Dèlètè Vèñúè ôñè ";
+
+/* No comment provided by engineer. */
+"Delete version tracker" = "Dèlètè vèrsïôñ tráçkèr ôñè twô";
+
+/* No comment provided by engineer. */
+"Delete zipper" = "Dèlètè zïppèr ôñè ";
+
+/* No comment provided by engineer. */
+"delete_music_store_song_blurb" = "$ômè ôƒ thè sôñgs ¥ôú árè dèlètïñg árè Músïç $tôrè sôñgs.  Tô rèmôvè Músïç $tôrè sôñgs ƒrôm thè Lïbrár¥, gô tô Prèƒèrèñçs->$tôrès áñd sèt thè prèƒèrèñçè <<%s>> tô “Ñôñè”, thèñ rèstárt kJáms. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô ";
+
+/* warning */
+"delete_singing_singer" = "Dïd ¥ôú rèáll¥ mèáñ tô rèmôvè thè pèrsôñ whô ïs çúrrèñtl¥ sïñgïñg?  Ñôtè: thïs wïll ïñtèrrúpt thè çúrrèñt sôñg! ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ ";
+
+/* deletion warning */
+"delete_songs_blurb" = "Wárñïñg!! Thïs wïll môvè ôrïgïñál ƒïlès ôñ ¥ôúr hárd dïsk tô thè trásh, ás wèll ás rèmôvè áll rèƒèrèñçès ƒrôm áll plá¥lïsts!  Árè ¥ôú súrè ¥ôú wáñt tô trásh thè sèlèçtèd ƒïlès? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè ";
+
+/* deletion warning */
+"delete_venue_blurb" = "Árè ¥ôú súrè ¥ôú wáñt tô dèlètè thè vèñúè “%s”?  Thïs wïll pèrmáñáñtl¥ dèlètè áll sïñgèrs át thát vèñúè.  Íƒ thèrè árè sïñgèrs whô lïvè ïñ thïs vèñúè whô hávè álïásès ïñ ôthèr vèñúès, thè¥ wïll bè dèlètèd ƒrôm thè ôthèr vèñúès ás wèll. ¥ôú çáñ ñôt úñdô thïs áçtïôñ. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"Deleting Account" = "Dèlètïñg Áççôúñt ôñè twô";
+
+/* No comment provided by engineer. */
+"Deleting CDPedia…" = "Dèlètïñg ÇDPèdïá… ôñè twô";
+
+/* No comment provided by engineer. */
+"Deleting MetaData Traits Database" = "Dèlètïñg MètáDátá Tráïts Dátábásè ôñè twô thrèè";
+
+/* does that make sense? */
+"Deleting Songs from Database" = "Dèlètïñg $ôñgs ƒrôm Dátábásè ôñè twô thrèè";
+
+/* obvious? */
+"Deleting Songs…" = "Dèlètïñg $ôñgs… ôñè twô";
+
+/* No comment provided by engineer. */
+"Deleting task manager" = "Dèlètïñg tásk máñágèr ôñè twô";
+
+/* No comment provided by engineer. */
+"Deleting Undo System" = "Dèlètïñg Úñdô $¥stèm ôñè twô";
+
+/* No comment provided by engineer. */
+"Demo: Stream only songs with a Green (color) label" = "Dèmô: $trèám ôñl¥ sôñgs wïth á Grèèñ (çôlôr) lábèl ôñè twô thrèè ƒôúr";
+
+/* see above */
+"Demuxing Audio & Graphic Streams" = "Dèmúxïñg Áúdïô & Gráphïç $trèáms ôñè twô thrèè";
+
+/* demux means separating audio and video */
+"Demuxing MPEG audio…" = "Dèmúxïñg MPÉG áúdïô… ôñè twô";
+
+/* un-select, or cause there to be no selection */
+"Deselect" = "Dèsèlèçt 123";
+
+/* the name of the desktop folder */
+"Desktop" = "Dèsktôp 123";
+
+/* warning */
+"dev_2_blurb" = "kJáms 2 ïs “Ópèñ Dèvèlôpmèñt”, whïçh mèáñs ¥ôú'rè pá¥ïñg ƒôr èárl¥ áççèss tô áñ úñƒïñïshèd áñd pôssïbl¥ búgg¥ prôgrám.  Thèrè árè ñô rèƒúñds, ¥ôú shôúld plá¥ wïth thè tr¥ôút bèƒôrè çômïñg báçk hèrè tô púrçhásè. ƒôr môrè ïñƒô, çlïçk “%s”. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"Device busy" = "Dèvïçè bús¥ ôñè ";
+
+/* No comment provided by engineer. */
+"Device not configured" = "Dèvïçè ñôt çôñƒïgúrèd ôñè twô";
+
+/* No comment provided by engineer. */
+"Directory not empty" = "Dïrèçtôr¥ ñôt èmpt¥ ôñè twô";
+
+/* No comment provided by engineer. */
+"Disable" = "Dïsáblè 123";
+
+/* No comment provided by engineer. */
+"disable_auto_renew_blurb" = "Árè ¥ôú súrè ¥ôú wáñt tô dïsáblè Áútô-rèñèw?  ¥ôú wïll stïll bè çhárgèd ƒôr thè dúrátïôñ ôƒ ¥ôúr çôñtráçt pèrïôd.  Dïsáblïñg Áútô-Rèñèw ôñl¥ mèáñs thè çúrrèñt çôñtráçt pèrïôd wïll ñôt áútô-rèñèw whèñ ït èxpïrès. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"Disabled" = "Dïsáblèd 123";
+
+/* No comment provided by engineer. */
+"Disabling Auto-Renew…" = "Dïsáblïñg Áútô-Rèñèw… ôñè twô";
+
+/* No comment provided by engineer. */
+"Disc Burning Progress" = "Dïsç Búrñïñg Prôgrèss ôñè twô";
+
+/* No comment provided by engineer. */
+"Disc Recorder Error: 0x%08x" = "Dïsç Rèçôrdèr Érrôr: 0x%08x ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Disc Ripping Complete!" = "Dïsç Rïppïñg Çômplètè! ôñè twô";
+
+/* warning */
+"disc_meta_info1_blurb" = "Plèásè ƒïll ïñ áll thè mètá ïñƒô ƒôr thè Dïsç.  ¥ôúr mïssïñg dátá: %s. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* warning */
+"disc_meta_info2_blurb" = "Thèrè's stïll sômè mïssïñg mètá ïñƒô thèrè, kèèp tr¥ïñg…  ¥ôúr mïssïñg dátá: %s. ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* No comment provided by engineer. */
+"Disk is full" = "Dïsk ïs ƒúll ôñè ";
+
+/* No comment provided by engineer. */
+"Disposing Task Window" = "Dïspôsïñg Tásk Wïñdôw ôñè twô";
+
+/* No comment provided by engineer. */
+"disposing Task Window" = "dïspôsïñg Tásk Wïñdôw ôñè twô";
+
+/* No comment provided by engineer. */
+"Disposing TouchBar" = "Dïspôsïñg TôúçhBár ôñè twô";
+
+/* http://en.wikipedia.org/wiki/Dither */
+"Dither" = "Dïthèr 12";
+
+/* No comment provided by engineer. */
+"dlg/134/Disc Selection" = "dlg/134/Dïsç $èlèçtïôñ ôñè twô";
+
+/* No comment provided by engineer. */
+"Do not warn me again" = "Dô ñôt wárñ mè ágáïñ ôñè twô";
+
+/* No comment provided by engineer. */
+"Do you have a coupon?  Or is this just a normal purchase?" = "Dô ¥ôú hávè á çôúpôñ?  Ór ïs thïs júst á ñôrmál púrçhásè? ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"Do you use Apple's “Mail” application to send email or do you use some other method?" = "Dô ¥ôú úsè Ápplè's “Máïl” ápplïçátïôñ tô sèñd èmáïl ôr dô ¥ôú úsè sômè ôthèr mèthôd? ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* these options are related to the composition */
+"Document Level" = "Dôçúmèñt Lèvèl ôñè twô";
+
+/* do not ask me the same question any more, i will give the same answer always */
+"Don't Ask Again" = "Dôñ't Ásk Ágáïñ ôñè twô";
+
+/* No comment provided by engineer. */
+"Don't forget to tip your waitress!" = "Dôñ't ƒôrgèt tô tïp ¥ôúr wáïtrèss! ôñè twô thrèè";
+
+/* do NOT send this to me via email */
+"Don't Send" = "Dôñ't $èñd ôñè";
+
+/* No comment provided by engineer. */
+"Don't warn me again for a month" = "Dôñ't wárñ mè ágáïñ ƒôr á môñth ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Donate" = "Dôñátè 12";
+
+/* finished, completed */
+"Done" = "Dôñè 12";
+
+/* as in download, as a verb */
+"Download" = "Dôwñlôád 123";
+
+/* No comment provided by engineer. */
+"Download session timed out" = "Dôwñlôád sèssïôñ tïmèd ôút ôñè twô ";
+
+/* message */
+"download_pro_blurb" = "Thè Lïtè vèrsïôñ ôƒ kJáms Tr¥ôút dôès ñôt hávè $ïñgèrs áñd Rôtátïôñ.  Wôúld ¥ôú lïkè tô dôwñlôád thè Prô vèrsïôñ? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ ";
+
+/* No comment provided by engineer. */
+"Downloading file:" = "Dôwñlôádïñg ƒïlè: ôñè twô";
+
+/* No comment provided by engineer. */
+"Downloading Song" = "Dôwñlôádïñg $ôñg ôñè twô";
+
+/* preview is a short sample */
+"Downloading Song Preview" = "Dôwñlôádïñg $ôñg Prèvïèw ôñè twô ";
+
+/* No comment provided by engineer. */
+"Downloading Update" = "Dôwñlôádïñg Úpdátè ôñè twô";
+
+/* downloads folder */
+"Downloads" = "Dôwñlôáds 123";
+
+/* No comment provided by engineer. */
+"Drink Specials!" = "Drïñk $pèçïáls! ôñè twô";
+
+/* No comment provided by engineer. */
+"DRStatusStateFailed" = "DR$tátús$tátèƒáïlèd 123456";
+
+/* a duet is a song sung by two people */
+"Duet" = "Dúèt 12";
+
+/* a comment about who will be singing the duet */
+"Duet Comment" = "Dúèt Çômmèñt ôñè ";
+
+/* oops */
+"dupe items blurb" = "$ômè ôƒ ¥ôúr dátábásè ïtèms hávè dúplïçátè ÍD's, pôssïbl¥ çôrrúptïñg ¥ôúr dátábásè. ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* i tried */
+"dupe items fixed blurb" = "Í trïèd tô ƒïx thèm, bút ¥ôú má¥ stïll hávè prôblèms.  ¥ôú má¥ wáñt tô çôñtáçt dávè. ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* oops */
+"dupes not fixed blurb" = "Thè¥ wèrè ñôt áll ƒïxèd, plèásè sèñd dávè ¥ôúr lôg ƒïlè áñd ¥ôúr “kJáms Lïbrár¥” ƒôldèr, thèñ rèmôvè thát sámè ƒôldèr.  $ôrr¥. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* No comment provided by engineer. */
+"Duplicate File Name" = "Dúplïçátè ƒïlè Ñámè ôñè twô";
+
+/* No comment provided by engineer. */
+"Duplicate Singer:" = "Dúplïçátè $ïñgèr: ôñè twô";
+
+/* Duration of song */
+"Duration" = "Dúrátïôñ 123";
+
+/* settings that are only relevant while playing a song */
+"During Play:" = "Dúrïñg Plá¥: ôñè ";
+
+/* No comment provided by engineer. */
+"E-mail address or password is empty" = "É-máïl áddrèss ôr pásswôrd ïs èmpt¥ ôñè twô thrèè";
+
+/* obvious */
+"E-Mail address:" = "É-Máïl áddrèss: ôñè twô";
+
+/* No comment provided by engineer. */
+"e-mail must not be empty" = "è-máïl múst ñôt bè èmpt¥ ôñè twô ";
+
+/* No comment provided by engineer. */
+"e-mail:" = "è-máïl: 123";
+
+/* undo string */
+"Edit Graphic" = "Édït Gráphïç ôñè ";
+
+/* undo string */
+"Edit Instruction Value" = "Édït Íñstrúçtïôñ Válúè ôñè twô";
+
+/* thanks */
+"Ejecting disc, please wait…" = "Éjèçtïñg dïsç, plèásè wáït… ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Elapsed Time: %s" = "Élápsèd Tïmè: %s ôñè twô";
+
+/* these options are related to the selected composition element */
+"Element Level" = "Élèmèñt Lèvèl ôñè ";
+
+/* No comment provided by engineer. */
+"email_blurb1" = "kJáms rèqúïrès á válïd èmáïl áddrèss ïñ ôrdèr tô sèñd ¥ôú ¥ôúr sèrïál ñúmbèr, áñd áñ¥ púrçhásè rèçèïpts. Ít ïs álsô úsèd ás thè rèpl¥ áddrèss ƒôr áñ¥ çrásh rèpôrts ¥ôú sèñd, sô kJáms tèçhñïçál súppôrt çáñ ƒôllôw úp tô ïñ ôrdèr tô hèlp ¥ôú. Ít ïs álsô úsèd tô tô ñôtïƒ¥ ¥ôú ïƒ á “ƒrèèdb súbmït” hás ƒáïlèd. ¥ôú múst èñtèr á válïd èmáïl áddrèss. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô";
+
+/* message */
+"email_log_blurb" = "Í wïll ñôw sávè thè rèpôrt tô á tèmpôrár¥ ƒôldèr áñd rèvèál ït.  Plèásè áttáçh thïs ƒôldèr tô á ñèw èmáïl mèsságè áñd sèñd ït tô dávè@kjáms.çôm.  Í wïll áttèmpt tô çrèátè thè èmáïl mèsságè ƒôr ¥ôú. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Enable" = "Éñáblè 12";
+
+/* short message system, or 'texting' */
+"Enable SMS" = "Éñáblè $M$ ôñè";
+
+/* No comment provided by engineer. */
+"Enabled" = "Éñáblèd 123";
+
+/* No comment provided by engineer. */
+"Enabling Auto-Renew…" = "Éñáblïñg Áútô-Rèñèw… ôñè twô";
+
+/* No comment provided by engineer. */
+"Encoder not found" = "Éñçôdèr ñôt ƒôúñd ôñè twô";
+
+/* mmmhmmm */
+"Encoding with %s: %s" = "Éñçôdïñg wïth %1$s: %2$s ôñè twô ";
+
+/* yup */
+"Encoding:" = "Éñçôdïñg: 123";
+
+/* No comment provided by engineer. */
+"End of File" = "Éñd ôƒ ƒïlè ôñè ";
+
+/* error */
+"ENETDOWN, Network is down" = "ÉÑÉTDÓWÑ, Ñètwôrk ïs dôwñ ôñè twô ";
+
+/* language name */
+"English" = "Éñglïsh 123";
+
+/* No comment provided by engineer. */
+"Enter e-mail address and password:" = "Éñtèr è-máïl áddrèss áñd pásswôrd: ôñè twô thrèè";
+
+/* how long should the sample be? */
+"Enter the duration of the song sample:" = "Éñtèr thè dúrátïôñ ôƒ thè sôñg sámplè: ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Enter Track Information:" = "Éñtèr Tráçk Íñƒôrmátïôñ: ôñè twô ";
+
+/* the substitute string is an adjective, a TYPE of search */
+"Enter “%s” search term" = "Éñtèr “%s” sèárçh tèrm ôñè twô";
+
+/* ask the user to enter the name of the disc, using the 'CDPedia' disc title */
+"Enter “CDPedia” Disc Title" = "Éñtèr “ÇDPèdïá” Dïsç Tïtlè ôñè twô thrèè";
+
+/* message */
+"erase_drive_blurb" = "Árè ¥ôú súrè ¥ôú wáñt tô èrásè thè dïsç ïñ thè %s drïvè bèƒôrè búrñïñg ït? ôñè twô thrèè ƒôúr ƒïvè";
+
+/* eek */
+"err_saving" = "Thèrè wás áñ èrrôr sávïñg thè ƒïlè %s ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Error attempting to delete signer song." = "Érrôr áttèmptïñg tô dèlètè sïgñèr sôñg. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Error attempting to save database!" = "Érrôr áttèmptïñg tô sávè dátábásè! ôñè twô thrèè";
+
+/* first is either 'file' or 'folder', second is either 'specification' or empty, third is name of file/folder */
+"Error creating %s %s“%s”" = "Érrôr çrèátïñg %1$s %2$s“%3$s” ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Error during save" = "Érrôr dúrïñg sávè ôñè twô";
+
+/* No comment provided by engineer. */
+"Error gathering crash or log data" = "Érrôr gáthèrïñg çrásh ôr lôg dátá ôñè twô thrèè";
+
+/* mmm */
+"Error loading editor state" = "Érrôr lôádïñg èdïtôr státè ôñè twô ";
+
+/* No comment provided by engineer. */
+"Error loading XML file:" = "Érrôr lôádïñg XML ƒïlè: ôñè twô";
+
+/* No comment provided by engineer. */
+"Error parsing Karaoke Locker music store." = "Érrôr pársïñg Káráôkè Lôçkèr músïç stôrè. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Error parsing the version XML data" = "Érrôr pársïñg thè vèrsïôñ XML dátá ôñè twô thrèè";
+
+/* first is name of venue or playlist, second is string describing the error */
+"Error renaming <%s> in the file system! (%s)" = "Érrôr rèñámïñg <<tèthrás_prôtèçtôr válúè=\"%1$s\" />> ïñ thè ƒïlè s¥stèm! (%2$s) ôñè twô thrèè ƒôúr";
+
+/* bummer */
+"Error renaming Singer in the Finder" = "Érrôr rèñámïñg $ïñgèr ïñ thè ƒïñdèr ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Error resolving shortcut: Could not instantiate %s.  Original path: %s" = "Érrôr rèsôlvïñg shôrtçút: Çôúld ñôt ïñstáñtïátè %1$s.  Órïgïñál páth: %2$s ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"Error while syncing:" = "Érrôr whïlè s¥ñçïñg: ôñè twô";
+
+/* error number */
+"Error: %d" = "Érrôr: %d ôñè";
+
+/* bummer */
+"Error: CDPedia says the disc has wrong number of songs?" = "Érrôr: ÇDPèdïá sá¥s thè dïsç hás wrôñg ñúmbèr ôƒ sôñgs? ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"Error: Did not recieve a serial number?" = "Érrôr: Dïd ñôt rèçïèvè á sèrïál ñúmbèr? ôñè twô thrèè";
+
+/* bummer */
+"Error: KayJayPro says the disc has wrong number of songs?" = "Érrôr: Ká¥Já¥Prô sá¥s thè dïsç hás wrôñg ñúmbèr ôƒ sôñgs? ôñè twô thrèè ƒôúr";
+
+/* bummer */
+"Error: “%s” The disc has wrong number of songs?" = "Érrôr: “%s” Thè dïsç hás wrôñg ñúmbèr ôƒ sôñgs? ôñè twô thrèè ƒôúr";
+
+/* eek */
+"error_during_save" = "kJáms èñçôúñtèrèd áñ èrrôr whïlè tr¥ïñg tô sávè thè dátábásè (%1$s). ¥ôú má¥ ñèèd tô ƒrèè úp sômè spáçè ôñ ¥ôúr hárd drïvè, ôr dèlètè thè èxïstïñg $ôñgs.ktd ƒïlè, thèñ prèss “%2$s”. Ñôtè thát ïƒ ¥ôú prèss “%3$s”, ¥ôúr dátábásè wïll ñôt bè sávèd, áñd má¥ bè çôrrúptèd. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* warning */
+"ese perms blurb" = "Ít ïs pôssïblè thát thïs çáñ bè ƒïxèd b¥ sèttïñg WRÍTÉ pèrmïssïôñ ôñ thè ƒôldèr /Lïbrár¥/ƒrámèwôrks. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"eSellerate engine happy!" = "è$èllèrátè èñgïñè hápp¥! ôñè twô ";
+
+/* No comment provided by engineer. */
+"eSellerate engine not found!" = "è$èllèrátè èñgïñè ñôt ƒôúñd! ôñè twô thrèè";
+
+/* Music_Store/Business_Info */
+"EU VAT ID:" = "ÉÚ VÁT ÍD: ôñè";
+
+/* No comment provided by engineer. */
+"Exec format error" = "Éxèç ƒôrmát èrrôr ôñè twô";
+
+/* short warning this song will cost you more */
+"Expensive Song!" = "Éxpèñsïvè $ôñg! ôñè twô";
+
+/* expiry date of credit card */
+"Expiration:" = "Éxpïrátïôñ: 1234";
+
+/* date */
+"Expired on: %s" = "Éxpïrèd ôñ: %s ôñè twô";
+
+/* help me understand the situation */
+"Explain" = "Éxpláïñ 123";
+
+/* No comment provided by engineer. */
+"explain_business_blurb" = "Íñ thè ñèxt sçrèèñ, plèásè èñtèr ïñƒôrmátïôñ ábôút ¥ôúr búsïñèss. Íƒ ¥ôú árè á hômè úsèr, ¥ôú má¥ lèávè thè ƒïèlds bláñk. Çlïçk thè “Hèlp” búttôñ ïƒ ¥ôú'rè ñôt súrè whát tô èñtèr. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô";
+
+/* No comment provided by engineer. */
+"explain_cc_blurb" = "Íñ thè ñèxt sçrèèñ, plèásè èñtèr ¥ôúr bïllïñg ñámè áñd áddrèss, áñd ¥ôúr çrèdït çárd ïñƒô.  ¥ôúr çárd wïll ÑÓT bè çhárgèd úñlèss ¥ôú spèçïƒïçáll¥ púrçhásè á sôñg, á súbsçrïptïôñ, ôr á vôúçhèr. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"explain_name_pw_blurb" = "Íñ thè ñèxt sçrèèñ, plèásè èñtèr thè úsèr ñámè áñd pásswôrd ¥ôú wôúld lïkè tô úsè tô çrèátè ¥ôúr áççôúñt. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* there are dirty words in this song */
+"Explicit" = "Éxplïçït 123";
+
+/* dialog name.  the user is editing their QuickTime Export settings, and saving them for later, so the settings are available ahead of time for when they want to do an export, hence 'pre-set' */
+"Export Preset" = "Éxpôrt Prèsèt ôñè ";
+
+/* command */
+"Export Songs" = "Éxpôrt $ôñgs ôñè ";
+
+/* self explanatory */
+"export_format_blurb" = "Wôúld ¥ôú lïkè thè máïñ ƒôldèr tô bè sôrtèd b¥ “Ártïst” áñd thè súbƒôldèrs sôrtèd b¥ “Álbúm” (twô lèvèls)?  Ór wôúld ¥ôú lïkè thè máïñ ƒôldèr sôrtèd b¥ álbúm wïth áll sôñgs ƒrôm thát álbúm ïñsïdè (ôñè lèvèl)?  Pïçk thè ƒôrmát ôƒ thè máïñ ƒôldèr. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* self explanatory */
+"export_heirarchic_blurb" = "Wôúld ¥ôú lïkè tô èxpôrt áll thè sôñgs ïñtô á sïñglè ƒôldèr (ƒlát)?  Ór wôúld ¥ôú lïkè tô çôp¥ thèm ïñtô súbƒôldèrs ôrgáñïzèd b¥ Álbúm áñd Ártïst (hïèrárçhïç)? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ";
+
+/* No comment provided by engineer. */
+"Exporting" = "Éxpôrtïñg 123";
+
+/* for export */
+"Exporting BIN/CUE" = "Éxpôrtïñg BÍÑ/ÇÚÉ ôñè twô";
+
+/* yup */
+"Exporting:" = "Éxpôrtïñg: 123";
+
+/* verb as in (you) cause this image to fade to black */
+"Fade" = "ƒádè 12";
+
+/* this track is not real, don't use it */
+"fake track, do not rip" = "ƒákè tráçk, dô ñôt rïp ôñè twô";
+
+/* the singers favorite songs */
+"Favorites" = "ƒávôrïtès 123";
+
+/* the girl singer */
+"Female" = "ƒèmálè 12";
+
+/* go get the audio */
+"Fetch Audio from iTunes" = "ƒètçh Áúdïô ƒrôm ïTúñès ôñè twô";
+
+/* No comment provided by engineer. */
+"Fetching all file references" = "ƒètçhïñg áll ƒïlè rèƒèrèñçès ôñè twô thrèè";
+
+/* from iTunes */
+"Fetching Artist '%s'" = "ƒètçhïñg Ártïst '%s' ôñè twô";
+
+/* No comment provided by engineer. */
+"Fetching Catalog Update Image" = "ƒètçhïñg Çátálôg Úpdátè Ímágè ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Fetching Song Updates Banner" = "ƒètçhïñg $ôñg Úpdátès Báññèr ôñè twô thrèè";
+
+/* song identifiers */
+"Fetching SongIDs" = "ƒètçhïñg $ôñgÍDs ôñè twô";
+
+/* No comment provided by engineer. */
+"file" = "ƒïlè 12";
+
+/* No comment provided by engineer. */
+"File already open with write permission" = "ƒïlè álrèád¥ ôpèñ wïth wrïtè pèrmïssïôñ ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"File exists" = "ƒïlè èxïsts ôñè ";
+
+/* No comment provided by engineer. */
+"File name too long" = "ƒïlè ñámè tôô lôñg ôñè twô";
+
+/* names of files */
+"File Names" = "ƒïlè Ñámès ôñè";
+
+/* No comment provided by engineer. */
+"File Not Found" = "ƒïlè Ñôt ƒôúñd ôñè twô";
+
+/* No comment provided by engineer. */
+"File Not Open" = "ƒïlè Ñôt Ópèñ ôñè ";
+
+/* No comment provided by engineer. */
+"File Position Error" = "ƒïlè Pôsïtïôñ Érrôr ôñè twô";
+
+/* bummer */
+"File spooler open error" = "ƒïlè spôôlèr ôpèñ èrrôr ôñè twô";
+
+/* No comment provided by engineer. */
+"File too large" = "ƒïlè tôô lárgè ôñè twô";
+
+/* specified file will come after this string */
+"File:" = "ƒïlè: 12";
+
+/* a ring buffer is a buffer area that gets used over and over, like a circular ring with a read  head and a write head.  The heads don't move, while the ring spins, the write head puts data into the ring, and the read head reads it off */
+"Fill Ring Buffer: Audio Out" = "ƒïll Rïñg Búƒƒèr: Áúdïô Óút ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Finalizing Playlists…" = "ƒïñálïzïñg Plá¥lïsts… ôñè twô";
+
+/* verb as in please go find this */
+"Find" = "ƒïñd 12";
+
+/* have the user locate the folder */
+"Find it" = "ƒïñd ït ôñè";
+
+/* directive: user, please select a folder */
+"Find Music Folder:" = "ƒïñd Músïç ƒôldèr: ôñè twô";
+
+/* please locate the following musical arrangment */
+"Find Song: “%s”" = "ƒïñd $ôñg: “%s” ôñè twô";
+
+/* No comment provided by engineer. */
+"Finding Existing Song Matches…" = "ƒïñdïñg Éxïstïñg $ôñg Mátçhès… ôñè twô thrèè";
+
+/* an orphaned song is one that has been abandoned and is unaccounted for */
+"Finding Orphans" = "ƒïñdïñg Órpháñs ôñè twô";
+
+/* No comment provided by engineer. */
+"Finishing Browser Window" = "ƒïñïshïñg Brôwsèr Wïñdôw ôñè twô ";
+
+/* No comment provided by engineer. */
+"Finishing menu creation" = "ƒïñïshïñg mèñú çrèátïôñ ôñè twô";
+
+/* language name */
+"Finnish" = "ƒïññïsh 123";
+
+/* No comment provided by engineer. */
+"First Name must not be empty" = "ƒïrst Ñámè múst ñôt bè èmpt¥ ôñè twô thrèè";
+
+/* - */
+"First Name:" = "ƒïrst Ñámè: ôñè ";
+
+/* No comment provided by engineer. */
+"First you take a drink, then the drink takes a drink, then the drink takes you." = "ƒïrst ¥ôú tákè á drïñk, thèñ thè drïñk tákès á drïñk, thèñ thè drïñk tákès ¥ôú. ôñè twô thrèè ƒôúr ƒïvè ";
+
+/* fit font size to available space */
+"Fit" = "ƒït 1";
+
+/* No comment provided by engineer. */
+"folder" = "ƒôldèr 12";
+
+/* obvious? */
+"Font size:" = "ƒôñt sïzè: ôñè";
+
+/* No comment provided by engineer. */
+"For a list of songs with problems, see the playlist called “%s”." = "ƒôr á lïst ôƒ sôñgs wïth prôblèms, sèè thè plá¥lïst çállèd “%s”. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"For the Server to function properly, you must install Bonjour (Print Services) for Windows" = "ƒôr thè $èrvèr tô ƒúñçtïôñ prôpèrl¥, ¥ôú múst ïñstáll Bôñjôúr (Prïñt $èrvïçès) ƒôr Wïñdôws ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* describes type of file (mp3, aif, mov, etc) */
+"Format" = "ƒôrmát 12";
+
+/* results of a search, how many found */
+"Found %d songs" = "ƒôúñd %d sôñgs ôñè twô";
+
+/* as in: there is no cost or charge for this */
+"Free" = "ƒrèè 12";
+
+/* language name */
+"French" = "ƒrèñçh 12";
+
+/* No comment provided by engineer. */
+"Function not implemented" = "ƒúñçtïôñ ñôt ïmplèmèñtèd ôñè twô ";
+
+/* when the user deletes a list of songs, we must first gather some info about what will be deleted */
+"Gathering deletion information…" = "Gáthèrïñg dèlètïôñ ïñƒôrmátïôñ… ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Gathering Files in folder" = "Gáthèrïñg ƒïlès ïñ ƒôldèr ôñè twô ";
+
+/* No comment provided by engineer. */
+"Gathering freedb servers" = "Gáthèrïñg ƒrèèdb sèrvèrs ôñè twô ";
+
+/* sex of singer */
+"Gender" = "Gèñdèr 12";
+
+/* the style of a song, eg: rock, blues, hip-hop etc */
+"Genre" = "Gèñrè 12";
+
+/* language name */
+"German" = "Gèrmáñ 12";
+
+/* command to go and fetch something */
+"Get it…" = "Gèt ït… ôñè";
+
+/* No comment provided by engineer. */
+"Get Purchased List" = "Gèt Púrçhásèd Lïst ôñè twô";
+
+/* verb: get the free song */
+"Get Song" = "Gèt $ôñg ôñè";
+
+/* No comment provided by engineer. */
+"Get Song Meta Data" = "Gèt $ôñg Mètá Dátá ôñè twô";
+
+/* warning */
+"get_producer_blurb" = "$ômè sôñgs wïll búrñ wïthôút gráphïçs úñlèss ¥ôú gèt thè Prôdúçèr plúgïñ, sôld sèpárátèl¥, ƒrèè tr¥ôút.  Bè súrè tô çlèár thè dïsk çáçhè (áúdïô prèƒs) áƒtèr ¥ôú ïñstáll thè plúgïñ, áñd ágáïñ áƒtèr ¥ôú púrçhásè ït tô rèmôvè thè rèd X márks. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè";
+
+/* message */
+"get_python" = "Tô úsè P¥thôñ $çrïptïñg wïth kJáms, ¥ôú múst ïñstáll P¥thôñ 2.7.  Wôúld ¥ôú lïkè tô ïñstáll ït? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"Getting AirFoil Slip Value" = "Gèttïñg Áïrƒôïl $lïp Válúè ôñè twô ";
+
+/* No comment provided by engineer. */
+"Getting Album Info…" = "Gèttïñg Álbúm Íñƒô… ôñè twô";
+
+/* reading the directory of a disk */
+"Getting bulk catalog info for %s" = "Gèttïñg búlk çátálôg ïñƒô ƒôr %s ôñè twô thrèè";
+
+/* from freedb */
+"Getting Categories…" = "Gèttïñg Çátègôrïès… ôñè twô";
+
+/* for freedb */
+"Getting Disc ID…" = "Gèttïñg Dïsç ÍD… ôñè twô";
+
+/* No comment provided by engineer. */
+"Getting Disc Tracks" = "Gèttïñg Dïsç Tráçks ôñè twô";
+
+/* No comment provided by engineer. */
+"Getting Disc Tracks…" = "Gèttïñg Dïsç Tráçks… ôñè twô";
+
+/* No comment provided by engineer. */
+"Getting Finder Label Colors" = "Gèttïñg ƒïñdèr Lábèl Çôlôrs ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Getting list of songs…" = "Gèttïñg lïst ôƒ sôñgs… ôñè twô";
+
+/* language dialect */
+"Getting Locale Info…" = "Gèttïñg Lôçálè Íñƒô… ôñè twô";
+
+/* No comment provided by engineer. */
+"Getting Python Download" = "Gèttïñg P¥thôñ Dôwñlôád ôñè twô";
+
+/* No comment provided by engineer. */
+"Getting Serial Number" = "Gèttïñg $èrïál Ñúmbèr ôñè twô";
+
+/* from freedb */
+"Getting Sites…" = "Gèttïñg $ïtès… ôñè twô";
+
+/* No comment provided by engineer. */
+"Getting Streaming Products" = "Gèttïñg $trèámïñg Prôdúçts ôñè twô ";
+
+/* No comment provided by engineer. */
+"Getting test Tricera packages" = "Gèttïñg tèst Trïçèrá páçkágès ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Getting version information" = "Gèttïñg vèrsïôñ ïñƒôrmátïôñ ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Gift Card:" = "Gïƒt Çárd: ôñè";
+
+/* how much does the video slip from the audio (float, seconds) */
+"Global Slip: %.2f Seconds" = "Glôbál $lïp: %.2ƒ $èçôñds ôñè twô ";
+
+/* how far to slip the video sync relative to the audio, for all songs */
+"Global Sync Slip: %.1f seconds" = "Glôbál $¥ñç $lïp: %.1ƒ sèçôñds ôñè twô thrèè";
+
+/* user enters a new time */
+"Go To Time" = "Gô Tô Tïmè ôñè";
+
+/* mmm */
+"Gracenote has started charging me monthly for each user's access to it's database. Would you consider sending a small donation (eg: $1 USD) to help cover the costs?" = "Gráçèñôtè hás stártèd çhárgïñg mè môñthl¥ ƒôr èáçh úsèr's áççèss tô ït's dátábásè. Wôúld ¥ôú çôñsïdèr sèñdïñg á smáll dôñátïôñ (èg: $1 Ú$D) tô hèlp çôvèr thè çôsts? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè";
+
+/* what channel are you watching */
+"Graphic Channels" = "Gráphïç Çháññèls ôñè twô";
+
+/* short for Global Slip */
+"GS: %.2f," = "G$: %.2ƒ, ôñè";
+
+/* eek */
+"guessing_cd_meta" = "Thè tráçk ïñƒôrmátïôñ ƒôr thïs ÇD wás sávèd wïth á vèrsïôñ ôƒ kJáms whïçh dïd ñôt çôrrèçtl¥ rèçôrd úñïqúè ïñƒôrmátïôñ pèr sôñg.  ¥ôú wïll ƒïñd dúplïçátè èñtrïès, plèásè çôrrèçt thèm ïmmèdïátèl¥. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Hardware Mismatch" = "Hárdwárè Mïsmátçh ôñè twô";
+
+/* No comment provided by engineer. */
+"hd_vid_blurb" = "Thè sôñg ¥ôú árè ábôút tô plá¥ ïs Hïgh Dèƒïñïtïôñ. Ít ïs kñôwñ thát kJáms hás dïƒƒïçúlt¥ plá¥ïñg HD vïdèôs, ¥ôú má¥ èxpèrïèñçè stúttèr ôr ƒrèèzès ïƒ ¥ôú çhôôsè tô çôñtïñúè. Óñl¥ áttèmpt thïs ïƒ ¥ôú hávè á bráñd ñèw, vèr¥ hïgh èñd çômpútèr. ¥ôú çáñ rè-èñçôdè thè vïdèô tô á smállèr sïzè tô ôvèrçômè thïs lïmïátïôñ, ôr wáït úñtïl thè ñèw úpdátè çômïñg sômè tïmè ïñ 2020. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè";
+
+/* present, available, accounted for, at the venue, as opposed to 'has gone home' */
+"Here" = "Hèrè 12";
+
+/* please remove the silly / ridiculous multi-colored picture */
+"Hide That Crazy Rainbow!" = "Hïdè Thát Çráz¥ Ráïñbôw! ôñè twô ";
+
+/* No comment provided by engineer. */
+"Hide Windows" = "Hïdè Wïñdôws ôñè ";
+
+/* No comment provided by engineer. */
+"High Definition Video" = "Hïgh Dèƒïñïtïôñ Vïdèô ôñè twô";
+
+/* make it look really good */
+"High Quality Render" = "Hïgh Qúálït¥ Rèñdèr ôñè twô";
+
+/* record of all songs ever sung by the singer */
+"History" = "Hïstôr¥ 123";
+
+/* user affirms they use the product only at home */
+"Home User" = "Hômè Úsèr ôñè";
+
+/* one */
+"Hour" = "Hôúr 12";
+
+/* plural */
+"Hours" = "Hôúrs 12";
+
+/* question */
+"How would you like to obtain meta info?" = "Hôw wôúld ¥ôú lïkè tô ôbtáïñ mètá ïñƒô? ôñè twô thrèè";
+
+/* error */
+"HTTP Network Connection Lost" = "HTTP Ñètwôrk Çôññèçtïôñ Lôst ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"I'm serious, if you don't enter a valid email address you can't use kJams. If you enter an invalid address, the universe will implode, so take care!" = "Í'm sèrïôús, ïƒ ¥ôú dôñ't èñtèr á válïd èmáïl áddrèss ¥ôú çáñ't úsè kJáms. Íƒ ¥ôú èñtèr áñ ïñválïd áddrèss, thè úñïvèrsè wïll ïmplôdè, sô tákè çárè! ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè ";
+
+/* No comment provided by engineer. */
+"If the auto-update fails, you should manually install it.  To do so, go to the web site, then download it manually and install it." = "Íƒ thè áútô-úpdátè ƒáïls, ¥ôú shôúld máñúáll¥ ïñstáll ït.  Tô dô sô, gô tô thè wèb sïtè, thèñ dôwñlôád ït máñúáll¥ áñd ïñstáll ït. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* 'north america' means 'usa or canada', first string is 'State / Province', second string is 'Edit credit card settings' */
+"If you live in North America, you must properly set “%s” in the “%s” dialog." = "Íƒ ¥ôú lïvè ïñ Ñôrth Ámèrïçá, ¥ôú múst prôpèrl¥ sèt “%1$s” ïñ thè “%2$s” dïálôg. ôñè twô thrèè ƒôúr ƒïvè ";
+
+/* No comment provided by engineer. */
+"If you use “Party Tyme Pro” or “Karaoke Cloud Pro”, you will need to re-download the cloud data." = "Íƒ ¥ôú úsè “Párt¥ T¥mè Prô” ôr “Káráôkè Çlôúd Prô”, ¥ôú wïll ñèèd tô rè-dôwñlôád thè çlôúd dátá. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* as in so what, or i don't care, or blow it off */
+"Ignore" = "Ígñôrè 12";
+
+/* No comment provided by engineer. */
+"Ignore Error Correction" = "Ígñôrè Érrôr Çôrrèçtïôñ ôñè twô";
+
+/* No comment provided by engineer. */
+"Illegal key type:" = "Íllègál kè¥ t¥pè: ôñè twô";
+
+/* No comment provided by engineer. */
+"Illegal seek" = "Íllègál sèèk ôñè ";
+
+/* dialog name.  same as 'Export Preset', but for import (ripping) */
+"Import Preset" = "Ímpôrt Prèsèt ôñè ";
+
+/* getting info about each song */
+"Importing CAVS Meta Data" = "Ímpôrtïñg ÇÁV$ Mètá Dátá ôñè twô ";
+
+/* No comment provided by engineer. */
+"Importing Singers" = "Ímpôrtïñg $ïñgèrs ôñè twô";
+
+/* No comment provided by engineer. */
+"Improper usage of the activation routines." = "Ímprôpèr úságè ôƒ thè áçtïvátïôñ rôútïñès. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Inappropriate ioctl for device" = "Íñápprôprïátè ïôçtl ƒôr dèvïçè ôñè twô thrèè";
+
+/* warning */
+"include stores in library" = "Thïs ôptïôñ wïll ïñçlúdè èvèr¥ sôñg ƒrôm èvèr¥ músïç stôrè ïñ thè máïñ Lïbrár¥ plá¥lïst. Ít ïs ïñtèñdèd ôñl¥ ƒôr KJs whô wáñt sïñgèrs tô bè áblè tô púrçhásè ôr strèám sôñgs ƒrôm thè músïç stôrès.  Árè ¥ôú súrè ¥ôú kñôw whát ¥ôú'rè dôïñg? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè";
+
+/* bummer */
+"Incompatible Drive" = "Íñçômpátïblè Drïvè ôñè twô";
+
+/* more information */
+"Info" = "Íñƒô 12";
+
+/* No comment provided by engineer. */
+"Initiaing Song Stream" = "Íñïtïáïñg $ôñg $trèám ôñè twô";
+
+/* No comment provided by engineer. */
+"Initiaing Song Stream (Audio)" = "Íñïtïáïñg $ôñg $trèám (Áúdïô) ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Initiaing Song Stream (Video)" = "Íñïtïáïñg $ôñg $trèám (Vïdèô) ôñè twô thrèè";
+
+/* the %s is “kJams <VERSION>” when the app is opening */
+"Initializing %s" = "Íñïtïálïzïñg %s ôñè twô";
+
+/* No comment provided by engineer. */
+"Initializing AppleRemote" = "Íñïtïálïzïñg ÁpplèRèmôtè ôñè twô ";
+
+/* No comment provided by engineer. */
+"Initializing Fast CDG Upscaling" = "Íñïtïálïzïñg ƒást ÇDG Úpsçálïñg ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Initializing GraceNote" = "Íñïtïálïzïñg GráçèÑôtè ôñè twô";
+
+/* No comment provided by engineer. */
+"Initializing Growl" = "Íñïtïálïzïñg Grôwl ôñè twô";
+
+/* No comment provided by engineer. */
+"Initializing Microphone" = "Íñïtïálïzïñg Mïçrôphôñè ôñè twô";
+
+/* No comment provided by engineer. */
+"Initializing Python" = "Íñïtïálïzïñg P¥thôñ ôñè twô";
+
+/* No comment provided by engineer. */
+"Initializing TouchBar" = "Íñïtïálïzïñg TôúçhBár ôñè twô";
+
+/* asking the database for info */
+"Initiating song download" = "Íñïtïátïñg sôñg dôwñlôád ôñè twô ";
+
+/* No comment provided by engineer. */
+"Input/output error" = "Íñpút/ôútpút èrrôr ôñè twô";
+
+/* undo string */
+"Insert composition template" = "Íñsèrt çômpôsïtïôñ tèmplátè ôñè twô thrèè";
+
+/* this is the window where you inspect (view) information about your selection */
+"Inspector" = "Íñspèçtôr 123";
+
+/* No comment provided by engineer. */
+"Install" = "Íñstáll 123";
+
+/* warning */
+"install_ffmpeg" = "¥ôú wïll ñèèd tô dôwñlôád áñd ïñstáll thè “ƒƒmpèg” plúgïñ ïñ ôrdèr tô plá¥ MPÉG-1 ôr MPÉG-2 ƒïlès. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"Interrupted system call" = "Íñtèrrúptèd s¥stèm çáll ôñè twô";
+
+/* No comment provided by engineer. */
+"Invalid argument" = "Íñválïd árgúmèñt ôñè twô";
+
+/* No comment provided by engineer. */
+"Invalid coupon code.  Are you sure have it right?" = "Íñválïd çôúpôñ çôdè.  Árè ¥ôú súrè hávè ït rïght? ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"Invalid QuickTime (MIDI?) File" = "Íñválïd QúïçkTïmè (MÍDÍ?) ƒïlè ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Invalid Track Number" = "Íñválïd Tráçk Ñúmbèr ôñè twô";
+
+/* No comment provided by engineer. */
+"Is a directory" = "Ís á dïrèçtôr¥ ôñè twô";
+
+/* mmm */
+"It seems you are deleting your entire library.  Is this what you mean to do?" = "Ít sèèms ¥ôú árè dèlètïñg ¥ôúr èñtïrè lïbrár¥.  Ís thïs whát ¥ôú mèáñ tô dô? ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"It seems you are not pasting the entire serial number.  Please use copy and paste, and paste the whole thing." = "Ít sèèms ¥ôú árè ñôt pástïñg thè èñtïrè sèrïál ñúmbèr.  Plèásè úsè çôp¥ áñd pástè, áñd pástè thè whôlè thïñg. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* language name */
+"Italian" = "Ítálïáñ 123";
+
+/* delete whatever it is */
+"Just One" = "Júst Óñè ôñè";
+
+/* that crazy sing along phenomenon */
+"Karaoke" = "Káráôkè 123";
+
+/* No comment provided by engineer. */
+"Karaoke Cloud Pro has lowered the subscription price!" = "Káráôkè Çlôúd Prô hás lôwèrèd thè súbsçrïptïôñ prïçè! ôñè twô thrèè ƒôúr";
+
+/* tethering means attached, or connected (song files are downloadable but locked to the user's account). KJ is karaoke jockey or emcee */
+"Karaoke Cloud Pro: KJ Tethering" = "Káráôkè Çlôúd Prô: KJ Tèthèrïñg ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Karaoke Cloud: Home Streaming" = "Káráôkè Çlôúd: Hômè $trèámïñg ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"KayJayPro is currently off. To turn it on, go to Preferences->KayJayPro and enable the check box." = "Ká¥Já¥Prô ïs çúrrèñtl¥ ôƒƒ. Tô túrñ ït ôñ, gô tô Prèƒèrèñçès->Ká¥Já¥Prô áñd èñáblè thè çhèçk bôx. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"kc_acct_success" = "$úççèss!  ¥ôúr KáráôkèÇlôúd áççôúñt hás bèèñ çrèátèd áñd çôñƒïgúrèd! ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"kc_disable_auto_renew" = "¥ôú çúrrèñtl¥ hávè “Áútô-Rèñèw” sèt tô “Éñáblèd”.  Bèƒôrè ¥ôú çáñ úpgrádè ¥ôúr “$úbsçrïptïôñ Tïèr”, ¥ôú múst ƒïrst túrñ “Áútô-Rèñèw” ôƒƒ b¥ prèssïñg thè “Dïsáblè” búttôñ. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè";
+
+/* No comment provided by engineer. */
+"kc_home_stream_warn" = "Thè “Hômè $trèámïñg” tïèr ïs ƒôr prïvátè, hômè úsè ôñl¥!  Ít ïs ÑÓT lïçèñsèd ƒôr públïç pèrƒôrmáñçè. Kèèp ïñ mïñd thát áll strèáms árè tráçkèd b¥ úsèr, ÍP áddrèss áñd dátè, áñd WÍLL bè môñïtôrèd ƒôr ábúsè!  Árè ¥ôú *rèáll¥* ôñl¥ pláññïñg tô èvèr úsè thè strèámïñg sèrvïçè ïñ thè prïváç¥ ôƒ ¥ôúr ôwñ hômè? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè";
+
+/* No comment provided by engineer. */
+"kc_must_log_in" = "Tô plá¥ thè ƒrèè sôñgs, ôr tô púrçhásè, strèám, ôr sèè ôthèr sôñg prèvïèws, ¥ôú múst bè lôggèd ïñ tô “%s”. Ít ïs ƒrèè tô sïgñ úp áñd thèrè árè sèvèrál ƒrèè sôñgs tô tr¥. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè";
+
+/* No comment provided by engineer. */
+"kc_purch_agreement" = "B¥ çlïçkïñg “%1$s”, ¥ôú ágrèè tô bè çhárgèd Ú$D $%2$s pèr %3$s. ¥ôú má¥ çáñçèl thè rèñèwál ôƒ thè ÑÉXT %4$s át áñ¥ tïmè. Tô çáñçèl, júst çlïçk thè “%5$s” búttôñ thát ïs ñèxt tô “%6$s”. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô";
+
+/* No comment provided by engineer. */
+"kc_upsell_tier" = "¥ôú'rè dôñè!  Çlïçk ôñ thè “$úbsçrïptïôñ Tïèr” pôpúp mèñú ïñ thè prèƒèrèñçè páñèl tô èxplôrè whát strèámïñg ôptïôñs árè áváïláblè tô ¥ôú! ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè";
+
+/* warning */
+"kc_warn_audio_only" = "Éñáblïñg thïs ôptïôñ wïll ádd sôñgs tô thè KáráôkèÇlôúd stôrè thát dô ÑÓT HÁVÉ káráôkè l¥rïçs. Thïs ïs prôbábl¥ ÑÓT whát áñ¥ôñè (sïñgèrs ôr KJ's) wïll bè èxpèçtïñg, árè ¥ô $ÚRÉ ¥ôú wáñt tô dô thïs? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè";
+
+/* warning */
+"kc_warn_kns_tether" = "Éñáblïñg thïs ôptïôñ wïll çáúsè kJáms tô dôwñlôád áll thè çlôúd dátá ƒôr thè èñtïrè “Párt¥ T¥mè Prô” strèámïñg sèrvïçè. Thïs çôúld tákè úp tô 100 GB ôƒ hárd drïvè spáçè. Ít ïs pôssïblè tô môvè thïs dátá tô áñ èxtèrñál drïvè; tô lèárñ môrè ábôút thát, prèss thè “%s” búttôñ. Árè ¥ô $ÚRÉ ¥ôú wáñt dôwñlôád? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè";
+
+/* No comment provided by engineer. */
+"kdn_bad_server" = "Tèrrïbl¥ sôrr¥, bút áñ ôld vèrsïôñ ôƒ kJáms úsèd thè wrôñg sèrvèr ƒôr Párt¥ T¥mè Prô. Thè prôblèm ïs ñôw ƒïxèd, bút úñƒôrtúñátèl¥ ït mèáñs thát ¥ôú múst rè-çrèátè ¥ôúr áççôúñt. Thïs wás áñ èrrôr ôñ m¥ párt, sôrr¥ ƒôr thè ïñçôñvèñïèñçè. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"kdn_disable_auto_renew_blurb" = "Árè ¥ôú súrè ¥ôú wáñt tô dïsáblè Áútô-rèñèw? Dïsáblïñg Áútô-Rèñèw mèáñs thè çúrrèñt çôñtráçt pèrïôd wïll ñôt áútô-rèñèw whèñ ït èxpïrès. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè";
+
+/* No comment provided by engineer. */
+"kdn_eula" = "kJáms hás ôpèñèd á wèb págè shôwïñg ¥ôú thè Éñd Úsèr Lïçèñsè Ágrèèmèñt. B¥ çlïçkïñg “%s”, ¥ôú wárráñt thát ¥ôú ƒúll¥ ágrèè. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* song pitch quantized in semitones as in “Key of G” */
+"Key" = "Kè¥ 1";
+
+/* adjustment made to the song key by the singer */
+"Key Adjust" = "Kè¥ Ádjúst ôñè";
+
+/* changes to the key during the song */
+"Key Changes" = "Kè¥ Çháñgès ôñè ";
+
+/* message */
+"keyboard_update_avail" = "Thè dèƒáúlt kè¥bôárd shôrtçúts ƒïlè hás çháñgèd.  Íƒ ¥ôú hávè mádè çháñgès tô thïs ƒïlè, ¥ôú shôúld gèt Hèlp ôñ whát tô dô, ôthèrwïsè ¥ôú shôúld júst Íñstáll ït. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ";
+
+/* list of words used by user to recall song eg: fast, sad, love, duet etc */
+"Keywords" = "Kè¥wôrds 123";
+
+/* this is labeled as a 'karaoke jockey', one of the administrators of the show, and has special rights' */
+"KJ" = "KJ 1";
+
+/* rotation managed by the kj */
+"KJ Rotation" = "KJ Rôtátïôñ ôñè ";
+
+/* obvious? */
+"kJams Cache Folder location:" = "kJáms Çáçhè ƒôldèr lôçátïôñ: ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"kJams has recently crashed, but the version you are using is old, you should update to latest" = "kJáms hás rèçèñtl¥ çráshèd, bút thè vèrsïôñ ¥ôú árè úsïñg ïs ôld, ¥ôú shôúld úpdátè tô látèst ôñè twô thrèè ƒôúr ƒïvè sïx ";
+
+/* yep */
+"kJams is too old to support the Producer plugin. Upgrade kJams!" = "kJáms ïs tôô ôld tô súppôrt thè Prôdúçèr plúgïñ. Úpgrádè kJáms! ôñè twô thrèè ƒôúr ";
+
+/* yep */
+"kJams is too old to support this plugin. Upgrade kJams!" = "kJáms ïs tôô ôld tô súppôrt thïs plúgïñ. Úpgrádè kJáms! ôñè twô thrèè ƒôúr";
+
+/* obvious */
+"kJams Music Folder location:" = "kJáms Músïç ƒôldèr lôçátïôñ: ôñè twô thrèè";
+
+/* secret message */
+"kJams Producer can only edit CDG files.  To edit other media types, please use another program." = "kJáms Prôdúçèr çáñ ôñl¥ èdït ÇDG ƒïlès.  Tô èdït ôthèr mèdïá t¥pès, plèásè úsè áñôthèr prôgrám. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* music store fail */
+"kJams Purchase Failure" = "kJáms Púrçhásè ƒáïlúrè ôñè twô";
+
+/* macOS name eg: 'macOS 10.9 (Mavericks)' */
+"kJams requires %s or greater." = "kJáms rèqúïrès %s ôr grèátèr. ôñè twô thrèè";
+
+/* fatal */
+"kJams requires QuickTime 7.1 or greater." = "kJáms rèqúïrès QúïçkTïmè 7.1 ôr grèátèr. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"kJams requires QuickTime to be installed. Error: %s" = "kJáms rèqúïrès QúïçkTïmè tô bè ïñstállèd. Érrôr: %s ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"kJams requires write access to the folder <%s>, you must fix this for kJams to function correctly." = "kJáms rèqúïrès wrïtè áççèss tô thè ƒôldèr <<tèthrás_prôtèçtôr válúè=\"%s\" />>, ¥ôú múst ƒïx thïs ƒôr kJáms tô ƒúñçtïôñ çôrrèçtl¥. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"kJams will now quit so you can install the update.  Click “%s” to learn what to do." = "kJáms wïll ñôw qúït sô ¥ôú çáñ ïñstáll thè úpdátè.  Çlïçk “%s” tô lèárñ whát tô dô. ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* warning */
+"kjpro_warn_blurb" = "Íñ ôrdèr tô úsè thè Ká¥Já¥Prô mètá dátá sèrvïçè, ¥ôú múst sèt úp ¥ôúr áççôúñt.  Wôúld ¥ôú lïkè tô sèt thát úp ñôw? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* No comment provided by engineer. */
+"kns_must_log_in" = "Prèvïèws árè ñôt áváïláblè ƒôr “%1$s”. Tô plá¥ áll sôñgs ƒôr á ƒrèè pèrïôd, ¥ôú múst lôg ïñ áñd sïgñ úp ƒôr thè ƒrèè wèèk. Tô dô sô, sïgñ úp ƒôr môñthl¥ strèámïñg, thèñ ïmmèdïátèl¥ túrñ ôƒƒ “%2$s” sô ¥ôú wôñ't bè çhárgèd. ¥ôú çáñ dèçïdè át áñ¥ tïmè tô rè-súbsçrïbè. Ñôtè: ïƒ ¥ôú'vè álrèád¥ úsèd thè ôñè ƒrèè wèèk, thïs ôƒƒèr ïs ñôt válïd áñd ¥ôú WÍLL bè çhárgèd. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"kns_must_subscribe" = "Prèvïèws árè ñôt áváïláblè ƒôr “%1$s”. ¥ôú árè lôggèd ïñ, bút ïñ ôrdèr tô plá¥ áll sôñgs ƒôr á ƒrèè pèrïôd, ¥ôú múst súbsçrïbè tô thè ƒrèè wèèk. Tô dô sô, sïgñ úp ƒôr môñthl¥ strèámïñg, thèñ ïmmèdïátèl¥ túrñ ôƒƒ “%2$s” sô ¥ôú wôñ't bè çhárgèd. ¥ôú çáñ dèçïdè át áñ¥ tïmè tô rè-súbsçrïbè. Ñôtè: ïƒ ¥ôú'vè álrèád¥ úsèd thè ôñè ƒrèè wèèk, thïs ôƒƒèr ïs ñôt válïd áñd ¥ôú WÍLL bè çhárgèd. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"kns_upsell_tier" = "Ñôtè thát ƒôr thè Môñthl¥ súbsçrïptïôñ, thè ƒïrst wèèk ïs ƒRÉÉ, mèáñïñg ¥ôú wôñ't bè çhárgèd úñtïl ôñè wèèk áƒtèr ¥ôú súbsçrïbè, áñd ïƒ ¥ôú ñèèd tô ¥ôú çáñ çáñçèl bèƒôrè thè wèèk ïs úp. Thát wá¥ ¥ôú çáñ áúdïtïôñ áll thè sôñgs ¥ôú wáñt! Álsô bè súrè tô èñáblè thè çhèçk bôx “%s”! ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* warning */
+"ktd_fail_blurb" = "¥ôú má¥ hávè hèárd ôƒ thè dátá lôss búg, whèrè kJáms rèbúïlds ¥ôúr lïbrár¥ dátábásè, áñd áll ¥ôúr plá¥lïst èñtrïès túrñ tô dáshès ôr tô ráñdôm sôñgs.  Wèll, lúçk¥ ¥ôú, ¥ôú gèt tô hèlp mè ƒïx thïs búg.  Plèásè sèè ¥ôúr wèb brôwsèr ƒôr ïñstrúçtïôñs. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* label color, you know, photon vibrational frequencies interpreted by your eyes */
+"Label" = "Lábèl 12";
+
+/* changes if label color changes */
+"Label Sensitive" = "Lábèl $èñsïtïvè ôñè twô";
+
+/* No comment provided by engineer. */
+"LAME MP3 Not Installed" = "LÁMÉ MP3 Ñôt Íñstállèd ôñè twô";
+
+/* okay */
+"LAME Not Installed" = "LÁMÉ Ñôt Íñstállèd ôñè twô";
+
+/* okay */
+"LAME Out of Date" = "LÁMÉ Óút ôƒ Dátè ôñè twô";
+
+/* message */
+"lame_install_blurb" = "Áƒtèr thè ƒïlè dôwñlôáds, úñzïp ït, môúñt thè dïsk ïmágè, dôúblè çlïçk thè ïñstállèr, áñd ƒôllôw thè stèps.  kJáms múst qúït dúrïñg thè ïñstállátïôñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè ";
+
+/* warning */
+"lame_not_installed" = "Ít sèèms ¥ôú dô ñôt hávè thè LÁMÉ MP3 Éñçôdèr ïñstállèd. Wôúld ¥ôú lïkè tô dôwñlôád ït ñôw tô ïñstáll ït? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* warning */
+"lame_out_of_date_blurb" = "Thè vèrsïôñ ôƒ thè LÁMÉ Çômpôñèñt ¥ôú hávè ïñstállèd wïll wôrk bút ïs ôldèr, ¥ôú shôúld úpgrádè tô thè látèst vèrsïôñ. Wôúld ¥ôú lïkè tô dôwñlôád ït ñôw tô ïñstáll ït? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè";
+
+/* what language are you speaking? */
+"Language" = "Láñgúágè 123";
+
+/* No comment provided by engineer. */
+"Last Name must not be empty" = "Lást Ñámè múst ñôt bè èmpt¥ ôñè twô thrèè";
+
+/* - */
+"Last Name:" = "Lást Ñámè: ôñè";
+
+/* as in 'do this in the future, not right now' */
+"Later" = "Látèr 12";
+
+/* a 'launch file' is one that will be automatically run when the song plays */
+"Launch" = "Láúñçh 12";
+
+/* The channel that the lead vocal track is in, left, right, or both (center) */
+"Lead Vocal Channel" = "Lèád Vôçál Çháññèl ôñè twô";
+
+/* this song has a lead vocal track */
+"Lead Vocals" = "Lèád Vôçáls ôñè ";
+
+/* typographical leading */
+"Leading offset:" = "Lèádïñg ôƒƒsèt: ôñè twô";
+
+/* educate yourself */
+"Learn" = "Lèárñ 12";
+
+/* as in music collection */
+"Library" = "Lïbrár¥ 123";
+
+/* how many lines on a page */
+"Lines per page:" = "Lïñès pèr págè: ôñè twô";
+
+/* No comment provided by engineer. */
+"Loading Database" = "Lôádïñg Dátábásè ôñè twô";
+
+/* No comment provided by engineer. */
+"Loading File" = "Lôádïñg ƒïlè ôñè ";
+
+/* No comment provided by engineer. */
+"Loading Icons" = "Lôádïñg Íçôñs ôñè ";
+
+/* No comment provided by engineer. */
+"Loading Menus" = "Lôádïñg Mèñús ôñè ";
+
+/* at startup */
+"Loading Music Store “%s”…" = "Lôádïñg Músïç $tôrè “%s”… ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Loading Playlists" = "Lôádïñg Plá¥lïsts ôñè twô";
+
+/* at startup */
+"Loading songs into Database…" = "Lôádïñg sôñgs ïñtô Dátábásè… ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Loading Zipper" = "Lôádïñg Zïppèr ôñè twô";
+
+/* No comment provided by engineer. */
+"Loading…" = "Lôádïñg… 123";
+
+/* No comment provided by engineer. */
+"Localizing Menus…" = "Lôçálïzïñg Mèñús… ôñè twô";
+
+/* make it un-changeable */
+"Lock color palette" = "Lôçk çôlôr pálèttè ôñè twô";
+
+/* undo string */
+"Lock Palette" = "Lôçk Pálèttè ôñè ";
+
+/* No comment provided by engineer. */
+"Log In…" = "Lôg Íñ… ôñè";
+
+/* No comment provided by engineer. */
+"Log Out" = "Lôg Óút ôñè";
+
+/* No comment provided by engineer. */
+"Logging In" = "Lôggïñg Íñ ôñè";
+
+/* No comment provided by engineer. */
+"Logging in to music store(s)" = "Lôggïñg ïñ tô músïç stôrè(s) ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Logging in…" = "Lôggïñg ïñ… ôñè ";
+
+/* No comment provided by engineer. */
+"Logging In…" = "Lôggïñg Íñ… ôñè ";
+
+/* No comment provided by engineer. */
+"Logging Out" = "Lôggïñg Óút ôñè ";
+
+/* No comment provided by engineer. */
+"Login Information" = "Lôgïñ Íñƒôrmátïôñ ôñè twô";
+
+/* warning */
+"LowNumberedPortsPrompt" = "kJáms ïs áskïñg tô ôpèñ TÇP pôrt 80 ƒôr thè wèb sèrvèr, áñd múst bè áúthôrïzèd ƒôr thïs. ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* bummer */
+"Mac Error" = "Máç Érrôr ôñè";
+
+/* No comment provided by engineer. */
+"Mac OS error" = "Máç Ó$ èrrôr ôñè ";
+
+/* i use the Apple Mail application */
+"Mail…" = "Máïl… 123";
+
+/* No comment provided by engineer. */
+"Make sure you have write permissions for the folder <<%s>>" = "Mákè súrè ¥ôú hávè wrïtè pèrmïssïôñs ƒôr thè ƒôldèr <<%s>> ôñè twô thrèè ƒôúr";
+
+/* the boy singer */
+"Male" = "Málè 12";
+
+/* a rotation organized by hand */
+"Manual Rotation" = "Máñúál Rôtátïôñ ôñè twô";
+
+/* who manufactured this version of the song? */
+"Manufacturer" = "Máñúƒáçtúrèr 1234";
+
+/* the singer is in the venue */
+"Mark singer “Here”" = "Márk sïñgèr “Hèrè” ôñè twô";
+
+/* the singer has gone home */
+"Mark singer “Not Here”" = "Márk sïñgèr “Ñôt Hèrè” ôñè twô ";
+
+/* editable number follows the string.  only this many songs will be put in the cache */
+"Maximum number of songs allowed in the cache:" = "Máxïmúm ñúmbèr ôƒ sôñgs állôwèd ïñ thè çáçhè: ôñè twô thrèè ";
+
+/* maximum CD burn speed allowed */
+"Maximum Possible" = "Máxïmúm Pôssïblè ôñè twô";
+
+/* pushing refers to storing meta data inside files */
+"Maximum simultaneous tasks for pushing into zipped files" = "Máxïmúm sïmúltáñèôús tásks ƒôr púshïñg ïñtô zïppèd ƒïlès ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"Media - %s" = "Mèdïá - %s ôñè";
+
+/* No comment provided by engineer. */
+"Media must be prepared" = "Mèdïá múst bè prèpárèd ôñè twô";
+
+/* No comment provided by engineer. */
+"Media Not Supported" = "Mèdïá Ñôt $úppôrtèd ôñè twô";
+
+/* No comment provided by engineer. */
+"Menu item not found" = "Mèñú ïtèm ñôt ƒôúñd ôñè twô";
+
+/* No comment provided by engineer. */
+"Menu/Advanced/Reinterpret names?" = "Mèñú/Ádváñçèd/Rèïñtèrprèt ñámès? ôñè twô thrèè";
+
+/* ‘XML’ is a file format, don't translate it */
+"Meta Data XML" = "Mètá Dátá XML ôñè ";
+
+/* shown when you add to library */
+"meta_choice_blurb" = "Úsïñg “ƒïlè Ñámès” wïll áttèmpt tô sçáñ mètá ïñƒô ôút ôƒ thè sôñg ƒïlè ñámè ïtsèlƒ, ôptïôñáll¥ álsô ƒrôm thè èñçlôsïñg ƒôldèr ñámès.  Úsïñg “Tágs” wïll tr¥ tô rèád thè èxïstïñg mètá tágs, whïçh çáñ bè slôw bèçáúsè ït má¥ úñzïp thè ƒïlès tô gáïñ áççèss tô thè tágs. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* warning */
+"meta_info_2_blurb" = "¥ôú ñèèd tô sèt áll mètá ïñƒô ƒôr thè dïsç áñd èáçh tráçk bèƒôrè ¥ôú súbmït.  Mïssïñg Dïsç Íñƒô: %1$s, Mïssïñg Tráçk Íñƒô: %2$s. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* warning */
+"meta_info_blurb" = "Plèásè ƒïll ïñ áll thè mètá ïñƒô ƒôr èáçh tráçk.  ¥ôú çáñ sèlèçt múltïplè tráçks áñd sèt ïñƒô ƒôr áll ôƒ thèm át ôñçè úsïñg “ƒïlè->Gèt Íñƒô…”. ¥ôúr mïssïñg dátá: %s. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè";
+
+/* gain on microphone 1 */
+"Mic 1 Gain" = "Mïç 1 Gáïñ ôñè";
+
+/* one */
+"Minute" = "Mïñútè 12";
+
+/* plural */
+"Minutes" = "Mïñútès 123";
+
+/* making an in-memory cached backup */
+"Mirroring Playlists…" = "Mïrrôrïñg Plá¥lïsts… ôñè twô";
+
+/* is this song not available?  can it not be found? */
+"Missing" = "Mïssïñg 123";
+
+/* some data is not there */
+"Missing meta data" = "Mïssïñg mètá dátá ôñè twô";
+
+/* No comment provided by engineer. */
+"Missing parameter" = "Mïssïñg párámètèr ôñè twô";
+
+/* as in [cost per month] */
+"month" = "môñth 12";
+
+/* one */
+"Month" = "Môñth 12";
+
+/* plural */
+"Months" = "Môñths 12";
+
+/* pick from this list */
+"More than one disc was found, please choose:" = "Môrè tháñ ôñè dïsç wás ƒôúñd, plèásè çhôôsè: ôñè twô thrèè ";
+
+/* undo string */
+"Move composition element" = "Môvè çômpôsïtïôñ èlèmèñt ôñè twô ";
+
+/* error string */
+"Moving songs to trash" = "Môvïñg sôñgs tô trásh ôñè twô";
+
+/* yeah */
+"Multisession discs not supported, if you need this ask Dave." = "Múltïsèssïôñ dïsçs ñôt súppôrtèd, ïƒ ¥ôú ñèèd thïs ásk Dávè. ôñè twô thrèè ƒôúr";
+
+/* places to buy music */
+"Music Stores" = "Músïç $tôrès ôñè ";
+
+/* eek */
+"music_folder_not_found" = "Thèrè wás á prôblèm lôçátïñg ¥ôúr “%1$s” ƒôldèr.  Ís ït pèrháps áñ álïás tô áñ ôƒƒlïñè vôlúmè? (%2$s) ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* message */
+"music_store_update_avail" = "Thè músïç stôrè “%s” hás áñ úpdátè áváïláblè.  Wôúld ¥ôú lïkè tô dôwñlôád ït? ôñè twô thrèè ƒôúr ƒïvè ";
+
+/* No comment provided by engineer. */
+"Must drop on song that references the same singer as the dragged song." = "Múst drôp ôñ sôñg thát rèƒèrèñçès thè sámè sïñgèr ás thè drággèd sôñg. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"Must have at least two arguments" = "Múst hávè át lèást twô árgúmèñts ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Must pick a country" = "Múst pïçk á çôúñtr¥ ôñè twô";
+
+/* type error */
+"Needed “%s”, but got “%s”." = "Ñèèdèd “%1$s”, bút gôt “%2$s”. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Network error" = "Ñètwôrk èrrôr ôñè ";
+
+/* No comment provided by engineer. */
+"Network Host Failed to Provide Data (HTTP Response: 400 <bad request>)" = "Ñètwôrk Hôst ƒáïlèd tô Prôvïdè Dátá (HTTP Rèspôñsè: 400 <bád rèqúèst>) ôñè twô thrèè ƒôúr ƒïvè";
+
+/* error */
+"Network Host has no data at all (kOTNoDataErr)" = "Ñètwôrk Hôst hás ñô dátá át áll (kÓTÑôDátáÉrr) ôñè twô thrèè ";
+
+/* No comment provided by engineer. */
+"Network Timeout" = "Ñètwôrk Tïmèôút ôñè twô";
+
+/* validate blurb */
+"network_timeout_blurb" = "Thè wèb çlïèñt hás tïmèd ôút.  Íƒ ¥ôú árè ôñ á slôw ñètwôrk, gô tô “%1$s”, thèñ tô “%2$s”, thèñ sèt “%3$s” tô á lárgèr ñúmbèr ôƒ sèçôñds, ƒôr èxámplè: 240. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ";
+
+/* a place to buy songs */
+"New Music Store Available!" = "Ñèw Músïç $tôrè Áváïláblè! ôñè twô ";
+
+/* as in, create a new preset playlist */
+"New Preset Playlist" = "Ñèw Prèsèt Plá¥lïst ôñè twô";
+
+/* No comment provided by engineer. */
+"New Singer created: %s" = "Ñèw $ïñgèr çrèátèd: %s ôñè twô";
+
+/* message */
+"new_import_library" = "Wôúld ¥ôú lïkè tô Çôp¥ thè sôñgs ïñtô thè “kJáms Músïç” ƒôldèr?  Ór dô ¥ôú wáñt kJáms tô Rèƒèrèñçè thè ƒïlès ƒrôm whèrè thè¥ çúrrèñtl¥ rèsïdè?  Ñôtè: ïƒ thè ƒïlès árè ïñ thè “Dôwñlôáds” ƒôldèr, ôñ thè “Dèsktôp”, ïñ á “Ú$B Thúmb Drïvè” ôr ôthèrwïsè çúrrèñtl¥ rèsïdïñg ïñ á tèmpôrár¥ lôçátïôñ, thèñ ¥ôú shôúld çhôôsè tô “Çôp¥”. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ";
+
+/* confirm */
+"new_music_store_blurb" = "Thèrè ïs á ñèw músïç stôrè çállèd “%s”, wôúld ¥ôú lïkè tô dôwñlôád ït? ôñè twô thrèè ƒôúr ƒïvè";
+
+/* eek */
+"newer_db_version_blurb" = "Thïs dátábásè wás sávèd wïth á ñèwèr kJáms, whïçh wrïtès dátábásè ƒôrmát (%1$@), whïçh ïs, úñƒôrtúñátèl¥, grèátèr whát thïs vèrsïôñ çáñ rèád (%2$@).  ¥ôú múst úpgrádè tô á látèr vèrsïôñ. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô";
+
+/* as in next song */
+"Next" = "Ñèxt 12";
+
+/* negative */
+"No" = "Ñô 1";
+
+/* No comment provided by engineer. */
+"No child processes" = "Ñô çhïld prôçèssès ôñè twô";
+
+/* No comment provided by engineer. */
+"No error detected" = "Ñô èrrôr dètèçtèd ôñè twô";
+
+/* does not expire */
+"No Expiration" = "Ñô Éxpïrátïôñ ôñè ";
+
+/* No comment provided by engineer. */
+"No locks available" = "Ñô lôçks áváïláblè ôñè twô";
+
+/* this song has no synced lyrics */
+"No Lyrics" = "Ñô L¥rïçs ôñè";
+
+/* No comment provided by engineer. */
+"No media in drive." = "Ñô mèdïá ïñ drïvè. ôñè twô";
+
+/* No comment provided by engineer. */
+"No new version available." = "Ñô ñèw vèrsïôñ áváïláblè. ôñè twô ";
+
+/* No comment provided by engineer. */
+"No reply from KaraokeCloud server (offline?)" = "Ñô rèpl¥ ƒrôm KáráôkèÇlôúd sèrvèr (ôƒƒlïñè?) ôñè twô thrèè ";
+
+/* No comment provided by engineer. */
+"No reply from “%s” server (offline?)" = "Ñô rèpl¥ ƒrôm “%s” sèrvèr (ôƒƒlïñè?) ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"No Shopping Cart Engine" = "Ñô $hôppïñg Çárt Éñgïñè ôñè twô";
+
+/* No comment provided by engineer. */
+"No singer name specified." = "Ñô sïñgèr ñámè spèçïƒïèd. ôñè twô ";
+
+/* No comment provided by engineer. */
+"No SKU update is available from the eSellerate Servers." = "Ñô $KÚ úpdátè ïs áváïláblè ƒrôm thè è$èllèrátè $èrvèrs. ôñè twô thrèè ƒôúr";
+
+/* you need to submit a song (send one to the KJ) */
+"No song submitted!" = "Ñô sôñg súbmïttèd! ôñè twô";
+
+/* No comment provided by engineer. */
+"No songs to sync" = "Ñô sôñgs tô s¥ñç ôñè twô";
+
+/* No comment provided by engineer. */
+"No space left on device" = "Ñô spáçè lèƒt ôñ dèvïçè ôñè twô";
+
+/* No comment provided by engineer. */
+"No such file or directory" = "Ñô súçh ƒïlè ôr dïrèçtôr¥ ôñè twô ";
+
+/* No comment provided by engineer. */
+"No such process" = "Ñô súçh prôçèss ôñè twô";
+
+/* No comment provided by engineer. */
+"No Such Volume" = "Ñô $úçh Vôlúmè ôñè twô";
+
+/* No comment provided by engineer. */
+"No suitable disc in drive" = "Ñô súïtáblè dïsç ïñ drïvè ôñè twô ";
+
+/* warning */
+"no_cdg_blurb" = "Thè ÇD drïvè “%s” rèpôrts thát ït ïs ÑÓT çápáblè ôƒ rèádïñg ÇD+G dïsçs.  Wôúld ¥ôú lïkè tô áttèmpt tô úsè ït áñ¥wá¥?  Ór wôúld ¥ôú lïkè tô lèárñ môrè ábôút whát çômpátïblè drïvès árè áváïláblè? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè";
+
+/* message */
+"no_lame_blurb" = "Tèrrïbl¥ sôrr¥, bút thè LÁMÉ MP3 èñçôdèr whïçh ¥ôú hávè bèèñ úsïñg hád ñôt bèèñ prôpèrl¥ ïñstállèd.  Lègál rèqúïrèmèñts èñƒôrçè thè ñèçèssït¥ thát thè èñçôdèr bè ïñstállèd sèpárátèl¥ ƒrôm thè ápplïçátïôñ.  Íƒ ¥ôú wïsh tô èñçôdè tô MP3, ¥ôú wïll hávè tô dôwñlôád áñd ïñstáll thè ƒrèè plúgïñ máñúáll¥. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè";
+
+/* warning */
+"no_movie_blurb" = "Thèrè wás ñô plá¥áblè mèdïá ƒôúñd ïñ thïs ƒïlè.  kJáms ƒôr Wïñdôws dôès ñôt súppôrt WMV ôr ÁVÍ.  Íƒ ¥ôú thïñk sômèthïñg ïs wrôñg hèrè, sèñd thïs sôñg ƒïlè tô dávè. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ";
+
+/* validate blurb */
+"no_song_ms_blurb" = "$ômèhôw, thèrè ïs ñô sôñg ïñ thè çúrrèñt sèlèçtïôñ ƒôr púrçhásè. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* warning */
+"no_you_dont" = "¥ôú'rè ïñ thè mïddlè ôƒ thè púrçhásè prôçèss.  Plèásè çômplètè thè prôçèss áñd çlôsè thè rèçèïpt wïñdôw, thè prôgrám wïll sèlƒ-règïstèr, sô ¥ôú wôñ't hávè tô èñtèr thè sèrïál ñúmbèr ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô";
+
+/* no songs were found */
+"None" = "Ñôñè 12";
+
+/* No comment provided by engineer. */
+"Not a directory" = "Ñôt á dïrèçtôr¥ ôñè twô";
+
+/* No comment provided by engineer. */
+"Not applicable" = "Ñôt ápplïçáblè ôñè twô";
+
+/* the plugin is not installed */
+"Not Available." = "Ñôt Áváïláblè. ôñè twô";
+
+/* later please */
+"Not Now" = "Ñôt Ñôw ôñè";
+
+/* warning */
+"not_liable_blurb2" = "kJáms ïs $hárèwárè wïth ñô tïmè lïmït, whïçh mèáñs ït ïs ƒRÉÉ tô úsè ƒôr ás lôñg ás ¥ôú lïkè. Thèrè árè ñô rèƒúñds. Plèásè bè súrè thát ¥ôú rèáll¥ wáñt ït bèƒôrè púrçhásïñg! ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè";
+
+/* warning */
+"not_renamed_blurb" = "Thèrè wás á prôblèm úpdátïñg thè mètá ïñƒô ƒôr át lèást ôñè sôñg (pôssïbl¥ môrè).  Éïthèr thè ƒïlè wás ñôt ƒôúñd, thèrè wás áñ èrrôr ïñ rèñámïñg thè ƒïlè, ôr ït dôès ñôt çôñtáïñ thè mètá dátá thát ¥ôú spèçïƒïèd ïñ thè prèƒèrèñçès “Tágs -> Wrïtïñg -> Çôñƒôrm $ôñg Ñámès” tèmplátè. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* take note, check this out */
+"Note" = "Ñôtè 12";
+
+/* No comment provided by engineer. */
+"Note: The menu commands for “Preferences…”, “Exit”, and “About kJams…” have moved to a new menu at the far left of the menu bar: “%s”." = "Ñôtè: Thè mèñú çômmáñds ƒôr “Prèƒèrèñçès…”, “Éxït”, áñd “Ábôút kJáms…” hávè môvèd tô á ñèw mèñú át thè ƒár lèƒt ôƒ thè mèñú bár: “%s”. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè";
+
+/* No comment provided by engineer. */
+"Note: “Stopping” a song (after it's mostly played) marks the song as sung.  You can turn this off in the General preferences." = "Ñôtè: “$tôppïñg” á sôñg (áƒtèr ït's môstl¥ plá¥èd) márks thè sôñg ás súñg.  ¥ôú çáñ túrñ thïs ôƒƒ ïñ thè Gèñèrál prèƒèrèñçès. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* everything is here */
+"Nothing is missing" = "Ñôthïñg ïs mïssïñg ôñè twô";
+
+/* No comment provided by engineer. */
+"Notifying server a song was played" = "Ñôtïƒ¥ïñg sèrvèr á sôñg wás plá¥èd ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Numerical argument out of domain" = "Ñúmèrïçál árgúmèñt ôút ôƒ dômáïñ ôñè twô thrèè";
+
+/* !!!SPECIAL!!! Localizers: do not localize this string!!  contact me for more info */
+"NumSpacesInPlayCommand=12" = "Ñúm$páçèsÍñPlá¥Çômmáñd=12 12345678";
+
+/* No comment provided by engineer. */
+"Object (menu, window, control) Property Not Found" = "Óbjèçt (mèñú, wïñdôw, çôñtrôl) Prôpèrt¥ Ñôt ƒôúñd ôñè twô thrèè ƒôúr";
+
+/* 1: one click settings, 2: credit card, 3: state, 4: country */
+"ocs_cc_blurb" = "Íñ thè “%1$s” dïálôg ƒôr ¥ôúr Çrèdït Çárd, plèásè mákè súrè thát “%2$s” áñd “%3$s” árè çôrrèçt. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* Music_Store/Business_Info */
+"Office Name:" = "Óƒƒïçè Ñámè: ôñè ";
+
+/* No comment provided by engineer. */
+"Offline Mode" = "Óƒƒlïñè Môdè ôñè ";
+
+/* No comment provided by engineer. */
+"One Moment Please" = "Óñè Mômèñt Plèásè ôñè twô";
+
+/* security blurb */
+"one_click_security_blurb" = "kJáms kèèps ¥ôúr çrèdït çárd çrèdèñtïáls èñçr¥ptèd át áll tïmès, áñd álsô úsès $$L ƒôr áll ƒïñáñçïál ñètwôrk tráñsáçtïôñs.  ¥ôúr è-máïl áddrèss ïs úsèd b¥ músïç stôrè públïshèrs tô sèñd ¥ôú á rèçèïpt, áñd álsô ƒôr thè rèpl¥ áddrèss ôƒ bôth “ƒrèèdb súbmït” áñd çrásh rèpôrtïñg.  kJáms dôès ñôt úsè ït ƒôr áñ¥ ôthèr púrpôsè. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ";
+
+/* No comment provided by engineer. */
+"Only blank media is supported" = "Óñl¥ bláñk mèdïá ïs súppôrtèd ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Only CD-R/RW media is supported" = "Óñl¥ ÇD-R/RW mèdïá ïs súppôrtèd ôñè twô thrèè";
+
+/* directive: user, please select a folder */
+"Open Folder:" = "Ópèñ ƒôldèr: ôñè ";
+
+/* No comment provided by engineer. */
+"Opening Session" = "Ópèñïñg $èssïôñ ôñè twô";
+
+/* No comment provided by engineer. */
+"Operation Aborted" = "Ópèrátïôñ Ábôrtèd ôñè twô";
+
+/* No comment provided by engineer. */
+"Operation not permitted" = "Ópèrátïôñ ñôt pèrmïttèd ôñè twô";
+
+/* No comment provided by engineer. */
+"Operation not supported by device" = "Ópèrátïôñ ñôt súppôrtèd b¥ dèvïçè ôñè twô thrèè";
+
+/* who originally published the song? */
+"Original Publisher" = "Órïgïñál Públïshèr ôñè twô";
+
+/* year this song was first published */
+"Original Year" = "Órïgïñál ¥èár ôñè ";
+
+/* i use some other mail application */
+"Other…" = "Óthèr… 123";
+
+/* replace what is there */
+"Overwrite" = "Óvèrwrïtè 123";
+
+/* backgrond color (please abbreviate) */
+"Page BG Color:" = "Págè BG Çôlôr: ôñè twô";
+
+/* No comment provided by engineer. */
+"Parameter Error" = "Párámètèr Érrôr ôñè twô";
+
+/* scanning */
+"Parsing Music Store" = "Pársïñg Músïç $tôrè ôñè twô";
+
+/* password wrong */
+"Password incorrect.  Please try again." = "Pásswôrd ïñçôrrèçt.  Plèásè tr¥ ágáïñ. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"password:" = "pásswôrd: 123";
+
+/* No comment provided by engineer. */
+"Passwords don't match." = "Pásswôrds dôñ't mátçh. ôñè twô";
+
+/* sort columns */
+"Paste Column Layout" = "Pástè Çôlúmñ Lá¥ôút ôñè twô";
+
+/* No comment provided by engineer. */
+"Paste from Clipboard" = "Pástè ƒrôm Çlïpbôárd ôñè twô";
+
+/* enter in discount number */
+"Paste your Coupon Code for “%s” here:" = "Pástè ¥ôúr Çôúpôñ Çôdè ƒôr “%s” hèrè: ôñè twô thrèè";
+
+/* mmm */
+"Pasting over meta data is dangerous, you can destroy data and there is no undo.  Are you sure you want to coninue?" = "Pástïñg ôvèr mètá dátá ïs dáñgèrôús, ¥ôú çáñ dèstrô¥ dátá áñd thèrè ïs ñô úñdô.  Árè ¥ôú súrè ¥ôú wáñt tô çôñïñúè? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* as in pause the song, rather than stop */
+"Pause" = "Páúsè 12";
+
+/* are you paying attention? */
+"pay_attention_blurb" = "Whát ïs ït thát ¥ôú wïll dô áƒtèr thè púrçhásè hás çômplètèd?  Wïll ¥ôú Á) Çlôsè thè rèçèïpt wïñdôw, B) Éñtèr thè sèrïál ñúmbèr ôr Ç) Dôwñlôád thè Lïçèñsèd vèrsïôñ? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè";
+
+/* subscription price paid every month, eg: [$10 per month] */
+"per month" = "pèr môñth ôñè";
+
+/* No comment provided by engineer. */
+"Performing debugging method…" = "Pèrƒôrmïñg dèbúggïñg mèthôd… ôñè twô thrèè";
+
+/* windows only */
+"Perhaps one is a shortcut to the other?" = "Pèrháps ôñè ïs á shôrtçút tô thè ôthèr? ôñè twô thrèè";
+
+/* macintosh only */
+"Perhaps one is an alias of the other?" = "Pèrháps ôñè ïs áñ álïás ôƒ thè ôthèr? ôñè twô thrèè";
+
+/* warning */
+"perian_blurb" = "Íñ ôrdèr tô plá¥ thè sôñg “%s”, ¥ôú má¥ ñèèd tô dôwñlôád áñd ïñstáll thè Pèrïáñ plúgïñ. ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* No comment provided by engineer. */
+"Permission denied" = "Pèrmïssïôñ dèñïèd ôñè twô";
+
+/* No comment provided by engineer. */
+"Phone number must be valid" = "Phôñè ñúmbèr múst bè válïd ôñè twô ";
+
+/* address */
+"Phone:" = "Phôñè: 12";
+
+/* as in play the song */
+"Play" = "Plá¥ 12";
+
+/* a routine that notifies a server that a song was played, string is appended to name of music store */
+"Play Notifier" = "Plá¥ Ñôtïƒïèr ôñè ";
+
+/* list of music */
+"Playlist" = "Plá¥lïst 123";
+
+/* No comment provided by engineer. */
+"PlayList ID not found" = "Plá¥Lïst ÍD ñôt ƒôúñd ôñè twô";
+
+/* this playlist is the one users (via the kJams Web Server) will search when looking for songs to sing */
+"Playlist is used for Server Search" = "Plá¥lïst ïs úsèd ƒôr $èrvèr $èárçh ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"PlayList Item ID not found" = "Plá¥Lïst Ítèm ÍD ñôt ƒôúñd ôñè twô ";
+
+/* No comment provided by engineer. */
+"PlayList name already taken. Please choose another." = "Plá¥Lïst ñámè álrèád¥ tákèñ. Plèásè çhôôsè áñôthèr. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"PlayList not found" = "Plá¥Lïst ñôt ƒôúñd ôñè twô";
+
+/* No comment provided by engineer. */
+"Please choose a backup from this list:" = "Plèásè çhôôsè á báçkúp ƒrôm thïs lïst: ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Please Drink Responsibly!" = "Plèásè Drïñk Rèspôñsïbl¥! ôñè twô ";
+
+/* umm */
+"Please enter a new time" = "Plèásè èñtèr á ñèw tïmè ôñè twô";
+
+/* No comment provided by engineer. */
+"Please enter a search term." = "Plèásè èñtèr á sèárçh tèrm. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Please enter or paste your serial number:" = "Plèásè èñtèr ôr pástè ¥ôúr sèrïál ñúmbèr: ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Please enter some detailed info about what you were doing right before the crash!" = "Plèásè èñtèr sômè dètáïlèd ïñƒô ábôút whát ¥ôú wèrè dôïñg rïght bèƒôrè thè çrásh! ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* new password */
+"Please enter the NEW password:" = "Plèásè èñtèr thè ÑÉW pásswôrd: ôñè twô thrèè";
+
+/* new password */
+"Please enter the OLD password:" = "Plèásè èñtèr thè ÓLD pásswôrd: ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Please enter your e-mail address:" = "Plèásè èñtèr ¥ôúr è-máïl áddrèss: ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Please enter your message:" = "Plèásè èñtèr ¥ôúr mèsságè: ôñè twô ";
+
+/* as in please find this file */
+"Please find the picture “%s”" = "Plèásè ƒïñd thè pïçtúrè “%s” ôñè twô thrèè";
+
+/* instructions to user: QuickTime import/export Settings, the user will decide the name */
+"Please name this preset:" = "Plèásè ñámè thïs prèsèt: ôñè twô ";
+
+/* instructions to user: the user will decide the name */
+"Please name this Singer:" = "Plèásè ñámè thïs $ïñgèr: ôñè twô ";
+
+/* umm */
+"Please name this template" = "Plèásè ñámè thïs tèmplátè ôñè twô ";
+
+/* obvious? */
+"Please pick a credit card type" = "Plèásè pïçk á çrèdït çárd t¥pè ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Please re-insert the disc before the time runs out…" = "Plèásè rè-ïñsèrt thè dïsç bèƒôrè thè tïmè rúñs ôút… ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"Please select a folder, not a file." = "Plèásè sèlèçt á ƒôldèr, ñôt á ƒïlè. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Please select a single folder." = "Plèásè sèlèçt á sïñglè ƒôldèr. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Please Send the log file." = "Plèásè $èñd thè lôg ƒïlè. ôñè twô ";
+
+/* help me debug */
+"Please send the purchase failure email report." = "Plèásè sèñd thè púrçhásè ƒáïlúrè èmáïl rèpôrt. ôñè twô thrèè ";
+
+/* No comment provided by engineer. */
+"Please set the type of credit card you are using" = "Plèásè sèt thè t¥pè ôƒ çrèdït çárd ¥ôú árè úsïñg ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"Please wait a few moments and this screen will refresh." = "Plèásè wáït á ƒèw mômèñts áñd thïs sçrèèñ wïll rèƒrèsh. ôñè twô thrèè ƒôúr";
+
+/* sort by name, album, artist etc */
+"Please wait until the sort tasks are finished." = "Plèásè wáït úñtïl thè sôrt tásks árè ƒïñïshèd. ôñè twô thrèè ";
+
+/* play list item identifier */
+"PLI" = "PLÍ 1";
+
+/* a list of mp3 songs that may be corrupted */
+"Possibly Corrupted MP3" = "Pôssïbl¥ Çôrrúptèd MP3 ôñè twô";
+
+/* postal code */
+"Postal Code:" = "Pôstál Çôdè: ôñè ";
+
+/* user settings */
+"Preferencs" = "Prèƒèrèñçs 123";
+
+/* No comment provided by engineer. */
+"Preset not found" = "Prèsèt ñôt ƒôúñd ôñè twô";
+
+/* No comment provided by engineer. */
+"Pressing %s means kJams will summarily exit. Would you like to Restore from a backup?" = "Prèssïñg %s mèáñs kJáms wïll súmmárïl¥ èxït. Wôúld ¥ôú lïkè tô Rèstôrè ƒrôm á báçkúp? ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* as in previous song */
+"Previous" = "Prèvïôús 123";
+
+/* cost, USD */
+"Price" = "Prïçè 12";
+
+/* No comment provided by engineer. */
+"Problem starting the kJams web server. Make sure the specified port (%d) isn't in use. Only port 80 or ports >= 1024 are valid." = "Prôblèm stártïñg thè kJáms wèb sèrvèr. Mákè súrè thè spèçïƒïèd pôrt (%d) ïsñ't ïñ úsè. Óñl¥ pôrt 80 ôr pôrts >= 1024 árè válïd. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* yep */
+"Producer Plugin API out of date, upgrade the plugin." = "Prôdúçèr Plúgïñ ÁPÍ ôút ôƒ dátè, úpgrádè thè plúgïñ. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"Producer Plugin not detected." = "Prôdúçèr Plúgïñ ñôt dètèçtèd. ôñè twô thrèè";
+
+/* yep */
+"Producer plugin status: Unknown" = "Prôdúçèr plúgïñ státús: Úñkñôwñ ôñè twô thrèè";
+
+/* warning */
+"producer_tryout_blurb" = "$ômè sôñgs wïll búrñ rèd X márks ïñ thè gráphïçs bèçáúsè ¥ôú árè úsïñg thè tr¥ôút vèrsïôñ ôƒ thè Prôdúçèr plúgïñ.  Tô rèmôvè thè rèd X márks, ¥ôú múst púrçhásè thè Prôdúçèr plúgïñ.  Wôúld ¥ôú lïkè tô púrçhásè ït? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr";
+
+/* media stream project file (KTP, LRC, SingStar etc) */
+"Project" = "Prôjèçt 123";
+
+/* who published this version of the song? */
+"Publisher" = "Públïshèr 123";
+
+/* pull as in fetch, get or extract */
+"Pull Meta Data" = "Púll Mètá Dátá ôñè twô";
+
+/* verb: (I) buy */
+"Purchase" = "Púrçhásè 123";
+
+/* No comment provided by engineer. */
+"Purchase Result error" = "Púrçhásè Rèsúlt èrrôr ôñè twô";
+
+/* No comment provided by engineer. */
+"Purchase Song" = "Púrçhásè $ôñg ôñè ";
+
+/* a voucher is like an iTunes Gift Card */
+"Purchase Voucher Credit…" = "Púrçhásè Vôúçhèr Çrèdït… ôñè twô ";
+
+/* is this a store bought song? */
+"Purchased" = "Púrçhásèd 123";
+
+/* No comment provided by engineer. */
+"Purchasing Song" = "Púrçhásïñg $ôñg ôñè twô";
+
+/* No comment provided by engineer. */
+"Purchasing Subscription…" = "Púrçhásïñg $úbsçrïptïôñ… ôñè twô ";
+
+/* push as in add, insert, or update: you're pushing the information into place, pull as in extract, reveal, or discover: you're pulling the information out of where it is stored */
+"Push / Pull" = "Púsh / Púll ôñè ";
+
+/* No comment provided by engineer. */
+"Python Scripting" = "P¥thôñ $çrïptïñg ôñè twô";
+
+/* querying means asking for information */
+"Querying %s…" = "Qúèr¥ïñg %s… ôñè ";
+
+/* No comment provided by engineer. */
+"Querying…" = "Qúèr¥ïñg… 123";
+
+/* this message is shown, then after it is shown a more detailed message, like 'QuickTime error: The encoder popped a tire.' */
+"QuickTime error" = "QúïçkTïmè èrrôr ôñè twô";
+
+/* No comment provided by engineer. */
+"QuickTime not installed" = "QúïçkTïmè ñôt ïñstállèd ôñè twô";
+
+/* exit the app */
+"Quit" = "Qúït 12";
+
+/* are you sure */
+"Quit during Encode?" = "Qúït dúrïñg Éñçôdè? ôñè twô";
+
+/* are you sure */
+"Quit during Rip?" = "Qúït dúrïñg Rïp? ôñè twô";
+
+/* warning */
+"quit_during_export_blurb" = "Thèrè ïs áñ èñçôdïñg tásk çúrrèñtl¥ ïñ prôgrèss, ïƒ ¥ôú qúït ñôw, thè èñçôdïñg wïll bè ábôrtèd.  Tô wátçh thè tásk, shôw thè Tásks wïñdôw. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè";
+
+/* warning */
+"quit_during_rip_blurb" = "Thèrè ïs á Rïp çúrrèñtl¥ ïñ prôgrèss, ïƒ ¥ôú qúït ñôw, ¥ôú wïll hávè tô rè-rïp thè sôñg ƒïlè, bèçáúsè ït wïll bè ïñçômplètè, áñd wïll ñôt plá¥ çôrrèçtl¥. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ";
+
+/* when the app is quiting */
+"Quitting…" = "Qúïttïñg… 1234";
+
+/* how does the user rate this song?  eg: good or bad */
+"Rating" = "Rátïñg 12";
+
+/* as in parse, render, resolve */
+"Re-Bake" = "Rè-Bákè 123";
+
+/* No comment provided by engineer. */
+"Re-enabling subscription…" = "Rè-èñáblïñg súbsçrïptïôñ… ôñè twô ";
+
+/* No comment provided by engineer. */
+"Read-only file system" = "Rèád-ôñl¥ ƒïlè s¥stèm ôñè twô";
+
+/* error */
+"reading CD in sector: %d" = "rèádïñg ÇD ïñ sèçtôr: %d ôñè twô ";
+
+/* error */
+"Reading CD Table of Contents" = "Rèádïñg ÇD Táblè ôƒ Çôñtèñts ôñè twô thrèè";
+
+/* at startup */
+"Reading file:" = "Rèádïñg ƒïlè: ôñè ";
+
+/* No comment provided by engineer. */
+"Reading Music Store file into memory" = "Rèádïñg Músïç $tôrè ƒïlè ïñtô mèmôr¥ ôñè twô thrèè";
+
+/* preferences you can set that have to do with reading or importing meta tags */
+"Reading:" = "Rèádïñg: 123";
+
+/* i am finished with my tasks */
+"Ready!" = "Rèád¥! 12";
+
+/* No comment provided by engineer. */
+"rebuild_library_blurb" = "Plèásè qúït kJáms, thèñ, ïñ thè ƒïñdèr, dèlètè thè ƒôldèr “kJáms Lïbrár¥”, lôçátèd ïñ thè kJáms ƒôldèr, ïñ ¥ôúr Músïç ƒôldèr, thèñ rè-stárt kJáms.  Thïs ïs thè bèst wá¥ tô çrèátè á “ƒrèsh” lïbrár¥. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè";
+
+/* starting from scratch */
+"Rebuilding library" = "Rèbúïldïñg lïbrár¥ ôñè twô";
+
+/* warning */
+"receipt_blurb" = "¥ôú wïll shôrtl¥ rèçèïvè áñ è-máïl rèçèïpt, plèásè kèèp á báçkúp ôƒ thïs, sïñçè ït wïll çôñtáïñ ¥ôúr sèrïál ñúmbèr, ïñ çásè ¥ôú ñèèd tô rèïñstáll. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè";
+
+/* confirm */
+"receipt_str" = "Çhèçk ¥ôúr èmáïl ƒôr á rèçèïpt, ôr çôñtáçt “%s” ƒôr hèlp. Ór wôúld ¥ôú lïkè tô púrçhásè thè sôñg ágáïñ? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* is this a store bought song? */
+"Recent" = "Rèçèñt 12";
+
+/* %s is name of product */
+"Recover your “%s” License" = "Rèçôvèr ¥ôúr “%s” Lïçèñsè ôñè twô ";
+
+/* No comment provided by engineer. */
+"recover_blurb" = "Íñ thè ñèxt dïálôg, plèásè èñtèr thè èmáïl áddrèss ¥ôú úsèd whèñ ¥ôú ƒïrst ôbtáïñèd ¥ôúr lïçèñsè. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"recover_blurb2" = "Íñ á ƒèw mïñútès, ¥ôú shôúld rèçèïvè áñ èmáïl wïth ¥ôúr sèrïál ñúmbèr. ƒïñd thát èmáïl, thèñ çôp¥ thè sèrïál ñúmbèr, sô ¥ôú çáñ pástè ït ïñtô thè ñèxt dïálôg. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ";
+
+/* as in make a reference to something else (an alias or a shortcut) */
+"Reference" = "Rèƒèrèñçè 123";
+
+/* oops */
+"reinterp_sort_pli_blurb" = "Thïs plá¥lïst ïs çúrrèñtl¥ sôrtèd b¥ á çôlúmñ whôsè dátá wïll çháñgè whèñ thè sôñg ñámè ïs rèïñtèrprètèd.  ¥ôú shôúld sôrt b¥ PLÍ ôr $ôñgÍD bèƒôrè rèïñtèrprètïñg. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ";
+
+/* No comment provided by engineer. */
+"Release icons" = "Rèlèásè ïçôñs ôñè ";
+
+/* No comment provided by engineer. */
+"Releasing Microphone" = "Rèlèásïñg Mïçrôphôñè ôñè twô";
+
+/* load it again */
+"Reload Music Store" = "Rèlôád Músïç $tôrè ôñè twô";
+
+/* No comment provided by engineer. */
+"Reloading Disc…" = "Rèlôádïñg Dïsç… ôñè twô";
+
+/* verb */
+"Remove" = "Rèmôvè 12";
+
+/* are you sure? */
+"Remove Current Singer?" = "Rèmôvè Çúrrèñt $ïñgèr? ôñè twô";
+
+/* No comment provided by engineer. */
+"Remove Event Handler" = "Rèmôvè Évèñt Háñdlèr ôñè twô";
+
+/* removes references, not actual songs */
+"Remove from Library" = "Rèmôvè ƒrôm Lïbrár¥ ôñè twô";
+
+/* No comment provided by engineer. */
+"Remove Timers" = "Rèmôvè Tïmèrs ôñè ";
+
+/* deletion warning */
+"remove_dupes_blurb" = "Thïs wïll ôñl¥ rèmôvè (prèsúmèábl¥ dúplïçátè) plá¥lïst ïtèms ƒrôm thè Lïbrár¥ plá¥lïst. Thïs wïll ôñl¥ wôrk (ïè: ñôt çrásh) ïƒ thïs plá¥lïst çôñtáïñs dúplïçátè *rèƒèrèñçès* ƒrôm ¥ôúr *Lïbrár¥*.  Thïs wïll ôñl¥ háppèñ dúè tô búgs.  Árè ¥ôú súrè ¥ôú wáñt tô rïsk çráshïñg rïght ñôw?  Dïd Dávè dïrèçtl¥ tèll ¥ôú tô dô thïs? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ";
+
+/* deletion warning */
+"remove_refs_blurb" = "Thïs wïll rèmôvè áll rèƒèrèñçès ƒrôm áll plá¥lïsts!  Ít wïll lèávè ƒïlès ôñ ¥ôúr dïsk úñtôúçhèd.  Árè ¥ôú súrè ¥ôú wáñt tô rèmôvè áll rèƒèrèñçès? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè";
+
+/* No comment provided by engineer. */
+"Removing Duplicates" = "Rèmôvïñg Dúplïçátès ôñè twô";
+
+/* No comment provided by engineer. */
+"removing music store manager" = "rèmôvïñg músïç stôrè máñágèr ôñè twô thrèè";
+
+/* does that make sense? */
+"Removing Songs from all playlists" = "Rèmôvïñg $ôñgs ƒrôm áll plá¥lïsts ôñè twô thrèè";
+
+/* does that make sense? */
+"Removing Songs from Library" = "Rèmôvïñg $ôñgs ƒrôm Lïbrár¥ ôñè twô thrèè";
+
+/* what type (instrumental, vocal, vocal right channel, backing vocal etc) */
+"Rendition" = "Rèñdïtïôñ 123";
+
+/* imperative command, as in <please make this request> */
+"Request" = "Rèqúèst 123";
+
+/* undo string */
+"Reset Picture Position" = "Rèsèt Pïçtúrè Pôsïtïôñ ôñè twô";
+
+/* pos is short for 'position' */
+"Reset Pos" = "Rèsèt Pôs ôñè";
+
+/* undo string */
+"Resize composition element" = "Rèsïzè çômpôsïtïôñ èlèmèñt ôñè twô ";
+
+/* No comment provided by engineer. */
+"Resource deadlock avoided" = "Rèsôúrçè dèádlôçk ávôïdèd ôñè twô ";
+
+/* No comment provided by engineer. */
+"Resource temporarily unavailable" = "Rèsôúrçè tèmpôrárïl¥ úñáváïláblè ôñè twô thrèè";
+
+/* as in restore from a backup */
+"Restore" = "Rèstôrè 123";
+
+/* No comment provided by engineer. */
+"Restore From Backup" = "Rèstôrè ƒrôm Báçkúp ôñè twô";
+
+/* No comment provided by engineer. */
+"Result too large" = "Rèsúlt tôô lárgè ôñè twô";
+
+/* show, display, disclose, view (in the finder / explorer) */
+"Reveal" = "Rèvèál 12";
+
+/* No comment provided by engineer. */
+"Reveal Web Site" = "Rèvèál Wèb $ïtè ôñè twô";
+
+/* rewind song */
+"Rewind: %s" = "Rèwïñd: %s ôñè";
+
+/* as in rip a CD */
+"Rip" = "Rïp 1";
+
+/* rip as in digitize or import */
+"Rip from CD:" = "Rïp ƒrôm ÇD: ôñè ";
+
+/* rip an entire disc to a pair of files with .bin and .cue extensions */
+"Rip to bin/cue…" = "Rïp tô bïñ/çúè… ôñè twô";
+
+/* all done */
+"Ripping complete" = "Rïppïñg çômplètè ôñè twô";
+
+/* ripping means reading the tracs directly from the CD */
+"Ripping, please wait…" = "Rïppïñg, plèásè wáït… ôñè twô";
+
+/* message */
+"rot_showscreens_update_avail" = "Thè dèƒáúlt Rôtátïôñ $hôwsçrèèñs ƒïlès hávè çháñgèd.  Íƒ ¥ôú hávè mádè çháñgès tô áñ¥ ôƒ thèsè ƒïlès, ¥ôú shôúld gèt Hèlp ôñ whát tô dô, ôthèrwïsè ¥ôú shôúld júst Íñstáll thèm. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè ";
+
+/* rotation */
+"Rotation" = "Rôtátïôñ 123";
+
+/* how long should the sample be? */
+"Sample duration (seconds)" = "$ámplè dúrátïôñ (sèçôñds) ôñè twô ";
+
+/* this is only a sample (small portion) of a song, it is not the entire song */
+"Sample Only" = "$ámplè Óñl¥ ôñè ";
+
+/* message shown when saving the database */
+"Saving Database…" = "$ávïñg Dátábásè… ôñè twô";
+
+/* No comment provided by engineer. */
+"Saving:" = "$ávïñg: 123";
+
+/* yup */
+"Scanning for missing songs" = "$çáññïñg ƒôr mïssïñg sôñgs ôñè twô ";
+
+/* No comment provided by engineer. */
+"Script Error" = "$çrïpt Érrôr ôñè ";
+
+/* No comment provided by engineer. */
+"Script not found" = "$çrïpt ñôt ƒôúñd ôñè twô";
+
+/* No comment provided by engineer. */
+"Search" = "$èárçh 12";
+
+/* a list of file system paths */
+"Search paths used to locate songs:" = "$èárçh páths úsèd tô lôçátè sôñgs: ôñè twô thrèè";
+
+/* from freedb */
+"Searching for Disc…" = "$èárçhïñg ƒôr Dïsç… ôñè twô";
+
+/* for a song */
+"Searching in iTunes" = "$èárçhïñg ïñ ïTúñès ôñè twô";
+
+/* sorting message */
+"Searching “%s” for “%s”…" = "$èárçhïñg “%1$s” ƒôr “%2$s”… ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Searching…" = "$èárçhïñg… 123";
+
+/* one */
+"Second" = "$èçôñd 12";
+
+/* plural */
+"Seconds" = "$èçôñds 123";
+
+/* obvious? */
+"Security Information" = "$èçúrït¥ Íñƒôrmátïôñ ôñè twô";
+
+/* No comment provided by engineer. */
+"See your KJ for information!" = "$èè ¥ôúr KJ ƒôr ïñƒôrmátïôñ! ôñè twô thrèè";
+
+/* a <Launch File> is a special file that will launch automatically when you play a song */
+"Select Launch File" = "$èlèçt Láúñçh ƒïlè ôñè twô";
+
+/* No comment provided by engineer. */
+"Select Singer Folder" = "$èlèçt $ïñgèr ƒôldèr ôñè twô";
+
+/* msg */
+"Selection added to QuickTime Export que" = "$èlèçtïôñ áddèd tô QúïçkTïmè Éxpôrt qúè ôñè twô thrèè";
+
+/* msg */
+"Selection added to re-encode que" = "$èlèçtïôñ áddèd tô rè-èñçôdè qúè ôñè twô thrèè";
+
+/* command as in 'send the crash report' */
+"Send" = "$èñd 12";
+
+/* No comment provided by engineer. */
+"Send Crash Report" = "$èñd Çrásh Rèpôrt ôñè twô";
+
+/* mmm */
+"Sending Music Store purchase request" = "$èñdïñg Músïç $tôrè púrçhásè rèqúèst ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Serial Number" = "$èrïál Ñúmbèr ôñè ";
+
+/* the %s button is the “Install” button */
+"server_update_avail" = "Thè dèƒáúlt $èrvèr Rèsôúrçè ƒïlès hávè çháñgèd.  Íƒ ¥ôú hávè mádè çháñgès tô ¥ôúr sèrvèr ƒïlès, ¥ôú shôúld gèt Hèlp ôñ whát tô dô, ôthèrwïsè (ôr ïƒ ¥ôú dôñ't kñôw whát thïs mèáñs) ¥ôú shôúld júst çlïçk thè “%s” búttôñ. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr";
+
+/* undo string */
+"Set Background Color" = "$èt Báçkgrôúñd Çôlôr ôñè twô";
+
+/* undo string */
+"Set Comp Duration" = "$èt Çômp Dúrátïôñ ôñè twô";
+
+/* undo string, a comp is a composition, a visual frame composed of one or more elements */
+"Set Comp Start Time" = "$èt Çômp $tárt Tïmè ôñè twô";
+
+/* undo string, includes duration */
+"Set Comp Time" = "$èt Çômp Tïmè ôñè ";
+
+/* undo string */
+"Set Composition Palette Color" = "$èt Çômpôsïtïôñ Pálèttè Çôlôr ôñè twô thrèè";
+
+/* undo string */
+"Set Label" = "$èt Lábèl ôñè";
+
+/* undo string */
+"Set Label Sensitive" = "$èt Lábèl $èñsïtïvè ôñè twô";
+
+/* undo string */
+"Set Sweep Color" = "$èt $wèèp Çôlôr ôñè twô";
+
+/* undo string */
+"Set Text Color" = "$èt Tèxt Çôlôr ôñè twô";
+
+/* meta data warning */
+"set_meta_on_selection_blurb" = "Árè ¥ôú súrè ¥ôú wáñt tô sèt thè “%1$s” mètá dátá tô “%2$s” ƒôr áll %3$d sôñgs ïñ thè çúrrèñt sèlèçtïôñ?  Ór dô ¥ôú wáñt tô çháñgè júst ôñè?  ¥ôú çáñ ñôt úñdô thïs áçtïôñ. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè";
+
+/* No comment provided by engineer. */
+"Settings" = "$èttïñgs 123";
+
+/* as in 'display this' */
+"Show" = "$hôw 12";
+
+/* No comment provided by engineer. */
+"Show Message" = "$hôw Mèsságè ôñè ";
+
+/* No comment provided by engineer. */
+"Show new updates to this store" = "$hôw ñèw úpdátès tô thïs stôrè ôñè twô thrèè";
+
+/* show the rectangle of the current graphic command */
+"Show “Font” Rect" = "$hôw “ƒôñt” Rèçt ôñè twô";
+
+/* No comment provided by engineer. */
+"Showing Windows" = "$hôwïñg Wïñdôws ôñè twô";
+
+/* No comment provided by engineer. */
+"Shutting down GraceNote…" = "$húttïñg dôwñ GráçèÑôtè… ôñè twô ";
+
+/* No comment provided by engineer. */
+"Shutting down Push Notification" = "$húttïñg dôwñ Púsh Ñôtïƒïçátïôñ ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Shutting down Python" = "$húttïñg dôwñ P¥thôñ ôñè twô";
+
+/* No comment provided by engineer. */
+"Shutting down thread manager" = "$húttïñg dôwñ thrèád máñágèr ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Shutting down Web Server" = "$húttïñg dôwñ Wèb $èrvèr ôñè twô ";
+
+/* No comment provided by engineer. */
+"Signal error" = "$ïgñál èrrôr ôñè ";
+
+/* you know who */
+"Singer" = "$ïñgèr 12";
+
+/* No comment provided by engineer. */
+"Singer Deleted: %s" = "$ïñgèr Dèlètèd: %s ôñè twô";
+
+/* this singer is a 'karaoke jockey', one of the administrators of the show, and has special rights */
+"Singer is KJ" = "$ïñgèr ïs KJ ôñè ";
+
+/* No comment provided by engineer. */
+"Singer name already taken. Please choose another." = "$ïñgèr ñámè álrèád¥ tákèñ. Plèásè çhôôsè áñôthèr. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"Singer Nickname" = "$ïñgèr Ñïçkñámè ôñè twô";
+
+/* this is due to an error */
+"single_select_bug_blurb" = "¥ôú múst hávè èxáçtl¥ ôñè sôñg sèlèçtèd tô plá¥.  $ômèhôw, ït sèèms thèrè árè 2 ôr môrè sôñgs sèlèçtèd.  Wôúld ¥ôú lïkè tô dèsèlèçt thèm?  ¥ôú çáñ thèñ júst dôúblè çlïçk thè sôñg ¥ôú wáñt tô plá¥. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè";
+
+/* how large is the file? */
+"Size" = "$ïzè 12";
+
+/* don't do it, avoid it, go around it, skip over it */
+"Skip" = "$kïp 12";
+
+/* sync delta in seconds (float), Video slips relative to Audio */
+"Slip" = "$lïp 12";
+
+/* name of the regional cell phone company */
+"SMS Carrier" = "$M$ Çárrïèr ôñè ";
+
+/* No comment provided by engineer. */
+"SMS Number" = "$M$ Ñúmbèr ôñè";
+
+/* name of geographical location where the short message service (texting) is available */
+"SMS Region" = "$M$ Règïôñ ôñè";
+
+/* bummer */
+"Some crazy QuickTime error trying to extract audio!  Bummer!" = "$ômè çráz¥ QúïçkTïmè èrrôr tr¥ïñg tô èxtráçt áúdïô!  Búmmèr! ôñè twô thrèè ƒôúr";
+
+/* there will be a colon then an error message appended */
+"Some kind of error deleting songs" = "$ômè kïñd ôƒ èrrôr dèlètïñg sôñgs ôñè twô thrèè";
+
+/* yep */
+"Some kind of problem deleting a singer.  You might try quitting, and deleting the singer in the finder" = "$ômè kïñd ôƒ prôblèm dèlètïñg á sïñgèr.  ¥ôú mïght tr¥ qúïttïñg, áñd dèlètïñg thè sïñgèr ïñ thè ƒïñdèr ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* mmm */
+"Some of the selected files are located in your kJams music folder.  Would you like to move these files to the trash?" = "$ômè ôƒ thè sèlèçtèd ƒïlès árè lôçátèd ïñ ¥ôúr kJáms músïç ƒôldèr.  Wôúld ¥ôú lïkè tô môvè thèsè ƒïlès tô thè trásh? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* mmm */
+"Some of the selected items may be referenced by other playlists.  Are you sure you want to delete all references?" = "$ômè ôƒ thè sèlèçtèd ïtèms má¥ bè rèƒèrèñçèd b¥ ôthèr plá¥lïsts.  Árè ¥ôú súrè ¥ôú wáñt tô dèlètè áll rèƒèrèñçès? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ ";
+
+/* No comment provided by engineer. */
+"Some settings you have changed will take effect the next time you start kJams." = "$ômè sèttïñgs ¥ôú hávè çháñgèd wïll tákè èƒƒèçt thè ñèxt tïmè ¥ôú stárt kJáms. ôñè twô thrèè ƒôúr ƒïvè ";
+
+/* No comment provided by engineer. */
+"Some tracks have a duration of zero, unable to calculate Table of Contents" = "$ômè tráçks hávè á dúrátïôñ ôƒ zèrô, úñáblè tô çálçúlátè Táblè ôƒ Çôñtèñts ôñè twô thrèè ƒôúr ƒïvè";
+
+/* first %s is an action like 'activating', second  is the product like 'MyApp' */
+"Something went wrong while %s %s" = "$ômèthïñg wèñt wrôñg whïlè %1$s %2$s ôñè twô thrèè";
+
+/* you know, la la laaa */
+"Song" = "$ôñg 12";
+
+/* No comment provided by engineer. */
+"Song Download Failed" = "$ôñg Dôwñlôád ƒáïlèd ôñè twô";
+
+/* song identifier */
+"Song ID" = "$ôñg ÍD ôñè";
+
+/* No comment provided by engineer. */
+"Song ID not found" = "$ôñg ÍD ñôt ƒôúñd ôñè twô";
+
+/* name of song */
+"Song Name" = "$ôñg Ñámè ôñè";
+
+/* No comment provided by engineer. */
+"Song not found" = "$ôñg ñôt ƒôúñd ôñè twô";
+
+/* No comment provided by engineer. */
+"Song Preview Failed" = "$ôñg Prèvïèw ƒáïlèd ôñè twô";
+
+/* how far to slip the video sync relative to the audio, per song */
+"Song Sync Slip: %.1f seconds" = "$ôñg $¥ñç $lïp: %.1ƒ sèçôñds ôñè twô thrèè";
+
+/* who wrote the song? */
+"Song Writer" = "$ôñg Wrïtèr ôñè ";
+
+/* song name added to playlist or singer */
+"Song “%@” added to “%@”" = "$ôñg “%1$@” áddèd tô “%2$@” ôñè twô thrèè";
+
+/* the plural of one song */
+"Songs" = "$ôñgs 12";
+
+/* a list of songs that did not get renamed during a rename operation */
+"Songs Not Renamed" = "$ôñgs Ñôt Rèñámèd ôñè twô";
+
+/* this is a test */
+"Sorry, but you must pay better attention for this to work.  Please actually read the following message all the way through." = "$ôrr¥, bút ¥ôú múst pá¥ bèttèr áttèñtïôñ ƒôr thïs tô wôrk.  Plèásè áçtúáll¥ rèád thè ƒôllôwïñg mèsságè áll thè wá¥ thrôúgh. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* No comment provided by engineer. */
+"Sorry, I think your credit card number was declined.  Is your card blocked?  Did you type the right number? The TriceraSoft music store does not accept American Express, perhaps try a different card." = "$ôrr¥, Í thïñk ¥ôúr çrèdït çárd ñúmbèr wás dèçlïñèd.  Ís ¥ôúr çárd blôçkèd?  Dïd ¥ôú t¥pè thè rïght ñúmbèr? Thè Trïçèrá$ôƒt músïç stôrè dôès ñôt áççèpt Ámèrïçáñ Éxprèss, pèrháps tr¥ á dïƒƒèrèñt çárd. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè";
+
+/* album name to sort by */
+"Sort Album" = "$ôrt Álbúm ôñè";
+
+/* artist name to sort by */
+"Sort Artist" = "$ôrt Ártïst ôñè ";
+
+/* song name to sort by */
+"Sort Name" = "$ôrt Ñámè ôñè";
+
+/* warning */
+"sort_blurb" = "Úpôñ çômplètïôñ ôƒ sôrtïñg çôlúmñ %1$s, wè ƒôúñd thát thè sôrt çôlúmñ wás ñôt bèïñg sôrtèd? (Kè¥ çôúñt: %2$d). ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* collating, orgainzing */
+"Sorting" = "$ôrtïñg 123";
+
+/* sorting message */
+"Sorting by “%s”, please wait…" = "$ôrtïñg b¥ “%s”, plèásè wáït… ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Sorting file names…" = "$ôrtïñg ƒïlè ñámès… ôñè twô";
+
+/* No comment provided by engineer. */
+"Sorting new music list" = "$ôrtïñg ñèw músïç lïst ôñè twô";
+
+/* No comment provided by engineer. */
+"Sorting old music list" = "$ôrtïñg ôld músïç lïst ôñè twô";
+
+/* the 'sources' list column header, on the left */
+"Source" = "$ôúrçè 12";
+
+/* language name */
+"Spanish" = "$páñïsh 123";
+
+/* as in description */
+"specification" = "spèçïƒïçátïôñ 1234";
+
+/* spooler is the thing that streams data from one place to another */
+"Spooler Error" = "$pôôlèr Érrôr ôñè ";
+
+/* No comment provided by engineer. */
+"Starting Script Engine" = "$tártïñg $çrïpt Éñgïñè ôñè twô";
+
+/* or province */
+"State / Province:" = "$tátè / Prôvïñçè: ôñè twô";
+
+/* name of store */
+"Store Name" = "$tôrè Ñámè ôñè";
+
+/* yep */
+"Strange burn plugin status" = "$tráñgè búrñ plúgïñ státús ôñè twô ";
+
+/* No comment provided by engineer. */
+"Stranger than Fiction error: The song you're trying to play is not in the current playlist." = "$tráñgèr tháñ ƒïçtïôñ èrrôr: Thè sôñg ¥ôú'rè tr¥ïñg tô plá¥ ïs ñôt ïñ thè çúrrèñt plá¥lïst. ôñè twô thrèè ƒôúr ƒïvè sïx ";
+
+/* verb: stream (shortest possible word that conveys the meaning) */
+"Stream" = "$trèám 12";
+
+/* verb: stream the subscribed song */
+"Stream Song" = "$trèám $ôñg ôñè ";
+
+/* audio format eg mp3, aif, wav */
+"Streaming Audio:" = "$trèámïñg Áúdïô: ôñè twô";
+
+/* yup */
+"Streaming CDG to Cache" = "$trèámïñg ÇDG tô Çáçhè ôñè twô";
+
+/* No comment provided by engineer. */
+"Streaming Song" = "$trèámïñg $ôñg ôñè twô";
+
+/* No comment provided by engineer. */
+"Street must not be empty" = "$trèèt múst ñôt bè èmpt¥ ôñè twô ";
+
+/* - */
+"Street:" = "$trèèt: 123";
+
+/* stroke over fill text */
+"Stroke" = "$trôkè 12";
+
+/* font outline width */
+"Stroke Size:" = "$trôkè $ïzè: ôñè ";
+
+/* more info on the style of a song, eg: rock, blues, hip-hop etc */
+"Sub Genre" = "$úb Gèñrè ôñè";
+
+/* hmmm */
+"Submit Failed: You must enter your e-mail address in the freedb preference pane, then submit again." = "$úbmït ƒáïlèd: ¥ôú múst èñtèr ¥ôúr è-máïl áddrèss ïñ thè ƒrèèdb prèƒèrèñçè páñè, thèñ súbmït ágáïñ. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"Submitting Disc Tracks" = "$úbmïttïñg Dïsç Tráçks ôñè twô";
+
+/* from freedb */
+"Submitting Tracks…" = "$úbmïttïñg Tráçks… ôñè twô";
+
+/* warning */
+"subs_warning" = "Hï pèèps! Íñ ôrdèr ƒôr mè tô bè áblè tô wôrk ôñ kJáms ƒúll tïmè, sô Í çáñ mákè kJáms bèttèr tháñ èvèr, wè árè ôƒƒèrïñg ¥ôú thè ôptïôñ tô swïtçh èárl¥ tô á súbsçrïptïôñ lïçèñsïñg môdèl. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô";
+
+/* No comment provided by engineer. */
+"Subscribing…" = "$úbsçrïbïñg… 1234";
+
+/* No comment provided by engineer. */
+"Success" = "$úççèss 123";
+
+/* No comment provided by engineer. */
+"Successful Burn." = "$úççèssƒúl Búrñ. ôñè twô";
+
+/* No comment provided by engineer. */
+"Successfully Upgraded to “%s”!  We will now download and launch the new version!" = "$úççèssƒúll¥ Úpgrádèd tô “%s”!  Wè wïll ñôw dôwñlôád áñd láúñçh thè ñèw vèrsïôñ! ôñè twô thrèè ƒôúr ƒïvè ";
+
+/* a command to persue legal action against the user */
+"Sue Me" = "$úè Mè ôñè";
+
+/* language name */
+"Swedish" = "$wèdïsh 123";
+
+/* text hilight color */
+"Sweep fill:" = "$wèèp ƒïll: ôñè ";
+
+/* text hilight color */
+"Sweep Stroke:" = "$wèèp $trôkè: ôñè ";
+
+/* gathering data required for synchronization */
+"Sync Preflight…" = "$¥ñç Prèƒlïght… ôñè twô";
+
+/* No comment provided by engineer. */
+"Sync Previous Purchases" = "$¥ñç Prèvïôús Púrçhásès ôñè twô";
+
+/* No comment provided by engineer. */
+"Sync purchases" = "$¥ñç púrçhásès ôñè twô";
+
+/* list of things to synchronize */
+"Sync Queue" = "$¥ñç Qúèúè ôñè";
+
+/* default audio output device in system prefs panel */
+"System Default" = "$¥stèm Dèƒáúlt ôñè twô";
+
+/* ID3 meta data tags, tags describe information about a file (title, artist, album, track number etc */
+"Tags" = "Tágs 12";
+
+/* No comment provided by engineer. */
+"target_blurb" = "B¥ dôúblè çlïçkïñg ôñ á plá¥lïst, ¥ôú árè dèsïgñátïñg thát plá¥lïst ás thè “Tárgèt”, álsô kñôwñ ás èñtèrïñg “Tárgèt Môdè”.  Whèñ á plá¥lïst ïs tárgètèd, áñ¥ tïmè ¥ôú dôúblè çlïçk ôñ á sôñg, ït wïll gô tô thát plá¥lïst ïñstèád ôƒ bèïñg plá¥èd.  Tô júst sèlèçt á plá¥ lïst, çlïçk ït ôñçè.  Tô úñ-tárgèt á tárgètèd plá¥lïst, dôúblè çlïçk ït ágáïñ.  Dô ¥ôú wáñt tô èñtèr “Tárgèt Môdè”? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr";
+
+/* a pre-developed page layout: http://en.wikipedia.org/wiki/Template */
+"Templates" = "Tèmplátès 123";
+
+/* how fast or slow is the song? */
+"Tempo" = "Tèmpô 12";
+
+/* by what delta value will the temp change */
+"Tempo Change Increment:" = "Tèmpô Çháñgè Íñçrèmèñt: ôñè twô";
+
+/* speed of the song */
+"Tempo:" = "Tèmpô: 12";
+
+/* No comment provided by engineer. */
+"Test Purchase" = "Tèst Púrçhásè ôñè ";
+
+/* warning */
+"test_burn_blurb" = "Dô ñôt bú¥ thè Búrñïñg plúgïñ úñtïl áƒtèr ¥ôú hávè dôñè á tèst búrñ (2 sôñgs) áñd vèrïƒïèd: 1) thát ¥ôúr drïvè ïs çápáblè ôƒ búrñïñg áñd 2) ¥ôúr hárdwárè káráôkè plá¥èr çáñ plá¥ thè búrñèd dïsç. Hávè ¥ôú dôñè thè çômplètè búrñ tèst? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"Tether decrypt failed" = "Tèthèr dèçr¥pt ƒáïlèd ôñè twô";
+
+/* No comment provided by engineer. */
+"Tether decrypt validation" = "Tèthèr dèçr¥pt válïdátïôñ ôñè twô ";
+
+/* No comment provided by engineer. */
+"Tethering does not work in Tryout mode because one of the criteria for encryption is a serial number." = "Tèthèrïñg dôès ñôt wôrk ïñ Tr¥ôút môdè bèçáúsè ôñè ôƒ thè çrïtèrïá ƒôr èñçr¥ptïôñ ïs á sèrïál ñúmbèr. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* how many lines on a page */
+"Text Fill:" = "Tèxt ƒïll: ôñè";
+
+/* how many lines on a page */
+"Text Stroke:" = "Tèxt $trôkè: ôñè ";
+
+/* No comment provided by engineer. */
+"That is a coupon, not a serial number.  Please go thru the purchase process and use the coupon during your purchase." = "Thát ïs á çôúpôñ, ñôt á sèrïál ñúmbèr.  Plèásè gô thrú thè púrçhásè prôçèss áñd úsè thè çôúpôñ dúrïñg ¥ôúr púrçhásè. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* yah */
+"That template name is already taken.  Please try again." = "Thát tèmplátè ñámè ïs álrèád¥ tákèñ.  Plèásè tr¥ ágáïñ. ôñè twô thrèè ƒôúr";
+
+/* eek! */
+"The CD Volume has gone offline, or the BIN file has been deleted." = "Thè ÇD Vôlúmè hás gôñè ôƒƒlïñè, ôr thè BÍÑ ƒïlè hás bèèñ dèlètèd. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"The Chartbuster Gift Pack (User ID) has no more credits, or is invalid." = "Thè Çhártbústèr Gïƒt Páçk (Úsèr ÍD) hás ñô môrè çrèdïts, ôr ïs ïñválïd. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"The current machine does not match the machine on which the product was activated." = "Thè çúrrèñt máçhïñè dôès ñôt mátçh thè máçhïñè ôñ whïçh thè prôdúçt wás áçtïvátèd. ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* No comment provided by engineer. */
+"The current machine matches the machine on which the product was activated." = "Thè çúrrèñt máçhïñè mátçhès thè máçhïñè ôñ whïçh thè prôdúçt wás áçtïvátèd. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* yep */
+"The current rip was interrupted, you will have to re-rip the last song." = "Thè çúrrèñt rïp wás ïñtèrrúptèd, ¥ôú wïll hávè tô rè-rïp thè lást sôñg. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"The data browser is not properly configured." = "Thè dátá brôwsèr ïs ñôt prôpèrl¥ çôñƒïgúrèd. ôñè twô thrèè ";
+
+/* No comment provided by engineer. */
+"The device failed to accept the command within the timeout period" = "Thè dèvïçè ƒáïlèd tô áççèpt thè çômmáñd wïthïñ thè tïmèôút pèrïôd ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"The drive reported that it is in the process of becoming ready. Please try the request again later" = "Thè drïvè rèpôrtèd thát ït ïs ïñ thè prôçèss ôƒ bèçômïñg rèád¥. Plèásè tr¥ thè rèqúèst ágáïñ látèr ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"The email address you entered does not exist! Please use a real email address!" = "Thè èmáïl áddrèss ¥ôú èñtèrèd dôès ñôt èxïst! Plèásè úsè á rèál èmáïl áddrèss! ôñè twô thrèè ƒôúr ƒïvè ";
+
+/* No comment provided by engineer. */
+"The engine being installed is corrupted." = "Thè èñgïñè bèïñg ïñstállèd ïs çôrrúptèd. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"The engine failed to connect to the eSellerate servers." = "Thè èñgïñè ƒáïlèd tô çôññèçt tô thè è$èllèrátè sèrvèrs. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"The engine failed to download an update." = "Thè èñgïñè ƒáïlèd tô dôwñlôád áñ úpdátè. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"The engine is already running within the application." = "Thè èñgïñè ïs álrèád¥ rúññïñg wïthïñ thè ápplïçátïôñ. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"The engine is corrupted." = "Thè èñgïñè ïs çôrrúptèd. ôñè twô ";
+
+/* No comment provided by engineer. */
+"The eSellerate engine data is missing from the results." = "Thè è$èllèrátè èñgïñè dátá ïs mïssïñg ƒrôm thè rèsúlts. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"The eSellerate server failed to return a valid activation key." = "Thè è$èllèrátè sèrvèr ƒáïlèd tô rètúrñ á válïd áçtïvátïôñ kè¥. ôñè twô thrèè ƒôúr ";
+
+/* No comment provided by engineer. */
+"The format of the supplied activation key is invalid." = "Thè ƒôrmát ôƒ thè súpplïèd áçtïvátïôñ kè¥ ïs ïñválïd. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"The Gift Pack does not exist or has no more credits." = "Thè Gïƒt Páçk dôès ñôt èxïst ôr hás ñô môrè çrèdïts. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"The item is not in the data browser." = "Thè ïtèm ïs ñôt ïñ thè dátá brôwsèr. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"The item was not added to the data browser." = "Thè ïtèm wás ñôt áddèd tô thè dátá brôwsèr. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"The latest engine is already installed." = "Thè látèst èñgïñè ïs álrèád¥ ïñstállèd. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"The latest engine was successfully installed." = "Thè látèst èñgïñè wás súççèssƒúll¥ ïñstállèd. ôñè twô thrèè ";
+
+/* No comment provided by engineer. */
+"The license (Serial Number) format has changed. Your license for “%s” needs to be updated to the new format." = "Thè lïçèñsè ($èrïál Ñúmbèr) ƒôrmát hás çháñgèd. ¥ôúr lïçèñsè ƒôr “%s” ñèèds tô bè úpdátèd tô thè ñèw ƒôrmát. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"The Lite version of kJams does not allow scripting, if you need scripting, please upgrade to Pro." = "Thè Lïtè vèrsïôñ ôƒ kJáms dôès ñôt állôw sçrïptïñg, ïƒ ¥ôú ñèèd sçrïptïñg, plèásè úpgrádè tô Prô. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"The Music Store “%s” does not have the ability to Sync Previous Purchases." = "Thè Músïç $tôrè “%s” dôès ñôt hávè thè ábïlït¥ tô $¥ñç Prèvïôús Púrçhásès. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"The old activation key is invalid." = "Thè ôld áçtïvátïôñ kè¥ ïs ïñválïd. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"The playlist “%@” somehow has the same ID as the already existing playlist “%@”.  Attempting to rectify…" = "Thè plá¥lïst “%1$@” sômèhôw hás thè sámè ÍD ás thè álrèád¥ èxïstïñg plá¥lïst “%2$@”.  Áttèmptïñg tô rèçtïƒ¥… ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* No comment provided by engineer. */
+"The property data is not valid." = "Thè prôpèrt¥ dátá ïs ñôt válïd. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"The property is not in the data browser." = "Thè prôpèrt¥ ïs ñôt ïñ thè dátá brôwsèr. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"The property is not supported in the data browser." = "Thè prôpèrt¥ ïs ñôt súppôrtèd ïñ thè dátá brôwsèr. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"The property part is not valid." = "Thè prôpèrt¥ párt ïs ñôt válïd. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"The provided audio stream is not valid" = "Thè prôvïdèd áúdïô strèám ïs ñôt válïd ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"The requested resource is in use" = "Thè rèqúèstèd rèsôúrçè ïs ïñ úsè ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"The result from the engine could not be found." = "Thè rèsúlt ƒrôm thè èñgïñè çôúld ñôt bè ƒôúñd. ôñè twô thrèè ";
+
+/* No comment provided by engineer. */
+"The SDK failed to add a name/value entnry." = "Thè $DK ƒáïlèd tô ádd á ñámè/válúè èñtñr¥. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"The serial number to be activated is not unique." = "Thè sèrïál ñúmbèr tô bè áçtïvátèd ïs ñôt úñïqúè. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"The serial number you have entered is meant to activate “%s”, but you are currently attempting to activate “%s”." = "Thè sèrïál ñúmbèr ¥ôú hávè èñtèrèd ïs mèáñt tô áçtïvátè “%1$s”, bút ¥ôú árè çúrrèñtl¥ áttèmptïñg tô áçtïvátè “%2$s”. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* No comment provided by engineer. */
+"The Show is About to Begin!" = "Thè $hôw ïs Ábôút tô Bègïñ! ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"The Show Is Over, thanks for coming!" = "Thè $hôw Ís Óvèr, tháñks ƒôr çômïñg! ôñè twô thrèè";
+
+/* first @ is the singer's name, second @ is the playlist name */
+"The singer “%@” somehow lost their playlist “%@”.  A new empty playlist has been created." = "Thè sïñgèr “%1$@” sômèhôw lôst thèïr plá¥lïst “%2$@”.  Á ñèw èmpt¥ plá¥lïst hás bèèñ çrèátèd. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"The singer “%s” somehow lost their account.  A new account has been created, and we will attempt to recover their playlists." = "Thè sïñgèr “%s” sômèhôw lôst thèïr áççôúñt.  Á ñèw áççôúñt hás bèèñ çrèátèd, áñd wè wïll áttèmpt tô rèçôvèr thèïr plá¥lïsts. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* long version (see short version) */
+"The song you picked is no longer available.  Please reload the music store and try again." = "Thè sôñg ¥ôú pïçkèd ïs ñô lôñgèr áváïláblè.  Plèásè rèlôád thè músïç stôrè áñd tr¥ ágáïñ. ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* could not figure it out */
+"The song “%s” did not parse." = "Thè sôñg “%s” dïd ñôt pársè. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"The song “%s” is already being exported." = "Thè sôñg “%s” ïs álrèád¥ bèïñg èxpôrtèd. ôñè twô thrèè ";
+
+/* No comment provided by engineer. */
+"The song “%s” is from a music store, and must be purchased first." = "Thè sôñg “%s” ïs ƒrôm á músïç stôrè, áñd múst bè púrçhásèd ƒïrst. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* oh well */
+"The song “%s” is missing." = "Thè sôñg “%s” ïs mïssïñg. ôñè twô ";
+
+/* No comment provided by engineer. */
+"The song “%s” was not converted because it is not a CDG file" = "Thè sôñg “%s” wás ñôt çôñvèrtèd bèçáúsè ït ïs ñôt á ÇDG ƒïlè ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"The stream does not contain a sufficient number of sectors in the leadin for the current media" = "Thè strèám dôès ñôt çôñtáïñ á súƒƒïçïèñt ñúmbèr ôƒ sèçtôrs ïñ thè lèádïñ ƒôr thè çúrrèñt mèdïá ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"The system does not meet the minimum requirements for the Embedded Web Store" = "Thè s¥stèm dôès ñôt mèèt thè mïñïmúm rèqúïrèmèñts ƒôr thè Émbèddèd Wèb $tôrè ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"The user cancelled a manual activation attempt." = "Thè úsèr çáñçèllèd á máñúál áçtïvátïôñ áttèmpt. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"The “User ID” used for streaming is invalid." = "Thè “Úsèr ÍD” úsèd ƒôr strèámïñg ïs ïñválïd. ôñè twô thrèè ƒôúr";
+
+/* first is number of songs, second is a string showing the duration of time it may take */
+"There are %@ songs.  It could take more than %@ to complete." = "Thèrè árè %1$@ sôñgs.  Ít çôúld tákè môrè tháñ %2$@ tô çômplètè. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* more than one */
+"There are multiple songs selected" = "Thèrè árè múltïplè sôñgs sèlèçtèd ôñè twô thrèè";
+
+/* bummer */
+"There is not enough free space on your cache volume to build a burn image." = "Thèrè ïs ñôt èñôúgh ƒrèè spáçè ôñ ¥ôúr çáçhè vôlúmè tô búïld á búrñ ïmágè. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"There is nothing to deactivate." = "Thèrè ïs ñôthïñg tô dèáçtïvátè. ôñè twô thrèè";
+
+/* thanks */
+"There was a problem ejecting the disc." = "Thèrè wás á prôblèm èjèçtïñg thè dïsç. ôñè twô thrèè";
+
+/* oops */
+"There was a problem initializing audio output, check your audio output device. Are your speakers plugged in?" = "Thèrè wás á prôblèm ïñïtïálïzïñg áúdïô ôútpút, çhèçk ¥ôúr áúdïô ôútpút dèvïçè. Árè ¥ôúr spèákèrs plúggèd ïñ? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* oops */
+"There was a problem initializing audio output, you may want to quit and re-run" = "Thèrè wás á prôblèm ïñïtïálïzïñg áúdïô ôútpút, ¥ôú má¥ wáñt tô qúït áñd rè-rúñ ôñè twô thrèè ƒôúr ƒïvè ";
+
+/* orphan refers to a song that was ripped but didn't have time to encode before the user quit */
+"There was a problem maybe with orphan encoding?" = "Thèrè wás á prôblèm má¥bè wïth ôrpháñ èñçôdïñg? ôñè twô thrèè ƒôúr";
+
+/* secret message */
+"There was a problem opening this song with Producer. No Audio? Bad XML?" = "Thèrè wás á prôblèm ôpèñïñg thïs sôñg wïth Prôdúçèr. Ñô Áúdïô? Bád XML? ôñè twô thrèè ƒôúr ƒïvè";
+
+/* error str */
+"There was an error attempting to calculate the cache folder size" = "Thèrè wás áñ èrrôr áttèmptïñg tô çálçúlátè thè çáçhè ƒôldèr sïzè ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"There was an error creating your account. Please ask the KJ to create your account for you." = "Thèrè wás áñ èrrôr çrèátïñg ¥ôúr áççôúñt. Plèásè ásk thè KJ tô çrèátè ¥ôúr áççôúñt ƒôr ¥ôú. ôñè twô thrèè ƒôúr ƒïvè sïx ";
+
+/* No comment provided by engineer. */
+"There was an error enabling Bonjour" = "Thèrè wás áñ èrrôr èñáblïñg Bôñjôúr ôñè twô thrèè";
+
+/* error */
+"There was an error encoding the song “%s”" = "Thèrè wás áñ èrrôr èñçôdïñg thè sôñg “%s” ôñè twô thrèè ";
+
+/* No comment provided by engineer. */
+"There was an error installing the engine." = "Thèrè wás áñ èrrôr ïñstállïñg thè èñgïñè. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"There was an error loading the installed engine." = "Thèrè wás áñ èrrôr lôádïñg thè ïñstállèd èñgïñè. ôñè twô thrèè ƒôúr";
+
+/* yup */
+"There was an error loading the song for editing" = "Thèrè wás áñ èrrôr lôádïñg thè sôñg ƒôr èdïtïñg ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"There was an error moving “%s” into the folder “%s”: %s" = "Thèrè wás áñ èrrôr môvïñg “%1$s” ïñtô thè ƒôldèr “%2$s”: %3$s ôñè twô thrèè ƒôúr ƒïvè";
+
+/* eek */
+"There was an error saving the song" = "Thèrè wás áñ èrrôr sávïñg thè sôñg ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"There was an error setting the temporary file name for the song “%s” in “%s”" = "Thèrè wás áñ èrrôr sèttïñg thè tèmpôrár¥ ƒïlè ñámè ƒôr thè sôñg “%1$s” ïñ “%2$s” ôñè twô thrèè ƒôúr ƒïvè ";
+
+/* bummer */
+"There was an error setting up your burn" = "Thèrè wás áñ èrrôr sèttïñg úp ¥ôúr búrñ ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"There was an error with that serial number, please check the number and try again." = "Thèrè wás áñ èrrôr wïth thát sèrïál ñúmbèr, plèásè çhèçk thè ñúmbèr áñd tr¥ ágáïñ. ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* first one describes the error, second one is the name of the song */
+"There was an error “%@” preparing the song “%@” for export." = "Thèrè wás áñ èrrôr “%1$@” prèpárïñg thè sôñg “%2$@” ƒôr èxpôrt. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* I/O is input/output */
+"There was an I/O error reading the disc, perhaps it is scratched?" = "Thèrè wás áñ Í/Ó èrrôr rèádïñg thè dïsç, pèrháps ït ïs sçrátçhèd? ôñè twô thrèè ƒôúr ƒïvè";
+
+/* ‘chain’ in this context means ‘pipeline’ or ‘list’ of audio processors */
+"There was some error setting up the Audio chain." = "Thèrè wás sômè èrrôr sèttïñg úp thè Áúdïô çháïñ. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"There was some kind of error while disabling Auto-Renew." = "Thèrè wás sômè kïñd ôƒ èrrôr whïlè dïsáblïñg Áútô-Rèñèw. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"There was some kind of error while subscribing." = "Thèrè wás sômè kïñd ôƒ èrrôr whïlè súbsçrïbïñg. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"There was some kind of problem checking the server for a new version." = "Thèrè wás sômè kïñd ôƒ prôblèm çhèçkïñg thè sèrvèr ƒôr á ñèw vèrsïôñ. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* after the second singer */
+"Third Singer" = "Thïrd $ïñgèr ôñè ";
+
+/* No comment provided by engineer. */
+"This device can burn CD+G" = "Thïs dèvïçè çáñ búrñ ÇD+G ôñè twô ";
+
+/* No comment provided by engineer. */
+"This device can NOT burn CD+G" = "Thïs dèvïçè çáñ ÑÓT búrñ ÇD+G ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"This disc was poorly mastered, but we'll do our best! (“Lead-in” was not set to 2 seconds)" = "Thïs dïsç wás pôôrl¥ mástèrèd, bút wè'll dô ôúr bèst! (“Lèád-ïñ” wás ñôt sèt tô 2 sèçôñds) ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* No comment provided by engineer. */
+"This KMA file has no data?" = "Thïs KMÁ ƒïlè hás ñô dátá? ôñè twô ";
+
+/* No comment provided by engineer. */
+"This operation will overwrite existing instructions.  Are you sure?" = "Thïs ôpèrátïôñ wïll ôvèrwrïtè èxïstïñg ïñstrúçtïôñs.  Árè ¥ôú súrè? ôñè twô thrèè ƒôúr ƒïvè";
+
+/* showed when the user hits the QuickTime Export edit button when eg. 'iPod' is selected */
+"This QuickTime encoder does not have an options dialog." = "Thïs QúïçkTïmè èñçôdèr dôès ñôt hávè áñ ôptïôñs dïálôg. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"This setting takes effect the next time you manually reload the Music Store." = "Thïs sèttïñg tákès èƒƒèçt thè ñèxt tïmè ¥ôú máñúáll¥ rèlôád thè Músïç $tôrè. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"This setting takes effect the next time you start kJams." = "Thïs sèttïñg tákès èƒƒèçt thè ñèxt tïmè ¥ôú stárt kJáms. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"This song was previously purchased.  You can sync your previous purchases." = "Thïs sôñg wás prèvïôúsl¥ púrçhásèd.  ¥ôú çáñ s¥ñç ¥ôúr prèvïôús púrçhásès. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* obvious */
+"This will only happen once…" = "Thïs wïll ôñl¥ háppèñ ôñçè… ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"This wizard will walk you through the process of creating a new account." = "Thïs wïzárd wïll wálk ¥ôú thrôúgh thè prôçèss ôƒ çrèátïñg á ñèw áççôúñt. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* how seconds late / early are we? */
+"Time Offset:" = "Tïmè Óƒƒsèt: ôñè ";
+
+/* shows how much time is left */
+"Time Remaining: %s" = "Tïmè Rèmáïñïñg: %s ôñè twô";
+
+/* error */
+"Timed out talking to QTServer (lost connection)" = "Tïmèd ôút tálkïñg tô QT$èrvèr (lôst çôññèçtïôñ) ôñè twô thrèè ƒôúr";
+
+/* line of time */
+"Timeline" = "Tïmèlïñè 123";
+
+/* mmm */
+"Timeout (in seconds)" = "Tïmèôút (ïñ sèçôñds) ôñè twô";
+
+/* timeout means it took too long so we aborted */
+"Timeout running helper application “%s”" = "Tïmèôút rúññïñg hèlpèr ápplïçátïôñ “%s” ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Tip your Waitress!" = "Tïp ¥ôúr Wáïtrèss! ôñè twô";
+
+/* No comment provided by engineer. */
+"To burn a song to a CD+G disc, it must be in “Audio+G” format (typically “MP3+G”). The song “%s” has the format “%s”." = "Tô búrñ á sôñg tô á ÇD+G dïsç, ït múst bè ïñ “Áúdïô+G” ƒôrmát (t¥pïçáll¥ “MP3+G”). Thè sôñg “%1$s” hás thè ƒôrmát “%2$s”. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* No comment provided by engineer. */
+"To download or stream songs, you must enter your e-mail address." = "Tô dôwñlôád ôr strèám sôñgs, ¥ôú múst èñtèr ¥ôúr è-máïl áddrèss. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"To play this type of media, you must install Flip4Mac. You will not be warned again until you re-launch kJams." = "Tô plá¥ thïs t¥pè ôƒ mèdïá, ¥ôú múst ïñstáll ƒlïp4Máç. ¥ôú wïll ñôt bè wárñèd ágáïñ úñtïl ¥ôú rè-láúñçh kJáms. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"To purchase songs, or to see song previews, you must be logged in to “%s”. It is free to sign up." = "Tô púrçhásè sôñgs, ôr tô sèè sôñg prèvïèws, ¥ôú múst bè lôggèd ïñ tô “%s”. Ít ïs ƒrèè tô sïgñ úp. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"To reload a Music Store, context-click on the its icon in the browser window, and pick %s." = "Tô rèlôád á Músïç $tôrè, çôñtèxt-çlïçk ôñ thè ïts ïçôñ ïñ thè brôwsèr wïñdôw, áñd pïçk %s. ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* first one is <what kind of subscription>, second one is <kJams Lite> or <kJams Pro> */
+"To use the Chartbuster “%s” for streaming, you must be using “%s”." = "Tô úsè thè Çhártbústèr “%1$s” ƒôr strèámïñg, ¥ôú múst bè úsïñg “%2$s”. ôñè twô thrèè ƒôúr ƒïvè ";
+
+/* the playlist the singer plans to sing during this session */
+"Tonight" = "Tôñïght 123";
+
+/* No comment provided by engineer. */
+"Too many links" = "Tôô máñ¥ lïñks ôñè twô";
+
+/* No comment provided by engineer. */
+"Too many open files" = "Tôô máñ¥ ôpèñ ƒïlès ôñè twô";
+
+/* No comment provided by engineer. */
+"Too many open files in system" = "Tôô máñ¥ ôpèñ ƒïlès ïñ s¥stèm ôñè twô thrèè";
+
+/* name of store */
+"Total Songs" = "Tôtál $ôñgs ôñè ";
+
+/* track number */
+"Track #" = "Tráçk # ôñè";
+
+/* No comment provided by engineer. */
+"Track Name:" = "Tráçk Ñámè: ôñè ";
+
+/* No comment provided by engineer. */
+"Track Number:" = "Tráçk Ñúmbèr: ôñè ";
+
+/* No comment provided by engineer. */
+"Tracking song stream" = "Tráçkïñg sôñg strèám ôñè twô";
+
+/* as a verb, as in 'perform the trashing action' */
+"Trash" = "Trásh 12";
+
+/* will put actual song files into the trash */
+"Trash Original Files" = "Trásh Órïgïñál ƒïlès ôñè twô";
+
+/* warning */
+"trash_bad_aliases" = "Árè ¥ôú súrè ¥ôú wáñt tô trásh áll úñrèsôlvèáblè s¥mbôlïç lïñks? ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"Treat “em dash” as regular dash" = "Trèát “èm dásh” ás règúlár dásh ôñè twô thrèè";
+
+/* security blurb */
+"tri_gift_pack_blurb" = "kJáms úsès $$L ƒôr áll ƒïñáñçïál ñètwôrk tráñsáçtïôñs.  ¥ôúr è-máïl áddrèss ïs úsèd b¥ músïç stôrès tô sèñd ¥ôú á rèçèïpt, kJáms dôès ñôt úsè ït ƒôr áñ¥ ôthèr púrpôsè. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè";
+
+/* only these credit cards */
+"TriceraSoft only accepts Visa and Master Card" = "Trïçèrá$ôƒt ôñl¥ áççèpts Vïsá áñd Mástèr Çárd ôñè twô thrèè ";
+
+/* pruning, cropping, paring down */
+"Trimming" = "Trïmmïñg 123";
+
+/* No comment provided by engineer. */
+"Trimming Log files…" = "Trïmmïñg Lôg ƒïlès… ôñè twô";
+
+/* chop text off if it doesn't fit */
+"Truncate" = "Trúñçátè 123";
+
+/* one more time */
+"Try again" = "Tr¥ ágáïñ ôñè";
+
+/* No comment provided by engineer. */
+"Try logging in instead." = "Tr¥ lôggïñg ïñ ïñstèád. ôñè twô";
+
+/* language name */
+"Turkish" = "Túrkïsh 123";
+
+/* No comment provided by engineer. */
+"Umm, sorry, but I've somehow lost track of this many songs:" = "Úmm, sôrr¥, bút Í'vè sômèhôw lôst tráçk ôƒ thïs máñ¥ sôñgs: ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"Unable to install eSellerate engine!" = "Úñáblè tô ïñstáll è$èllèrátè èñgïñè! ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Unable to select song in Library" = "Úñáblè tô sèlèçt sôñg ïñ Lïbrár¥ ôñè twô thrèè";
+
+/* bummer */
+"Unix Error:" = "Úñïx Érrôr: ôñè ";
+
+/* No comment provided by engineer. */
+"Unknown Activation Key" = "Úñkñôwñ Áçtïvátïôñ Kè¥ ôñè twô";
+
+/* who is that? */
+"Unknown Album" = "Úñkñôwñ Álbúm ôñè ";
+
+/* artist is not known */
+"Unknown Artist" = "Úñkñôwñ Ártïst ôñè twô";
+
+/* No comment provided by engineer. */
+"Unknown error" = "Úñkñôwñ èrrôr ôñè ";
+
+/* No comment provided by engineer. */
+"Unknown eSellerate Error" = "Úñkñôwñ è$èllèrátè Érrôr ôñè twô ";
+
+/* unable to identify the folder */
+"Unknown Folder" = "Úñkñôwñ ƒôldèr ôñè twô";
+
+/* No comment provided by engineer. */
+"Unknown Format" = "Úñkñôwñ ƒôrmát ôñè twô";
+
+/* No comment provided by engineer. */
+"Unknown Playlist" = "Úñkñôwñ Plá¥lïst ôñè twô";
+
+/* No comment provided by engineer. */
+"Unknown Singer" = "Úñkñôwñ $ïñgèr ôñè twô";
+
+/* nobody knows */
+"Unknown Song" = "Úñkñôwñ $ôñg ôñè ";
+
+/* No comment provided by engineer. */
+"Unknown." = "Úñkñôwñ. 123";
+
+/* No comment provided by engineer. */
+"Unloading Plugins" = "Úñlôádïñg Plúgïñs ôñè twô";
+
+/* undo string */
+"Unlock Palette" = "Úñlôçk Pálèttè ôñè twô";
+
+/* audio format eg mp3, aif, wav */
+"Unpacking Audio format:" = "Úñpáçkïñg Áúdïô ƒôrmát: ôñè twô";
+
+/* No comment provided by engineer. */
+"Unsubscribing…" = "Úñsúbsçrïbïñg… 12345";
+
+/* No comment provided by engineer. */
+"Untitled Playlist" = "Úñtïtlèd Plá¥lïst ôñè twô";
+
+/* QuickTime import/export settings file */
+"Untitled Preset" = "Úñtïtlèd Prèsèt ôñè twô";
+
+/* No comment provided by engineer. */
+"Untitled Venue" = "Úñtïtlèd Vèñúè ôñè twô";
+
+/* No comment provided by engineer. */
+"Unused" = "Úñúsèd 12";
+
+/* No comment provided by engineer. */
+"Unzipping download…" = "Úñzïppïñg dôwñlôád… ôñè twô";
+
+/* No comment provided by engineer. */
+"Unzipping Music Store" = "Úñzïppïñg Músïç $tôrè ôñè twô";
+
+/* ja */
+"Unzipping on command line" = "Úñzïppïñg ôñ çômmáñd lïñè ôñè twô ";
+
+/* decompressing */
+"Unzipping song:" = "Úñzïppïñg sôñg: ôñè twô";
+
+/* as in update the application to a newer version */
+"Update" = "Úpdátè 12";
+
+/* No comment provided by engineer. */
+"Update Catalog" = "Úpdátè Çátálôg ôñè twô";
+
+/* are you sure */
+"Update Cloud Data?" = "Úpdátè Çlôúd Dátá? ôñè twô";
+
+/* No comment provided by engineer. */
+"Update Serial Number" = "Úpdátè $èrïál Ñúmbèr ôñè twô";
+
+/* No comment provided by engineer. */
+"Updating Account info…" = "Úpdátïñg Áççôúñt ïñƒô… ôñè twô";
+
+/* No comment provided by engineer. */
+"Updating Business Information…" = "Úpdátïñg Búsïñèss Íñƒôrmátïôñ… ôñè twô thrèè";
+
+/* pre-loading data */
+"Updating DB with new search paths…" = "Úpdátïñg DB wïth ñèw sèárçh páths… ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Updating subscription…" = "Úpdátïñg súbsçrïptïôñ… ôñè twô";
+
+/* they have changed */
+"Updating Values" = "Úpdátïñg Válúès ôñè twô";
+
+/* pre-loading data */
+"Updating “Date Added” meta data…" = "Úpdátïñg “Dátè Áddèd” mètá dátá… ôñè twô thrèè";
+
+/* pre-loading data */
+"Updating “No Lyrics” meta data…" = "Úpdátïñg “Ñô L¥rïçs” mètá dátá… ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Upgrade" = "Úpgrádè 123";
+
+/* as in send a file to a remote server */
+"Upload" = "Úplôád 12";
+
+/* display the name that the Finder uses to refer to the file */
+"Use File Name" = "Úsè ƒïlè Ñámè ôñè ";
+
+/* display the name that kJams uses to refer to the song (the song title) */
+"Use Song Name" = "Úsè $ôñg Ñámè ôñè ";
+
+/* No comment provided by engineer. */
+"Use your iPhone or iPod Touch to browse songs and submit them to the KJ! Just go to the App store and search for “iJams”" = "Úsè ¥ôúr ïPhôñè ôr ïPôd Tôúçh tô brôwsè sôñgs áñd súbmït thèm tô thè KJ! Júst gô tô thè Ápp stôrè áñd sèárçh ƒôr “ïJáms” ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* No comment provided by engineer. */
+"User Canceled" = "Úsèr Çáñçèlèd ôñè ";
+
+/* the version of the software is old */
+"Using Old Version" = "Úsïñg Óld Vèrsïôñ ôñè twô";
+
+/* cleaning, weeding, curating, decluttering */
+"Vacuuming" = "Váçúúmïñg 123";
+
+/* <kJams Lite> or <kJams Pro> will be substituted */
+"Valid only with “%s”" = "Válïd ôñl¥ wïth “%s” ôñè twô ";
+
+/* validate blurb */
+"validate_ms_blurb" = "ƒïrst ¥ôú múst çôrrèçtl¥ èñtèr áll ¥ôúr “1-Çlïçk $èttïñgs”. ôñè twô thrèè ƒôúr ";
+
+/* No comment provided by engineer. */
+"Validating Account" = "Válïdátïñg Áççôúñt ôñè twô";
+
+/* No comment provided by engineer. */
+"Validating account…" = "Válïdátïñg áççôúñt… ôñè twô";
+
+/* as in many different, eg: the disc contains songs my various artists */
+"Various" = "Várïôús 123";
+
+/* no! */
+"VCD titles must be ripped into the library before playing." = "VÇD tïtlès múst bè rïppèd ïñtô thè lïbrár¥ bèƒôrè plá¥ïñg. ôñè twô thrèè ƒôúr";
+
+/* place where people go to sing karaoke */
+"Venue" = "Vèñúè 12";
+
+/* as in version 1.0 */
+"Version" = "Vèrsïôñ 123";
+
+/* No comment provided by engineer. */
+"Version Checking" = "Vèrsïôñ Çhèçkïñg ôñè twô";
+
+/* you know, like moving pictures */
+"Video" = "Vïdèô 12";
+
+/* how loud is the song? */
+"Volume" = "Vôlúmè 12";
+
+/* No comment provided by engineer. */
+"Voucher Purchase not available yet!  Would you like to send KaraokeCloud (NOT the developer) a request for this feature?  This is NOT a request for tech support." = "Vôúçhèr Púrçhásè ñôt áváïláblè ¥èt!  Wôúld ¥ôú lïkè tô sèñd KáráôkèÇlôúd (ÑÓT thè dèvèlôpèr) á rèqúèst ƒôr thïs ƒèátúrè?  Thïs ïs ÑÓT á rèqúèst ƒôr tèçh súppôrt. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ";
+
+/* No comment provided by engineer. */
+"Waiting for cache purging to complete" = "Wáïtïñg ƒôr çáçhè púrgïñg tô çômplètè ôñè twô thrèè";
+
+/* tasks will be done soon */
+"Waiting for sort tasks…" = "Wáïtïñg ƒôr sôrt tásks… ôñè twô ";
+
+/* No comment provided by engineer. */
+"Waiting for Spotlight…" = "Wáïtïñg ƒôr $pôtlïght… ôñè twô ";
+
+/* once is enough */
+"Warn me if this happens again after two hours." = "Wárñ mè ïƒ thïs háppèñs ágáïñ áƒtèr twô hôúrs. ôñè twô thrèè ";
+
+/* warning */
+"warn_karaoke_locker" = "Thè “Káráôkè Lôçkèr” músïç stôrè ïs ÓÑL¥ lïçèñsèd ƒôr hômè úsè.  $ôúñd Çhôïçè ïs gôïñg árôúñd súïñg pèôplè ƒôr úsïñg thèsè sôñgs ïñ públïç vèñúès.  Çúrrèñtl¥, thè ôñl¥ wá¥ tô lègáll¥ ôbtáïñ $ôúñd Çhôïçè sôñgs ƒôr úsè ïñ á públïç vèñúè ïs tô púrçhásè ph¥sïçál mèdïá dïrèçtl¥ ƒrôm $ôúñd Çhôïçè.  Íƒ ¥ôú árè á hômè úsèr, thèrè ïs ñô prôblèm.  Bút ïƒ ¥ôú árè dôïñg shôws ïñ públïç, árè ¥ôú súrè ¥ôú wáñt tô èñáblè ¥ôúrsèlƒ tô bè súèd b¥ $ôúñd Çhôïçè? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* warning */
+"warn_skip_silence" = "¥ôú hád rèçèñtl¥ túrñèd ôƒƒ thè prèƒèrèñçè “%s”.  Thïs ƒèátúrè hás bèèñ ïmprôvèd tô ávôïd thè prôblèm ït rèçèñtl¥ hád, whïçh wás çúttïñg ôƒƒ thè èñd ôƒ á sôñg. Íƒ ¥ôú túrñ ït báçk ôñ, áñd çôñtïñúè tô èxpèrïèñçè prôblèms wïth ït, plèásè èmáïl mè ïmmèdïátèl¥, sèñdïñg thè sôñg ïñ qúèstïôñ, sô Í çáñ ƒïx ït! Wôúld ¥ôú lïkè tô túrñ ït báçk ôñ? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè ";
+
+/* you are being warned */
+"Warning:" = "Wárñïñg: 123";
+
+/* No comment provided by engineer. */
+"Web result is not JSON" = "Wèb rèsúlt ïs ñôt J$ÓÑ ôñè twô";
+
+/* No comment provided by engineer. */
+"Web Server Not Started" = "Wèb $èrvèr Ñôt $tártèd ôñè twô";
+
+/* No comment provided by engineer. */
+"Web Session could not be opened" = "Wèb $èssïôñ çôúld ñôt bè ôpèñèd ôñè twô thrèè";
+
+/* as in go to my */
+"Web Site" = "Wèb $ïtè ôñè";
+
+/* mmm */
+"Webserver port" = "Wèbsèrvèr pôrt ôñè twô";
+
+/* warning */
+"weird_unix_err" = "Thè Ó$ ïs rèpôrtïñg tô mè thát ¥ôúr ÇD drïvè hás á “%s” èrrôr.  Ñôw, Í’m ñôt èñtïrèl¥ súrè whát thát mèáñs, bút práçtïçáll¥ ït mèáñs ¥ôú çáñ't rïp wïth thïs drïvè ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ ôñè";
+
+/* okay */
+"Well there was some sort of problem reading your CD." = "Wèll thèrè wás sômè sôrt ôƒ prôblèm rèádïñg ¥ôúr ÇD. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"Went south getting a CPixels" = "Wèñt sôúth gèttïñg á ÇPïxèls ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Went south getting an offscreen" = "Wèñt sôúth gèttïñg áñ ôƒƒsçrèèñ ôñè twô thrèè";
+
+/* this is a test */
+"What will you do?" = "Whát wïll ¥ôú dô? ôñè twô";
+
+/* No comment provided by engineer. */
+"Who's Singing Next:" = "Whô's $ïñgïñg Ñèxt: ôñè twô";
+
+/* No comment provided by engineer. */
+"Wide character encoding error" = "Wïdè çháráçtèr èñçôdïñg èrrôr ôñè twô thrèè";
+
+/* date */
+"Will Renew on: %s" = "Wïll Rèñèw ôñ: %s ôñè twô";
+
+/* the song is only available for streaming, not for purchasing */
+"Within your selection is a streaming only song which can not be purchased." = "Wïthïñ ¥ôúr sèlèçtïôñ ïs á strèámïñg ôñl¥ sôñg whïçh çáñ ñôt bè púrçhásèd. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"Would you like to create a new video?" = "Wôúld ¥ôú lïkè tô çrèátè á ñèw vïdèô? ôñè twô thrèè";
+
+/* one click */
+"Would you like to edit your account settings?" = "Wôúld ¥ôú lïkè tô èdït ¥ôúr áççôúñt sèttïñgs? ôñè twô thrèè ";
+
+/* one click */
+"Would you like to edit your payment settings?" = "Wôúld ¥ôú lïkè tô èdït ¥ôúr pá¥mèñt sèttïñgs? ôñè twô thrèè ";
+
+/* advertisment */
+"Would you like to purchase the fully functional version?" = "Wôúld ¥ôú lïkè tô púrçhásè thè ƒúll¥ ƒúñçtïôñál vèrsïôñ? ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"Would you like to upgrade to %s? Or to %s?" = "Wôúld ¥ôú lïkè tô úpgrádè tô %1$s? Ór tô %2$s? ôñè twô thrèè ";
+
+/* Writer of song */
+"Writer" = "Wrïtèr 12";
+
+/* No comment provided by engineer. */
+"Writing CDG to Cache" = "Wrïtïñg ÇDG tô Çáçhè ôñè twô";
+
+/* pcm is pluse code modulated */
+"Writing Uncompressed PCM Audio To Cache" = "Wrïtïñg Úñçômprèssèd PÇM Áúdïô Tô Çáçhè ôñè twô thrèè";
+
+/* preferences you can set that have to do with writing or exporting meta tags */
+"Writing:" = "Wrïtïñg: 123";
+
+/* as in [cost per year] */
+"year" = "¥èár 12";
+
+/* enumeration of revolutions around the s */
+"Year" = "¥èár 12";
+
+/* plural */
+"Years" = "¥èárs 12";
+
+/* affirmative */
+"Yes" = "¥ès 1";
+
+/* No comment provided by engineer. */
+"You already purchased this song.  Your email receipt has a download link." = "¥ôú álrèád¥ púrçhásèd thïs sôñg.  ¥ôúr èmáïl rèçèïpt hás á dôwñlôád lïñk. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"You are not allowed to “Reference” songs from the “%s” folder, so kJams will Copy/Move the files instead." = "¥ôú árè ñôt állôwèd tô “Rèƒèrèñçè” sôñgs ƒrôm thè “%s” ƒôldèr, sô kJáms wïll Çôp¥/Môvè thè ƒïlès ïñstèád. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"You are not authorized." = "¥ôú árè ñôt áúthôrïzèd. ôñè twô";
+
+/* not connected to the internet */
+"You are offline" = "¥ôú árè ôƒƒlïñè ôñè twô";
+
+/* must buy from one store at a time */
+"You can not buy songs from more than one store at the same time." = "¥ôú çáñ ñôt bú¥ sôñgs ƒrôm môrè tháñ ôñè stôrè át thè sámè tïmè. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"You can not purchase or stream songs while any music store is still loading." = "¥ôú çáñ ñôt púrçhásè ôr strèám sôñgs whïlè áñ¥ músïç stôrè ïs stïll lôádïñg. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"You can't add the same song twice to a singer's playlist." = "¥ôú çáñ't ádd thè sámè sôñg twïçè tô á sïñgèr's plá¥lïst. ôñè twô thrèè ƒôúr";
+
+/* yeah */
+"You can't burn the same song twice on a single disc." = "¥ôú çáñ't búrñ thè sámè sôñg twïçè ôñ á sïñglè dïsç. ôñè twô thrèè ƒôúr";
+
+/* dur */
+"You can't eject a disc while it is importing!" = "¥ôú çáñ't èjèçt á dïsç whïlè ït ïs ïmpôrtïñg! ôñè twô thrèè ";
+
+/* you can't download a purchased song at the same time you stream another song */
+"You can't mix purchases with streaming." = "¥ôú çáñ't mïx púrçhásès wïth strèámïñg. ôñè twô thrèè";
+
+/* no! */
+"You can't play a song while a different one is ripping from the same CD" = "¥ôú çáñ't plá¥ á sôñg whïlè á dïƒƒèrèñt ôñè ïs rïppïñg ƒrôm thè sámè ÇD ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"You can't re-encode the song “%s” because it is a streaming song." = "¥ôú çáñ't rè-èñçôdè thè sôñg “%s” bèçáúsè ït ïs á strèámïñg sôñg. ôñè twô thrèè ƒôúr ƒïvè";
+
+/* No comment provided by engineer. */
+"You can't remove the currently playing song." = "¥ôú çáñ't rèmôvè thè çúrrèñtl¥ plá¥ïñg sôñg. ôñè twô thrèè ";
+
+/* No comment provided by engineer. */
+"You can't run more than one copy of kJams at once!" = "¥ôú çáñ't rúñ môrè tháñ ôñè çôp¥ ôƒ kJáms át ôñçè! ôñè twô thrèè ƒôúr";
+
+/* first is name of application, second is version number */
+"You have %s version %s." = "¥ôú hávè %1$s vèrsïôñ %2$s. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"You have already bought at least some songs in this selection." = "¥ôú hávè álrèád¥ bôúght át lèást sômè sôñgs ïñ thïs sèlèçtïôñ. ôñè twô thrèè ƒôúr ";
+
+/* No comment provided by engineer. */
+"You have already bought this song." = "¥ôú hávè álrèád¥ bôúght thïs sôñg. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"You have an old version Flip4Mac installed. You must uninstall it or update it to a newer version." = "¥ôú hávè áñ ôld vèrsïôñ ƒlïp4Máç ïñstállèd. ¥ôú múst úñïñstáll ït ôr úpdátè ït tô á ñèwèr vèrsïôñ. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"You have entered an illegal character in one of your templates. Legal characters are LTRSI-()/. and Space." = "¥ôú hávè èñtèrèd áñ ïllègál çháráçtèr ïñ ôñè ôƒ ¥ôúr tèmplátès. Lègál çháráçtèrs árè LTR$Í-()/. áñd $páçè. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"You have less than 4 GB RAM.  You need to upgrade your RAM or you will experience performance degradation (eg: slow searching)." = "¥ôú hávè lèss tháñ 4 GB RÁM.  ¥ôú ñèèd tô úpgrádè ¥ôúr RÁM ôr ¥ôú wïll èxpèrïèñçè pèrƒôrmáñçè dègrádátïôñ (èg: slôw sèárçhïñg). ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght";
+
+/* notify */
+"You have successfully activated the plugin “%s”." = "¥ôú hávè súççèssƒúll¥ áçtïvátèd thè plúgïñ “%s”. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"You have successfully activated “%s”!, All features are now fully functional." = "¥ôú hávè súççèssƒúll¥ áçtïvátèd “%s”!, Áll ƒèátúrès árè ñôw ƒúll¥ ƒúñçtïôñál. ôñè twô thrèè ƒôúr ƒïvè ";
+
+/* bad */
+"You have two singers with the same ID.  %s.  The two singers are “%s” and “%s”.  The second one will be ignored for now." = "¥ôú hávè twô sïñgèrs wïth thè sámè ÍD.  %1$s.  Thè twô sïñgèrs árè “%2$s” áñd “%3$s”.  Thè sèçôñd ôñè wïll bè ïgñôrèd ƒôr ñôw. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè";
+
+/* No comment provided by engineer. */
+"You may get silent audio.  If so, stop the song and clear your cache, then try again.  If the problem persists, turn off “Skip silence at start of song”." = "¥ôú má¥ gèt sïlèñt áúdïô.  Íƒ sô, stôp thè sôñg áñd çlèár ¥ôúr çáçhè, thèñ tr¥ ágáïñ.  Íƒ thè prôblèm pèrsïsts, túrñ ôƒƒ “$kïp sïlèñçè át stárt ôƒ sôñg”. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè tèñ";
+
+/* oops */
+"You may need to empty your trash first, or rename the Playlist before deleting it." = "¥ôú má¥ ñèèd tô èmpt¥ ¥ôúr trásh ƒïrst, ôr rèñámè thè Plá¥lïst bèƒôrè dèlètïñg ït. ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* No comment provided by engineer. */
+"You must enter the name of the song" = "¥ôú múst èñtèr thè ñámè ôƒ thè sôñg ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"You must install kJams to run it." = "¥ôú múst ïñstáll kJáms tô rúñ ït. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"You must install the “Image Mastering API v2.0”" = "¥ôú múst ïñstáll thè “Ímágè Mástèrïñg ÁPÍ v2.0” ôñè twô thrèè ƒôúr";
+
+/* notify */
+"You must purchase kJams (Lite or Pro) before you can purchase the Burning Plugin (Sold Separately)." = "¥ôú múst púrçhásè kJáms (Lïtè ôr Prô) bèƒôrè ¥ôú çáñ púrçhásè thè Búrñïñg Plúgïñ ($ôld $èpárátèl¥). ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* No comment provided by engineer. */
+"You must restart kJams for this option to be enabled." = "¥ôú múst rèstárt kJáms ƒôr thïs ôptïôñ tô bè èñáblèd. ôñè twô thrèè ƒôúr";
+
+/* notify */
+"You will have to quit and re-run kJams after you install the plugin “%s”." = "¥ôú wïll hávè tô qúït áñd rè-rúñ kJáms áƒtèr ¥ôú ïñstáll thè plúgïñ “%s”. ôñè twô thrèè ƒôúr ƒïvè ";
+
+/* oops */
+"Your audio driver is not capable of multiple simultaneous audio streams, and the channel has already been opened by another thread or process." = "¥ôúr áúdïô drïvèr ïs ñôt çápáblè ôƒ múltïplè sïmúltáñèôús áúdïô strèáms, áñd thè çháññèl hás álrèád¥ bèèñ ôpèñèd b¥ áñôthèr thrèád ôr prôçèss. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ èïght ñïñè";
+
+/* substitute a duration eg: '2 days' */
+"Your card will be charged in: %s" = "¥ôúr çárd wïll bè çhárgèd ïñ: %s ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Your card will not be charged." = "¥ôúr çárd wïll ñôt bè çhárgèd. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Your credit card details are invalid." = "¥ôúr çrèdït çárd dètáïls árè ïñválïd. ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Your credit card has expired" = "¥ôúr çrèdït çárd hás èxpïrèd ôñè twô thrèè";
+
+/* No comment provided by engineer. */
+"Your credit card has expired.  Check the expiration date." = "¥ôúr çrèdït çárd hás èxpïrèd.  Çhèçk thè èxpïrátïôñ dátè. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"Your credit card was declined, please call your bank." = "¥ôúr çrèdït çárd wás dèçlïñèd, plèásè çáll ¥ôúr báñk. ôñè twô thrèè ƒôúr";
+
+/* No comment provided by engineer. */
+"Your phone number must be at least 9 digits" = "¥ôúr phôñè ñúmbèr múst bè át lèást 9 dïgïts ôñè twô thrèè";
+
+/* warning */
+"Your QuickTime Export name template is blank, please fill it in in the preferences" = "¥ôúr QúïçkTïmè Éxpôrt ñámè tèmplátè ïs bláñk, plèásè ƒïll ït ïñ ïñ thè prèƒèrèñçès ôñè twô thrèè ƒôúr ƒïvè sïx";
+
+/* No comment provided by engineer. */
+"Your search criteria produced more than %d results.  Please narrow your search by entering more search terms." = "¥ôúr sèárçh çrïtèrïá prôdúçèd môrè tháñ %d rèsúlts.  Plèásè ñárrôw ¥ôúr sèárçh b¥ èñtèrïñg môrè sèárçh tèrms. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* singular: only one */
+"Your serial number file has been saved to the Desktop." = "¥ôúr sèrïál ñúmbèr ƒïlè hás bèèñ sávèd tô thè Dèsktôp. ôñè twô thrèè ƒôúr";
+
+/* you ran out of money */
+"Your TriceraSoft Gift Pack has no more credits." = "¥ôúr Trïçèrá$ôƒt Gïƒt Páçk hás ñô môrè çrèdïts. ôñè twô thrèè ƒôúr";
+
+/* warning */
+"zero_size" = "Thè áúdïô ƒïlè ¥ôú'rè tr¥ïñg tô plá¥ hás zèrô b¥tès ïñ ït.  Wás thèrè á prôblèm èñçôdïñg thè ƒïlè? ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* a type of compressed file, i don't think you should translate this */
+"Zip" = "Zïp 1";
+
+/* No comment provided by engineer. */
+"Zip Code must not be empty" = "Zïp Çôdè múst ñôt bè èmpt¥ ôñè twô ";
+
+/* error */
+"Zip file corrupted or requires password" = "Zïp ƒïlè çôrrúptèd ôr rèqúïrès pásswôrd ôñè twô thrèè";
+
+/* warning */
+"zip_warn_blurb" = "Thèrè ïs sômè ôthèr prôçèss thát ïs bús¥ wïth thè zïp ƒïlè ƒôr thè sôñg “%s”, plèásè tr¥ ágáïñ. ôñè twô thrèè ƒôúr ƒïvè sïx sèvèñ";
+
+/* i don't think zLib can be translated */
+"Zipping Audio+G with zLib" = "Zïppïñg Áúdïô+G wïth zLïb ôñè twô ";
+
+/* as in <“kJams Music” folder>, or <“User” folder> */
+"“%s” folder" = "“%s” ƒôldèr ôñè twô";
+
+/* oops */
+"“%s” folder not found" = "“%s” ƒôldèr ñôt ƒôúñd ôñè twô ";

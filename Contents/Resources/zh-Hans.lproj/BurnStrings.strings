@@ -1,0 +1,45 @@
+/* No comment provided by engineer. */
+"(none)" = "（无）";
+
+/* No comment provided by engineer. */
+"Burning Plugin" = "刻录插件";
+
+/* No comment provided by engineer. */
+"Burning plugin has expired, please download the latest!" = "刻录插件已过期，请下载最新版本！";
+
+/* this means, the software now has all functions, and is no longer limited (to 3 songs per playlist) */
+"Fully Functional" = "功能全面";
+
+/* No comment provided by engineer. */
+"Installs kJams Burner" = "安装kJams刻录器";
+
+/* No comment provided by engineer. */
+"kJams Burning Plugin, v" = "kJams刻录插件，v";
+
+/* No comment provided by engineer. */
+"Plugin that allows kJams to burn new CD+G format discs." = "插件允许kJams刻录新的CD+G格式盘。";
+
+/* No comment provided by engineer. */
+"str_too_long" = "在您的播放列表上，您拥有80多分钟的音乐。这无法满足盘的容量。请删除部分歌曲至79.9分钟或更少。";
+
+/* No comment provided by engineer. */
+"str_tryout" = "使用版只允许刻录插件每张盘刻录两首歌曲。如果您希望刻录更多，请购买此插件。";
+
+/* we couldn't figure out what went wrong during the burn */
+"Strange Status State in Burning Plugin" = "刻录插件显示异常状态";
+
+/* No comment provided by engineer. */
+"That's not a writable CD!" = "那不是可写CD！";
+
+/* No comment provided by engineer. */
+"Tryout Only (2 songs per disc)" = "仅试用 （一个盘2首歌）";
+
+/* No comment provided by engineer. */
+"Unable to create burn track" = "无法创建刻录音轨";
+
+/* No comment provided by engineer. */
+"Unable to create correct burn track, due to an apple bug.  Expect a fix for this soon, sorry." = "因为苹果程序错误，无法创建正确的刻录音轨。非常抱歉，我们会尽快解决。";
+
+/* No comment provided by engineer. */
+"Unknown Status" = "未知状态";
+
