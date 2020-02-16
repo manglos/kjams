@@ -18,7 +18,6 @@ def main():
     if True:
         buttonType = kjams.enum_button_type()
         test = kjams.get_volume()
-        print test
 
         resultArray = kjams.dialog_three_button(
             "Awesome Dialog",
