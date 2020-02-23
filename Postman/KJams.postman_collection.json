@@ -1,0 +1,124 @@
+{
+	"info": {
+		"_postman_id": "a71a091e-2a3f-4369-9920-9b478ce377e0",
+		"name": "KJams",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Pause Playback",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8978/pause",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8978",
+					"path": [
+						"pause"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Next Song",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8978/next",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8978",
+					"path": [
+						"next"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Previous Song",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8978/previous",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8978",
+					"path": [
+						"previous"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Stop Playback",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8978/stop",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8978",
+					"path": [
+						"stop"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Volume Up",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8978/volume-up",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8978",
+					"path": [
+						"volume-up"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Volume Down",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8978/volume-down",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8978",
+					"path": [
+						"volume-down"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

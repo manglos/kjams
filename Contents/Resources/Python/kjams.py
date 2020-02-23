@@ -163,6 +163,24 @@ def get_volume():
 def set_volume(volS):
 	return do_cmd(enum_cmds().kScriptCommand_SetVolume, enum_audio_device().kAudioDevice_OUT_MIXED, volS)
 
+def pause():
+	return do_cmd(enum_cmds().kScriptCommand_PLAY_PAUSE, '')
+
+def previous():
+	return do_cmd(enum_cmds().kScriptCommand_BACK_REWIND, '')
+
+def next():
+	return do_cmd(enum_cmds().kScriptCommand_NEXT, '')
+
+def volumeUp():
+	return do_cmd(enum_cmds().kScriptCommand_VOL_UP, '')
+
+def volumeDown():
+	return do_cmd(enum_cmds().kScriptCommand_VOL_DOWN, '')
+
+def stop():
+	return do_cmd(enum_cmds().kScriptCommand_STOP, '')
+
 #=== menus
 def menu(*args):
 	do_cmd(enum_cmds().kScriptCommand_Menu, args)
