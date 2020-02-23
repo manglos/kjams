@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*- 
 #!/usr/bin/env python
 import SimpleHTTPServer
 import SocketServer
@@ -22,6 +23,9 @@ class MyRequestHandler(SimpleHTTPServer.SimpleHTTPRequestHandler):
 
         if self.path == '/volume-down':
             kjams.volumeDown()
+
+        self.end_headers()
+        self.wfile.write(b'Hello, world!')
         
 
 Handler = MyRequestHandler
